@@ -1,0 +1,697 @@
+{
+  "version": 1,
+  "lastRunAt": "2026-09-20T23:12:20.352Z",
+  "runCount": 1,
+  "entities": {
+    "brandon-aubrey": {
+      "key": "brandon-aubrey",
+      "canonicalName": "Brandon Aubrey",
+      "aliases": [
+        "B. Aubrey",
+        "Brandon A."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 2,
+      "momentumHistory": [
+        19
+      ],
+      "baselineVolume": 0.8,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jake-ferguson": {
+      "key": "jake-ferguson",
+      "canonicalName": "Jake Ferguson",
+      "aliases": [
+        "J. Ferguson",
+        "Jake F."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "mike-evans": {
+      "key": "mike-evans",
+      "canonicalName": "Mike Evans",
+      "aliases": [
+        "M. Evans",
+        "Mike E."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 3,
+      "momentumHistory": [
+        28
+      ],
+      "baselineVolume": 1,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "nick-saban": {
+      "key": "nick-saban",
+      "canonicalName": "Nick Saban",
+      "aliases": [
+        "N. Saban",
+        "Nick S."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "hot-women": {
+      "key": "hot-women",
+      "canonicalName": "Hot Women",
+      "aliases": [
+        "H. Women",
+        "Hot W."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "honest-reaction": {
+      "key": "honest-reaction",
+      "canonicalName": "Honest Reaction",
+      "aliases": [
+        "H. Reaction",
+        "Honest R."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "football-history": {
+      "key": "football-history",
+      "canonicalName": "Football History",
+      "aliases": [
+        "F. History",
+        "Football H."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "ole-miss": {
+      "key": "ole-miss",
+      "canonicalName": "Ole Miss",
+      "aliases": [
+        "O. Miss",
+        "Ole M."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "cancer-campaign": {
+      "key": "cancer-campaign",
+      "canonicalName": "Cancer Campaign",
+      "aliases": [
+        "C. Campaign",
+        "Cancer C."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "advance-awareness": {
+      "key": "advance-awareness",
+      "canonicalName": "Advance Awareness",
+      "aliases": [
+        "A. Awareness",
+        "Advance A."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "early-detection": {
+      "key": "early-detection",
+      "canonicalName": "Early Detection",
+      "aliases": [
+        "E. Detection",
+        "Early D."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "cancer-journey": {
+      "key": "cancer-journey",
+      "canonicalName": "Cancer Journey",
+      "aliases": [
+        "C. Journey",
+        "Cancer J."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "erin-andrews": {
+      "key": "erin-andrews",
+      "canonicalName": "Erin Andrews",
+      "aliases": [
+        "E. Andrews",
+        "Erin A."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jonah-coleman": {
+      "key": "jonah-coleman",
+      "canonicalName": "Jonah Coleman",
+      "aliases": [
+        "J. Coleman",
+        "Jonah C."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 2,
+      "momentumHistory": [
+        19
+      ],
+      "baselineVolume": 0.8,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jonah-coleman-s": {
+      "key": "jonah-coleman-s",
+      "canonicalName": "Jonah Coleman's",
+      "aliases": [
+        "J. Coleman's",
+        "Jonah C.",
+        "Jonah Colemans"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 2,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jonah-coleman-expected": {
+      "key": "jonah-coleman-expected",
+      "canonicalName": "Jonah Coleman Expected",
+      "aliases": [],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jay-leno": {
+      "key": "jay-leno",
+      "canonicalName": "Jay Leno",
+      "aliases": [
+        "J. Leno",
+        "Jay L."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 2,
+      "momentumHistory": [
+        19
+      ],
+      "baselineVolume": 0.8,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jay-leno-s": {
+      "key": "jay-leno-s",
+      "canonicalName": "Jay Leno's",
+      "aliases": [
+        "J. Leno's",
+        "Jay L.",
+        "Jay Lenos"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "environmentalist-objections": {
+      "key": "environmentalist-objections",
+      "canonicalName": "Environmentalist Objections",
+      "aliases": [
+        "E. Objections",
+        "Environmentalist O."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jay-leno-hails": {
+      "key": "jay-leno-hails",
+      "canonicalName": "Jay Leno Hails",
+      "aliases": [],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "marcus-mariota": {
+      "key": "marcus-mariota",
+      "canonicalName": "Marcus Mariota",
+      "aliases": [
+        "M. Mariota",
+        "Marcus M."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 2,
+      "momentumHistory": [
+        19
+      ],
+      "baselineVolume": 0.8,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "jayden-daniels": {
+      "key": "jayden-daniels",
+      "canonicalName": "Jayden Daniels",
+      "aliases": [
+        "J. Daniels",
+        "Jayden D."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    }
+  },
+  "events": {
+    "story-brandon-aubrey": {
+      "key": "story-brandon-aubrey",
+      "entityKey": "brandon-aubrey",
+      "entityName": "Brandon Aubrey",
+      "title": "Brandon Aubrey: trending now",
+      "category": "celebrity",
+      "t0": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 1
+      },
+      "keywords": [
+        "brandon",
+        "aubrey"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "spice": 0,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "The Brandon Aubrey story is a proxy fight about something bigger — the other side of the fight",
+      "evidenceConfidence": 0.4,
+      "videoCount6h": 0,
+      "archetype": "celebrity_echo",
+      "ttsForecastHours": 6,
+      "windowState": "unknown",
+      "windowRemainingMin": 210,
+      "researchRuns": 0,
+      "probeHistory": []
+    },
+    "story-mike-evans": {
+      "key": "story-mike-evans",
+      "entityKey": "mike-evans",
+      "entityName": "Mike Evans",
+      "title": "Mike Evans: Injury 49ers",
+      "category": "scandal",
+      "t0": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 2
+      },
+      "keywords": [
+        "injury",
+        "mike",
+        "evans",
+        "49ers"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "spice": 4,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "What the Mike Evans mike evans: injury 49ers filings actually say — line by line — the other side of the fight",
+      "evidenceConfidence": 0.4,
+      "videoCount6h": 0,
+      "archetype": "breaking_scandal",
+      "ttsForecastHours": 3.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 60,
+      "researchRuns": 0,
+      "probeHistory": []
+    },
+    "story-jonah-coleman": {
+      "key": "story-jonah-coleman",
+      "entityKey": "jonah-coleman",
+      "entityName": "Jonah Coleman",
+      "title": "Jonah Coleman: trending now",
+      "category": "tech",
+      "t0": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 1
+      },
+      "keywords": [
+        "jonah",
+        "coleman"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "spice": 0,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "The Jonah Coleman jonah coleman: trending now story is actually a money story — the other side of the fight",
+      "evidenceConfidence": 0.4,
+      "videoCount6h": 0,
+      "archetype": "business_tech",
+      "ttsForecastHours": 7.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 300,
+      "researchRuns": 0,
+      "probeHistory": []
+    },
+    "story-jay-leno": {
+      "key": "story-jay-leno",
+      "entityKey": "jay-leno",
+      "entityName": "Jay Leno",
+      "title": "Jay Leno: trending now",
+      "category": "tech",
+      "t0": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 1
+      },
+      "keywords": [
+        "leno"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "spice": 0,
+      "risk": 26,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "The Jay Leno jay leno: trending now story is actually a money story — the other side of the fight",
+      "evidenceConfidence": 0.58,
+      "videoCount6h": 0,
+      "archetype": "business_tech",
+      "ttsForecastHours": 7.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 300,
+      "researchRuns": 0,
+      "probeHistory": []
+    },
+    "story-marcus-mariota": {
+      "key": "story-marcus-mariota",
+      "entityKey": "marcus-mariota",
+      "entityName": "Marcus Mariota",
+      "title": "Marcus Mariota: trending now",
+      "category": "tech",
+      "t0": "2026-09-20T23:12:20.352Z",
+      "lastSeen": "2026-09-20T23:12:20.352Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 1
+      },
+      "keywords": [
+        "marcus",
+        "mariota"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "spice": 0,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "The Marcus Mariota marcus mariota: trending now story is actually a money story — the other side of the fight",
+      "evidenceConfidence": 0.4,
+      "videoCount6h": 0,
+      "archetype": "business_tech",
+      "ttsForecastHours": 7.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 300,
+      "researchRuns": 0,
+      "probeHistory": []
+    }
+  },
+  "recentSignals": [],
+  "seenUrls": {
+    "https://www.nfl.com/videos/jayden-daniels-sustains-apparent-injury-on-final-play-of-first-half-against-cowboys": "2026-09-20T23:12:20.352Z",
+    "https://www.star-telegram.com/sports/article317317113.html": "2026-09-20T23:12:20.352Z",
+    "https://ca.sports.yahoo.com/news/marcus-mariota-td-pass-for-commanders-ruled-incomplete-despite-replaying-appearing-to-show-catch-should-have-counted-223951078.html": "2026-09-20T23:12:20.352Z",
+    "https://fordauthority.com/2026/09/first-gen-ford-bronco-present-as-lenos-law-signed-by-governor-newsom/": "2026-09-20T23:12:20.352Z",
+    "https://www.bloomberg.com/news/articles/2026-09-18/-not-a-smart-move-leno-slams-supercar-tax-avoiders-as-california-cracks-down": "2026-09-20T23:12:20.352Z",
+    "https://www.nytimes.com/2026/09/16/us/jay-leno-law-classic-car-gavin-newsom.html": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/where-always-another-step-092452938.html": "2026-09-20T23:12:20.352Z",
+    "https://airalamo.com/spurs-should-pounce-on-jaden-mcdaniels-after-timberwolves-lamelo-ball-experiment-fails": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/broncos-jonah-coleman-expected-explode-174913318.html": "2026-09-20T23:12:20.352Z",
+    "https://www.nfl.com/videos/rookie-jonah-coleman-s-td-gives-broncos-the-lead-in-fourth-quarter": "2026-09-20T23:12:20.352Z",
+    "https://www.nfl.com/videos/jonah-coleman-s-first-nfl-reception-goes-8-yards": "2026-09-20T23:12:20.352Z",
+    "https://www.denverpost.com/2026/09/20/broncos-jk-dobbins-hamstring-injury/": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/j-k-dobbins-injury-latest-222006372.html": "2026-09-20T23:12:20.352Z",
+    "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-draw-even-but-j-k-dobbins-questionable-to-return": "2026-09-20T23:12:20.352Z",
+    "https://fox4kc.com/sports/chiefs/chiefs-vs-colts-what-fans-should-know-before-going-to-arrowhead/": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/channel-giants-tonight-channel-cowboys-224525759.html": "2026-09-20T23:12:20.352Z",
+    "https://www.app.com/story/sports/nfl/2026/09/20/sunday-night-football-kansas-city-chiefs-indianapolis-colts/91805605007/": "2026-09-20T23:12:20.352Z",
+    "https://www.futureofpersonalhealth.com/women-vs-cancer/erin-andrews-early-cancer-detection-advocacy-and-breaking-the-silence/": "2026-09-20T23:12:20.352Z",
+    "https://www.forbes.com/sites/brucelee/2026/09/18/erin-andrews-talks-about-lessons-from-her-cervical-cancer-journey/": "2026-09-20T23:12:20.352Z",
+    "https://www.prnewswire.com/news-releases/mediaplanet-launches-women-vs-cancer-campaign-in-the-los-angeles-times-to-advance-awareness-early-detection-and-advocacy-302882510.html": "2026-09-20T23:12:20.352Z",
+    "https://www.sbnation.com/college-football/1129000/lane-kiffin-career-path-why-he-left-ole-miss-for-lsu": "2026-09-20T23:12:20.352Z",
+    "https://www.foxsports.com/stories/college-football/lane-kiffin-most-polarizing-coach-college-football-history": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/doesn-t-drink-alcohol-still-062138790.html": "2026-09-20T23:12:20.352Z",
+    "https://www.nbcsportsbayarea.com/video/nfl/san-francisco-49ers/49ers-talk-watch-wide-receiver-room-situation/1964388/": "2026-09-20T23:12:20.352Z",
+    "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/09/20/49ers-mike-evans-suffers-injury-vs-dolphins/91866215007/": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/mike-evans-injury-latest-news-224245249.html": "2026-09-20T23:12:20.352Z",
+    "https://www.si.com/nfl/cowboys/onsi/fantasy-football-start-sit-week-2-ceedee-lamb-jake-ferguson-brandon-aubrey": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/ceedee-lamb-fantasy-week-2-102400933.html": "2026-09-20T23:12:20.352Z",
+    "https://www.dallascowboys.com/news/ceedee-lamb-can-t-wait-for-chance-to-bounce-back-in-home-opener-vs-commanders": "2026-09-20T23:12:20.352Z"
+  },
+  "seenText": {
+    "t:news:jayden daniels sustains apparent injury on final play of first half against cowboys": "2026-09-20T23:12:20.352Z",
+    "t:news:nfl fans fed up with 'horrible' cowboys vs. commanders officiating crew sunday": "2026-09-20T23:12:20.352Z",
+    "t:news:marcus mariota td pass for commanders ruled incomplete, despite replaying appearing to show catch should have counted": "2026-09-20T23:12:20.352Z",
+    "t:trends:marcus mariota": "2026-09-20T23:12:20.352Z",
+    "t:news:first gen ford bronco present as leno's law signed by governor newsom": "2026-09-20T23:12:20.352Z",
+    "t:news:jay leno hails california crackdown on supercar tax avoiders": "2026-09-20T23:12:20.352Z",
+    "t:news:newsom signs jay leno’s classic car bill over environmentalist objections": "2026-09-20T23:12:20.352Z",
+    "t:trends:jay leno": "2026-09-20T23:12:20.352Z",
+    "t:news:we are where we always are: we need another step …": "2026-09-20T23:12:20.352Z",
+    "t:news:spurs should pounce on jaden mcdaniels after timberwolves' lamelo ball experiment fails": "2026-09-20T23:12:20.352Z",
+    "t:trends:jaden mcdaniels": "2026-09-20T23:12:20.352Z",
+    "t:news:broncos’ jonah coleman expected to explode with an expanded role against jaguars": "2026-09-20T23:12:20.352Z",
+    "t:news:rookie jonah coleman's td gives broncos the lead in fourth quarter": "2026-09-20T23:12:20.352Z",
+    "t:news:jonah coleman's first nfl reception goes 8 yards": "2026-09-20T23:12:20.352Z",
+    "t:trends:jonah coleman": "2026-09-20T23:12:20.352Z",
+    "t:news:broncos’ j.k. dobbins questionable to return with hamstring injury": "2026-09-20T23:12:20.352Z",
+    "t:news:j.k. dobbins injury: latest news on broncos running back after exiting jaguars game": "2026-09-20T23:12:20.352Z",
+    "t:news:broncos draw even, but j.k. dobbins questionable to return": "2026-09-20T23:12:20.352Z",
+    "t:trends:jk dobbins": "2026-09-20T23:12:20.352Z",
+    "t:news:chiefs vs. colts: what fans should know before going to arrowhead": "2026-09-20T23:12:20.352Z",
+    "t:news:what channel are the giants on tonight? what channel are the cowboys on?": "2026-09-20T23:12:20.352Z",
+    "t:news:what channel is sunday night football tonight? what time is sunday night football?": "2026-09-20T23:12:20.352Z",
+    "t:trends:sunday night football schedule": "2026-09-20T23:12:20.352Z",
+    "t:news:erin andrews: early cancer detection, advocacy, and breaking the silence": "2026-09-20T23:12:20.352Z",
+    "t:news:erin andrews talks about lessons from her cervical cancer journey": "2026-09-20T23:12:20.352Z",
+    "t:news:mediaplanet launches women vs. cancer campaign in the los angeles times to advance awareness, early detection and advocacy": "2026-09-20T23:12:20.352Z",
+    "t:trends:erin andrews": "2026-09-20T23:12:20.352Z",
+    "t:news:why lane kiffin left ole miss for lsu, in his own words": "2026-09-20T23:12:20.352Z",
+    "t:news:why lsu's lane kiffin is the 'most polarizing' coach in college football history": "2026-09-20T23:12:20.352Z",
+    "t:news:“doesn’t drink alcohol but still hangs out with hot women”: attorney reveals lane kiffin’s honest reaction to reports of tensions with nick saban during alabama days": "2026-09-20T23:12:20.352Z",
+    "t:trends:raiders coach": "2026-09-20T23:12:20.352Z",
+    "t:news:49ers talk: what is state of wide receiver room entering week 2 amid injuries?": "2026-09-20T23:12:20.352Z",
+    "t:news:49ers mike evans injury: wr questionable to return with hip injury": "2026-09-20T23:12:20.352Z",
+    "t:news:mike evans injury update: latest news on 49ers wr's status in week 2 game": "2026-09-20T23:12:20.352Z",
+    "t:trends:mike evans injury": "2026-09-20T23:12:20.352Z",
+    "t:news:fantasy football start or sit week 2: ceedee lamb, jake ferguson, brandon aubrey": "2026-09-20T23:12:20.352Z",
+    "t:news:ceedee lamb fantasy week 2 start or sit: a top-10 wr, not top-5 yet": "2026-09-20T23:12:20.352Z",
+    "t:news:ceedee lamb 'can't wait' for chance to bounce back in home opener vs. commanders": "2026-09-20T23:12:20.352Z",
+    "t:trends:brandon aubrey": "2026-09-20T23:12:20.352Z"
+  }
+}

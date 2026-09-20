@@ -1,0 +1,46 @@
+{
+  "runNo": 1,
+  "at": "2026-09-20T23:12:20.352Z",
+  "rows": [
+    {
+      "event": "story-brandon-aubrey",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jonah-coleman",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jay-leno",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-marcus-mariota",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429",
+    "reddit r/technology: Error: public-json circuit breaker open",
+    "reddit: public-json breaker open (configure REDDIT_CLIENT_ID/SECRET)"
+  ]
+}
