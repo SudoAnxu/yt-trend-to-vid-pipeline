@@ -1,0 +1,25 @@
+# Trend Radar configuration — every value here overrides the code
+# default in src/engine/config.ts / main.ts. Delete a key to fall back.
+
+# Emergence gate: how many independent source lanes within the window
+# before a candidate earns the deep pass (Reddit search + YouTube probe).
+deep_pass_min_sources: 2
+gate_window_minutes: 45
+
+# YouTube probe spends 100 quota units (search.list); require real
+# cross-source attention before spending it.
+probe_gate_cross_source: 25
+
+# GDELT lookback window in minutes (max 60 per query).
+gdelt_minutes_back: 60
+
+# Subreddits searched during the deep pass.
+reddit_subreddits:
+  - technology
+  - entertainment
+  - music
+  - movies
+  - gaming
+  - popculturechat
+  - youtubedrama
+  - news
