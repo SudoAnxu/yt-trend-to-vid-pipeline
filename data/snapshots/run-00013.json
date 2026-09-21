@@ -1,0 +1,16 @@
+{
+  "runNo": 13,
+  "at": "2026-09-21T12:07:24.446Z",
+  "rows": [
+    {
+      "event": "story-adam-sandler",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
