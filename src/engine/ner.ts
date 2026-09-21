@@ -262,6 +262,10 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
         // provides independent evidence.
         if (genericPair && !knownFirst && !hasRoleOrVerb) continue;
         if (parts.length >= 3 && !hasRoleOrVerb) continue;
+        // Unknown clean Title-Case pairs are too ambiguous to enter the
+        // person graph without independent person evidence. Known first
+        // names and explicit roles/actions retain recall.
+        if (!knownFirst && !hasRoleOrVerb && v.runLen !== 1) continue;
         // Possessive headline fragments such as "Brian's Fall" are topic
         // phrases, not reliable person names. Keep normal O'Name forms.
         if (/'s$/i.test(v.name.split(' ')[0])) continue;
