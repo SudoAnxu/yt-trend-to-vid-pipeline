@@ -1,9 +1,9 @@
 name: Trend Radar
 
 on:
+  schedule:
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
-  # Bootstrap/fallback: code/config changes start a run immediately.
-  # Radar commits only touch data/, so paths-ignore prevents recursion.
   push:
     paths-ignore:
       - "data/**"
