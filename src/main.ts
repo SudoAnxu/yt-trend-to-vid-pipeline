@@ -29,6 +29,7 @@ import {
   acceleration,
   computeSpiceFactors,
   spiceScore,
+  peopleStoryFitScore,
   computeRiskFactors,
   riskScore,
   opportunityScore,
@@ -347,6 +348,7 @@ async function main(): Promise<void> {
     // Spice from the combined signal text.
     const spiceFactors = computeSpiceFactors(corpus);
     const spice = spiceScore(spiceFactors);
+    const peopleStoryFit = peopleStoryFitScore(spiceFactors);
 
     // YouTube probe gate: quota only when attention is real.
     const t0Ms = ev ? new Date(ev.t0).getTime() : Date.now();
@@ -629,20 +631,6 @@ function dominantTopic(sigs: Signal[], personName: string): string {
     ? sourceText.slice(personName.length).replace(/^[\s:–—-]+/, '').trim()
     : sourceText.trim();
   return personName + ': ' + (cleaned.length > 3 ? cleaned.slice(0, 110) : 'trending now');
-}
-
-function storyFitScore(f: ReturnType<typeof computeSpiceFactors>): number {
-  return Math.round(
-    0.22 * f.conflict +
-    0.15 * f.surprise +
-    0.10 * f.money +
-    0.15 * f.mystery +
-    0.12 * f.celebrity +
-    0.10 * f.emotional_intensity +
-    0.06 * f.tech_business_angle +
-    0.05 * f.visual_potential +
-    0.05 * f.consequence
-  );
 }
 
 function trendLinkedSignal(sigs: Signal[], threshold: number): boolean {
