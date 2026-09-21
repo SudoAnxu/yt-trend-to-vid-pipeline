@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #20 · Updated: 21/09/2026, 23:27:30 (Asia/Kolkata)
+Run #21 · Updated: 22/09/2026, 00:05:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Paul Skenes: Why Paul Skenes blames the World Baseball Classic for decreased velocity as Pirates ace wraps up down season
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 22 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,39 +30,39 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jennifer Eckhart — 19/100
+### Jennifer Eckhart — 18/100
 
 **Event:** Jennifer Eckhart: Former Fox Business producer Jennifer Eckhart, 36, found dead in Florida home
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Jennifer Eckhart jennifer eckhart: former fox news producer jennifer eckhart dead at 36 filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Fox News Producer — 24/100
+### Fox News Producer — 17/100
 
 **Event:** Fox News Producer: JUST IN: Former Fox News Producer Who Accused Ed Henry of Rape Found Dead
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Fox News Producer fox news producer: just in: former fox news producer who accused ed henry of rape found dead filings actually say — line by line — the other side of the fight
+> What the Fox News Producer fox news producer: former fox news producer jennifer eckhart dead at 36 filings actually say — line by line — the other side of the fight
 
 **Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 ### Jennifer Eckhart's — 19/100
 
 **Event:** Jennifer Eckhart's: Emergency Crews Respond to Jennifer Eckhart's Residence Following Death
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Terry Pluto: No LeBron? Cavs’ big summer move for Peyton Watson might be the right one – Terry Pluto
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -90,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
