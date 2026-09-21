@@ -151,7 +151,7 @@ const NOT_A_PERSON = new Set([
 ]);
 
 const GENERIC_TOPIC_WORDS = new Set([
-  'wake-up', 'call', 'alarm', 'warning', 'update', 'updates', 'breaking', 'news', 'story',
+  'wake-up', 'call', 'alarm', 'warning', 'hot', 'women', 'history', 'campaign', 'awareness', 'detection', 'journey', 'reaction', 'place', 'expected', 'involves', 'more', 'than', 'update', 'updates', 'breaking', 'news', 'story',
   'stories', 'trend', 'trending', 'controversy', 'drama', 'scandal', 'reaction', 'reactions',
   'review', 'reviews', 'trailer', 'trailers', 'episode', 'season', 'finale', 'premiere',
   'game', 'games', 'match', 'matches', 'score', 'scores', 'win', 'wins', 'loss', 'losses',
@@ -233,7 +233,7 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
 
       for (const v of variants) {
         if (candidates.has(v.name)) continue;
-        const parts = v.name.toLowerCase().split(' ');
+        const parts = v.name.toLowerCase().split(' ').map((p) => p.replace(/[’']s$/i, ''));
         if (NOT_A_PERSON.has(parts[0]) || NOT_A_PERSON.has(parts[parts.length - 1])) continue;
         // Names neither start nor end with verbs — kills Title Case
         // fusions like "Voices Discontent" / "Reese Makes".
@@ -252,6 +252,7 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
         // discovery when a known first name, role, or person-action verb
         // provides independent evidence.
         if (genericPair && !knownFirst && !hasRoleOrVerb) continue;
+        if (parts.length >= 3 && !hasRoleOrVerb) continue;
         if (!knownFirst && !cleanPair && v.runLen !== 1) continue;
         const prob = personLikelihood(v.name, sentence, lower);
         candidates.set(v.name, { name: v.name, ...prob });
@@ -277,7 +278,7 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
       if (w2.length < 3) continue;
       if (STOPWORDS.has(w2) || NOT_A_PERSON.has(w2) || HOMONYM_COMMON.has(w2)) continue;
       if (CONTEXT_VERBS.includes(w2) || ROLE_WORDS.has(w2)) continue;
-      const name = `${w1[0].toUpperCase()}${w1.slice(1)} ${w2[0].toUpperCase()}${w2.slice(1)}`;
+      const name = `${w1[0].toUpperCase()}${w1.slice(1)} ${w2[0].toUpperCase()}${w2.slice(1)}`.replace(/[’']s\b/gi, '');
       if (candidates.has(name)) continue;
       const prob = personLikelihood(name, clean, lower);
       candidates.set(name, { name, ...prob });
