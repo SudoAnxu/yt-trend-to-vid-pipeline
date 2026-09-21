@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastRunAt": "2026-09-20T23:12:20.352Z",
-  "runCount": 1,
+  "lastRunAt": "2026-09-21T01:14:28.200Z",
+  "runCount": 2,
   "entities": {
     "brandon-aubrey": {
       "key": "brandon-aubrey",
@@ -431,6 +431,712 @@
         "news"
       ],
       "status": "monitoring"
+    },
+    "andy-reid": {
+      "key": "andy-reid",
+      "canonicalName": "Andy Reid",
+      "aliases": [
+        "A. Reid",
+        "Andy R."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "kristen-bell": {
+      "key": "kristen-bell",
+      "canonicalName": "Kristen Bell",
+      "aliases": [
+        "K. Bell",
+        "Kristen B."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 2,
+      "momentumHistory": [
+        19
+      ],
+      "baselineVolume": 0.8,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "kristen-bell-teases": {
+      "key": "kristen-bell-teases",
+      "canonicalName": "Kristen Bell Teases",
+      "aliases": [],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "it-involves": {
+      "key": "it-involves",
+      "canonicalName": "It Involves",
+      "aliases": [
+        "I. Involves",
+        "It I."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "kristen-bell-s-book": {
+      "key": "kristen-bell-s-book",
+      "canonicalName": "Kristen Bell's Book",
+      "aliases": [
+        "Kristen Bells Book"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "kristen-bell-s": {
+      "key": "kristen-bell-s",
+      "canonicalName": "Kristen Bell's",
+      "aliases": [
+        "K. Bell's",
+        "Kristen B.",
+        "Kristen Bells"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "check-out": {
+      "key": "check-out",
+      "canonicalName": "Check Out",
+      "aliases": [
+        "C. Out",
+        "Check O."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "mike-schur": {
+      "key": "mike-schur",
+      "canonicalName": "Mike Schur",
+      "aliases": [
+        "M. Schur",
+        "Mike S."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "ted": {
+      "key": "ted",
+      "canonicalName": "Ted",
+      "aliases": [],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "good-place-": {
+      "key": "good-place-",
+      "canonicalName": "Good Place'",
+      "aliases": [
+        "G. Place'",
+        "Good P.",
+        "Good Place"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "travis-kelce-s-wedding": {
+      "key": "travis-kelce-s-wedding",
+      "canonicalName": "Travis Kelce's Wedding",
+      "aliases": [
+        "Travis Kelces Wedding"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "travis-kelce-s": {
+      "key": "travis-kelce-s",
+      "canonicalName": "Travis Kelce's",
+      "aliases": [
+        "T. Kelce's",
+        "Travis K.",
+        "Travis Kelces"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "travis-kelce": {
+      "key": "travis-kelce",
+      "canonicalName": "Travis Kelce",
+      "aliases": [
+        "T. Kelce",
+        "Travis K."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 7,
+      "momentumHistory": [
+        39
+      ],
+      "baselineVolume": 1.8000000000000003,
+      "lastSources": [
+        "news",
+        "trends"
+      ],
+      "status": "monitoring"
+    },
+    "more-than": {
+      "key": "more-than",
+      "canonicalName": "More Than",
+      "aliases": [
+        "M. Than",
+        "More T."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "benny-blanco": {
+      "key": "benny-blanco",
+      "canonicalName": "Benny Blanco",
+      "aliases": [
+        "B. Blanco",
+        "Benny B."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "taylor-swift": {
+      "key": "taylor-swift",
+      "canonicalName": "Taylor Swift",
+      "aliases": [
+        "T. Swift",
+        "Taylor S."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 2,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "lee-simmons": {
+      "key": "lee-simmons",
+      "canonicalName": "Lee Simmons",
+      "aliases": [
+        "L. Simmons",
+        "Lee S."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "trends"
+      ],
+      "status": "monitoring"
+    },
+    "lee-says-tyra": {
+      "key": "lee-says-tyra",
+      "canonicalName": "Lee Says Tyra",
+      "aliases": [],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 2,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "russell-simmons": {
+      "key": "russell-simmons",
+      "canonicalName": "Russell Simmons",
+      "aliases": [
+        "R. Simmons",
+        "Russell S."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 2,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "banks-tried": {
+      "key": "banks-tried",
+      "canonicalName": "Banks Tried",
+      "aliases": [
+        "B. Tried",
+        "Banks T."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 2,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "star-issue": {
+      "key": "star-issue",
+      "canonicalName": "Star Issue",
+      "aliases": [
+        "S. Issue",
+        "Star I."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "big-brother": {
+      "key": "big-brother",
+      "canonicalName": "Big Brother",
+      "aliases": [
+        "B. Brother",
+        "Big B."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "brother-season": {
+      "key": "brother-season",
+      "canonicalName": "Brother' Season",
+      "aliases": [
+        "B. Season",
+        "Brother' S.",
+        "Brother Season"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "pharaoh-s-curse": {
+      "key": "pharaoh-s-curse",
+      "canonicalName": "Pharaoh's Curse",
+      "aliases": [
+        "P. Curse",
+        "Pharaoh's C.",
+        "Pharaohs Curse"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "sit-advice": {
+      "key": "sit-advice",
+      "canonicalName": "Sit Advice",
+      "aliases": [
+        "S. Advice",
+        "Sit A."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "anthony-richardson": {
+      "key": "anthony-richardson",
+      "canonicalName": "Anthony Richardson",
+      "aliases": [
+        "A. Richardson",
+        "Anthony R.",
+        "Tony Richardson"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 3,
+      "momentumHistory": [
+        28
+      ],
+      "baselineVolume": 1,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "anthony-richardson-suffers": {
+      "key": "anthony-richardson-suffers",
+      "canonicalName": "Anthony Richardson Suffers",
+      "aliases": [],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "lifting-weights": {
+      "key": "lifting-weights",
+      "canonicalName": "Lifting Weights",
+      "aliases": [
+        "L. Weights",
+        "Lifting W."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "brittany-mahomes": {
+      "key": "brittany-mahomes",
+      "canonicalName": "Brittany Mahomes",
+      "aliases": [
+        "B. Mahomes",
+        "Brittany M."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 2,
+      "momentumHistory": [
+        19
+      ],
+      "baselineVolume": 0.8,
+      "lastSources": [
+        "trends",
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "brittany-mahomes-calls": {
+      "key": "brittany-mahomes-calls",
+      "canonicalName": "Brittany Mahomes Calls",
+      "aliases": [],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "our-family-": {
+      "key": "our-family-",
+      "canonicalName": "Our Family'",
+      "aliases": [
+        "O. Family'",
+        "Our F.",
+        "Our Family"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "patrick-mahomes": {
+      "key": "patrick-mahomes",
+      "canonicalName": "Patrick Mahomes",
+      "aliases": [
+        "P. Mahomes",
+        "Patrick M."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 2,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "happy-birthday": {
+      "key": "happy-birthday",
+      "canonicalName": "Happy Birthday",
+      "aliases": [
+        "H. Birthday",
+        "Happy B."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "family-photos": {
+      "key": "family-photos",
+      "canonicalName": "Family Photos",
+      "aliases": [
+        "F. Photos",
+        "Family P."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "super-bowl": {
+      "key": "super-bowl",
+      "canonicalName": "Super Bowl",
+      "aliases": [
+        "S. Bowl",
+        "Super B."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "patrick-mahomes-": {
+      "key": "patrick-mahomes-",
+      "canonicalName": "Patrick Mahomes'",
+      "aliases": [
+        "P. Mahomes'",
+        "Patrick M.",
+        "Patrick Mahomes"
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
+    },
+    "kansas-city": {
+      "key": "kansas-city",
+      "canonicalName": "Kansas City",
+      "aliases": [
+        "K. City",
+        "Kansas C."
+      ],
+      "type": "person",
+      "confidence": 0.9,
+      "firstSeen": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "mentionCount": 1,
+      "momentumHistory": [],
+      "baselineVolume": 0.5,
+      "lastSources": [
+        "news"
+      ],
+      "status": "monitoring"
     }
   },
   "events": {
@@ -619,79 +1325,303 @@
       "windowRemainingMin": 300,
       "researchRuns": 0,
       "probeHistory": []
+    },
+    "story-kristen-bell": {
+      "key": "story-kristen-bell",
+      "entityKey": "kristen-bell",
+      "entityName": "Kristen Bell",
+      "title": "Kristen Bell: trending now",
+      "category": "scandal",
+      "t0": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 1
+      },
+      "keywords": [
+        "kristen",
+        "bell"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "spice": 0,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "What the Kristen Bell kristen bell: trending now filings actually say — line by line — the other side of the fight",
+      "evidenceConfidence": 0.4,
+      "videoCount6h": 0,
+      "archetype": "breaking_scandal",
+      "ttsForecastHours": 3.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 60,
+      "researchRuns": 0,
+      "probeHistory": []
+    },
+    "story-travis-kelce": {
+      "key": "story-travis-kelce",
+      "entityKey": "travis-kelce",
+      "entityName": "Travis Kelce",
+      "title": "Travis Kelce: Taylor Swift Ponzi",
+      "category": "scandal",
+      "t0": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "sources": [
+        "news",
+        "trends"
+      ],
+      "sourceCounts": {
+        "news": 6,
+        "trends": 1
+      },
+      "keywords": [
+        "travis",
+        "kelce",
+        "taylor",
+        "swift",
+        "ponzi"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 39,
+      "spice": 6,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "What the Travis Kelce travis kelce: taylor swift ponzi filings actually say — line by line — the number behind the headline",
+      "evidenceConfidence": 0.6000000000000001,
+      "videoCount6h": 0,
+      "archetype": "breaking_scandal",
+      "ttsForecastHours": 3.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 60,
+      "researchRuns": 0,
+      "probeHistory": []
+    },
+    "story-anthony-richardson": {
+      "key": "story-anthony-richardson",
+      "entityKey": "anthony-richardson",
+      "entityName": "Anthony Richardson",
+      "title": "Anthony Richardson: Injury Latest Colts",
+      "category": "scandal",
+      "t0": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 2
+      },
+      "keywords": [
+        "anthony",
+        "richardson",
+        "injury",
+        "latest",
+        "colts"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "spice": 7,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "What the Anthony Richardson anthony richardson: injury latest colts filings actually say — line by line — the detail nobody has explained",
+      "evidenceConfidence": 0.4,
+      "videoCount6h": 0,
+      "archetype": "breaking_scandal",
+      "ttsForecastHours": 3.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 60,
+      "researchRuns": 0,
+      "probeHistory": []
+    },
+    "story-brittany-mahomes": {
+      "key": "story-brittany-mahomes",
+      "entityKey": "brittany-mahomes",
+      "entityName": "Brittany Mahomes",
+      "title": "Brittany Mahomes: trending now",
+      "category": "scandal",
+      "t0": "2026-09-21T01:14:28.200Z",
+      "lastSeen": "2026-09-21T01:14:28.200Z",
+      "sources": [
+        "trends",
+        "news"
+      ],
+      "sourceCounts": {
+        "trends": 1,
+        "news": 1
+      },
+      "keywords": [
+        "brittany",
+        "mahomes"
+      ],
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "spice": 0,
+      "risk": 64,
+      "acceleration": 0,
+      "status": "RESEARCH",
+      "angle": "What the Brittany Mahomes brittany mahomes: trending now filings actually say — line by line — the other side of the fight",
+      "evidenceConfidence": 0.4,
+      "videoCount6h": 0,
+      "archetype": "breaking_scandal",
+      "ttsForecastHours": 3.5,
+      "windowState": "unknown",
+      "windowRemainingMin": 60,
+      "researchRuns": 0,
+      "probeHistory": []
     }
   },
   "recentSignals": [],
   "seenUrls": {
-    "https://www.nfl.com/videos/jayden-daniels-sustains-apparent-injury-on-final-play-of-first-half-against-cowboys": "2026-09-20T23:12:20.352Z",
-    "https://www.star-telegram.com/sports/article317317113.html": "2026-09-20T23:12:20.352Z",
-    "https://ca.sports.yahoo.com/news/marcus-mariota-td-pass-for-commanders-ruled-incomplete-despite-replaying-appearing-to-show-catch-should-have-counted-223951078.html": "2026-09-20T23:12:20.352Z",
-    "https://fordauthority.com/2026/09/first-gen-ford-bronco-present-as-lenos-law-signed-by-governor-newsom/": "2026-09-20T23:12:20.352Z",
-    "https://www.bloomberg.com/news/articles/2026-09-18/-not-a-smart-move-leno-slams-supercar-tax-avoiders-as-california-cracks-down": "2026-09-20T23:12:20.352Z",
-    "https://www.nytimes.com/2026/09/16/us/jay-leno-law-classic-car-gavin-newsom.html": "2026-09-20T23:12:20.352Z",
-    "https://sports.yahoo.com/articles/where-always-another-step-092452938.html": "2026-09-20T23:12:20.352Z",
-    "https://airalamo.com/spurs-should-pounce-on-jaden-mcdaniels-after-timberwolves-lamelo-ball-experiment-fails": "2026-09-20T23:12:20.352Z",
-    "https://sports.yahoo.com/articles/broncos-jonah-coleman-expected-explode-174913318.html": "2026-09-20T23:12:20.352Z",
-    "https://www.nfl.com/videos/rookie-jonah-coleman-s-td-gives-broncos-the-lead-in-fourth-quarter": "2026-09-20T23:12:20.352Z",
-    "https://www.nfl.com/videos/jonah-coleman-s-first-nfl-reception-goes-8-yards": "2026-09-20T23:12:20.352Z",
-    "https://www.denverpost.com/2026/09/20/broncos-jk-dobbins-hamstring-injury/": "2026-09-20T23:12:20.352Z",
-    "https://sports.yahoo.com/articles/j-k-dobbins-injury-latest-222006372.html": "2026-09-20T23:12:20.352Z",
-    "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-draw-even-but-j-k-dobbins-questionable-to-return": "2026-09-20T23:12:20.352Z",
-    "https://fox4kc.com/sports/chiefs/chiefs-vs-colts-what-fans-should-know-before-going-to-arrowhead/": "2026-09-20T23:12:20.352Z",
-    "https://sports.yahoo.com/articles/channel-giants-tonight-channel-cowboys-224525759.html": "2026-09-20T23:12:20.352Z",
-    "https://www.app.com/story/sports/nfl/2026/09/20/sunday-night-football-kansas-city-chiefs-indianapolis-colts/91805605007/": "2026-09-20T23:12:20.352Z",
-    "https://www.futureofpersonalhealth.com/women-vs-cancer/erin-andrews-early-cancer-detection-advocacy-and-breaking-the-silence/": "2026-09-20T23:12:20.352Z",
-    "https://www.forbes.com/sites/brucelee/2026/09/18/erin-andrews-talks-about-lessons-from-her-cervical-cancer-journey/": "2026-09-20T23:12:20.352Z",
-    "https://www.prnewswire.com/news-releases/mediaplanet-launches-women-vs-cancer-campaign-in-the-los-angeles-times-to-advance-awareness-early-detection-and-advocacy-302882510.html": "2026-09-20T23:12:20.352Z",
-    "https://www.sbnation.com/college-football/1129000/lane-kiffin-career-path-why-he-left-ole-miss-for-lsu": "2026-09-20T23:12:20.352Z",
-    "https://www.foxsports.com/stories/college-football/lane-kiffin-most-polarizing-coach-college-football-history": "2026-09-20T23:12:20.352Z",
-    "https://sports.yahoo.com/articles/doesn-t-drink-alcohol-still-062138790.html": "2026-09-20T23:12:20.352Z",
-    "https://www.nbcsportsbayarea.com/video/nfl/san-francisco-49ers/49ers-talk-watch-wide-receiver-room-situation/1964388/": "2026-09-20T23:12:20.352Z",
-    "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/09/20/49ers-mike-evans-suffers-injury-vs-dolphins/91866215007/": "2026-09-20T23:12:20.352Z",
-    "https://sports.yahoo.com/articles/mike-evans-injury-latest-news-224245249.html": "2026-09-20T23:12:20.352Z",
-    "https://www.si.com/nfl/cowboys/onsi/fantasy-football-start-sit-week-2-ceedee-lamb-jake-ferguson-brandon-aubrey": "2026-09-20T23:12:20.352Z",
+    "https://pagesix.com/2026/09/17/style/taylor-swift-wears-rails-dress-for-travis-kelce-dinner-date-in-kansas-city/": "2026-09-21T01:14:28.200Z",
+    "https://www.elle.com/culture/celebrities/a73809229/taylor-swift-black-dress-travis-kelce-dinner-date-september-2026/": "2026-09-21T01:14:28.200Z",
+    "https://people.com/taylor-swift-channels-her-red-era-to-celebrate-patrick-mahomes-31st-birthday-12130539": "2026-09-21T01:14:28.200Z",
+    "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-and-brittany-celebrate-a-love-story-that-began-years-before-his-super-bowl-success/articleshow/134363750.cms": "2026-09-21T01:14:28.200Z",
+    "https://ca.style.yahoo.com/happy-birthday-patrick-mahomes-see-101500545.html": "2026-09-21T01:14:28.200Z",
+    "https://people.com/brittany-mahomes-calls-husband-patrick-the-heart-of-our-family-in-sweet-post-12125950": "2026-09-21T01:14:28.200Z",
+    "https://www.stampedeblue.com/indianapolis-colts-injuries/127476/indianapolis-colts-injury-report-week-2-wednesday": "2026-09-21T01:14:28.200Z",
+    "https://www.indystar.com/story/sports/nfl/colts/2026/09/17/colts-qb-anthony-richardson-injury-update-practice-status-for-thursday/91750647007/": "2026-09-21T01:14:28.200Z",
+    "https://bleacherreport.com/articles/25500601-anthony-richardson-suffers-injury-lifting-weights-latest-updates-colts-qbs-status-week-2": "2026-09-21T01:14:28.200Z",
+    "https://www.fantasypros.com/2026/09/fantasy-football-kicker-rankings-start-sit-advice-week-2-2026/": "2026-09-21T01:14:28.200Z",
+    "https://www.footballguys.com/article/2026-rent-a-kicker-week02": "2026-09-21T01:14:28.200Z",
+    "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-kickers-for-week-2": "2026-09-21T01:14:28.200Z",
+    "https://www.goldderby.com/reality-tv/2026/big-brother-28-spoilers-week-11-veto-devens-hoh/": "2026-09-21T01:14:28.200Z",
+    "https://deadline.com/2026/09/big-brother-season-28-week-10-double-eviction-final-five-1237107108/": "2026-09-21T01:14:28.200Z",
+    "https://www.yahoo.com/entertainment/tv/articles/big-brother-28-spoilers-veto-200829837.html": "2026-09-21T01:14:28.200Z",
+    "https://www.stltoday.com/news/local/government-politics/article_a9fa66f1-c7ce-4a7c-8005-9256c493bfdb.html": "2026-09-21T01:14:28.200Z",
+    "https://www.usatoday.com/story/sports/nfl/2026/09/20/travis-kelce-ponzi-scheme-details/91861222007/": "2026-09-21T01:14:28.200Z",
+    "https://www.nbcnews.com/news/us-news/ponzi-schemer-defrauded-travis-kelce-tried-avoid-deportation-rcna598335": "2026-09-21T01:14:28.200Z",
+    "https://www.justjared.com/2026/09/20/kimora-lee-says-tyra-banks-tried-to-keep-her-away-from-russell-simmons-when-she-was-16/": "2026-09-21T01:14:28.200Z",
+    "https://www.starnewskorea.com/en/star/2026/09/20/2026092016475260357": "2026-09-21T01:14:28.200Z",
+    "https://people.com/kimora-lee-says-tyra-banks-tried-stop-her-from-dating-russell-simmons-exclusive-12129031": "2026-09-21T01:14:28.200Z",
+    "https://www.yahoo.com/entertainment/celebrity/articles/benny-blanco-praises-beautiful-taylor-211339634.html": "2026-09-21T01:14:28.200Z",
+    "https://www.billboard.com/music/music-news/travis-kelce-marrying-taylor-swift-more-than-i-dreamed-1236338446/": "2026-09-21T01:14:28.200Z",
+    "https://people.com/everything-taylor-swift-and-travis-kelce-wedding-guests-have-said-about-the-wedding-12128156": "2026-09-21T01:14:28.200Z",
+    "https://www.goldderby.com/tv/2026/the-good-place-explainer-creator-mike-schur-ted-danson-kristen-bell-twist-lost/": "2026-09-21T01:14:28.200Z",
+    "https://www.womansworld.com/entertainment/books/kristen-bell-shares-whats-lining-her-bookshelf": "2026-09-21T01:14:28.200Z",
+    "https://people.com/kristen-bell-teases-familys-massive-halloween-2026-group-costume-exclusive-12126807": "2026-09-21T01:14:28.200Z",
+    "https://www.fox.com/watch/clip/fmc-12ez2oza2e3g06vk/is-andy-reid-s-mustache-the-most-iconic-in-the-world": "2026-09-21T01:14:28.200Z",
+    "https://sports.yahoo.com/articles/andy-reid-responds-past-mustache-100305316.html": "2026-09-21T01:14:28.200Z",
+    "https://heavy.com/sports/nfl/kansas-city-chiefs/andy-reid-kids-work-routine/": "2026-09-21T01:14:28.200Z",
+    "https://www.dallascowboys.com/news/ceedee-lamb-can-t-wait-for-chance-to-bounce-back-in-home-opener-vs-commanders": "2026-09-20T23:12:20.352Z",
     "https://sports.yahoo.com/articles/ceedee-lamb-fantasy-week-2-102400933.html": "2026-09-20T23:12:20.352Z",
-    "https://www.dallascowboys.com/news/ceedee-lamb-can-t-wait-for-chance-to-bounce-back-in-home-opener-vs-commanders": "2026-09-20T23:12:20.352Z"
+    "https://www.si.com/nfl/cowboys/onsi/fantasy-football-start-sit-week-2-ceedee-lamb-jake-ferguson-brandon-aubrey": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/mike-evans-injury-latest-news-224245249.html": "2026-09-20T23:12:20.352Z",
+    "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/09/20/49ers-mike-evans-suffers-injury-vs-dolphins/91866215007/": "2026-09-20T23:12:20.352Z",
+    "https://www.nbcsportsbayarea.com/video/nfl/san-francisco-49ers/49ers-talk-watch-wide-receiver-room-situation/1964388/": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/doesn-t-drink-alcohol-still-062138790.html": "2026-09-20T23:12:20.352Z",
+    "https://www.foxsports.com/stories/college-football/lane-kiffin-most-polarizing-coach-college-football-history": "2026-09-20T23:12:20.352Z",
+    "https://www.sbnation.com/college-football/1129000/lane-kiffin-career-path-why-he-left-ole-miss-for-lsu": "2026-09-20T23:12:20.352Z",
+    "https://www.prnewswire.com/news-releases/mediaplanet-launches-women-vs-cancer-campaign-in-the-los-angeles-times-to-advance-awareness-early-detection-and-advocacy-302882510.html": "2026-09-20T23:12:20.352Z",
+    "https://www.forbes.com/sites/brucelee/2026/09/18/erin-andrews-talks-about-lessons-from-her-cervical-cancer-journey/": "2026-09-20T23:12:20.352Z",
+    "https://www.futureofpersonalhealth.com/women-vs-cancer/erin-andrews-early-cancer-detection-advocacy-and-breaking-the-silence/": "2026-09-20T23:12:20.352Z",
+    "https://www.app.com/story/sports/nfl/2026/09/20/sunday-night-football-kansas-city-chiefs-indianapolis-colts/91805605007/": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/channel-giants-tonight-channel-cowboys-224525759.html": "2026-09-20T23:12:20.352Z",
+    "https://fox4kc.com/sports/chiefs/chiefs-vs-colts-what-fans-should-know-before-going-to-arrowhead/": "2026-09-20T23:12:20.352Z",
+    "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-draw-even-but-j-k-dobbins-questionable-to-return": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/j-k-dobbins-injury-latest-222006372.html": "2026-09-20T23:12:20.352Z",
+    "https://www.denverpost.com/2026/09/20/broncos-jk-dobbins-hamstring-injury/": "2026-09-20T23:12:20.352Z",
+    "https://www.nfl.com/videos/jonah-coleman-s-first-nfl-reception-goes-8-yards": "2026-09-20T23:12:20.352Z",
+    "https://www.nfl.com/videos/rookie-jonah-coleman-s-td-gives-broncos-the-lead-in-fourth-quarter": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/broncos-jonah-coleman-expected-explode-174913318.html": "2026-09-20T23:12:20.352Z",
+    "https://airalamo.com/spurs-should-pounce-on-jaden-mcdaniels-after-timberwolves-lamelo-ball-experiment-fails": "2026-09-20T23:12:20.352Z",
+    "https://sports.yahoo.com/articles/where-always-another-step-092452938.html": "2026-09-20T23:12:20.352Z",
+    "https://www.nytimes.com/2026/09/16/us/jay-leno-law-classic-car-gavin-newsom.html": "2026-09-20T23:12:20.352Z",
+    "https://www.bloomberg.com/news/articles/2026-09-18/-not-a-smart-move-leno-slams-supercar-tax-avoiders-as-california-cracks-down": "2026-09-20T23:12:20.352Z",
+    "https://fordauthority.com/2026/09/first-gen-ford-bronco-present-as-lenos-law-signed-by-governor-newsom/": "2026-09-20T23:12:20.352Z",
+    "https://ca.sports.yahoo.com/news/marcus-mariota-td-pass-for-commanders-ruled-incomplete-despite-replaying-appearing-to-show-catch-should-have-counted-223951078.html": "2026-09-20T23:12:20.352Z",
+    "https://www.star-telegram.com/sports/article317317113.html": "2026-09-20T23:12:20.352Z",
+    "https://www.nfl.com/videos/jayden-daniels-sustains-apparent-injury-on-final-play-of-first-half-against-cowboys": "2026-09-20T23:12:20.352Z"
   },
   "seenText": {
-    "t:news:jayden daniels sustains apparent injury on final play of first half against cowboys": "2026-09-20T23:12:20.352Z",
-    "t:news:nfl fans fed up with 'horrible' cowboys vs. commanders officiating crew sunday": "2026-09-20T23:12:20.352Z",
-    "t:news:marcus mariota td pass for commanders ruled incomplete, despite replaying appearing to show catch should have counted": "2026-09-20T23:12:20.352Z",
-    "t:trends:marcus mariota": "2026-09-20T23:12:20.352Z",
-    "t:news:first gen ford bronco present as leno's law signed by governor newsom": "2026-09-20T23:12:20.352Z",
-    "t:news:jay leno hails california crackdown on supercar tax avoiders": "2026-09-20T23:12:20.352Z",
-    "t:news:newsom signs jay leno’s classic car bill over environmentalist objections": "2026-09-20T23:12:20.352Z",
-    "t:trends:jay leno": "2026-09-20T23:12:20.352Z",
-    "t:news:we are where we always are: we need another step …": "2026-09-20T23:12:20.352Z",
-    "t:news:spurs should pounce on jaden mcdaniels after timberwolves' lamelo ball experiment fails": "2026-09-20T23:12:20.352Z",
-    "t:trends:jaden mcdaniels": "2026-09-20T23:12:20.352Z",
-    "t:news:broncos’ jonah coleman expected to explode with an expanded role against jaguars": "2026-09-20T23:12:20.352Z",
-    "t:news:rookie jonah coleman's td gives broncos the lead in fourth quarter": "2026-09-20T23:12:20.352Z",
-    "t:news:jonah coleman's first nfl reception goes 8 yards": "2026-09-20T23:12:20.352Z",
-    "t:trends:jonah coleman": "2026-09-20T23:12:20.352Z",
-    "t:news:broncos’ j.k. dobbins questionable to return with hamstring injury": "2026-09-20T23:12:20.352Z",
-    "t:news:j.k. dobbins injury: latest news on broncos running back after exiting jaguars game": "2026-09-20T23:12:20.352Z",
-    "t:news:broncos draw even, but j.k. dobbins questionable to return": "2026-09-20T23:12:20.352Z",
-    "t:trends:jk dobbins": "2026-09-20T23:12:20.352Z",
-    "t:news:chiefs vs. colts: what fans should know before going to arrowhead": "2026-09-20T23:12:20.352Z",
-    "t:news:what channel are the giants on tonight? what channel are the cowboys on?": "2026-09-20T23:12:20.352Z",
-    "t:news:what channel is sunday night football tonight? what time is sunday night football?": "2026-09-20T23:12:20.352Z",
-    "t:trends:sunday night football schedule": "2026-09-20T23:12:20.352Z",
-    "t:news:erin andrews: early cancer detection, advocacy, and breaking the silence": "2026-09-20T23:12:20.352Z",
-    "t:news:erin andrews talks about lessons from her cervical cancer journey": "2026-09-20T23:12:20.352Z",
-    "t:news:mediaplanet launches women vs. cancer campaign in the los angeles times to advance awareness, early detection and advocacy": "2026-09-20T23:12:20.352Z",
-    "t:trends:erin andrews": "2026-09-20T23:12:20.352Z",
-    "t:news:why lane kiffin left ole miss for lsu, in his own words": "2026-09-20T23:12:20.352Z",
-    "t:news:why lsu's lane kiffin is the 'most polarizing' coach in college football history": "2026-09-20T23:12:20.352Z",
-    "t:news:“doesn’t drink alcohol but still hangs out with hot women”: attorney reveals lane kiffin’s honest reaction to reports of tensions with nick saban during alabama days": "2026-09-20T23:12:20.352Z",
-    "t:trends:raiders coach": "2026-09-20T23:12:20.352Z",
-    "t:news:49ers talk: what is state of wide receiver room entering week 2 amid injuries?": "2026-09-20T23:12:20.352Z",
-    "t:news:49ers mike evans injury: wr questionable to return with hip injury": "2026-09-20T23:12:20.352Z",
-    "t:news:mike evans injury update: latest news on 49ers wr's status in week 2 game": "2026-09-20T23:12:20.352Z",
-    "t:trends:mike evans injury": "2026-09-20T23:12:20.352Z",
-    "t:news:fantasy football start or sit week 2: ceedee lamb, jake ferguson, brandon aubrey": "2026-09-20T23:12:20.352Z",
-    "t:news:ceedee lamb fantasy week 2 start or sit: a top-10 wr, not top-5 yet": "2026-09-20T23:12:20.352Z",
+    "t:news:taylor swift wore this under-$250 lbd for a kansas city dinner date with travis kelce": "2026-09-21T01:14:28.200Z",
+    "t:news:taylor swift chose a timeless little black dress for a dinner date with travis kelce": "2026-09-21T01:14:28.200Z",
+    "t:news:taylor swift channels her ‘red’ era to celebrate patrick mahomes’ 31st birthday with travis kelce": "2026-09-21T01:14:28.200Z",
+    "t:trends:taylor swift": "2026-09-21T01:14:28.200Z",
+    "t:news:patrick mahomes and brittany celebrate a love story that began years before his super bowl success": "2026-09-21T01:14:28.200Z",
+    "t:news:happy birthday, patrick mahomes! see the kansas city chiefs quarterback’s family photos with wife brittany and their 3 kids": "2026-09-21T01:14:28.200Z",
+    "t:news:brittany mahomes calls husband patrick the ‘heart of our family’ in sweet birthday post: ‘love you the most’": "2026-09-21T01:14:28.200Z",
+    "t:trends:brittany mahomes": "2026-09-21T01:14:28.200Z",
+    "t:news:indianapolis colts injury report: week 2 wednesday": "2026-09-21T01:14:28.200Z",
+    "t:news:the latest on colts qb anthony richardson sr.’s groin injury after missing wednesday’s practice": "2026-09-21T01:14:28.200Z",
+    "t:news:anthony richardson suffers injury lifting weights, latest updates on colts qb's status for week 2": "2026-09-21T01:14:28.200Z",
+    "t:trends:anthony richardson": "2026-09-21T01:14:28.200Z",
+    "t:news:fantasy football kicker rankings & start/sit advice (week 2)": "2026-09-21T01:14:28.200Z",
+    "t:news:rent-a-kicker: week 2": "2026-09-21T01:14:28.200Z",
+    "t:news:nfl fantasy 2026 start 'em, sit 'em: kickers for week 2": "2026-09-21T01:14:28.200Z",
+    "t:trends:harrison butker": "2026-09-21T01:14:28.200Z",
+    "t:news:‘big brother 28’ spoilers: week 11 veto results, pharaoh’s curse shake up race to the final 4 (updating)": "2026-09-21T01:14:28.200Z",
+    "t:news:‘big brother’ season 28, week 10 results: double eviction night reveals final 5": "2026-09-21T01:14:28.200Z",
+    "t:news:big brother 28 spoilers: a veto win seems to put a target on one houseguest, but not so fast": "2026-09-21T01:14:28.200Z",
+    "t:trends:big brother spoilers": "2026-09-21T01:14:28.200Z",
+    "t:news:prominent missouri republicans tried to influence judge in ponzi scheme case": "2026-09-21T01:14:28.200Z",
+    "t:news:travis kelce was victimized by a ponzi scheme. here's what to know about it": "2026-09-21T01:14:28.200Z",
+    "t:news:ponzi schemer who defrauded travis kelce tried to marry u.s. citizen to avoid deportation, prosecutors say": "2026-09-21T01:14:28.200Z",
+    "t:trends:travis kelce net worth": "2026-09-21T01:14:28.200Z",
+    "t:news:kimora lee says tyra banks tried to keep her away from russell simmons when she was 16": "2026-09-21T01:14:28.200Z",
+    "t:news:\"i met a man 18 years my senior at 16 and got married\" supermodel kimora lee's late confession sparks buzz [star issue]": "2026-09-21T01:14:28.200Z",
+    "t:news:kimora lee says tyra banks tried to stop her from dating russell simmons: ‘thought she was hating’ (exclusive)": "2026-09-21T01:14:28.200Z",
+    "t:trends:kimora lee simmons": "2026-09-21T01:14:28.200Z",
+    "t:news:benny blanco praises 'beautiful' taylor swift and travis kelce wedding": "2026-09-21T01:14:28.200Z",
+    "t:news:travis kelce: marrying taylor swift ‘was more than i could have ever dreamed it to be’": "2026-09-21T01:14:28.200Z",
+    "t:news:pop-tarts, top hats and raffles! every detail guests have shared about taylor swift and travis kelce’s wedding": "2026-09-21T01:14:28.200Z",
+    "t:trends:taylor swift wedding": "2026-09-21T01:14:28.200Z",
+    "t:news:‘the good place’ at 10: creator mike schur reveals what the ted danson-kristen bell comedy owes to ‘lost’": "2026-09-21T01:14:28.200Z",
+    "t:news:check out 4 of kristen bell’s book recommendations": "2026-09-21T01:14:28.200Z",
+    "t:news:kristen bell teases her family’s epic halloween plan — and it involves a massive group costume (exclusive)": "2026-09-21T01:14:28.200Z",
+    "t:trends:kristen bell": "2026-09-21T01:14:28.200Z",
+    "t:news:watch is andy reid's mustache the most iconic in the world? - wake up barstool": "2026-09-21T01:14:28.200Z",
+    "t:news:andy reid responds to a past mustache joke from a hall of famer": "2026-09-21T01:14:28.200Z",
+    "t:news:chiefs’ andy reid’s 3:30 a.m. routine reveals what always came before football": "2026-09-21T01:14:28.200Z",
+    "t:trends:andy reid": "2026-09-21T01:14:28.200Z",
+    "t:trends:brandon aubrey": "2026-09-20T23:12:20.352Z",
     "t:news:ceedee lamb 'can't wait' for chance to bounce back in home opener vs. commanders": "2026-09-20T23:12:20.352Z",
-    "t:trends:brandon aubrey": "2026-09-20T23:12:20.352Z"
+    "t:news:ceedee lamb fantasy week 2 start or sit: a top-10 wr, not top-5 yet": "2026-09-20T23:12:20.352Z",
+    "t:news:fantasy football start or sit week 2: ceedee lamb, jake ferguson, brandon aubrey": "2026-09-20T23:12:20.352Z",
+    "t:trends:mike evans injury": "2026-09-20T23:12:20.352Z",
+    "t:news:mike evans injury update: latest news on 49ers wr's status in week 2 game": "2026-09-20T23:12:20.352Z",
+    "t:news:49ers mike evans injury: wr questionable to return with hip injury": "2026-09-20T23:12:20.352Z",
+    "t:news:49ers talk: what is state of wide receiver room entering week 2 amid injuries?": "2026-09-20T23:12:20.352Z",
+    "t:trends:raiders coach": "2026-09-20T23:12:20.352Z",
+    "t:news:“doesn’t drink alcohol but still hangs out with hot women”: attorney reveals lane kiffin’s honest reaction to reports of tensions with nick saban during alabama days": "2026-09-20T23:12:20.352Z",
+    "t:news:why lsu's lane kiffin is the 'most polarizing' coach in college football history": "2026-09-20T23:12:20.352Z",
+    "t:news:why lane kiffin left ole miss for lsu, in his own words": "2026-09-20T23:12:20.352Z",
+    "t:trends:erin andrews": "2026-09-20T23:12:20.352Z",
+    "t:news:mediaplanet launches women vs. cancer campaign in the los angeles times to advance awareness, early detection and advocacy": "2026-09-20T23:12:20.352Z",
+    "t:news:erin andrews talks about lessons from her cervical cancer journey": "2026-09-20T23:12:20.352Z",
+    "t:news:erin andrews: early cancer detection, advocacy, and breaking the silence": "2026-09-20T23:12:20.352Z",
+    "t:trends:sunday night football schedule": "2026-09-20T23:12:20.352Z",
+    "t:news:what channel is sunday night football tonight? what time is sunday night football?": "2026-09-20T23:12:20.352Z",
+    "t:news:what channel are the giants on tonight? what channel are the cowboys on?": "2026-09-20T23:12:20.352Z",
+    "t:news:chiefs vs. colts: what fans should know before going to arrowhead": "2026-09-20T23:12:20.352Z",
+    "t:trends:jk dobbins": "2026-09-20T23:12:20.352Z",
+    "t:news:broncos draw even, but j.k. dobbins questionable to return": "2026-09-20T23:12:20.352Z",
+    "t:news:j.k. dobbins injury: latest news on broncos running back after exiting jaguars game": "2026-09-20T23:12:20.352Z",
+    "t:news:broncos’ j.k. dobbins questionable to return with hamstring injury": "2026-09-20T23:12:20.352Z",
+    "t:trends:jonah coleman": "2026-09-20T23:12:20.352Z",
+    "t:news:jonah coleman's first nfl reception goes 8 yards": "2026-09-20T23:12:20.352Z",
+    "t:news:rookie jonah coleman's td gives broncos the lead in fourth quarter": "2026-09-20T23:12:20.352Z",
+    "t:news:broncos’ jonah coleman expected to explode with an expanded role against jaguars": "2026-09-20T23:12:20.352Z",
+    "t:trends:jaden mcdaniels": "2026-09-20T23:12:20.352Z",
+    "t:news:spurs should pounce on jaden mcdaniels after timberwolves' lamelo ball experiment fails": "2026-09-20T23:12:20.352Z",
+    "t:news:we are where we always are: we need another step …": "2026-09-20T23:12:20.352Z",
+    "t:trends:jay leno": "2026-09-20T23:12:20.352Z",
+    "t:news:newsom signs jay leno’s classic car bill over environmentalist objections": "2026-09-20T23:12:20.352Z",
+    "t:news:jay leno hails california crackdown on supercar tax avoiders": "2026-09-20T23:12:20.352Z",
+    "t:news:first gen ford bronco present as leno's law signed by governor newsom": "2026-09-20T23:12:20.352Z",
+    "t:trends:marcus mariota": "2026-09-20T23:12:20.352Z",
+    "t:news:marcus mariota td pass for commanders ruled incomplete, despite replaying appearing to show catch should have counted": "2026-09-20T23:12:20.352Z",
+    "t:news:nfl fans fed up with 'horrible' cowboys vs. commanders officiating crew sunday": "2026-09-20T23:12:20.352Z",
+    "t:news:jayden daniels sustains apparent injury on final play of first half against cowboys": "2026-09-20T23:12:20.352Z"
   }
 }

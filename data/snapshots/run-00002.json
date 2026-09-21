@@ -1,0 +1,39 @@
+{
+  "runNo": 2,
+  "at": "2026-09-21T01:14:28.200Z",
+  "rows": [
+    {
+      "event": "story-kristen-bell",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 39,
+      "window": "unknown"
+    },
+    {
+      "event": "story-anthony-richardson",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-brittany-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON",
+    "reddit r/technology: Error: public-json circuit breaker open",
+    "reddit: public-json breaker open (configure REDDIT_CLIENT_ID/SECRET)"
+  ]
+}
