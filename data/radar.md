@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #17 · Updated: 21/09/2026, 22:12:47 (Asia/Kolkata)
+Run #18 · Updated: 21/09/2026, 22:59:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Peter Krause — 19/100
+### Paul Skenes — 28/100
 
-**Event:** Peter Krause: trending now
+**Event:** Paul Skenes: Why Paul Skenes blames the World Baseball Classic for decreased velocity as Pirates ace wraps up down season
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Peter Krause peter krause: trending now filings actually say — line by line — the other side of the fight
+> The Paul Skenes story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 3 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
-### Peter Krause's — 22/100
+### Jennifer Eckhart — 30/100
 
-**Event:** Peter Krause's: Peter Krause’s ‘Line of Fire’ Is a Promising and Engaging NBC Procedural Drama: TV Review
+**Event:** Jennifer Eckhart: Former Fox Business producer Jennifer Eckhart, 36, found dead in Florida home
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Peter Krause's situation is weirder than the clips suggest — the other side of the fight
+> What the Jennifer Eckhart jennifer eckhart: former fox business producer jennifer eckhart, 36, found dead in florida home filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
