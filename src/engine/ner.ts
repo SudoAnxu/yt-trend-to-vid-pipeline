@@ -150,6 +150,14 @@ const NOT_A_PERSON = new Set([
   'so', 'also', 'then', 'now', 'still', 'even', 'just', 'again',
 ]);
 
+const NON_PERSON_PHRASES = new Set([
+  'silent hill', 'new york', 'weather authority', 'night football',
+  'gameplay impressions', 'needed relief', 'football history',
+  'honest reaction', 'hot women', 'cancer campaign', 'advance awareness',
+  'early detection', 'cancer journey', 'good place', 'check out',
+  'more than', 'it involves', 'wake up call',
+]);
+
 const GENERIC_TOPIC_WORDS = new Set([
   'wake-up', 'call', 'alarm', 'warning', 'hot', 'women', 'history', 'campaign', 'awareness', 'detection', 'journey', 'reaction', 'place', 'expected', 'involves', 'more', 'than', 'update', 'updates', 'breaking', 'news', 'story',
   'stories', 'trend', 'trending', 'controversy', 'drama', 'scandal', 'reaction', 'reactions',
@@ -253,12 +261,11 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
         // provides independent evidence.
         if (genericPair && !knownFirst && !hasRoleOrVerb) continue;
         if (parts.length >= 3 && !hasRoleOrVerb) continue;
-        // An unknown Title-Case pair is not enough to establish a person:
-        // entertainment titles, places, products, and phrases routinely
-        // look like "First Last" (e.g. Silent Hill, New York). Require
-        // either a known first name or explicit person/action context.
-        if (!knownFirst && !hasRoleOrVerb && v.runLen !== 1) continue;
-        if (!cleanPair && !knownFirst && !hasRoleOrVerb && v.runLen !== 1) continue;
+        // Reject only strongly recognizable topic/title/place fragments.
+        // Do NOT require a known first name here: doing so destroys recall
+        // for legitimate celebrities whose first names are outside our
+        // small vocabulary.
+        if (NON_PERSON_PHRASES.has(v.name.toLowerCase())) continue;
         // Possessive headline fragments such as "Brian's Fall" are topic
         // phrases, not reliable person names. Keep normal O'Name forms.
         if (/'s$/i.test(v.name.split(' ')[0])) continue;
