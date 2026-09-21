@@ -63,6 +63,7 @@ const CONTEXT_VERBS = [
  * "alex nova walks off" where no capitalization signal exists.
  */
 const KNOWN_FIRST_NAMES = new Set([
+  'aaron', 'adam', 'adrian', 'aiden', 'aidan', 'alan', 'albert', 'alec', 'alicia', 'amanda', 'amy',
   'alex', 'alexander', 'alexandra', 'alexis', 'andrew', 'anthony', 'ashley',
   'austin', 'ben', 'benjamin', 'bradley', 'brandon', 'brian', 'brittany',
   'carlos', 'chad', 'charles', 'chris', 'christopher', 'colin', 'connor',
@@ -261,11 +262,6 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
         // provides independent evidence.
         if (genericPair && !knownFirst && !hasRoleOrVerb) continue;
         if (parts.length >= 3 && !hasRoleOrVerb) continue;
-        // Reject only strongly recognizable topic/title/place fragments.
-        // Do NOT require a known first name here: doing so destroys recall
-        // for legitimate celebrities whose first names are outside our
-        // small vocabulary.
-        if (NON_PERSON_PHRASES.has(v.name.toLowerCase())) continue;
         // Possessive headline fragments such as "Brian's Fall" are topic
         // phrases, not reliable person names. Keep normal O'Name forms.
         if (/'s$/i.test(v.name.split(' ')[0])) continue;
