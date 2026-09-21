@@ -177,6 +177,21 @@ export function spiceScore(f: SpiceFactors): number {
   return Math.round(Math.min(100, s));
 }
 
+// Channel-fit score for personality-led entertainment/controversy stories.
+export function peopleStoryFitScore(f: SpiceFactors): number {
+  return Math.round(
+    0.22 * f.conflict +
+    0.15 * f.surprise +
+    0.10 * f.money +
+    0.15 * f.mystery +
+    0.12 * f.celebrity +
+    0.10 * f.emotional_intensity +
+    0.06 * f.tech_business_angle +
+    0.05 * f.visual_potential +
+    0.05 * f.consequence
+  );
+}
+
 // ------------------------------------------------------------
 // Risk + Opportunity
 // ------------------------------------------------------------
