@@ -10,6 +10,9 @@ gate_window_minutes: 45
 # cross-source attention before spending it.
 probe_gate_cross_source: 25
 
+# During early calibration, a strong Trends score can earn the deep pass.
+high_conf_trend_score: 75
+
 # GDELT lookback window in minutes (max 60 per query).
 gdelt_minutes_back: 60
 
