@@ -6,7 +6,7 @@
 // ============================================================
 
 export const ENGINE_VERSION = 'radar-v1.0.0';
-export const SCORE_VERSION = 'v1';
+export const SCORE_VERSION = 'v2';
 
 /** Cross-source confirmation weights (spec 5.4). */
 export const CROSS_SOURCE_WEIGHTS = {
@@ -32,13 +32,13 @@ export const SPICE_WEIGHTS = {
 
 /** Opportunity score weights (spec 5.7). */
 export const OPPORTUNITY_WEIGHTS = {
-  momentum: 0.40,
-  spice: 0.25,
+  momentum: 0.32,
+  spice: 0.35,
   novelty: 0.10,
   visual_fit: 0.10,
   searchability: 0.10,
-  saturation_penalty: 0.20,
-  risk_penalty: 0.15,
+  saturation_penalty: 0.14,
+  risk_penalty: 0.10,
 } as const;
 
 /** Initial alert thresholds (spec 12). Calibrate with replay data. */
