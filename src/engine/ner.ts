@@ -150,6 +150,20 @@ const NOT_A_PERSON = new Set([
   'so', 'also', 'then', 'now', 'still', 'even', 'just', 'again',
 ]);
 
+const GENERIC_TOPIC_WORDS = new Set([
+  'wake-up', 'call', 'alarm', 'warning', 'update', 'updates', 'breaking', 'news', 'story',
+  'stories', 'trend', 'trending', 'controversy', 'drama', 'scandal', 'reaction', 'reactions',
+  'review', 'reviews', 'trailer', 'trailers', 'episode', 'season', 'finale', 'premiere',
+  'game', 'games', 'match', 'matches', 'score', 'scores', 'win', 'wins', 'loss', 'losses',
+  'report', 'reports', 'video', 'videos', 'movie', 'movies', 'song', 'songs', 'album', 'albums',
+  'concert', 'concerts', 'tour', 'tours', 'festival', 'festivals', 'event', 'events',
+  'launch', 'launches', 'release', 'releases', 'announcement', 'announcements',
+  'fight', 'fights', 'fight-night', 'interview', 'interviews', 'podcast', 'podcasts',
+  'challenge', 'challenges', 'moment', 'moments', 'reaction', 'responds', 'response',
+  'crisis', 'problem', 'problems', 'mystery', 'mysteries', 'truth', 'inside', 'exclusive',
+  'leak', 'leaks', 'leaked', 'exposed', 'exposure', 'statement', 'statements',
+]);
+
 const KNOWN_PERSON_ROLES_SUFFIX = /\b(singer|actor|rapper|streamer|youtuber|creator|ceo|founder|politician|athlete|producer|director|journalist|host|comedian|model|author|boxer|fighter)\b/i;
 
 // ------------------------------------------------------------
@@ -229,6 +243,15 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
         // "Milestone During" / "During Dream" are rejected.
         const knownFirst = KNOWN_FIRST_NAMES.has(parts[0]);
         const cleanPair = v.runLen === 2 && v.atRunStart;
+        const hasRoleOrVerb = CONTEXT_VERBS.some((verb) => parts.includes(verb)) ||
+          ROLE_WORDS.has(parts[0]) || ROLE_WORDS.has(parts[parts.length - 1]);
+        const genericPair = parts.length >= 2 && parts.some((p) => GENERIC_TOPIC_WORDS.has(p));
+        // A bounded Title-Case pair alone is not enough: trend topics,
+        // headlines, song/movie titles and phrases such as "Wake-up Call"
+        // frequently look exactly like First Last. Preserve unknown-person
+        // discovery when a known first name, role, or person-action verb
+        // provides independent evidence.
+        if (genericPair && !knownFirst && !hasRoleOrVerb) continue;
         if (!knownFirst && !cleanPair && v.runLen !== 1) continue;
         const prob = personLikelihood(v.name, sentence, lower);
         candidates.set(v.name, { name: v.name, ...prob });
