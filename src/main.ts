@@ -250,6 +250,19 @@ async function main(): Promise<void> {
       0
     );
     if (strongestTrend >= highConfTrendScore) return true;
+
+    // Google Trends attaches news headlines to each breakout topic. Those
+    // headlines are already evidence of a people-led trend even though the
+    // signal's lane is technically "news". Let a strong trend-linked
+    // headline through without requiring a second collector.
+    const strongestTrendLinkedNews = Math.max(
+      ...recent
+        .filter((s) => s.source === 'news' && (s.metric ?? '').startsWith('via trends'))
+        .map((s) => s.score ?? 0),
+      0
+    );
+    if (strongestTrendLinkedNews >= Math.max(60, highConfTrendScore - 15)) return true;
+
     // Single Trends lane + sustained mention pressure remains valid.
     if (lanes.has('trends') && entities[key].mentionCount >= 3) return true;
     return false;
