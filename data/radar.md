@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #19 · Updated: 21/09/2026, 23:21:48 (Asia/Kolkata)
+Run #20 · Updated: 21/09/2026, 23:27:30 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Paul Skenes: Why Paul Skenes blames the World Baseball Classic for decreased velocity as Pirates ace wraps up down season
 
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Paul Skenes story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 7 videos in last 6h · TTS ≈ 4.5h · sources: news
+**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,27 +34,69 @@ Sources this run: trends(40)
 
 **Event:** Jennifer Eckhart: Former Fox Business producer Jennifer Eckhart, 36, found dead in Florida home
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Jennifer Eckhart jennifer eckhart: former fox news producer jennifer eckhart dead at 36 filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Fox News Producer — 25/100
+### Fox News Producer — 24/100
 
 **Event:** Fox News Producer: JUST IN: Former Fox News Producer Who Accused Ed Henry of Rape Found Dead
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Fox News Producer fox news producer: just in: former fox news producer who accused ed henry of rape found dead filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: news
+
+**Status:** RESEARCH
+
+### Jennifer Eckhart's — 19/100
+
+**Event:** Jennifer Eckhart's: Emergency Crews Respond to Jennifer Eckhart's Residence Following Death
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jennifer Eckhart's jennifer eckhart's: emergency crews respond to jennifer eckhart's residence following death filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Terry Pluto — 19/100
+
+**Event:** Terry Pluto: No LeBron? Cavs’ big summer move for Peyton Watson might be the right one – Terry Pluto
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Terry Pluto terry pluto: no lebron? cavs’ big summer move for peyton watson might be the right one – terry pluto filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### James Harden — 19/100
+
+**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the James Harden james harden: how james harden facilitated cleveland’s biggest offseason splash filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
