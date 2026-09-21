@@ -42,15 +42,16 @@ export async function fetchGdelt(opts: {
     // GDELT rate-limits aggressively (429); back off and retry twice.
     let raw: string | null = null;
     let lastErr: unknown = null;
-    for (const waitMs of [0, 4000, 10_000]) {
+    for (const waitMs of [0, 1500, 5000]) {
       if (waitMs > 0) await new Promise((r) => setTimeout(r, waitMs));
       try {
-        raw = await fetchText(url);
+        raw = await fetchText(url, 15_000);
         lastErr = null;
         break;
       } catch (e) {
         lastErr = e;
-        if (!String(e).includes('429')) throw e;
+        // GDELT can transiently fail from GitHub Actions/cloud egress.
+        // Retry network failures as well as rate limits, but do not hammer it.
       }
     }
     if (lastErr || raw == null) throw lastErr ?? new Error('unreachable');
