@@ -2,9 +2,9 @@ name: Trend Radar
 
 on:
   schedule:
-    # Off-hour minutes on purpose: GitHub warns scheduled workflows see
-    # higher delays on the hour. 15-min cadence.
-    - cron: "7,22,37,52 * * * *"
+    # Keep all runs away from the top of the hour, where GitHub reports
+    # the highest schedule delays/drops. 15-min cadence.
+    - cron: "2,17,32,47 * * * *"
   workflow_dispatch: {}
 
 permissions:
