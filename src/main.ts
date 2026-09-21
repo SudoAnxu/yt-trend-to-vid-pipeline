@@ -223,12 +223,35 @@ async function main(): Promise<void> {
   // Emergence gate: which candidates get the deep pass?
   // ----------------------------------------------------------
   const GATE_WINDOW_MS = gateWindowMin * 60_000;
+  const gateDiagnostics: string[] = [];
   const deepCandidates = [...perPersonSignals.entries()].filter(([key, sigs]) => {
     const recent = sigs.filter((s) => {
       const t = s.observedAt ? new Date(s.observedAt).getTime() : Date.now();
       return Date.now() - t <= GATE_WINDOW_MS;
     });
     const lanes = new Set(recent.map((s) => s.source));
+    const strongestTrend = Math.max(
+      ...recent
+        .filter((s) => s.source === 'trends' || (s.source === 'news' && (s.metric ?? '').startsWith('via trends')))
+        .map((s) => s.score ?? 0),
+      0
+    );
+    const strongestTrendLinkedNews = Math.max(
+      ...recent
+        .filter((s) => s.source === 'news' && (s.metric ?? '').startsWith('via trends'))
+        .map((s) => s.score ?? 0),
+      0
+    );
+    let gateReason = 'no threshold matched';
+    if (lanes.size >= deepPassMinSources) gateReason = 'multi-source';
+    else if (recent.length >= 3) gateReason = '3+ recent signals';
+    else if (Object.values(state.events).some((ev) => ev.entityKey === key && ev.status !== 'ARCHIVED')) gateReason = 'active event';
+    else if (strongestTrend >= highConfTrendScore) gateReason = 'high-confidence trend';
+    else if (strongestTrendLinkedNews >= Math.max(60, highConfTrendScore - 15)) gateReason = 'high-confidence trend-linked news';
+    else if (lanes.has('trends') && entities[key].mentionCount >= 3) gateReason = 'sustained trends mentions';
+    gateDiagnostics.push(
+      `gate ${gateReason === 'no threshold matched' ? 'REJECT' : 'PASS'}: ${entities[key].canonicalName} | recent=${recent.length} | lanes=${[...lanes].join(',') || 'none'} | trend=${strongestTrend} | linkedNews=${strongestTrendLinkedNews} | mentions=${entities[key].mentionCount} | reason=${gateReason}`
+    );
     if (lanes.size >= deepPassMinSources) return true;
     // Multiple DISTINCT headlines about one person within the window are
     // independent confirmation too (different articles = different
@@ -268,6 +291,7 @@ async function main(): Promise<void> {
     return false;
   });
   say(`gate: ${deepCandidates.length}/${perPersonSignals.size} candidates pass -> deep pass`);
+  for (const d of gateDiagnostics.slice(0, 30)) say(d);
 
   // ----------------------------------------------------------
   // Stage 2: deep pass (Reddit for gated candidates)
