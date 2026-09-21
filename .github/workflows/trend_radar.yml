@@ -6,6 +6,11 @@ on:
     # the highest schedule delays/drops. 15-min cadence.
     - cron: "2,17,32,47 * * * *"
   workflow_dispatch: {}
+  # Bootstrap/fallback: code/config changes start a run immediately.
+  # Radar commits only touch data/, so paths-ignore prevents recursion.
+  push:
+    paths-ignore:
+      - "data/**"
 
 permissions:
   contents: write
