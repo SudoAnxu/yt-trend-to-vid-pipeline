@@ -412,7 +412,7 @@ async function main(): Promise<void> {
 
     const opportunity = opportunityScore({
       momentum,
-      spice,
+      spice: Math.round((spice * 0.75) + (peopleStoryFit * 0.25)),
       novelty: noveltyScore,
       visualFit,
       searchability,
@@ -445,7 +445,7 @@ async function main(): Promise<void> {
     }
 
     // Angle (deterministic template; LLM polish only if configured).
-    const title = dominantTopic(sigs);
+    const title = dominantTopic(sigs, ent.canonicalName);
     const angle = await generateAngle({
       person: ent.canonicalName,
       eventTitle: title,
@@ -615,16 +615,43 @@ function countLanes(sigs: Signal[]): Map<string, number> {
   return m;
 }
 
-function dominantTopic(sigs: Signal[]): string {
-  const { keywords } = clusterSignalsKeywordOnly(sigs);
-  const named = extractNameCandidates(sigs[0]?.text ?? '');
-  const person = named[0]?.name;
-  // Exclude the person's own name tokens from the keyword phrase
-  // ("Angel Reese: Angel Reese Wnba" reads like a stutter).
-  const personTokens = new Set((person ?? '').toLowerCase().split(' '));
-  const phraseWords = keywords.filter((k) => !personTokens.has(k));
-  const phrase = titleCase(phraseWords.slice(0, 3).join(' ')) || 'trending now';
-  return person ? `${person}: ${phrase}` : phrase;
+function dominantTopic(sigs: Signal[], personName: string): string {
+  const personLower = personName.toLowerCase();
+  const ranked = [...sigs]
+    .filter((s) => s.text.toLowerCase().includes(personLower))
+    .sort((a, b) => {
+      const spiceA = spiceScore(computeSpiceFactors(a.text));
+      const spiceB = spiceScore(computeSpiceFactors(b.text));
+      return spiceB - spiceA;
+    });
+  const sourceText = ranked[0]?.text ?? sigs[0]?.text ?? 'trending now';
+  const cleaned = sourceText.toLowerCase().startsWith(personLower)
+    ? sourceText.slice(personName.length).replace(/^[\s:–—-]+/, '').trim()
+    : sourceText.trim();
+  return personName + ': ' + (cleaned.length > 3 ? cleaned.slice(0, 110) : 'trending now');
+}
+
+function storyFitScore(f: ReturnType<typeof computeSpiceFactors>): number {
+  return Math.round(
+    0.22 * f.conflict +
+    0.15 * f.surprise +
+    0.10 * f.money +
+    0.15 * f.mystery +
+    0.12 * f.celebrity +
+    0.10 * f.emotional_intensity +
+    0.06 * f.tech_business_angle +
+    0.05 * f.visual_potential +
+    0.05 * f.consequence
+  );
+}
+
+function trendLinkedSignal(sigs: Signal[], threshold: number): boolean {
+  return sigs.some(
+    (s) =>
+      (s.source === 'trends' ||
+        (s.source === 'news' && (s.metric ?? '').startsWith('via trends'))) &&
+      (s.score ?? 0) >= threshold
+  );
 }
 
 function categoryOf(archetype: string): string {
