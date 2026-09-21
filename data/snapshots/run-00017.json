@@ -1,0 +1,23 @@
+{
+  "runNo": 17,
+  "at": "2026-09-21T16:42:47.233Z",
+  "rows": [
+    {
+      "event": "story-peter-krause",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-krause-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
