@@ -262,29 +262,8 @@ async function main(): Promise<void> {
     for (const ev of Object.values(state.events)) {
       if (ev.entityKey === key && ev.status !== 'ARCHIVED') return true;
     }
-    // Calibration escape hatch: a strong Google Trends rank is enough
-    // to earn a deep pass even before the radar has a mature cross-source
-    // baseline. This lets YouTube measure saturation on genuinely strong
-    // emerging attention instead of waiting for historical momentum.
-    const strongestTrend = Math.max(
-      ...recent
-        .filter((s) => s.source === 'trends' || (s.source === 'news' && (s.metric ?? '').startsWith('via trends')))
-        .map((s) => s.score ?? 0),
-      0
-    );
-    if (strongestTrend >= highConfTrendScore) return true;
-
-    // Google Trends attaches news headlines to each breakout topic. Those
-    // headlines are already evidence of a people-led trend even though the
-    // signal's lane is technically "news". Let a strong trend-linked
-    // headline through without requiring a second collector.
-    const strongestTrendLinkedNews = Math.max(
-      ...recent
-        .filter((s) => s.source === 'news' && (s.metric ?? '').startsWith('via trends'))
-        .map((s) => s.score ?? 0),
-      0
-    );
-    if (strongestTrendLinkedNews >= Math.max(60, highConfTrendScore - 15)) return true;
+    // Strong-trend and trend-linked-news checks are computed above
+    // for diagnostics and reused here.
 
     // Single Trends lane + sustained mention pressure remains valid.
     if (lanes.has('trends') && entities[key].mentionCount >= 3) return true;
