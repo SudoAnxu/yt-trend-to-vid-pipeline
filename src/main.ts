@@ -229,7 +229,16 @@ async function main(): Promise<void> {
       const t = s.observedAt ? new Date(s.observedAt).getTime() : Date.now();
       return Date.now() - t <= GATE_WINDOW_MS;
     });
-    const lanes = new Set(recent.map((s) => s.source));
+    // Google Trends attached headlines are emitted as source=news, but
+    // they are still direct evidence of the Trends breakout. Count them
+    // toward the Trends attention lane without changing their source label
+    // (so sourcing/scoring semantics remain intact).
+    const attentionLanes = new Set(
+      recent.map((s) =>
+        s.source === 'news' && (s.metric ?? '').startsWith('via trends') ? 'trends' : s.source
+      )
+    );
+    const lanes = attentionLanes;
     const strongestTrend = Math.max(
       ...recent
         .filter((s) => s.source === 'trends' || (s.source === 'news' && (s.metric ?? '').startsWith('via trends')))
