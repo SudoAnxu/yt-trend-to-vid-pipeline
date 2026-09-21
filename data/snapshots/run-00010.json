@@ -1,0 +1,16 @@
+{
+  "runNo": 10,
+  "at": "2026-09-21T11:53:58.405Z",
+  "rows": [
+    {
+      "event": "story-silent-hill",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
