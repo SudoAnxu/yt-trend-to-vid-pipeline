@@ -1,0 +1,18 @@
+{
+  "runNo": 6,
+  "at": "2026-09-21T11:01:56.392Z",
+  "rows": [
+    {
+      "event": "story-wake-up-call",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed",
+    "reddit r/technology: Error: public-json circuit breaker open",
+    "reddit: public-json breaker open (configure REDDIT_CLIENT_ID/SECRET)"
+  ]
+}
