@@ -1,0 +1,58 @@
+{
+  "runNo": 12,
+  "at": "2026-09-21T12:03:57.511Z",
+  "rows": [
+    {
+      "event": "story-adam-sandler",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-fat-bear",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-weather-authority",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-new-york",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-night-football-",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-silent-hill",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-gameplay-impressions",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
