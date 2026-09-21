@@ -243,10 +243,12 @@ async function main(): Promise<void> {
     // baseline. This lets YouTube measure saturation on genuinely strong
     // emerging attention instead of waiting for historical momentum.
     const strongestTrend = Math.max(
-      ...recent.filter((s) => s.source === 'trends').map((s) => s.score ?? 0),
+      ...recent
+        .filter((s) => s.source === 'trends' || (s.source === 'news' && (s.metric ?? '').startsWith('via trends')))
+        .map((s) => s.score ?? 0),
       0
     );
-    if (lanes.has('trends') && strongestTrend >= highConfTrendScore) return true;
+    if (strongestTrend >= highConfTrendScore) return true;
     // Single Trends lane + sustained mention pressure remains valid.
     if (lanes.has('trends') && entities[key].mentionCount >= 3) return true;
     return false;
@@ -304,9 +306,7 @@ async function main(): Promise<void> {
       // News items attached to a trending topic are part of Google's
       // trend spike for that topic — credit the trend lane at half
       // weight (avoids double counting with the news lane).
-      Math.floor(
-        sigs.filter((s) => s.source === 'news' && (s.metric ?? '').startsWith('via trends')).length / 2
-      );
+      sigs.filter((s) => s.source === 'news' && (s.metric ?? '').startsWith('via trends')).length;
     const newsCount = (laneCounts.get('news') ?? 0) + (laneCounts.get('gdelt') ?? 0);
     const communityCount = laneCounts.get('reddit') ?? 0;
 
@@ -347,7 +347,12 @@ async function main(): Promise<void> {
     const t0Ms = ev ? new Date(ev.t0).getTime() : Date.now();
     let probes: SaturationProbe[] = ev?.probeHistory ?? [];
     let probeVideos = probes.length > 0 ? probes[probes.length - 1].videoCount : 0;
-    const shouldProbe = crossSource >= probeGateCrossSource && hasYouTubeKey();
+    const trendLinkedEvidence = sigs.some(
+      (s) =>
+        (s.source === 'trends' || (s.source === 'news' && (s.metric ?? '').startsWith('via trends'))) &&
+        (s.score ?? 0) >= highConfTrendScore
+    );
+    const shouldProbe = (crossSource >= probeGateCrossSource || trendLinkedEvidence) && hasYouTubeKey();
     if (shouldProbe) {
       const probe = await probePersonVideos(ent.canonicalName, 6);
       probe.errors.forEach(addErr);
