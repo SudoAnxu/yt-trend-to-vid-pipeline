@@ -253,7 +253,15 @@ export function extractNameCandidates(text: string): EntityCandidate[] {
         // provides independent evidence.
         if (genericPair && !knownFirst && !hasRoleOrVerb) continue;
         if (parts.length >= 3 && !hasRoleOrVerb) continue;
-        if (!knownFirst && !cleanPair && v.runLen !== 1) continue;
+        // An unknown Title-Case pair is not enough to establish a person:
+        // entertainment titles, places, products, and phrases routinely
+        // look like "First Last" (e.g. Silent Hill, New York). Require
+        // either a known first name or explicit person/action context.
+        if (!knownFirst && !hasRoleOrVerb && v.runLen !== 1) continue;
+        if (!cleanPair && !knownFirst && !hasRoleOrVerb && v.runLen !== 1) continue;
+        // Possessive headline fragments such as "Brian's Fall" are topic
+        // phrases, not reliable person names. Keep normal O'Name forms.
+        if (/'s$/i.test(v.name.split(' ')[0])) continue;
         const prob = personLikelihood(v.name, sentence, lower);
         candidates.set(v.name, { name: v.name, ...prob });
       }
