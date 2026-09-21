@@ -57,7 +57,7 @@ import { loadRadarYaml, num as yamlNum, strList as yamlList } from './engine/yam
 
 import { fetchTrendsRss } from './collectors/trends';
 import { fetchGdelt } from './collectors/gdelt';
-import { fetchReddit } from './collectors/reddit';
+import { fetchReddit, hasRedditOauth } from './collectors/reddit';
 import { probePersonVideos, hasYouTubeKey } from './collectors/youtube';
 import { generateAngle } from './agents/angle-agent';
 import { eventToCsvRow, readCsvRows, writeCsvRows } from './storage/csv-store';
@@ -260,15 +260,20 @@ async function main(): Promise<void> {
   // ----------------------------------------------------------
   for (const [key, sigs] of deepCandidates.slice(0, 8)) {
     const ent = entities[key];
-    const reddit = await fetchReddit({
-      query: ent.canonicalName,
-      subreddits: redditSubs,
-      minutesBack: 24 * 60,
-      limit: 15,
-    });
-    sigs.push(...reddit.signals);
-    reddit.errors.forEach(addErr);
-    if (reddit.signals.length) sourcesUsed.push(`reddit:${ent.canonicalName}(${reddit.signals.length})`);
+    // Reddit is an optional enrichment lane. In GitHub Actions, the
+    // public JSON endpoint is commonly blocked; don't turn that expected
+    // absence into collector failures or waste retries. OAuth enables it.
+    if (hasRedditOauth()) {
+      const reddit = await fetchReddit({
+        query: ent.canonicalName,
+        subreddits: redditSubs,
+        minutesBack: 24 * 60,
+        limit: 15,
+      });
+      sigs.push(...reddit.signals);
+      reddit.errors.forEach(addErr);
+      if (reddit.signals.length) sourcesUsed.push(`reddit:${ent.canonicalName}(${reddit.signals.length})`);
+    }
   }
 
   // ----------------------------------------------------------
