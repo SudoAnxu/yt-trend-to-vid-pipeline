@@ -107,6 +107,7 @@ async function main(): Promise<void> {
   const gateWindowMin = yamlNum(yaml, 'gate_window_minutes', 45);
   const deepPassMinSources = yamlNum(yaml, 'deep_pass_min_sources', 2);
   const probeGateCrossSource = yamlNum(yaml, 'probe_gate_cross_source', 25);
+  const highConfTrendScore = yamlNum(yaml, 'high_conf_trend_score', 75);
   const gdeltMinutesBack = yamlNum(yaml, 'gdelt_minutes_back', 60);
 
   say(`RUN #${runNo} — ${new Date().toISOString()}`);
@@ -237,7 +238,16 @@ async function main(): Promise<void> {
     for (const ev of Object.values(state.events)) {
       if (ev.entityKey === key && ev.status !== 'ARCHIVED') return true;
     }
-    // Single high-confidence Trends lane + sustained mention pressure.
+    // Calibration escape hatch: a strong Google Trends rank is enough
+    // to earn a deep pass even before the radar has a mature cross-source
+    // baseline. This lets YouTube measure saturation on genuinely strong
+    // emerging attention instead of waiting for historical momentum.
+    const strongestTrend = Math.max(
+      ...recent.filter((s) => s.source === 'trends').map((s) => s.score ?? 0),
+      0
+    );
+    if (lanes.has('trends') && strongestTrend >= highConfTrendScore) return true;
+    // Single Trends lane + sustained mention pressure remains valid.
     if (lanes.has('trends') && entities[key].mentionCount >= 3) return true;
     return false;
   });
