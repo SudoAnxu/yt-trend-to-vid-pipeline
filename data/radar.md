@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #40 · Updated: 23/09/2026, 03:05:50 (Asia/Kolkata)
+Run #41 · Updated: 23/09/2026, 03:12:46 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ryan Nembhard — 17/100
+### Ryan Nembhard — 19/100
 
 **Event:** Ryan Nembhard: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Ryan Nembhard ryan nembhard: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 5 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
 
 </details>

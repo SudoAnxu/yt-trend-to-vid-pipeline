@@ -1,0 +1,16 @@
+{
+  "runNo": 41,
+  "at": "2026-09-22T21:42:46.210Z",
+  "rows": [
+    {
+      "event": "story-ryan-nembhard",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
