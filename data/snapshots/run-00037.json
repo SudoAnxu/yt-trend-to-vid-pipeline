@@ -1,0 +1,16 @@
+{
+  "runNo": 37,
+  "at": "2026-09-22T20:05:48.011Z",
+  "rows": [
+    {
+      "event": "story-aaron-judge",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

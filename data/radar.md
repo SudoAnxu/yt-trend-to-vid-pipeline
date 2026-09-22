@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #36 · Updated: 23/09/2026, 01:19:16 (Asia/Kolkata)
+Run #37 · Updated: 23/09/2026, 01:35:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Luis Miguel — 18/100
+### Aaron Judge — 16/100
 
-**Event:** Luis Miguel: trending now
+**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Luis Miguel luis miguel: trending now filings actually say — line by line — the other side of the fight
+> The Aaron Judge story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: news
 
 **Status:** RESEARCH
 
