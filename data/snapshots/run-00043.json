@@ -1,0 +1,16 @@
+{
+  "runNo": 43,
+  "at": "2026-09-22T22:48:47.435Z",
+  "rows": [
+    {
+      "event": "story-jack-haven",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
