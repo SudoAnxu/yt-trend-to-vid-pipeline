@@ -1,0 +1,16 @@
+{
+  "runNo": 35,
+  "at": "2026-09-22T19:23:17.289Z",
+  "rows": [
+    {
+      "event": "story-luis-miguel",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
