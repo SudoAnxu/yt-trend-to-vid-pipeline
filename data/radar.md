@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #23 · Updated: 22/09/2026, 05:46:47 (Asia/Kolkata)
+Run #24 · Updated: 22/09/2026, 10:41:46 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Aaron Donald — 26/100
+### Travis Kelce — 17/100
 
-**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
+**Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-31 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Aaron Donald aaron donald: giants vs. rams score, live updates: puka nacua out, while aaron donald makes his return on monday night footb filings actually say — line by line — the other side of the fight
+> What the Travis Kelce travis kelce: taylor swift has savage celebration after travis kelce scores first touchdown of 2026 season filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
