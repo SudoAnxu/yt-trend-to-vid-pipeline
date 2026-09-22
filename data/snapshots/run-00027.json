@@ -1,0 +1,16 @@
+{
+  "runNo": 27,
+  "at": "2026-09-22T15:55:25.264Z",
+  "rows": [
+    {
+      "event": "story-hayden-panettiere",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #26 · Updated: 22/09/2026, 17:13:39 (Asia/Kolkata)
+Run #27 · Updated: 22/09/2026, 21:25:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kate Mara — 29/100
+### Hayden Panettiere — 26/100
 
-**Event:** Kate Mara: Orlando Bloom’s Threesome Scene in ‘Bucking Fastard’ With Real-Life Sisters Rooney and Kate Mara Slammed as ‘A
+**Event:** Hayden Panettiere: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Kate Mara kate mara: orlando bloom’s threesome scene in ‘bucking fastard’ with real-life sisters rooney and kate mara slammed as ‘a story is actually a money story — the other side of the fight
+> What the Hayden Panettiere hayden panettiere: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
