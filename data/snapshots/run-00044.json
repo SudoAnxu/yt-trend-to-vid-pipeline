@@ -1,0 +1,23 @@
+{
+  "runNo": 44,
+  "at": "2026-09-22T23:04:01.336Z",
+  "rows": [
+    {
+      "event": "story-aaron-judge",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
