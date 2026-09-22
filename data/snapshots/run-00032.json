@@ -1,0 +1,37 @@
+{
+  "runNo": 32,
+  "at": "2026-09-22T18:11:19.211Z",
+  "rows": [
+    {
+      "event": "story-kenny-moore",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-levis",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-judge",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-boone",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
