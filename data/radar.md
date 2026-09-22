@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #33 · Updated: 22/09/2026, 23:58:23 (Asia/Kolkata)
+Run #34 · Updated: 23/09/2026, 00:32:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kenny Moore — 19/100
+### Jayden Daniels — 17/100
 
-**Event:** Kenny Moore: trending now
+**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kenny Moore kenny moore: trending now filings actually say — line by line — the other side of the fight
+> The Jayden Daniels story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
-### Will Levis — 19/100
+### Marcus Mariota — 18/100
 
-**Event:** Will Levis: trending now
+**Event:** Marcus Mariota: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will Levis will levis: , jets reportedly agree to contract, will be qb3 behind geno smith, cade klubnik story is actually a money story — the number behind the headline
+> The Marcus Mariota story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>
