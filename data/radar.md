@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #38 · Updated: 23/09/2026, 01:49:44 (Asia/Kolkata)
+Run #39 · Updated: 23/09/2026, 02:24:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Aaron Judge — 14/100
+### Ryan Nembhard — 17/100
 
-**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
+**Event:** Ryan Nembhard: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Aaron Judge aaron judge: yankees don't expect aaron judge (calf) back for wild card story is actually a money story — the other side of the fight
+> What the Ryan Nembhard ryan nembhard: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
