@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #37 · Updated: 23/09/2026, 01:35:48 (Asia/Kolkata)
+Run #38 · Updated: 23/09/2026, 01:49:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Aaron Judge — 16/100
+### Aaron Judge — 14/100
 
 **Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
 
-**Why now:** 1 source lane(s): news · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Judge story is a proxy fight about something bigger — the other side of the fight
+> The Aaron Judge aaron judge: yankees don't expect aaron judge (calf) back for wild card story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** RESEARCH
 
