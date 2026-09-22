@@ -1,0 +1,16 @@
+{
+  "runNo": 23,
+  "at": "2026-09-22T00:16:45.916Z",
+  "rows": [
+    {
+      "event": "story-aaron-donald",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

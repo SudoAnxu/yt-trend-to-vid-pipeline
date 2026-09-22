@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #22 · Updated: 22/09/2026, 03:01:56 (Asia/Kolkata)
+Run #23 · Updated: 22/09/2026, 05:46:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Paul Skenes — 21/100
+### Aaron Donald — 26/100
 
-**Event:** Paul Skenes: Why Paul Skenes blames the World Baseball Classic for decreased velocity as Pirates ace wraps up down season
+**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
 
-**Why now:** 1 source lane(s): news · momentum 21 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Paul Skenes story is a proxy fight about something bigger — the detail nobody has explained
+> What the Aaron Donald aaron donald: giants vs. rams score, live updates: puka nacua out, while aaron donald makes his return on monday night footb filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.9h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
