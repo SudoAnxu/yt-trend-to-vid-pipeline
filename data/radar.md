@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #57 · Updated: 23/09/2026, 13:35:15 (Asia/Kolkata)
+Run #58 · Updated: 23/09/2026, 14:18:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,107 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Maya Joint — 17/100
-
-**Event:** Maya Joint: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Maya Joint maya joint: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Jon Hamm — 21/100
-
-**Event:** Jon Hamm: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 34 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Jon Hamm jon hamm: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Smith — 17/100
-
-**Event:** Will Smith: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Will Smith will smith: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Austin Abrams — 17/100
-
-**Event:** Austin Abrams: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Austin Abrams austin abrams: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Zach Cregger — 24/100
-
-**Event:** Zach Cregger: Box Office Global: 'Resident Evil' $108M WW Franchise, Zach Cregger Record; 'Coyote vs. Acme' Approaches $100M
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 34 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Zach Cregger zach cregger: box office global: 'resident evil' $108m ww franchise, zach cregger record; 'coyote vs. acme' approaches $100m story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mark Kotsay — 19/100
-
-**Event:** Mark Kotsay: talks A's bullpen, Carlos Cortes in win
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Mark Kotsay mark kotsay: talks a's bullpen, carlos cortes in win filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Carlos Cortes — 19/100
-
-**Event:** Carlos Cortes: Mark Kotsay talks A's bullpen, Carlos Cortes in win
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Carlos Cortes carlos cortes: mark kotsay talks a's bullpen, carlos cortes in win filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
