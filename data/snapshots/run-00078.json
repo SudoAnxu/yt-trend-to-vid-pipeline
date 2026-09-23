@@ -1,0 +1,30 @@
+{
+  "runNo": 78,
+  "at": "2026-09-23T17:56:12.505Z",
+  "rows": [
+    {
+      "event": "story-howard-out",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matt-campbell",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-harvey-weinstein",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

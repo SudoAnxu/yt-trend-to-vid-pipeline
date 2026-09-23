@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #77 · Updated: 23/09/2026, 23:10:58 (Asia/Kolkata)
+Run #78 · Updated: 23/09/2026, 23:26:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,15 +16,29 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Colin Kaepernick — 19/100
+### Howard Out — 19/100
 
-**Event:** Colin Kaepernick: John Harbaugh gets another chance to consider Colin Kaepernick
+**Event:** Howard Out: Penn State Football Wide Receiver Koby Howard Out For ‘Extended Period Of Time’
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Colin Kaepernick colin kaepernick: john harbaugh gets another chance to consider colin kaepernick filings actually say — line by line — the other side of the fight
+> What the Howard Out howard out: penn state football wide receiver koby howard out for ‘extended period of time’ filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Matt Campbell — 19/100
+
+**Event:** Matt Campbell: Updates Koby Howard’s Status and More
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Matt Campbell matt campbell: updates koby howard’s status and more filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
@@ -34,27 +48,13 @@ Sources this run: trends(40)
 
 **Event:** Harvey Weinstein: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Harvey Weinstein harvey weinstein: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Mike Lee — 19/100
-
-**Event:** Mike Lee: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Mike Lee filing that will matter in six months — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
