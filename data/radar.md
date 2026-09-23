@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #62 · Updated: 23/09/2026, 15:44:35 (Asia/Kolkata)
+Run #63 · Updated: 23/09/2026, 16:38:31 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### David Adeang — 17/100
+### James Farthing — 23/100
 
-**Event:** David Adeang: nauru name change un
+**Event:** James Farthing: Kentucky Powerball winner James Farthing arrested on public intoxication charge in Scott County
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the David Adeang david adeang: nauru name change un filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Bryan Seaver — 18/100
-
-**Event:** Bryan Seaver: dolly parton estate lawsuit bryan seaver
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 10 · risk 86 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Bryan Seaver bryan seaver: dolly parton estate lawsuit bryan seaver filings actually say — line by line — the number behind the headline
+> What the James Farthing james farthing: kentucky powerball winner james farthing arrested on public intoxication charge in scott county filings actually say — line by line — what happens next
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Justin Boone's — 21/100
+### Zack Wheeler — 17/100
 
-**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+**Event:** Zack Wheeler: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Justin Boone's situation is weirder than the clips suggest — the other side of the fight
+> The Zack Wheeler zack wheeler: fans 7 straight to open phillies win over brewers story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 9 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
