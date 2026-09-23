@@ -1,0 +1,16 @@
+{
+  "runNo": 90,
+  "at": "2026-09-23T22:24:24.826Z",
+  "rows": [
+    {
+      "event": "story-mike-babcock",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
