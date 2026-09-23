@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #70 · Updated: 23/09/2026, 19:48:21 (Asia/Kolkata)
+Run #71 · Updated: 23/09/2026, 20:16:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
@@ -20,27 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Lundgren Reveals He: Dolph Lundgren Reveals He Considered Medical Aid in Dying Before Learning His Cancer Was Misdiagnosed
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
 > The Lundgren Reveals He lundgren reveals he: dolph lundgren reveals he considered medical aid in dying before learning his cancer was misdiagnosed story is actually a money story — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Jon Hamm — 20/100
-
-**Event:** Jon Hamm: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jon Hamm jon hamm: ‘old dad’ jon hamm breaks silence on wife anna osceola’s pregnancy news filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 

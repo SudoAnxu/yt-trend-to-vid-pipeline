@@ -1,0 +1,16 @@
+{
+  "runNo": 71,
+  "at": "2026-09-23T14:46:53.063Z",
+  "rows": [
+    {
+      "event": "story-lundgren-reveals-he",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
