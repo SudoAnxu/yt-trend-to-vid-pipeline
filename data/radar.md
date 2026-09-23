@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #71 · Updated: 23/09/2026, 20:16:53 (Asia/Kolkata)
+Run #72 · Updated: 23/09/2026, 20:37:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Lundgren Reveals He — 18/100
+### Nathan Fielder — 19/100
 
-**Event:** Lundgren Reveals He: Dolph Lundgren Reveals He Considered Medical Aid in Dying Before Learning His Cancer Was Misdiagnosed
+**Event:** Nathan Fielder: ‘You Can See Everything’ Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates H
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Lundgren Reveals He lundgren reveals he: dolph lundgren reveals he considered medical aid in dying before learning his cancer was misdiagnosed story is actually a money story — the other side of the fight
+> The Nathan Fielder nathan fielder: ‘you can see everything’ trailer: nathan fielder lives with elizabeth holmes, makes her cry and interrogates h story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 17 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
