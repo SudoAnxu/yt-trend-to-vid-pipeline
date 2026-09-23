@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #86 · Updated: 24/09/2026, 02:05:37 (Asia/Kolkata)
+Run #87 · Updated: 24/09/2026, 02:36:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Don Cooper — 26/100
+### Jonathan Taylor — 29/100
 
-**Event:** Don Cooper: trending now
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Don Cooper don cooper: trending now filings actually say — line by line — the other side of the fight
+> The Jonathan Taylor story is a proxy fight about something bigger — what happens next
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Chris Johnson — 24/100
+### Chad Gilbert — 28/100
 
-**Event:** Chris Johnson: opens up about his heartbreaking ALS journey as former NFL star fights for more time with h
+**Event:** Chad Gilbert: , New Found Glory’s founding guitarist, dies aged 45
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Chris Johnson story is a proxy fight about something bigger — the other side of the fight
+> What the Chad Gilbert chad gilbert: , new found glory’s founding guitarist, dies aged 45 filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
-
-### Julia Stiles — 17/100
-
-**Event:** Julia Stiles: julianne hough supports julia stiles
-
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Julia Stiles julia stiles: julianne hough supports julia stiles filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Jason Landry — 19/100
-
-**Event:** Jason Landry: remains found: What’s happened in the 6 years since he went missing?
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jason Landry jason landry: remains of missing texas state student jason landry identified near crash site, ag confirms story is actually a money story — the detail nobody has explained
-
-**Competition:** 9 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
