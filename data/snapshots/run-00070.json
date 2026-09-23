@@ -1,0 +1,23 @@
+{
+  "runNo": 70,
+  "at": "2026-09-23T14:18:21.125Z",
+  "rows": [
+    {
+      "event": "story-lundgren-reveals-he",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jon-hamm",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
