@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #47 · Updated: 23/09/2026, 05:28:46 (Asia/Kolkata)
+Run #48 · Updated: 23/09/2026, 06:21:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Zack Wheeler — 18/100
+### Will Be — 21/100
 
-**Event:** Zack Wheeler: trending now
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Zack Wheeler zack wheeler: trending now filings actually say — line by line — the other side of the fight
+> The Will Be story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
-### Brandon Nimmo — 19/100
+### Tyler Cameron — 25/100
 
-**Event:** Brandon Nimmo: The Mets travel deep in the heart of Texas for a series with Brandon Nimmo and the Rangers
+**Event:** Tyler Cameron: Exclusive | Dylan Efron reacts to Derek Hough's hilarious Tyler Cameron flub on 'DWTS' — and all the viral Tik
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Brandon Nimmo brandon nimmo: the mets travel deep in the heart of texas for a series with brandon nimmo and the rangers filings actually say — line by line — the other side of the fight
+> What the Tyler Cameron tyler cameron: exclusive | dylan efron reacts to derek hough's hilarious tyler cameron flub on 'dwts' — and all the viral tik filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
