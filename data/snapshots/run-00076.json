@@ -1,0 +1,16 @@
+{
+  "runNo": 76,
+  "at": "2026-09-23T17:21:02.291Z",
+  "rows": [
+    {
+      "event": "story-harvey-weinstein",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
