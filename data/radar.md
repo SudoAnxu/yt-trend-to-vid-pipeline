@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #49 · Updated: 23/09/2026, 06:45:20 (Asia/Kolkata)
+Run #50 · Updated: 23/09/2026, 07:08:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Emma Slater — 29/100
+### Simon Cowell — 18/100
 
-**Event:** Emma Slater: and Alan Bersten Compete on Dancing With the Stars
+**Event:** Simon Cowell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Emma Slater story is a proxy fight about something bigger — the other side of the fight
+> The Simon Cowell simon cowell: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
