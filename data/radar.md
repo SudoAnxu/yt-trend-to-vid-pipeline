@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #82 · Updated: 24/09/2026, 00:40:18 (Asia/Kolkata)
+Run #83 · Updated: 24/09/2026, 00:49:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jason Landry — 29/100
+### Jason Landry — 20/100
 
 **Event:** Jason Landry: remains found: What’s happened in the 6 years since he went missing?
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Landry jason landry: remains found: what’s happened in the 6 years since he went missing? story is actually a money story — the detail nobody has explained
+> The Jason Landry jason landry: remains of missing texas state student jason landry identified near crash site, ag confirms story is actually a money story — the detail nobody has explained
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 ### Tim Janus — 16/100
 
 **Event:** Tim Janus: eater x tim janus
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Tim Janus tim janus: eater x tim janus filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
