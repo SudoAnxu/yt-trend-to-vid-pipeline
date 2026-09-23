@@ -1,0 +1,16 @@
+{
+  "runNo": 94,
+  "at": "2026-09-23T23:52:18.735Z",
+  "rows": [
+    {
+      "event": "story-lucas-museum",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
