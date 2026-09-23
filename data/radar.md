@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #53 · Updated: 23/09/2026, 11:08:13 (Asia/Kolkata)
+Run #54 · Updated: 23/09/2026, 11:38:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Jon Hamm — 23/100
+
+**Event:** Jon Hamm: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jon Hamm jon hamm: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
