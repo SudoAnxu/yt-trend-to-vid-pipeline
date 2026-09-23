@@ -1,0 +1,16 @@
+{
+  "runNo": 68,
+  "at": "2026-09-23T13:48:29.913Z",
+  "rows": [
+    {
+      "event": "story-benjamin-netanyahu",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
