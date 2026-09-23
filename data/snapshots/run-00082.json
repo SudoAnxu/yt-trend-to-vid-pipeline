@@ -1,0 +1,23 @@
+{
+  "runNo": 82,
+  "at": "2026-09-23T19:10:18.187Z",
+  "rows": [
+    {
+      "event": "story-jason-landry",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-tim-janus",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
