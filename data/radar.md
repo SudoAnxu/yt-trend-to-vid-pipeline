@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #74 · Updated: 23/09/2026, 21:00:18 (Asia/Kolkata)
+Run #75 · Updated: 23/09/2026, 21:15:13 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Palantir Reveals Its: AI Sovereignty Strategy And Wall Street Is Starting to Believe It
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Nathan Fielder — 18/100
+### Nathan Fielder — 15/100
 
 **Event:** Nathan Fielder: ‘You Can See Everything’ Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates H
 
-**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 12 (-11 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -42,17 +42,17 @@ Sources this run: trends(40)
 
 **Competition:** 19 videos in last 6h · TTS ≈ 4.9h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Billy Evans — 18/100
+### Holmes Gets Vulnerable — 21/100
 
-**Event:** Billy Evans: Nathan Fielder Questions Elizabeth Holmes, Billy Evans in ‘You Can See Everything’ Trailer
+**Event:** Holmes Gets Vulnerable: ‘You Can See Everything’ Full Trailer: Elizabeth Holmes Gets Vulnerable In A24 Film Ahead Of October 16 Releas
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Billy Evans billy evans: nathan fielder questions elizabeth holmes, billy evans in ‘you can see everything’ trailer story is actually a money story — the other side of the fight
+> The Holmes Gets Vulnerable holmes gets vulnerable: ‘you can see everything’ full trailer: elizabeth holmes gets vulnerable in a24 film ahead of october 16 releas story is actually a money story — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Nathan Fielder's: Nathan Fielder’s Elizabeth Holmes Doc Drops Full Trailer — and You Will Want to See Everything
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Will Want: Nathan Fielder’s Elizabeth Holmes Doc Drops Full Trailer — and You Will Want to See Everything
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -90,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Doc Drops Full: Nathan Fielder’s Elizabeth Holmes Doc Drops Full Trailer — and You Will Want to See Everything
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -104,7 +104,7 @@ Sources this run: trends(40)
 
 **Event:** Photographer Says He: Questioned Everything After Shoot With Elizabeth Holmes
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
