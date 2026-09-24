@@ -1,0 +1,44 @@
+{
+  "runNo": 135,
+  "at": "2026-09-24T21:10:10.313Z",
+  "rows": [
+    {
+      "event": "story-nick-chubb",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-skenes",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-skenes-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-spencer-horwitz-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-penix",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
