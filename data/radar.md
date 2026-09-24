@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #119 · Updated: 24/09/2026, 20:12:10 (Asia/Kolkata)
+Run #120 · Updated: 24/09/2026, 20:47:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Jon Hamm — 28/100
+
+**Event:** Jon Hamm: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+4 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jon Hamm jon hamm: , 55, breaks his silence about becoming a first-time “old dad” with surprising confession story is actually a money story — the detail nobody has explained
+
+**Competition:** 5 videos in last 6h · TTS ≈ 9.6h · sources: trends, news
+
+**Status:** KEPT
 
 ### John Hamm — 17/100
 
 **Event:** John Hamm: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,43 +44,15 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jon Hamm — 26/100
+### Jon Hamm-led — 19/100
 
-**Event:** Jon Hamm: trending now
+**Event:** Jon Hamm-led: 'American Hostage' cast previews Jon Hamm-led crime thriller based on 1977 infamous incident
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-9 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jon Hamm jon hamm: , 55, breaks his silence about becoming a first-time “old dad” with surprising confession filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Colin Farrell — 20/100
-
-**Event:** Colin Farrell: Taylor Swift Drops New 13-Second ‘Patient Zero’ Music Video Tease Featuring Dakota Johnson and Colin Farrell
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Colin Farrell colin farrell: taylor swift drops new 13-second ‘patient zero’ music video tease featuring dakota johnson and colin farrell filings actually say — line by line — the part that was not supposed to be public
-
-**Competition:** 16 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Swift Drops New — 23/100
-
-**Event:** Swift Drops New: Taylor Swift Drops New 13-Second ‘Patient Zero’ Music Video Tease Featuring Dakota Johnson and Colin Farrell
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 11 · risk 64 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Swift Drops New swift drops new: taylor swift drops new 13-second ‘patient zero’ music video tease featuring dakota johnson and colin farrell filings actually say — line by line — the part that was not supposed to be public
+> What the Jon Hamm-led jon hamm-led: 'american hostage' cast previews jon hamm-led crime thriller based on 1977 infamous incident filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 

@@ -1,0 +1,30 @@
+{
+  "runNo": 120,
+  "at": "2026-09-24T15:17:56.201Z",
+  "rows": [
+    {
+      "event": "story-jon-hamm",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-hamm",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-jon-hamm-led",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
