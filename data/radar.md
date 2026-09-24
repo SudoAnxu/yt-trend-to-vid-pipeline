@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #111 · Updated: 24/09/2026, 16:55:53 (Asia/Kolkata)
+Run #112 · Updated: 24/09/2026, 17:34:42 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 20 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
