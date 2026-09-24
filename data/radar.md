@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #99 · Updated: 24/09/2026, 08:49:21 (Asia/Kolkata)
+Run #100 · Updated: 24/09/2026, 10:35:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Tom Bateman — 17/100
-
-**Event:** Tom Bateman: Inside Tom Bateman & Daisy Ridley’s Married Life
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tom Bateman tom bateman: inside tom bateman & daisy ridley’s married life story is actually a money story — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
