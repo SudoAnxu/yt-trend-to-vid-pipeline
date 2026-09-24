@@ -1,0 +1,23 @@
+{
+  "runNo": 132,
+  "at": "2026-09-24T20:04:22.030Z",
+  "rows": [
+    {
+      "event": "story-paul-skenes",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-chad-bianco",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
