@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #102 · Updated: 24/09/2026, 11:47:44 (Asia/Kolkata)
+Run #103 · Updated: 24/09/2026, 12:31:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,29 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Aaron Judge — 14/100
-
-**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
-
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-13 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 2.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Aaron Judge situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Josh Hader — 23/100
+### Josh Hader — 22/100
 
 **Event:** Josh Hader: Astros’ facing make-or-break moment with Josh Hader trade decision
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 4 · risk 64 · external momentum 21 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,21 +34,21 @@ Sources this run: trends(40)
 
 **Event:** Ethan Hawke: Explains Why It’s Important to ‘Have a Backbone’ If ‘You’re Going to Be in the Public Sphere’ (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Ethan Hawke ethan hawke: explains why it’s important to ‘have a backbone’ if ‘you’re going to be in the public sphere’ (exclusive) story is actually a money story — the detail nobody has explained
 
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Ethan Hawke's — 20/100
+### Ethan Hawke's — 21/100
 
 **Event:** Ethan Hawke's: Ethan Hawke’s 109-Minute Horror Hit That Set A Major Genre Record Secures Massive Streaming Achievement
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -76,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** App Reveals Mythic: XBOX PC App Reveals Mythic Achievement Unlock Sound & Symbol
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 

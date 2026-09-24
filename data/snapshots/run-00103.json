@@ -1,0 +1,37 @@
+{
+  "runNo": 103,
+  "at": "2026-09-24T07:01:13.475Z",
+  "rows": [
+    {
+      "event": "story-josh-hader",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 21,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ethan-hawke",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-hawke-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-app-reveals-mythic",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
