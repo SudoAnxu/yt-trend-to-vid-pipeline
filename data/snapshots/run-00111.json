@@ -1,0 +1,16 @@
+{
+  "runNo": 111,
+  "at": "2026-09-24T11:25:53.207Z",
+  "rows": [
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
