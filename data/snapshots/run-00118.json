@@ -1,0 +1,44 @@
+{
+  "runNo": 118,
+  "at": "2026-09-24T14:16:56.917Z",
+  "rows": [
+    {
+      "event": "story-jon-hamm",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-hamm",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jon-hamm-led",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-colin-farrell",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-swift-drops-new",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
