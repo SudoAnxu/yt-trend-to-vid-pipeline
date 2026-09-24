@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #100 · Updated: 24/09/2026, 10:35:51 (Asia/Kolkata)
+Run #101 · Updated: 24/09/2026, 11:26:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,9 +12,23 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Lawrence Tanter — 24/100
+
+**Event:** Lawrence Tanter: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Lawrence Tanter lawrence tanter: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 12 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

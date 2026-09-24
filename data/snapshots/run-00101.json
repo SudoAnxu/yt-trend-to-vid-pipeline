@@ -1,0 +1,16 @@
+{
+  "runNo": 101,
+  "at": "2026-09-24T05:56:16.676Z",
+  "rows": [
+    {
+      "event": "story-lawrence-tanter",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
