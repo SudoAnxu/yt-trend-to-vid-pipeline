@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #106 · Updated: 24/09/2026, 14:12:38 (Asia/Kolkata)
+Run #107 · Updated: 24/09/2026, 14:21:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Kate Mara: Orlando Bloom’s Threesome Scene in ‘Bucking Fastard’ With Real-Life Sisters Rooney and Kate Mara Slammed as ‘A
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Kate Mara kate mara: orlando bloom’s threesome scene in ‘bucking fastard’ with real-life sisters rooney and kate mara slammed as ‘a story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 8h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Charles Spencer's: ‘My Husband Is in Love With His Valet’: Takeaways From Charles Spencer’s Memoir
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
