@@ -1,0 +1,23 @@
+{
+  "runNo": 105,
+  "at": "2026-09-24T07:55:26.302Z",
+  "rows": [
+    {
+      "event": "story-charles-spencer-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-hader",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
