@@ -1,0 +1,16 @@
+{
+  "runNo": 140,
+  "at": "2026-09-24T23:16:22.179Z",
+  "rows": [
+    {
+      "event": "story-ben-rice",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
