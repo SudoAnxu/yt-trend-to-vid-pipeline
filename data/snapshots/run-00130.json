@@ -1,0 +1,23 @@
+{
+  "runNo": 130,
+  "at": "2026-09-24T19:25:23.720Z",
+  "rows": [
+    {
+      "event": "story-benjamin-netanyahu-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-collection-makes-recovery",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
