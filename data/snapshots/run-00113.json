@@ -1,0 +1,37 @@
+{
+  "runNo": 113,
+  "at": "2026-09-24T12:27:59.579Z",
+  "rows": [
+    {
+      "event": "story-will-jacks",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alexandra-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-eala-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

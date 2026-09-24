@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #112 · Updated: 24/09/2026, 17:34:42 (Asia/Kolkata)
+Run #113 · Updated: 24/09/2026, 17:58:00 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,21 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Will Jacks — 19/100
+
+**Event:** Will Jacks: five-for seals comfortable England defence of 265
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Will Jacks will jacks: five-for seals comfortable england defence of 265 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Alexandra Eala — 17/100
+
+**Event:** Alexandra Eala: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 ### Alex Eala — 14/100
 
 **Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 1 source lane(s): news · momentum 20 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Alex Eala alex eala: aims for second wta 500 title at singapore tennis open story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+
+**Status:** RESEARCH
+
+### Alex Eala's — 19/100
+
+**Event:** Alex Eala's: Coach Sandro talks about Alex Eala's game ahead of Singapore Open run: 'She's hitting harder'
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Alex Eala's alex eala's: coach sandro talks about alex eala's game ahead of singapore open run: 'she's hitting harder' filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
