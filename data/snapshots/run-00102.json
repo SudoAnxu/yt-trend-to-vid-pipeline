@@ -1,0 +1,44 @@
+{
+  "runNo": 102,
+  "at": "2026-09-24T06:17:43.466Z",
+  "rows": [
+    {
+      "event": "story-aaron-judge",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-hader",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ethan-hawke",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-hawke-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-app-reveals-mythic",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
