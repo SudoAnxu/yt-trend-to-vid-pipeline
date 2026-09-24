@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #96 · Updated: 24/09/2026, 06:15:11 (Asia/Kolkata)
+Run #97 · Updated: 24/09/2026, 06:34:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,63 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Angel Reese's — 19/100
+### Adam Levine — 27/100
 
-**Event:** Angel Reese's: NY Liberty Star Sends Clear Warning After Angel Reese's Blunt Postgame Take On Latest Win
+**Event:** Adam Levine: ‘The Voice’ recap: Adam Levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Angel Reese's angel reese's: how angel reese’s controversial defensive play led to a rare technical foul in dream-liberty filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mark Zuckerberg — 18/100
-
-**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 8 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mark Zuckerberg mark zuckerberg: exclusive mark zuckerberg interview: new audio glasses, muse and ai killing us all story is actually a money story — the other side of the fight
+> The Adam Levine adam levine: ‘the voice’ recap: adam levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 9 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Ken Jennings — 27/100
+### Steve Martin — 28/100
 
-**Event:** Ken Jennings: trending now
+**Event:** Steve Martin: , Sting, Cash Money top must-see St. Louis concerts in October
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Steve Martin steve martin: , sting, cash money top must-see st. louis concerts in october story is actually a money story — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Anthony Bourdain — 23/100
+
+**Event:** Anthony Bourdain: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ken Jennings ken jennings: trending now filings actually say — line by line — the other side of the fight
+> The Anthony Bourdain anthony bourdain: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Riley Green — 27/100
+
+**Event:** Riley Green: Kelly Clarkson Had a Shocking Reaction to a ‘Voice’ Contestant Who Couldn’t Stop Staring at Riley Green
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Riley Green story is a proxy fight about something bigger — the part that was not supposed to be public
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
