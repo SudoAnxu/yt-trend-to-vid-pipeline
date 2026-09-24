@@ -1,0 +1,30 @@
+{
+  "runNo": 108,
+  "at": "2026-09-24T09:28:37.522Z",
+  "rows": [
+    {
+      "event": "story-kate-mara",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-charles-spencer-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-crace",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
