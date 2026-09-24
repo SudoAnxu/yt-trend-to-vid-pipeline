@@ -1,0 +1,16 @@
+{
+  "runNo": 137,
+  "at": "2026-09-24T21:52:35.787Z",
+  "rows": [
+    {
+      "event": "story-tim-tebow",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
