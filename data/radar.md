@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #124 · Updated: 24/09/2026, 22:56:12 (Asia/Kolkata)
+Run #125 · Updated: 24/09/2026, 23:14:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Peter Alexander — 22/100
+
+**Event:** Peter Alexander: on the intersection of U.S. presidents and golf ahead of the Presidents Cup
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Peter Alexander peter alexander: on the intersection of u.s. presidents and golf ahead of the presidents cup filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
