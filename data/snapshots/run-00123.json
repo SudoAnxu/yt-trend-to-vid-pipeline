@@ -1,0 +1,37 @@
+{
+  "runNo": 123,
+  "at": "2026-09-24T16:06:29.213Z",
+  "rows": [
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-jacobs-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-rob-gronkowski",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-vrabel",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
