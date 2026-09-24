@@ -1,0 +1,16 @@
+{
+  "runNo": 104,
+  "at": "2026-09-24T07:46:04.099Z",
+  "rows": [
+    {
+      "event": "story-josh-hader",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
