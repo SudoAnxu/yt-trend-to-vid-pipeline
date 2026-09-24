@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #120 · Updated: 24/09/2026, 20:47:56 (Asia/Kolkata)
+Run #121 · Updated: 24/09/2026, 21:13:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jon Hamm — 28/100
+### Josh Jacobs — 26/100
+
+**Event:** Josh Jacobs: news
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Josh Jacobs josh jacobs: news filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jon Hamm — 24/100
 
 **Event:** Jon Hamm: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+4 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-6 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jon Hamm jon hamm: , 55, breaks his silence about becoming a first-time “old dad” with surprising confession story is actually a money story — the detail nobody has explained
+> What the Jon Hamm jon hamm: , 55, breaks his silence about becoming a first-time “old dad” with surprising confession filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 5 videos in last 6h · TTS ≈ 9.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** KEPT
-
-### John Hamm — 17/100
-
-**Event:** John Hamm: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Hamm john hamm: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Jon Hamm-led — 19/100
-
-**Event:** Jon Hamm-led: 'American Hostage' cast previews Jon Hamm-led crime thriller based on 1977 infamous incident
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jon Hamm-led jon hamm-led: 'american hostage' cast previews jon hamm-led crime thriller based on 1977 infamous incident filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>

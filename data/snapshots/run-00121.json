@@ -1,0 +1,23 @@
+{
+  "runNo": 121,
+  "at": "2026-09-24T15:43:49.659Z",
+  "rows": [
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-jon-hamm",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
