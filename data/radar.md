@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #125 · Updated: 24/09/2026, 23:14:00 (Asia/Kolkata)
+Run #126 · Updated: 24/09/2026, 23:26:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(39)
 
@@ -16,11 +16,11 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Peter Alexander — 22/100
+### Peter Alexander — 21/100
 
 **Event:** Peter Alexander: on the intersection of U.S. presidents and golf ahead of the Presidents Cup
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
