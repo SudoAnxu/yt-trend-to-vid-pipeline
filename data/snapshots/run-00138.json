@@ -1,0 +1,16 @@
+{
+  "runNo": 138,
+  "at": "2026-09-24T22:35:04.646Z",
+  "rows": [
+    {
+      "event": "story-chris-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

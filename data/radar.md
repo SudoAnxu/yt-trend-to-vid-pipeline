@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #137 · Updated: 25/09/2026, 03:22:36 (Asia/Kolkata)
+Run #138 · Updated: 25/09/2026, 04:05:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tim Tebow — 20/100
+### Chris Brown — 25/100
 
-**Event:** Tim Tebow: Life Surge Financial Courses Under Fire For Allegedly Charging Up to $50K
+**Event:** Chris Brown: Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tim Tebow tim tebow: life surge financial courses under fire for allegedly charging up to $50k filings actually say — line by line — what happens next
+> The Chris Brown chris brown: judge poised to slash $12.9 million jury award in chris brown dog mauling case story is actually a money story — the number behind the headline
 
-**Competition:** 9 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
