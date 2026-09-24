@@ -1,0 +1,37 @@
+{
+  "runNo": 98,
+  "at": "2026-09-24T01:35:47.604Z",
+  "rows": [
+    {
+      "event": "story-simon-cowell",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-affleck",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-levine",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-bourdain",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
