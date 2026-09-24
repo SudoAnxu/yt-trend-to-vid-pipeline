@@ -1,0 +1,16 @@
+{
+  "runNo": 127,
+  "at": "2026-09-24T18:06:59.479Z",
+  "rows": [
+    {
+      "event": "story-pilot-makes-sharp",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

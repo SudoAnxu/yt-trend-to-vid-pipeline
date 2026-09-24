@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #126 · Updated: 24/09/2026, 23:26:11 (Asia/Kolkata)
+Run #127 · Updated: 24/09/2026, 23:36:59 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(39)
 
@@ -16,17 +16,17 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Peter Alexander — 21/100
+### Pilot Makes Sharp — 18/100
 
-**Event:** Peter Alexander: on the intersection of U.S. presidents and golf ahead of the Presidents Cup
+**Event:** Pilot Makes Sharp: American Airlines Flight 167 Avoids The Pacific Ocean As Pilot Makes Sharp Turn Back To The U.S.: Flight Diver
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Peter Alexander peter alexander: on the intersection of u.s. presidents and golf ahead of the presidents cup filings actually say — line by line — the other side of the fight
+> The Pilot Makes Sharp pilot makes sharp: american airlines flight 167 avoids the pacific ocean as pilot makes sharp turn back to the u.s.: flight diver story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
