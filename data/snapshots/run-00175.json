@@ -1,0 +1,30 @@
+{
+  "runNo": 175,
+  "at": "2026-09-25T18:11:07.662Z",
+  "rows": [
+    {
+      "event": "story-netflix-reveals-first",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-vincent-cassel",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-noah-woods",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

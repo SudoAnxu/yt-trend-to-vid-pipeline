@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #174 · Updated: 25/09/2026, 23:32:58 (Asia/Kolkata)
+Run #175 · Updated: 25/09/2026, 23:41:08 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Netflix Reveals First: Look at Upcoming Live-Action Remake of a Disney Classic
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Vincent Cassel: Quasimodo, the heart of Paris: Vincent Cassel stars as the famous hunchback on Netflix
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Noah Woods: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 10 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 10 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
