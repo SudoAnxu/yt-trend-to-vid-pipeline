@@ -1,0 +1,30 @@
+{
+  "runNo": 180,
+  "at": "2026-09-25T20:05:35.946Z",
+  "rows": [
+    {
+      "event": "story-nathan-fielder",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cruise-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
