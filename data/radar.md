@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #156 · Updated: 25/09/2026, 15:15:43 (Asia/Kolkata)
+Run #157 · Updated: 25/09/2026, 15:29:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
 
-**Why now:** 1 source lane(s): news · momentum 12 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Rob Lowe — 31/100
+### Rob Lowe — 25/100
 
 **Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Rob Lowe rob lowe: explains why he was ‘the only person happy’ when will smith slapped chris rock at the oscars story is actually a money story — the detail nobody has explained
 
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Will Smith: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
