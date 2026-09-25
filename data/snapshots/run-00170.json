@@ -1,0 +1,16 @@
+{
+  "runNo": 170,
+  "at": "2026-09-25T15:52:37.065Z",
+  "rows": [
+    {
+      "event": "story-nick-bosa",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
