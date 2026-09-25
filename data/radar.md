@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #142 · Updated: 25/09/2026, 05:28:36 (Asia/Kolkata)
+Run #143 · Updated: 25/09/2026, 05:45:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Michael Penix — 12/100
+### Josh Jacobs — 29/100
+
+**Event:** Josh Jacobs: news
+
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+1 vs prev run) · spice 24 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Jacobs josh jacobs: what happened to josh jacobs? latest on the packers star’s legal issues and why he’s not playing on tnf vs. fa story is actually a money story — the detail nobody has explained
+
+**Competition:** 17 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** KEPT
+
+### Luis Arraez — 22/100
+
+**Event:** Luis Arraez: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Luis Arraez luis arraez: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 18 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Michael Penix — 13/100
 
 **Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,31 +58,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### John Madden — 15/100
+### John Madden — 14/100
 
 **Event:** John Madden: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The John Madden john madden: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 24 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Olivia Miles — 19/100
-
-**Event:** Olivia Miles: Live: Lynx can clinch No. 1 playoff seed vs. Caitlin Clark and the Fever. Will Olivia Miles play?
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Olivia Miles olivia miles: lynx clinch no. 1 seed despite 'embarrassing' loss to fever, olivia miles dealing with calf injury filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 24 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
