@@ -1,0 +1,16 @@
+{
+  "runNo": 162,
+  "at": "2026-09-25T12:52:42.732Z",
+  "rows": [
+    {
+      "event": "story-noah-woods",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
