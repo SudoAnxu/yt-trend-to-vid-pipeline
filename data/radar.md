@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #172 · Updated: 25/09/2026, 22:55:31 (Asia/Kolkata)
+Run #173 · Updated: 25/09/2026, 23:15:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Noah Woods — 23/100
+### Noah Woods — 24/100
 
 **Event:** Noah Woods: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 4.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 10 · risk 34 · forecast window elapsed (TTS 4.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Charles Spencer's: ‘My Husband Is in Love With His Valet’: Takeaways From Charles Spencer’s Memoir
 
-**Why now:** 1 source lane(s): news · momentum 20 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,20 +43,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
 
 **Status:** ARCHIVED
-
-### Mark Consuelos — 27/100
-
-**Event:** Mark Consuelos: Announces ‘Major Surgery’ in ‘Live’ Health Update
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mark Consuelos mark consuelos: announces ‘major surgery’ in ‘live’ health update filings actually say — line by line — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>

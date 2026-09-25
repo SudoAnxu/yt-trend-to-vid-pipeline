@@ -1,0 +1,23 @@
+{
+  "runNo": 173,
+  "at": "2026-09-25T17:45:17.415Z",
+  "rows": [
+    {
+      "event": "story-noah-woods",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-charles-spencer-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
