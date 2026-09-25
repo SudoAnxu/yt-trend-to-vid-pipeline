@@ -1,0 +1,51 @@
+{
+  "runNo": 154,
+  "at": "2026-09-25T09:03:16.772Z",
+  "rows": [
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-rachel-dolezal-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-hannah-gann",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-ted-kaczynski",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jacob-tremblay",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
