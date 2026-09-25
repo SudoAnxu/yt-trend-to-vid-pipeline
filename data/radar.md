@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #177 · Updated: 26/09/2026, 00:36:16 (Asia/Kolkata)
+Run #178 · Updated: 26/09/2026, 00:56:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(39)
 
@@ -16,11 +16,11 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Tom Cruise's — 22/100
+### Tom Cruise's — 21/100
 
 **Event:** Tom Cruise's: Tom Cruise’s Sweet Gesture Toward Kate Middleton Actually Breaks This Royal Rule
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(39)
 
 **Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
