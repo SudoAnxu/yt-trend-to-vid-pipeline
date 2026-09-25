@@ -1,0 +1,30 @@
+{
+  "runNo": 187,
+  "at": "2026-09-25T23:11:11.808Z",
+  "rows": [
+    {
+      "event": "story-chris-spatola",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-verlander",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-ray-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

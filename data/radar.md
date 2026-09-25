@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #186 · Updated: 26/09/2026, 04:03:50 (Asia/Kolkata)
+Run #187 · Updated: 26/09/2026, 04:41:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Luis Arraez — 14/100
+### Chris Spatola — 27/100
 
-**Event:** Luis Arraez: trending now
+**Event:** Chris Spatola: cause of death
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Luis Arraez luis arraez: (ankle) out as phillies eye 5th straight playoff story is actually a money story — the other side of the fight
+> What the Chris Spatola chris spatola: cause of death filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Will Smith — 21/100
+### Justin Verlander — 24/100
 
-**Event:** Will Smith: trending now
+**Event:** Justin Verlander: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+16 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Will Smith will smith: rob lowe explains why he was ‘the only person happy’ when will smith slapped chris rock at the oscars story is actually a money story — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Rob Lowe — 21/100
-
-**Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
-
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-6 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Rob Lowe rob lowe: explains why he was ‘the only person happy’ when will smith slapped chris rock at the oscars story is actually a money story — the detail nobody has explained
+> The Justin Verlander story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Chris Rock — 19/100
+### Ray Kerr — 25/100
 
-**Event:** Chris Rock: Rob Lowe explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
+**Event:** Ray Kerr: Braves vs. Marlins chat and discussion: Ray Kerr vs. Eury Pérez
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Chris Rock chris rock: rob lowe explains why he was ‘the only person happy’ when will smith slapped chris rock at the oscars story is actually a money story — the detail nobody has explained
+> What the Ray Kerr ray kerr: braves vs. marlins chat and discussion: ray kerr vs. eury pérez filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
