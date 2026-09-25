@@ -1,0 +1,23 @@
+{
+  "runNo": 145,
+  "at": "2026-09-25T01:09:16.613Z",
+  "rows": [
+    {
+      "event": "story-brandon-dorlus",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ian-happ",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
