@@ -1,0 +1,16 @@
+{
+  "runNo": 165,
+  "at": "2026-09-25T14:13:23.768Z",
+  "rows": [
+    {
+      "event": "story-david-jonsson",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
