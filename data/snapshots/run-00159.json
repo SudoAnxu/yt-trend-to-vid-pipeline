@@ -1,0 +1,37 @@
+{
+  "runNo": 159,
+  "at": "2026-09-25T11:31:22.687Z",
+  "rows": [
+    {
+      "event": "story-noah-woods",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-rubenstein",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-alford",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

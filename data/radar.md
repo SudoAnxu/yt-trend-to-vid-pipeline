@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #158 · Updated: 25/09/2026, 15:58:33 (Asia/Kolkata)
+Run #159 · Updated: 25/09/2026, 17:01:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Adrian Mannarino — 23/100
+### Noah Woods — 31/100
 
-**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
+**Event:** Noah Woods: trending now
 
-**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Adrian Mannarino adrian mannarino: alejandro tabilo vs adrian mannarino prediction - atp chengdu 2026 filings actually say — line by line — the other side of the fight
+> What the Noah Woods noah woods: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Alex Eala — 14/100
+
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+
+**Why now:** 1 source lane(s): news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alex Eala story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news
 
 **Status:** KEPT
+
+### David Rubenstein — 29/100
+
+**Event:** David Rubenstein: Billionaire David Rubenstein talks sports, his worst investing mistakes, and where AI stocks are headed
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The David Rubenstein david rubenstein: billionaire david rubenstein talks sports, his worst investing mistakes, and where ai stocks are headed story is actually a money story — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Steve Alford — 27/100
+
+**Event:** Steve Alford: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Steve Alford steve alford: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
