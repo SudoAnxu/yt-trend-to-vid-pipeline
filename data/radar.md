@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #167 · Updated: 25/09/2026, 20:33:29 (Asia/Kolkata)
+Run #168 · Updated: 25/09/2026, 20:52:11 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,11 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### David Jonsson — 21/100
+### David Jonsson — 20/100
 
 **Event:** David Jonsson: Shares First Look at His Physical Training Since He Was Named Next Black Panther Star
 
-**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(38)
 
 **Event:** Jonsson Shares First: David Jonsson Shares First Look at His Physical Training Since He Was Named Next Black Panther Star
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(38)
 
 **Event:** Jonsson Gives Glimpse: David Jonsson Gives Glimpse into His Black Panther Training.
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(38)
 
 **Event:** Will Win: Experts Predict: Who Will Win Laver Cup London 2026?
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 

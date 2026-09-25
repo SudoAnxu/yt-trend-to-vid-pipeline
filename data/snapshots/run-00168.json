@@ -1,0 +1,37 @@
+{
+  "runNo": 168,
+  "at": "2026-09-25T15:22:11.444Z",
+  "rows": [
+    {
+      "event": "story-david-jonsson",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonsson-shares-first",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jonsson-gives-glimpse",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-win",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
