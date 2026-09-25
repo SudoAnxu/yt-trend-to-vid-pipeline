@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #159 · Updated: 25/09/2026, 17:01:23 (Asia/Kolkata)
+Run #160 · Updated: 25/09/2026, 17:34:32 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,57 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Noah Woods — 31/100
+### Noah Woods — 26/100
 
 **Event:** Noah Woods: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Noah Woods noah woods: trending now filings actually say — line by line — the other side of the fight
+> What the Noah Woods noah woods: ‘went missing from playground through gap in fence’ filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Alex Eala — 14/100
-
-**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
-
-**Why now:** 1 source lane(s): news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alex Eala story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news
-
-**Status:** KEPT
-
-### David Rubenstein — 29/100
+### David Rubenstein — 23/100
 
 **Event:** David Rubenstein: Billionaire David Rubenstein talks sports, his worst investing mistakes, and where AI stocks are headed
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The David Rubenstein david rubenstein: billionaire david rubenstein talks sports, his worst investing mistakes, and where ai stocks are headed story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Steve Alford — 27/100
+### Steve Alford — 23/100
 
 **Event:** Steve Alford: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 0 · risk 64 · external momentum 30 below 45 — watching, not striking
 
 **Recommended angle**
 
