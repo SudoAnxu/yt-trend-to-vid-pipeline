@@ -1,0 +1,30 @@
+{
+  "runNo": 146,
+  "at": "2026-09-25T01:43:23.029Z",
+  "rows": [
+    {
+      "event": "story-michael-penix",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-bowman",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-folk",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

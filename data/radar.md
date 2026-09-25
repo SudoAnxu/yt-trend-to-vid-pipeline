@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #145 · Updated: 25/09/2026, 06:39:17 (Asia/Kolkata)
+Run #146 · Updated: 25/09/2026, 07:13:23 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Brandon Dorlus — 22/100
+### Michael Penix — 13/100
 
-**Event:** Brandon Dorlus: News: Practices in full Tuesday
+**Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Brandon Dorlus brandon dorlus: news: practices in full tuesday filings actually say — line by line — the other side of the fight
+> The Michael Penix story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Billy Bowman — 19/100
+
+**Event:** Billy Bowman: Thursday Night Football: Falcons CB Billy Bowman will make his 2026 debut
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Billy Bowman billy bowman: thursday night football: falcons cb billy bowman will make his 2026 debut filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Ian Happ — 25/100
+### Nick Folk — 31/100
 
-**Event:** Ian Happ: trending now
+**Event:** Nick Folk: Fromal’s Kicking Notebook: Assessing Nick Folk panic and NFL Week 1 standouts
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ian Happ ian happ: trending now story is actually a money story — the other side of the fight
+> The Nick Folk story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
