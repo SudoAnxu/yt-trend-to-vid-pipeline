@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #149 · Updated: 25/09/2026, 11:27:27 (Asia/Kolkata)
+Run #150 · Updated: 25/09/2026, 11:43:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Adrian Mannarino — 25/100
+
+**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Adrian Mannarino adrian mannarino: alejandro tabilo vs adrian mannarino prediction - atp chengdu 2026 filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
