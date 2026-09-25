@@ -1,0 +1,37 @@
+{
+  "runNo": 148,
+  "at": "2026-09-25T05:08:32.387Z",
+  "rows": [
+    {
+      "event": "story-joe-alwyn",
+      "alert": "ARCHIVE",
+      "opportunity": 38,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-noah-kahan",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-salas",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
