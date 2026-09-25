@@ -1,0 +1,16 @@
+{
+  "runNo": 147,
+  "at": "2026-09-25T03:37:18.474Z",
+  "rows": [
+    {
+      "event": "story-will-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
