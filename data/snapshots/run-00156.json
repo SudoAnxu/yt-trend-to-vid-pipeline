@@ -1,0 +1,30 @@
+{
+  "runNo": 156,
+  "at": "2026-09-25T09:45:43.469Z",
+  "rows": [
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
