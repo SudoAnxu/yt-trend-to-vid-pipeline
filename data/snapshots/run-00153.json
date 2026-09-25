@@ -1,0 +1,23 @@
+{
+  "runNo": 153,
+  "at": "2026-09-25T08:18:29.578Z",
+  "rows": [
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-victor-valverde",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
