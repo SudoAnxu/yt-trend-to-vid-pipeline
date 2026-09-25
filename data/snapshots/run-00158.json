@@ -1,0 +1,16 @@
+{
+  "runNo": 158,
+  "at": "2026-09-25T10:28:33.709Z",
+  "rows": [
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
