@@ -1,0 +1,16 @@
+{
+  "runNo": 169,
+  "at": "2026-09-25T15:44:45.474Z",
+  "rows": [
+    {
+      "event": "story-nick-bosa",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
