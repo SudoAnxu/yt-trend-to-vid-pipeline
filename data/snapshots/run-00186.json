@@ -1,0 +1,37 @@
+{
+  "runNo": 186,
+  "at": "2026-09-25T22:33:49.429Z",
+  "rows": [
+    {
+      "event": "story-luis-arraez",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-rock",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
