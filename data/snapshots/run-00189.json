@@ -1,0 +1,16 @@
+{
+  "runNo": 189,
+  "at": "2026-09-25T23:55:27.638Z",
+  "rows": [
+    {
+      "event": "story-olivia-rodrigo",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
