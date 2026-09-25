@@ -1,0 +1,30 @@
+{
+  "runNo": 188,
+  "at": "2026-09-25T23:22:04.524Z",
+  "rows": [
+    {
+      "event": "story-chris-spatola",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-verlander",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-ray-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
