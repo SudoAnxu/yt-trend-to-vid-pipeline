@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #170 · Updated: 25/09/2026, 21:22:37 (Asia/Kolkata)
+Run #171 · Updated: 25/09/2026, 21:37:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Nick Bosa: injury
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Nick Bosa filing that will matter in six months — the other side of the fight
+> The Nick Bosa story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 24 videos in last 6h · TTS ≈ 12h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** RESEARCH
 
