@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #173 · Updated: 25/09/2026, 23:15:18 (Asia/Kolkata)
+Run #174 · Updated: 25/09/2026, 23:32:58 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Noah Woods — 24/100
+### Netflix Reveals First — 19/100
+
+**Event:** Netflix Reveals First: Look at Upcoming Live-Action Remake of a Disney Classic
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Netflix Reveals First netflix reveals first: look at upcoming live-action remake of a disney classic filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Vincent Cassel — 22/100
+
+**Event:** Vincent Cassel: Quasimodo, the heart of Paris: Vincent Cassel stars as the famous hunchback on Netflix
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Vincent Cassel story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Noah Woods — 23/100
 
 **Event:** Noah Woods: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 10 · risk 34 · forecast window elapsed (TTS 4.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 10 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Noah Woods noah woods: what happened to noah woods story is actually a money story — the detail nobody has explained
 
-**Competition:** 8 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** KEPT
-
-### Charles Spencer's — 19/100
-
-**Event:** Charles Spencer's: ‘My Husband Is in Love With His Valet’: Takeaways From Charles Spencer’s Memoir
-
-**Why now:** 1 source lane(s): news · momentum 19 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Charles Spencer's charles spencer's: ‘my husband is in love with his valet’: takeaways from charles spencer’s memoir filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
