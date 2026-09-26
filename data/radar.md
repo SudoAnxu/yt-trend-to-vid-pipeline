@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #194 · Updated: 26/09/2026, 07:17:36 (Asia/Kolkata)
+Run #195 · Updated: 26/09/2026, 09:12:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Josh Hoover — 23/100
+### Jennifer Aniston — 23/100
 
-**Event:** Josh Hoover: Indiana's Curt Cignetti blasts 'unfair scrutiny' of QB Josh Hoover
+**Event:** Jennifer Aniston: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Josh Hoover josh hoover: indiana's curt cignetti blasts 'unfair scrutiny' of qb josh hoover story is actually a money story — the other side of the fight
+> The Jennifer Aniston jennifer aniston: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 18 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
