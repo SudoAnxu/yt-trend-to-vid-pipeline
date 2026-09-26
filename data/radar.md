@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #195 · Updated: 26/09/2026, 09:12:51 (Asia/Kolkata)
+Run #196 · Updated: 26/09/2026, 10:42:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jennifer Aniston — 23/100
+### Chris Johnson — 12/100
 
-**Event:** Jennifer Aniston: trending now
+**Event:** Chris Johnson: opens up about his heartbreaking ALS journey as former NFL star fights for more time with h
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jennifer Aniston jennifer aniston: trending now story is actually a money story — the other side of the fight
+> What the Chris Johnson chris johnson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
