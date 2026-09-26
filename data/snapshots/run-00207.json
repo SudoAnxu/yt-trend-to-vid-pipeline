@@ -1,0 +1,23 @@
+{
+  "runNo": 207,
+  "at": "2026-09-26T11:06:02.539Z",
+  "rows": [
+    {
+      "event": "story-mark-zuckerberg",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-lloyd-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 32,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
