@@ -1,0 +1,16 @@
+{
+  "runNo": 220,
+  "at": "2026-09-26T16:34:32.850Z",
+  "rows": [
+    {
+      "event": "story-brian-kelly",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
