@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #224 · Updated: 26/09/2026, 23:19:51 (Asia/Kolkata)
+Run #225 · Updated: 26/09/2026, 23:44:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Tom Brady — 14/100
+### Justin Verlander — 11/100
 
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+**Event:** Justin Verlander: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tom Brady tom brady: where the highest-paid sports broadcasters’ salaries stack up against each other: tom brady, shaq and more story is actually a money story — the number behind the headline
+> The Justin Verlander justin verlander: a battle of the ages: pirates will start kirby yates, 39, against detroit’s justin verlander, 43 story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### James Laurinaitis — 21/100
+### Colin Simmons — 30/100
 
-**Event:** James Laurinaitis: trending now
+**Event:** Colin Simmons: gets penalty for 'simulating using restroom' vs Tennessee football
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The James Laurinaitis james laurinaitis: trending now story is actually a money story — the other side of the fight
+> What the Colin Simmons colin simmons: gets penalty for 'simulating using restroom' vs tennessee football filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 16 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Kirk Herbstreit — 23/100
+
+**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Kirk Herbstreit kirk herbstreit: espn's kirk herbstreit rips texas’ colin simmons for urination celebration vs. tennessee filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 

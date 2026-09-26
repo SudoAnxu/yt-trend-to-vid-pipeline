@@ -1,0 +1,30 @@
+{
+  "runNo": 225,
+  "at": "2026-09-26T18:14:36.194Z",
+  "rows": [
+    {
+      "event": "story-justin-verlander",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-colin-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-herbstreit",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
