@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #217 · Updated: 26/09/2026, 20:23:51 (Asia/Kolkata)
+Run #218 · Updated: 26/09/2026, 20:32:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Luis Arraez: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,13 +34,13 @@ Sources this run: trends(40)
 
 **Event:** Colin Kaepernick: John Harbaugh gets another chance to consider Colin Kaepernick
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Colin Kaepernick colin kaepernick: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
+**Competition:** 12 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
 
 **Status:** BOOSTED
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Brian Urlacher: NFL legend Brian Urlacher rips Colin Kaepernick, says protests wouldn't have flown in his locker room
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +58,25 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Tim Scott — 18/100
+### Brian Urlacher's — 18/100
+
+**Event:** Brian Urlacher's: Colin Kaepernick Wouldn't Fly On Brian Urlacher's Team | The Craig Carton Show
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Brian Urlacher's brian urlacher's: colin kaepernick wouldn't fly on brian urlacher's team | the craig carton show story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Tim Scott — 17/100
 
 **Event:** Tim Scott: NRSC Chair Tim Scott leaves Georgia, North Carolina off his list of top Senate targets
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · external momentum 16 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -72,19 +86,19 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Josh Heupel — 17/100
+### Josh Heupel — 16/100
 
 **Event:** Josh Heupel: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Josh Heupel josh heupel: trending now filings actually say — line by line — the other side of the fight
+> The Josh Heupel josh heupel: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
 
 </details>
