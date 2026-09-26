@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #199 · Updated: 26/09/2026, 12:26:24 (Asia/Kolkata)
+Run #200 · Updated: 26/09/2026, 13:27:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Amanda Bynes — 31/100
+### Amanda Bynes — 26/100
 
 **Event:** Amanda Bynes: Called Out by Fans for Selling Pricey Handmade Purse That Looks Like a ‘Trash Bag’
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 64 · external momentum 26 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,13 +34,13 @@ Sources this run: trends(40)
 
 **Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Tom Holland tom holland: how zendaya really feels about law roach announcing her wedding to tom holland filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
 
 **Status:** RESEARCH
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Stylist Reveals Her: Zendaya’s Stylist Reveals Her Reaction To Him Spilling The Tea On Her Marriage To Tom Holland
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Officially Addresses Wild: ‘Red Dead Redemption 2’ Star Officially Addresses Wild Comparisons to 'GTA 6' [Exclusive]
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Roger Clark: Addresses GTA 6 Comparisons to Red Dead Redemption 2
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
