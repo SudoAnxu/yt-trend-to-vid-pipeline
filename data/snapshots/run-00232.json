@@ -1,0 +1,16 @@
+{
+  "runNo": 232,
+  "at": "2026-09-26T21:25:23.323Z",
+  "rows": [
+    {
+      "event": "story-jonah-coleman",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
