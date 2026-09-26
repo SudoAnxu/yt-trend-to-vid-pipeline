@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #225 · Updated: 26/09/2026, 23:44:36 (Asia/Kolkata)
+Run #226 · Updated: 27/09/2026, 00:11:10 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Justin Verlander — 11/100
+### Tom Cruise — 18/100
 
-**Event:** Justin Verlander: trending now
+**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Justin Verlander justin verlander: a battle of the ages: pirates will start kirby yates, 39, against detroit’s justin verlander, 43 story is actually a money story — the other side of the fight
+> What the Tom Cruise tom cruise: reveals his reaction to kate middleton and prince william after red carpet reunion filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Colin Simmons — 30/100
+### Kate Middleton — 13/100
 
-**Event:** Colin Simmons: gets penalty for 'simulating using restroom' vs Tennessee football
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Colin Simmons colin simmons: gets penalty for 'simulating using restroom' vs tennessee football filings actually say — line by line — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Kirk Herbstreit — 23/100
-
-**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-20 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kirk Herbstreit kirk herbstreit: espn's kirk herbstreit rips texas’ colin simmons for urination celebration vs. tennessee filings actually say — line by line — the other side of the fight
+> What the Kate Middleton kate middleton: tom cruise reveals his reaction to kate middleton and prince william after red carpet reunion filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
