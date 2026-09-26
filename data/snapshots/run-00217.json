@@ -1,0 +1,44 @@
+{
+  "runNo": 217,
+  "at": "2026-09-26T14:53:50.644Z",
+  "rows": [
+    {
+      "event": "story-luis-arraez",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-colin-kaepernick",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-urlacher",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tim-scott",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-josh-heupel",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
