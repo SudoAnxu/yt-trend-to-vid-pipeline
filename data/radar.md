@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #196 · Updated: 26/09/2026, 10:42:02 (Asia/Kolkata)
+Run #197 · Updated: 26/09/2026, 11:27:46 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Chris Johnson — 12/100
+### Chris Johnson — 13/100
 
 **Event:** Chris Johnson: opens up about his heartbreaking ALS journey as former NFL star fights for more time with h
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
