@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #230 · Updated: 27/09/2026, 01:32:27 (Asia/Kolkata)
+Run #231 · Updated: 27/09/2026, 02:10:09 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,61 +16,61 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Earl Spencer's — 17/100
+### Sam Houston — 24/100
 
-**Event:** Earl Spencer's: Earl Spencer’s Book Rocked the Royals, But the Bigger PR Challenge Is Still Ahead
+**Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Earl Spencer's earl spencer's: earl spencer’s book rocked the royals, but the bigger pr challenge is still ahead filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
-
-### Charles Spencer — 19/100
-
-**Event:** Charles Spencer: Reveals the 1 Regret He Has About His Sister, Princess Diana (Exclusive)
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 13 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Charles Spencer charles spencer: reveals the 1 regret he has about his sister, princess diana (exclusive) filings actually say — line by line — the other side of the fight
+> What the Sam Houston sam houston: texas tech vs. sam houston final stats filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Anthony Gordon — 28/100
+### Tim Tebow — 17/100
+
+**Event:** Tim Tebow: Life Surge Financial Courses Under Fire For Allegedly Charging Up to $50K
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tim Tebow tim tebow: praises jadan baugh’s impact beyond the stat sheet story is actually a money story — the other side of the fight
+
+**Competition:** 12 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** KEPT
+
+### Nate Frazier — 28/100
+
+**Event:** Nate Frazier: Georgia availability report reveals first update on Nate Frazier, Isiah Canion
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Nate Frazier nate frazier: georgia availability report reveals first update on nate frazier, isiah canion story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Anthony Gordon — 12/100
 
 **Event:** Anthony Gordon: Explains Why Spain Is 'Built Different' Than England
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Anthony Gordon anthony gordon: explains why spain is 'built different' than england story is actually a money story — the detail nobody has explained
+> What the Anthony Gordon anthony gordon: reminisces about mexico at the 2026 world cup: was it the wildest night of his life? filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Harry Kane — 24/100
-
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Harry Kane story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
