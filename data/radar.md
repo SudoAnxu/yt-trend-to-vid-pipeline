@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #235 · Updated: 27/09/2026, 04:00:36 (Asia/Kolkata)
+Run #236 · Updated: 27/09/2026, 04:30:44 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Lee Curtis — 29/100
+### Angel City — 29/100
 
-**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
+**Event:** Angel City: fc vs washington spirit
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Lee Curtis lee curtis: 'sender', starring britt lower & jamie lee curtis, gets us deal story is actually a money story — the number behind the headline
+> The Angel City situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** RESEARCH
 
