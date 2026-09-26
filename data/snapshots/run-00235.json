@@ -1,0 +1,16 @@
+{
+  "runNo": 235,
+  "at": "2026-09-26T22:30:36.506Z",
+  "rows": [
+    {
+      "event": "story-lee-curtis",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

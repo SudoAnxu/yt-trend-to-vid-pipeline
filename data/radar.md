@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #234 · Updated: 27/09/2026, 03:31:50 (Asia/Kolkata)
+Run #235 · Updated: 27/09/2026, 04:00:36 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### James Madison — 22/100
+### Lee Curtis — 29/100
 
-**Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
+**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The James Madison situation is weirder than the clips suggest — the other side of the fight
+> The Lee Curtis lee curtis: 'sender', starring britt lower & jamie lee curtis, gets us deal story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.2h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
