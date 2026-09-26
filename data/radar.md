@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #197 · Updated: 26/09/2026, 11:27:46 (Asia/Kolkata)
+Run #198 · Updated: 26/09/2026, 11:43:10 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
+
+### Tom Holland — 17/100
+
+**Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tom Holland tom holland: how zendaya really feels about law roach announcing her wedding to tom holland filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 ### Chris Johnson — 13/100
 
 **Event:** Chris Johnson: opens up about his heartbreaking ALS journey as former NFL star fights for more time with h
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
