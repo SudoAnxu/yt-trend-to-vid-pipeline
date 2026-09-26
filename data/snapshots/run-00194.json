@@ -1,0 +1,16 @@
+{
+  "runNo": 194,
+  "at": "2026-09-26T01:47:36.586Z",
+  "rows": [
+    {
+      "event": "story-josh-hoover",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
