@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #236 · Updated: 27/09/2026, 04:30:44 (Asia/Kolkata)
+Run #237 · Updated: 27/09/2026, 04:59:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Angel City — 29/100
-
-**Event:** Angel City: fc vs washington spirit
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Angel City situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
