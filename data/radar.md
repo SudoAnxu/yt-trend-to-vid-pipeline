@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #273 · Updated: 28/09/2026, 00:22:03 (Asia/Kolkata)
+Run #274 · Updated: 28/09/2026, 00:40:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Leo Chenal — 23/100
+### Max Scherzer — 20/100
 
-**Event:** Leo Chenal: injury update: Latest news on Commanders LB's status in Week 3 game
+**Event:** Max Scherzer: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Leo Chenal leo chenal: injury update: latest news on commanders lb's status in week 3 game story is actually a money story — the other side of the fight
+> What the Max Scherzer max scherzer: cincinnati reds vs. toronto blue jays – brandon williamson vs. max scherzer filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Olivia Miles — 17/100
+
+**Event:** Olivia Miles: Live: Lynx can clinch No. 1 playoff seed vs. Caitlin Clark and the Fever. Will Olivia Miles play?
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Olivia Miles olivia miles: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** RESEARCH
 
-### Travis Hunter — 20/100
+### Justin Cooper — 20/100
 
-**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
+**Event:** Justin Cooper: ‘Liar, Liar’ child star Justin Cooper recalls disturbing fan mail from prisoners at age 8
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Travis Hunter travis hunter: why are the jaguars using cb/wr travis hunter sparingly? filings actually say — line by line — the detail nobody has explained
+> The Justin Cooper justin cooper: ‘liar, liar’ child star justin cooper recalls disturbing fan mail from prisoners at age 8 story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
