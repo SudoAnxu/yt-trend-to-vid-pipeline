@@ -1,0 +1,30 @@
+{
+  "runNo": 245,
+  "at": "2026-09-27T06:24:15.453Z",
+  "rows": [
+    {
+      "event": "story-aaron-sorkin",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mark-zuckerberg",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-colin-jost",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
