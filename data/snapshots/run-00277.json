@@ -1,0 +1,16 @@
+{
+  "runNo": 277,
+  "at": "2026-09-27T20:00:40.612Z",
+  "rows": [
+    {
+      "event": "story-tom-kim",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
