@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #284 · Updated: 28/09/2026, 04:41:11 (Asia/Kolkata)
+Run #285 · Updated: 28/09/2026, 05:14:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,63 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mike Krukow — 22/100
+### Russell Wilson — 19/100
 
-**Event:** Mike Krukow: trending now
+**Event:** Russell Wilson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mike Krukow mike krukow: trending now filings actually say — line by line — the other side of the fight
+> What the Russell Wilson russell wilson: says dak prescott is ready to explode filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
-### Mike Washington — 25/100
+### Cody White — 23/100
 
-**Event:** Mike Washington: trending now
+**Event:** Cody White: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mike Washington story is a proxy fight about something bigger — the other side of the fight
+> The Cody White cody white: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Michelle Randolph — 29/100
-
-**Event:** Michelle Randolph: ‘Chad Powers’ Star Glen Powell and Michelle Randolph Step Out for Rare Public Date Night at Texas-Tennessee Sh
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Michelle Randolph michelle randolph: ‘chad powers’ star glen powell and michelle randolph step out for rare public date night at texas-tennessee sh story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Chris Moore — 20/100
-
-**Event:** Chris Moore: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Chris Moore chris moore: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
