@@ -1,0 +1,30 @@
+{
+  "runNo": 246,
+  "at": "2026-09-27T06:41:02.199Z",
+  "rows": [
+    {
+      "event": "story-aaron-sorkin",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-david-fincher",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mark-zuckerberg",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

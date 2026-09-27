@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #245 · Updated: 27/09/2026, 11:54:16 (Asia/Kolkata)
+Run #246 · Updated: 27/09/2026, 12:11:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -20,13 +20,27 @@ Sources this run: trends(40)
 
 **Event:** Aaron Sorkin: Officially Confirms ‘The Social Reckoning’ Was Changed Over Legal Concerns
 
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
 > The Aaron Sorkin story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** RESEARCH
+
+### David Fincher — 19/100
+
+**Event:** David Fincher: Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the David Fincher david fincher: aaron sorkin was his own ‘second choice’ to direct ‘the social reckoning’ — david fincher was his first filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
@@ -43,20 +57,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** ARCHIVED
-
-### Colin Jost — 17/100
-
-**Event:** Colin Jost: Scarlett Johansson & Colin Jost Look Loved-Up at the Paper Tiger Premiere in N.Y.C. Plus Anne Hathaway and Mor
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Colin Jost colin jost: scarlett johansson & colin jost look loved-up at the paper tiger premiere in n.y.c. plus anne hathaway and mor story is actually a money story — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
