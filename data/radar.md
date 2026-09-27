@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #271 · Updated: 27/09/2026, 23:31:59 (Asia/Kolkata)
+Run #272 · Updated: 28/09/2026, 00:03:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Malik Willis — 16/100
+### Travis Hunter — 25/100
 
-**Event:** Malik Willis: trending now
+**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Malik Willis malik willis: trending now story is actually a money story — the other side of the fight
+> What the Travis Hunter travis hunter: why are the jaguars using cb/wr travis hunter sparingly? filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 24 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Rob Gronkowski — 19/100
+### Dexter Lawrence — 27/100
 
-**Event:** Rob Gronkowski: trending now
+**Event:** Dexter Lawrence: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Rob Gronkowski story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Justin Herbert — 17/100
-
-**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · external momentum 16 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Justin Herbert justin herbert: insider gets brutally honest on chargers’ justin herbert, mike mcdaniel pairing story is actually a money story — the other side of the fight
+> What the Dexter Lawrence dexter lawrence: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Jonah Coleman — 15/100
-
-**Event:** Jonah Coleman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jonah Coleman jonah coleman: (ankle) placed on ir filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
