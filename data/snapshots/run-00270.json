@@ -1,0 +1,37 @@
+{
+  "runNo": 270,
+  "at": "2026-09-27T17:55:07.278Z",
+  "rows": [
+    {
+      "event": "story-rob-gronkowski",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-herbert",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jonah-coleman",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-marcus-mariota",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

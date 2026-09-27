@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #269 · Updated: 27/09/2026, 22:56:09 (Asia/Kolkata)
+Run #270 · Updated: 27/09/2026, 23:25:07 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,37 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Joey Porter — 18/100
+### Rob Gronkowski — 19/100
 
-**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
+**Event:** Rob Gronkowski: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joey Porter joey porter: bengals vs. steelers inactives: b.j. hill, joey porter jr. out filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Aaron Rodgers' — 13/100
-
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Aaron Rodgers' aaron rodgers': aaron rodgers, roman wilson connect on touchdown pass on steelers’ first drive filings actually say — line by line — the other side of the fight
+> The Rob Gronkowski story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Justin Herbert — 18/100
+
+**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Justin Herbert justin herbert: insider gets brutally honest on chargers’ justin herbert, mike mcdaniel pairing story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Jonah Coleman — 15/100
+
+**Event:** Jonah Coleman: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jonah Coleman jonah coleman: (ankle) placed on ir filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Marcus Mariota — 19/100
+
+**Event:** Marcus Mariota: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Marcus Mariota marcus mariota: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** BOOSTED
 
 
 </details>
