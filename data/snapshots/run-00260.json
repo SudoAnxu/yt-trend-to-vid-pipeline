@@ -1,0 +1,16 @@
+{
+  "runNo": 260,
+  "at": "2026-09-27T14:13:12.200Z",
+  "rows": [
+    {
+      "event": "story-zoe-salda",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
