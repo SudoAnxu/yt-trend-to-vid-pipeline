@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #265 · Updated: 27/09/2026, 21:02:33 (Asia/Kolkata)
+Run #266 · Updated: 27/09/2026, 21:13:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Gates Says Trump — 23/100
+### Mike Evans — 26/100
 
-**Event:** Gates Says Trump: Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards
+**Event:** Mike Evans: Injury 49ers
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 26 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Gates Says Trump gates says trump: bill gates says trump is wrong to hold out against ai safeguards story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Patrick Herbert — 23/100
-
-**Event:** Patrick Herbert: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 30 (+2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Patrick Herbert patrick herbert: trending now filings actually say — line by line — the other side of the fight
+> The Mike Evans filing that will matter in six months — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 16h · sources: trends, news
 
 **Status:** KEPT
 
-### Justin Herbert — 19/100
+### Angel Reese — 19/100
 
-**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Justin Herbert justin herbert: could pass to his brother as chargers elevate tight end patrick herbert filings actually say — line by line — the other side of the fight
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
-
-### Justin Herbert's — 15/100
-
-**Event:** Justin Herbert's: Younger Brother Added To Chargers Roster For Week 3
-
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Herbert's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
