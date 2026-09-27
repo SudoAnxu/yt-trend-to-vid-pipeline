@@ -1,0 +1,30 @@
+{
+  "runNo": 267,
+  "at": "2026-09-27T15:59:09.975Z",
+  "rows": [
+    {
+      "event": "story-sam-darnold",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-joey-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 37,
+      "momentum": 42,
+      "window": "closed"
+    },
+    {
+      "event": "story-angel-reese",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

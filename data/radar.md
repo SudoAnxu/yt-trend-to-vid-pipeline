@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #266 · Updated: 27/09/2026, 21:13:17 (Asia/Kolkata)
+Run #267 · Updated: 27/09/2026, 21:29:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,29 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Mike Evans — 26/100
+### Sam Darnold — 14/100
 
-**Event:** Mike Evans: Injury 49ers
+**Event:** Sam Darnold: seahawks sam darnold
 
-**Why now:** 2 source lane(s): trends, news · momentum 30 (+2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Mike Evans filing that will matter in six months — the other side of the fight
+> The Sam Darnold sam darnold: fantasy football week 3 inactives: caleb williams out, puka nacua uncertain, sam darnold a go story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 16h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** KEPT
+**Status:** RESEARCH
+
+### Joey Porter — 37/100
+
+**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
+
+**Why now:** 2 source lane(s): news, trends · momentum 42 (+0 vs prev run) · spice 22 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Joey Porter joey porter: steelers' joey porter jr. is inactive vs bengals as trade rumors swirl story is actually a money story — the other side of the fight
+
+**Competition:** 23 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+
+**Status:** RESEARCH
 
 ### Angel Reese — 19/100
 
 **Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
