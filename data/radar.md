@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #267 · Updated: 27/09/2026, 21:29:10 (Asia/Kolkata)
+Run #268 · Updated: 27/09/2026, 22:38:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,51 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Sam Darnold — 14/100
+### Russell Wilson — 17/100
 
-**Event:** Sam Darnold: seahawks sam darnold
+**Event:** Russell Wilson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Sam Darnold sam darnold: fantasy football week 3 inactives: caleb williams out, puka nacua uncertain, sam darnold a go story is actually a money story — the other side of the fight
+> What the Russell Wilson russell wilson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Joey Porter — 37/100
+### Aaron Rodgers' — 13/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Rodgers' aaron rodgers': aaron rodgers makes eye-opening comment on mike mccarthy's play-calling, steelers' execution issues filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Justin Gaethje — 24/100
+
+**Event:** Justin Gaethje: ilia topuria ufc
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Justin Gaethje story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Joey Porter — 17/100
 
 **Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
 
-**Why now:** 2 source lane(s): news, trends · momentum 42 (+0 vs prev run) · spice 22 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 22 (-20 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Joey Porter joey porter: steelers' joey porter jr. is inactive vs bengals as trade rumors swirl story is actually a money story — the other side of the fight
+> The Joey Porter filing that will matter in six months — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: news, trends
 
-**Status:** RESEARCH
-
-### Angel Reese — 19/100
-
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
