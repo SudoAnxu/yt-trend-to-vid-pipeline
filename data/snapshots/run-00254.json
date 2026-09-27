@@ -1,0 +1,23 @@
+{
+  "runNo": 254,
+  "at": "2026-09-27T10:42:01.295Z",
+  "rows": [
+    {
+      "event": "story-jack-snape",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-christopher-renstrom",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
