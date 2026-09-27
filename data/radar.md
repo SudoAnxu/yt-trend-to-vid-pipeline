@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #239 · Updated: 27/09/2026, 05:41:28 (Asia/Kolkata)
+Run #240 · Updated: 27/09/2026, 06:18:00 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### James Madison — 15/100
+### Aaron Nola — 19/100
 
-**Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
+**Event:** Aaron Nola: pitching on 2 days' rest as Phillies make 4th attempt to clinch NL wild card
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The James Madison filing that will matter in six months — the other side of the fight
+> What the Aaron Nola aaron nola: pitching on 2 days' rest as phillies make 4th attempt to clinch nl wild card filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
