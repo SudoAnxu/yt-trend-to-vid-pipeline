@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #250 · Updated: 27/09/2026, 14:59:04 (Asia/Kolkata)
+Run #251 · Updated: 27/09/2026, 15:09:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Paul Ricard: Le Castellet (FRA), 17th to 20th September 2026. BMW Motorrad Motorsport, FIM Endurance World Championship FIM
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Ryan Terry: 2026 Olympia Men’s Physique Results & Prize Money — Ryan Terry Wins 4th Title
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 6 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 

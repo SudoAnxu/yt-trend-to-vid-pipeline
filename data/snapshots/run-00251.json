@@ -1,0 +1,23 @@
+{
+  "runNo": 251,
+  "at": "2026-09-27T09:39:07.506Z",
+  "rows": [
+    {
+      "event": "story-paul-ricard",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-terry",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
