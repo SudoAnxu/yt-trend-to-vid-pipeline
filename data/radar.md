@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #264 · Updated: 27/09/2026, 20:42:53 (Asia/Kolkata)
+Run #265 · Updated: 27/09/2026, 21:02:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Patrick Herbert — 21/100
+### Gates Says Trump — 23/100
+
+**Event:** Gates Says Trump: Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 26 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Gates Says Trump gates says trump: bill gates says trump is wrong to hold out against ai safeguards story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Patrick Herbert — 23/100
 
 **Event:** Patrick Herbert: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -28,13 +42,13 @@ Sources this run: trends(40)
 
 **Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Justin Herbert — 19/100
 
 **Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Justin Herbert's — 19/100
+### Justin Herbert's — 15/100
 
 **Event:** Justin Herbert's: Younger Brother Added To Chargers Roster For Week 3
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -56,7 +70,7 @@ Sources this run: trends(40)
 
 **Competition:** 11 videos in last 6h · TTS ≈ 5.3h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
