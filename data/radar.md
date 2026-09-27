@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #270 · Updated: 27/09/2026, 23:25:07 (Asia/Kolkata)
+Run #271 · Updated: 27/09/2026, 23:31:59 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Malik Willis — 16/100
+
+**Event:** Malik Willis: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Malik Willis malik willis: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Rob Gronkowski — 19/100
 
 **Event:** Rob Gronkowski: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** BOOSTED
 
-### Justin Herbert — 18/100
+### Justin Herbert — 17/100
 
 **Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · external momentum 16 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Jonah Coleman: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -57,20 +71,6 @@ Sources this run: trends(40)
 **Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Marcus Mariota — 19/100
-
-**Event:** Marcus Mariota: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Marcus Mariota marcus mariota: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** BOOSTED
 
 
 </details>
