@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #246 · Updated: 27/09/2026, 12:11:02 (Asia/Kolkata)
+Run #247 · Updated: 27/09/2026, 12:55:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Aaron Sorkin — 22/100
+### Maya Joint — 17/100
+
+**Event:** Maya Joint: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Maya Joint maya joint: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** KEPT
+
+### Aaron Sorkin — 21/100
 
 **Event:** Aaron Sorkin: Officially Confirms ‘The Social Reckoning’ Was Changed Over Legal Concerns
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 22 (-3 vs prev run) · spice 0 · risk 64 · external momentum 22 below 45 — watching, not striking
 
 **Recommended angle**
 
 > The Aaron Sorkin story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** David Fincher: Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -57,6 +71,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** ARCHIVED
+
+### Jeremy Pe — 21/100
+
+**Event:** Jeremy Pe: Data Viz: Jeremy Peña's 425-foot home run
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jeremy Pe jeremy pe: data viz: jeremy peña's 425-foot home run filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
