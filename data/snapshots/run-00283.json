@@ -1,0 +1,23 @@
+{
+  "runNo": 283,
+  "at": "2026-09-27T22:52:53.086Z",
+  "rows": [
+    {
+      "event": "story-chris-moore",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-bobby-hauck",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
