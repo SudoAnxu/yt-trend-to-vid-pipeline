@@ -1,0 +1,23 @@
+{
+  "runNo": 248,
+  "at": "2026-09-27T08:29:47.395Z",
+  "rows": [
+    {
+      "event": "story-chris-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-maya-joint",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
