@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #295 · Updated: 28/09/2026, 13:33:46 (Asia/Kolkata)
+Run #296 · Updated: 28/09/2026, 14:24:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Aaron Pierre — 23/100
+### Jordan Dating — 22/100
 
-**Event:** Aaron Pierre: Michael B. Jordan, Mahershala Ali, Aaron Pierre, & More Black Stars Are Brooklyn-Bound For CultureCon 2026
+**Event:** Jordan Dating: Raye Spills on Michael B. Jordan Dating Rumors at 2026 MTV VMAs! (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Aaron Pierre story is a proxy fight about something bigger — the other side of the fight
+> What the Jordan Dating jordan dating: raye spills on michael b. jordan dating rumors at 2026 mtv vmas! (exclusive) filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 16 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Luke Bryan — 17/100
+### John Hawkes — 21/100
 
-**Event:** Luke Bryan: trending now
+**Event:** John Hawkes: ‘Jack & Christine’ Trailer: John Hawkes Turns A Dinner Party Into A Night of Chaos – Film News in Brief
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Luke Bryan luke bryan: trending now filings actually say — line by line — the other side of the fight
+> The John Hawkes john hawkes: ‘jack & christine’ trailer: john hawkes turns a dinner party into a night of chaos – film news in brief story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
