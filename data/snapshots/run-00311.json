@@ -1,0 +1,23 @@
+{
+  "runNo": 311,
+  "at": "2026-09-28T18:00:18.828Z",
+  "rows": [
+    {
+      "event": "story-john-mayer",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-return",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
