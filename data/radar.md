@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #315 · Updated: 29/09/2026, 00:25:53 (Asia/Kolkata)
+Run #316 · Updated: 29/09/2026, 01:16:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Brandon Ingram — 28/100
+### Warren County — 25/100
 
-**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
+**Event:** Warren County: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brandon Ingram story is a proxy fight about something bigger — the other side of the fight
+> What the Warren County warren county: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
