@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #288 · Updated: 28/09/2026, 06:33:13 (Asia/Kolkata)
+Run #289 · Updated: 28/09/2026, 06:54:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### David Corenswet — 24/100
+### Will Ospreay — 19/100
 
-**Event:** David Corenswet: ‘Mr. Irrelevant’ Co-Stars David Corenswet & Isabel May Kick Off Press Tour Early with MTV VMAs 2026 Appearance
+**Event:** Will Ospreay: AEW All Out 2026 results, grades, awards: Will Ospreay earns Jon Moxley's respect; Young Bucks make history in
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The David Corenswet david corenswet: ‘mr. irrelevant’ co-stars david corenswet & isabel may kick off press tour early with mtv vmas 2026 appearance story is actually a money story — the other side of the fight
+> What the Will Ospreay will ospreay: puts jon moxley, the death riders in the rearview with successful title defense at aew all out filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Sean Payton — 22/100
+
+**Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Sean Payton sean payton: renck: it’s broncos’ sean payton vs. rams’ sean mcvay with walton family bragging rights on line filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
