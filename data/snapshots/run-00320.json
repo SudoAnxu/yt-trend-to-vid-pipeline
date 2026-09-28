@@ -1,0 +1,30 @@
+{
+  "runNo": 320,
+  "at": "2026-09-28T20:38:16.157Z",
+  "rows": [
+    {
+      "event": "story-michael-kayode",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-warren-county",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-weapon-revealed-alongside",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
