@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #296 · Updated: 28/09/2026, 14:24:06 (Asia/Kolkata)
+Run #297 · Updated: 28/09/2026, 14:35:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(38)
 
@@ -20,7 +20,7 @@ Sources this run: trends(38)
 
 **Event:** Jordan Dating: Raye Spills on Michael B. Jordan Dating Rumors at 2026 MTV VMAs! (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(38)
 
 **Event:** John Hawkes: ‘Jack & Christine’ Trailer: John Hawkes Turns A Dinner Party Into A Night of Chaos – Film News in Brief
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
