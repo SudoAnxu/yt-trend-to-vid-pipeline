@@ -1,0 +1,30 @@
+{
+  "runNo": 324,
+  "at": "2026-09-28T22:13:37.419Z",
+  "rows": [
+    {
+      "event": "story-malik-willis",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-dillingham",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
