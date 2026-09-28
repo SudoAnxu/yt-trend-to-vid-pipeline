@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #293 · Updated: 28/09/2026, 11:56:42 (Asia/Kolkata)
+Run #294 · Updated: 28/09/2026, 12:35:55 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Sam Darnold — 15/100
+### Luke Bryan — 17/100
 
-**Event:** Sam Darnold: seahawks sam darnold
+**Event:** Luke Bryan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Sam Darnold story is a proxy fight about something bigger — the other side of the fight
+> What the Luke Bryan luke bryan: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 

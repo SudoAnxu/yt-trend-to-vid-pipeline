@@ -1,0 +1,16 @@
+{
+  "runNo": 294,
+  "at": "2026-09-28T07:05:55.042Z",
+  "rows": [
+    {
+      "event": "story-luke-bryan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
