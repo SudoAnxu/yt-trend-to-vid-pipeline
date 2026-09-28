@@ -1,0 +1,16 @@
+{
+  "runNo": 288,
+  "at": "2026-09-28T01:03:13.235Z",
+  "rows": [
+    {
+      "event": "story-david-corenswet",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

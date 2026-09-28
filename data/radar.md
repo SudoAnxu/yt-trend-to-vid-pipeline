@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #287 · Updated: 28/09/2026, 05:47:25 (Asia/Kolkata)
+Run #288 · Updated: 28/09/2026, 06:33:13 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jonah Coleman — 16/100
+### David Corenswet — 24/100
 
-**Event:** Jonah Coleman: trending now
+**Event:** David Corenswet: ‘Mr. Irrelevant’ Co-Stars David Corenswet & Isabel May Kick Off Press Tour Early with MTV VMAs 2026 Appearance
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jonah Coleman jonah coleman: broncos bite the jonah coleman bullet—what it really means filings actually say — line by line — the other side of the fight
+> The David Corenswet david corenswet: ‘mr. irrelevant’ co-stars david corenswet & isabel may kick off press tour early with mtv vmas 2026 appearance story is actually a money story — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
