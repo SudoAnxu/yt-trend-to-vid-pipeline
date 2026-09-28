@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #309 · Updated: 28/09/2026, 22:34:40 (Asia/Kolkata)
+Run #310 · Updated: 28/09/2026, 23:15:12 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Wick — 17/100
+### John Mayer — 27/100
 
-**Event:** John Wick: trending now
+**Event:** John Mayer: sphere
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The John Wick situation is weirder than the clips suggest — the other side of the fight
+> What the John Mayer john mayer: sphere filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

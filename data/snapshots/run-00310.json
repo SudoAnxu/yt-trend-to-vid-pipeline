@@ -1,0 +1,16 @@
+{
+  "runNo": 310,
+  "at": "2026-09-28T17:45:11.439Z",
+  "rows": [
+    {
+      "event": "story-john-mayer",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
