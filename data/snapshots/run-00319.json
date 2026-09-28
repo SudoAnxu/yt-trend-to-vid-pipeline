@@ -1,0 +1,37 @@
+{
+  "runNo": 319,
+  "at": "2026-09-28T20:21:32.479Z",
+  "rows": [
+    {
+      "event": "story-warren-county",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-weapon-revealed-alongside",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-roker-shares-surprising",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matthew-knies",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

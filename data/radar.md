@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #318 · Updated: 29/09/2026, 01:43:05 (Asia/Kolkata)
+Run #319 · Updated: 29/09/2026, 01:51:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,21 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Warren County — 20/100
+### Warren County — 19/100
 
 **Event:** Warren County: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Warren County warren county: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** KEPT
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Weapon Revealed Alongside: New God Of War Laufey Weapon Revealed Alongside Pre-Order Details
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Roker Shares Surprising — 21/100
+### Roker Shares Surprising — 20/100
 
 **Event:** Roker Shares Surprising: Al Roker Shares Surprising Reason He Left the ‘Today’ Show Mid-Broadcast
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,33 +58,19 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Matthew Knies — 20/100
+### Matthew Knies — 25/100
 
 **Event:** Matthew Knies: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (+5 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Matthew Knies matthew knies: trending now filings actually say — line by line — the other side of the fight
+> The Matthew Knies filing that will matter in six months — the number behind the headline
 
-**Competition:** 7 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Rumors Reveal Maple — 24/100
-
-**Event:** Rumors Reveal Maple: New NHL Trade Rumors Reveal Maple Leafs' Pursuit of Kirill Marchenko amid Blue Jackets Contract Buzz
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 13 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Rumors Reveal Maple story is a proxy fight about something bigger — the number behind the headline
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
