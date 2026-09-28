@@ -1,0 +1,37 @@
+{
+  "runNo": 321,
+  "at": "2026-09-28T21:02:04.340Z",
+  "rows": [
+    {
+      "event": "story-stephen-miller-s",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-kayode",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-warren-county",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-weapon-revealed-alongside",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
