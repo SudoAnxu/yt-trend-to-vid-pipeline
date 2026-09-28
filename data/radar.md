@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #314 · Updated: 29/09/2026, 00:10:08 (Asia/Kolkata)
+Run #315 · Updated: 29/09/2026, 00:25:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Brian Dawkins — 28/100
+### Brandon Ingram — 28/100
 
-**Event:** Brian Dawkins: NFL asks DHS to take down video featuring highlights of former Eagles star Brian Dawkins - The Athletic
+**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brian Dawkins story is a proxy fight about something bigger — the other side of the fight
+> The Brandon Ingram story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
