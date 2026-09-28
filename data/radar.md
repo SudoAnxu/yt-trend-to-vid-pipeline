@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #300 · Updated: 28/09/2026, 16:40:50 (Asia/Kolkata)
+Run #301 · Updated: 28/09/2026, 16:55:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(38)
 
@@ -16,17 +16,17 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Austin Ekeler — 24/100
+### Austin Ekeler — 22/100
 
 **Event:** Austin Ekeler: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Austin Ekeler story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -34,7 +34,7 @@ Sources this run: trends(38)
 
 **Event:** Adam Sandler: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
