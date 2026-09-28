@@ -1,0 +1,16 @@
+{
+  "runNo": 309,
+  "at": "2026-09-28T17:04:39.995Z",
+  "rows": [
+    {
+      "event": "story-john-wick",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
