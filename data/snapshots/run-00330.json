@@ -1,0 +1,23 @@
+{
+  "runNo": 330,
+  "at": "2026-09-28T23:52:29.046Z",
+  "rows": [
+    {
+      "event": "story-john-waldron",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matt-fitzpatrick",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
