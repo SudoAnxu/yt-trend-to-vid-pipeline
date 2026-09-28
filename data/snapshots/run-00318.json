@@ -1,0 +1,44 @@
+{
+  "runNo": 318,
+  "at": "2026-09-28T20:13:04.583Z",
+  "rows": [
+    {
+      "event": "story-warren-county",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-weapon-revealed-alongside",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-roker-shares-surprising",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matthew-knies",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-rumors-reveal-maple",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
