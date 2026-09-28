@@ -1,0 +1,23 @@
+{
+  "runNo": 295,
+  "at": "2026-09-28T08:03:46.315Z",
+  "rows": [
+    {
+      "event": "story-aaron-pierre",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-luke-bryan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
