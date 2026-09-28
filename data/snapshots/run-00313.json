@@ -1,0 +1,16 @@
+{
+  "runNo": 313,
+  "at": "2026-09-28T18:30:26.349Z",
+  "rows": [
+    {
+      "event": "story-brian-dawkins",
+      "alert": "ARCHIVE",
+      "opportunity": 34,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
