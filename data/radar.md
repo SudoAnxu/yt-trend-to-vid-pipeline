@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #302 · Updated: 28/09/2026, 17:25:53 (Asia/Kolkata)
+Run #303 · Updated: 28/09/2026, 18:53:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(38)
 
@@ -16,47 +16,47 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Brian Burns — 22/100
+### Billy Bush — 32/100
 
-**Event:** Brian Burns: trending now
+**Event:** Billy Bush: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Brian Burns brian burns: trending now story is actually a money story — the other side of the fight
+> What the Billy Bush billy bush: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Austin Ekeler — 21/100
+### Adam Brody — 34/100
 
-**Event:** Austin Ekeler: trending now
+**Event:** Adam Brody: Nobody Wants This star Adam Brody is for a free Palestine, now that you ask
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Austin Ekeler story is a proxy fight about something bigger — the other side of the fight
+> The Adam Brody story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Adam Sandler — 12/100
+### David Zervos — 30/100
 
-**Event:** Adam Sandler: trending now
+**Event:** David Zervos: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Adam Sandler adam sandler: trending now filings actually say — line by line — the other side of the fight
+> What the David Zervos david zervos: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
