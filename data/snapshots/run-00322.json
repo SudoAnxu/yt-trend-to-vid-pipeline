@@ -1,0 +1,37 @@
+{
+  "runNo": 322,
+  "at": "2026-09-28T21:20:03.868Z",
+  "rows": [
+    {
+      "event": "story-rob-dillingham",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-stephen-miller-s",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-kayode",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-warren-county",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
