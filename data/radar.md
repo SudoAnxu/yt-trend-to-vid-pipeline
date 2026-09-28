@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #297 · Updated: 28/09/2026, 14:35:13 (Asia/Kolkata)
+Run #298 · Updated: 28/09/2026, 15:37:00 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,33 +16,33 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Jordan Dating — 22/100
+### Kyle Chandler — 19/100
 
-**Event:** Jordan Dating: Raye Spills on Michael B. Jordan Dating Rumors at 2026 MTV VMAs! (Exclusive)
+**Event:** Kyle Chandler: Lanterns’ Kyle Chandler & Aaron Pierre on the E07 Moment That Changed Everything
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jordan Dating jordan dating: raye spills on michael b. jordan dating rumors at 2026 mtv vmas! (exclusive) filings actually say — line by line — the detail nobody has explained
+> What the Kyle Chandler kyle chandler: lanterns’ kyle chandler & aaron pierre on the e07 moment that changed everything filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### John Hawkes — 21/100
+### Aaron Pierre — 15/100
 
-**Event:** John Hawkes: ‘Jack & Christine’ Trailer: John Hawkes Turns A Dinner Party Into A Night of Chaos – Film News in Brief
+**Event:** Aaron Pierre: Michael B. Jordan, Mahershala Ali, Aaron Pierre, & More Black Stars Are Brooklyn-Bound For CultureCon 2026
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The John Hawkes john hawkes: ‘jack & christine’ trailer: john hawkes turns a dinner party into a night of chaos – film news in brief story is actually a money story — the other side of the fight
+> What the Aaron Pierre aaron pierre: lanterns’ kyle chandler & aaron pierre on the e07 moment that changed everything filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 16 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

@@ -1,0 +1,23 @@
+{
+  "runNo": 298,
+  "at": "2026-09-28T10:07:00.822Z",
+  "rows": [
+    {
+      "event": "story-kyle-chandler",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-pierre",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
