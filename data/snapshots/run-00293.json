@@ -1,0 +1,16 @@
+{
+  "runNo": 293,
+  "at": "2026-09-28T06:26:42.092Z",
+  "rows": [
+    {
+      "event": "story-sam-darnold",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
