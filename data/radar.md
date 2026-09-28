@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #326 · Updated: 29/09/2026, 04:06:36 (Asia/Kolkata)
+Run #327 · Updated: 29/09/2026, 04:27:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,25 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Nick Sirianni — 22/100
+### Mike Vrabel — 23/100
+
+**Event:** Mike Vrabel: offers blunt review of Drake Maye’s fourth interception
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Vrabel mike vrabel: new england patriots head coach mike vrabel reflects on week 3 loss vs. jacksonville jaguars filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Sirianni — 21/100
 
 **Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Nick Sirianni nick sirianni: explains why makai lemon’s role could grow with eagles story is actually a money story — the detail nobody has explained
 
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.6h · sources: news
 
 **Status:** RESEARCH
 
-### Kyle Monangai — 19/100
+### Kyle Monangai — 18/100
 
 **Event:** Kyle Monangai: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -57,20 +71,6 @@ Sources this run: trends(40)
 **Competition:** 11 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** KEPT
-
-### Guilfoyle Hit With — 18/100
-
-**Event:** Guilfoyle Hit With: Donald Trump’s Ambassador Kimberly Guilfoyle Hit With Explosive Greece Claim — Report
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Guilfoyle Hit With guilfoyle hit with: donald trump’s ambassador kimberly guilfoyle hit with explosive greece claim — report story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>

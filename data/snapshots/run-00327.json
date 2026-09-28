@@ -1,0 +1,37 @@
+{
+  "runNo": 327,
+  "at": "2026-09-28T22:57:07.707Z",
+  "rows": [
+    {
+      "event": "story-mike-vrabel",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-sirianni",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-monangai",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-malik-willis",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
