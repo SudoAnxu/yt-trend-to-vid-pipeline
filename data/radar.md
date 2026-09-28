@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #328 · Updated: 29/09/2026, 04:58:22 (Asia/Kolkata)
+Run #329 · Updated: 29/09/2026, 05:05:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Matt Fitzpatrick — 27/100
+### Matt Fitzpatrick — 21/100
 
 **Event:** Matt Fitzpatrick: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Matt Fitzpatrick matt fitzpatrick: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Ben Simmons — 28/100
-
-**Event:** Ben Simmons: Sacramento Kings guard Ben Simmons addresses critics in expletive clip
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ben Simmons ben simmons: sacramento kings guard ben simmons addresses critics in expletive clip story is actually a money story — the other side of the fight
-
-**Competition:** 22 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
