@@ -1,0 +1,16 @@
+{
+  "runNo": 363,
+  "at": "2026-09-29T17:13:45.313Z",
+  "rows": [
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
