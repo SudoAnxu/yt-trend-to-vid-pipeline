@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #363 · Updated: 29/09/2026, 22:43:45 (Asia/Kolkata)
+Run #364 · Updated: 29/09/2026, 23:42:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tom Cruise — 23/100
+### Chris Sale — 23/100
 
-**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
+**Event:** Chris Sale: Phillies vs. Braves live updates, news, starting pitchers for Game 1: Chris Sale, Jesús Luzardo take the mound
 
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+14 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Tom Cruise tom cruise: digger review: tom cruise takes the 'biggest risk of his career' in this 'love-it-or-hate-it' folly ★★★★☆ filings actually say — line by line — the other side of the fight
+> The Chris Sale story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

@@ -1,0 +1,16 @@
+{
+  "runNo": 364,
+  "at": "2026-09-29T18:12:00.203Z",
+  "rows": [
+    {
+      "event": "story-chris-sale",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
