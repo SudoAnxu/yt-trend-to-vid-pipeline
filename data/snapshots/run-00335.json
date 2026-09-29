@@ -1,0 +1,30 @@
+{
+  "runNo": 335,
+  "at": "2026-09-29T01:27:20.033Z",
+  "rows": [
+    {
+      "event": "story-jonathan-greenard",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-sirianni",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

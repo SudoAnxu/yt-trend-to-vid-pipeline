@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #334 · Updated: 29/09/2026, 06:39:52 (Asia/Kolkata)
+Run #335 · Updated: 29/09/2026, 06:57:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Nick Sirianni — 22/100
+### Jonathan Greenard — 21/100
+
+**Event:** Jonathan Greenard: (pectoral) to make Eagles debut on Monday
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jonathan Greenard jonathan greenard: (pectoral) to make eagles debut on monday filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Sirianni — 21/100
 
 **Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-7 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Nick Sirianni situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 4.7h · sources: news, trends
 
 **Status:** KEPT
 
-### Brian Dawkins — 19/100
+### Ben Johnson — 19/100
 
-**Event:** Brian Dawkins: NFL asks DHS to take down video featuring highlights of former Eagles star Brian Dawkins - The Athletic
+**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-8 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Brian Dawkins story is a proxy fight about something bigger — the other side of the fight
+> What the Ben Johnson ben johnson: and nick sirianni face off in monday's unapologetic bowl | mike sielski filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
