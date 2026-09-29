@@ -1,0 +1,16 @@
+{
+  "runNo": 369,
+  "at": "2026-09-29T19:45:44.071Z",
+  "rows": [
+    {
+      "event": "story-jason-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
