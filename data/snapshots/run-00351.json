@@ -1,0 +1,16 @@
+{
+  "runNo": 351,
+  "at": "2026-09-29T12:28:33.104Z",
+  "rows": [
+    {
+      "event": "story-mike-lee",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
