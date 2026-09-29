@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #331 · Updated: 29/09/2026, 05:46:15 (Asia/Kolkata)
+Run #332 · Updated: 29/09/2026, 05:58:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,45 +16,59 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Zach Ertz — 17/100
+### Zach Ertz — 16/100
 
 **Event:** Zach Ertz: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Zach Ertz zach ertz: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 18 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
-### Joe Buck — 17/100
+### Joe Buck — 19/100
 
 **Event:** Joe Buck: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Joe Buck joe buck: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** KEPT
+
+### Will Vote — 19/100
+
+**Event:** Will Vote: The Voice Season 30 Just Unveiled Major Changes to How Fans Will Vote (DETAILS)
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Will Vote will vote: the voice season 30 just unveiled major changes to how fans will vote (details) story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
-### Ryan Seacrest — 23/100
+### Ryan Seacrest — 22/100
 
 **Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Ryan Seacrest ryan seacrest: fans react to shocking way he eats his pizza filings actually say — line by line — the part that was not supposed to be public
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -62,27 +76,13 @@ Sources this run: trends(40)
 
 **Event:** Luis Fernando: Tena: "El Salvador tiene delanteros muy buenos y eso los hace peligrosos"
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Luis Fernando luis fernando: tena: "el salvador tiene delanteros muy buenos y eso los hace peligrosos" filings actually say — line by line — the other side of the fight
+> What the Luis Fernando luis fernando: los números de luis fernando tena ante el salvador: uno de los rivales favoritos filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### John Waldron — 25/100
-
-**Event:** John Waldron: Goldman's board has discussed plan to name John Waldron as next CEO, WSJ reports
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 5 · risk 26 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The John Waldron filing that will matter in six months — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 14h · sources: trends, news
 
 **Status:** RESEARCH
 
