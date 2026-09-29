@@ -1,0 +1,16 @@
+{
+  "runNo": 340,
+  "at": "2026-09-29T05:54:50.833Z",
+  "rows": [
+    {
+      "event": "story-kristen-bell",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
