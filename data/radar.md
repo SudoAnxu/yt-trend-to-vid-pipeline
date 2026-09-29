@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #377 · Updated: 30/09/2026, 04:13:23 (Asia/Kolkata)
+Run #378 · Updated: 30/09/2026, 04:34:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,63 +12,119 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### Jose Altuve — 25/100
+### Riley Green — 19/100
+
+**Event:** Riley Green: Kelly Clarkson Had a Shocking Reaction to a ‘Voice’ Contestant Who Couldn’t Stop Staring at Riley Green
+
+**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Riley Green story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** ARCHIVED
+
+### Olivia Miles — 21/100
+
+**Event:** Olivia Miles: Live: Lynx can clinch No. 1 playoff seed vs. Caitlin Clark and the Fever. Will Olivia Miles play?
+
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Olivia Miles story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Aaron Judge — 19/100
+
+**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
+
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Aaron Judge story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Luis Arr — 19/100
+
+**Event:** Luis Arr: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Luis Arr story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Barry Melrose — 27/100
+
+**Event:** Barry Melrose: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Barry Melrose story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Mike Evans — 18/100
+
+**Event:** Mike Evans: Injury 49ers
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Evans mike evans: jerry rice's son brenden gets 49ers tryout as mike evans, more wrs deal with injuries filings actually say — line by line — the number behind the headline
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jose Altuve — 24/100
 
 **Event:** Jose Altuve: playing second base versus White Sox
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Jose Altuve jose altuve: playing second base versus white sox filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### David Pastrnak — 18/100
+### Will Jose — 23/100
 
-**Event:** David Pastrnak: Rangers at Bruins preview: David Pastrnak set to make debut as captain in season opener
+**Event:** Will Jose: Altuve revert to his old postseason form in Astros vs. White Sox series?
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The David Pastrnak david pastrnak: rangers at bruins preview: david pastrnak set to make debut as captain in season opener story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Travis Kelce — 19/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-6 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Travis Kelce travis kelce: the truth to why taylor swift left travis kelce out of vmas speech amid claims she’s ‘frustrated’ in their mar story is actually a money story — the detail nobody has explained
+> What the Will Jose will jose: altuve revert to his old postseason form in astros vs. white sox series? filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Miguel Vargas — 17/100
-
-**Event:** Miguel Vargas: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Miguel Vargas miguel vargas: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
