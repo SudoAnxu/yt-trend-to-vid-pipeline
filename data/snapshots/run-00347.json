@@ -1,0 +1,16 @@
+{
+  "runNo": 347,
+  "at": "2026-09-29T10:13:57.024Z",
+  "rows": [
+    {
+      "event": "story-zack-gelof",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 21,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

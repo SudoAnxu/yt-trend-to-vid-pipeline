@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #346 · Updated: 29/09/2026, 15:35:16 (Asia/Kolkata)
+Run #347 · Updated: 29/09/2026, 15:43:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(39)
 
@@ -16,11 +16,11 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Zack Gelof — 23/100
+### Zack Gelof — 22/100
 
 **Event:** Zack Gelof: detroit tigers lawsuit
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 11 · risk 86 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 11 · risk 86 · external momentum 21 below 45 — watching, not striking
 
 **Recommended angle**
 
