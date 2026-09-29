@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #332 · Updated: 29/09/2026, 05:58:03 (Asia/Kolkata)
+Run #333 · Updated: 29/09/2026, 06:25:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,75 +16,75 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Zach Ertz — 16/100
+### Brian Dawkins — 23/100
 
-**Event:** Zach Ertz: trending now
+**Event:** Brian Dawkins: NFL asks DHS to take down video featuring highlights of former Eagles star Brian Dawkins - The Athletic
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Zach Ertz zach ertz: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 18 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Joe Buck — 19/100
-
-**Event:** Joe Buck: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Joe Buck joe buck: trending now story is actually a money story — the other side of the fight
+> The Brian Dawkins story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Nick Sirianni — 21/100
+
+**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
+
+**Why now:** 2 source lane(s): news, trends · momentum 26 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Nick Sirianni nick sirianni: explains why makai lemon’s role could grow with eagles story is actually a money story — the detail nobody has explained
+
+**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** KEPT
 
-### Will Vote — 19/100
+### Jacob Elordi — 24/100
 
-**Event:** Will Vote: The Voice Season 30 Just Unveiled Major Changes to How Fans Will Vote (DETAILS)
+**Event:** Jacob Elordi: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Will Vote will vote: the voice season 30 just unveiled major changes to how fans will vote (details) story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Ryan Seacrest — 22/100
-
-**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Seacrest ryan seacrest: fans react to shocking way he eats his pizza filings actually say — line by line — the part that was not supposed to be public
+> What the Jacob Elordi jacob elordi: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Luis Fernando — 19/100
+### Tom Cruise's — 22/100
 
-**Event:** Luis Fernando: Tena: "El Salvador tiene delanteros muy buenos y eso los hace peligrosos"
+**Event:** Tom Cruise's: Tom Cruise’s Sweet Gesture Toward Kate Middleton Actually Breaks This Royal Rule
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Luis Fernando luis fernando: los números de luis fernando tena ante el salvador: uno de los rivales favoritos filings actually say — line by line — the other side of the fight
+> The Tom Cruise's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
+
+### Tom Cruise — 16/100
+
+**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
+
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-10 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tom Cruise story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
