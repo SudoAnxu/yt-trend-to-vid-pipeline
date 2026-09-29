@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #372 · Updated: 30/09/2026, 02:27:53 (Asia/Kolkata)
+Run #373 · Updated: 30/09/2026, 02:50:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Chris Sale — 18/100
+### Zack Gelof — 17/100
 
-**Event:** Chris Sale: Phillies vs. Braves live updates, news, starting pitchers for Game 1: Chris Sale, Jesús Luzardo take the mound
+**Event:** Zack Gelof: detroit tigers lawsuit
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 4 · risk 86 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Chris Sale chris sale: how will chris sale approach schwarber, harper? story is actually a money story — the other side of the fight
+> What the Zack Gelof zack gelof: athletics' zack gelof sues tigers after hitting metal fence filings actually say — line by line — what happens next
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
