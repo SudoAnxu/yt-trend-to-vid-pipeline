@@ -1,0 +1,23 @@
+{
+  "runNo": 341,
+  "at": "2026-09-29T06:40:27.486Z",
+  "rows": [
+    {
+      "event": "story-josh-hartnett",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-kristen-bell",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
