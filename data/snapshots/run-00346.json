@@ -1,0 +1,16 @@
+{
+  "runNo": 346,
+  "at": "2026-09-29T10:05:16.211Z",
+  "rows": [
+    {
+      "event": "story-zack-gelof",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
