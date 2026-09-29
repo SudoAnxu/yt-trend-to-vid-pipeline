@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #349 · Updated: 29/09/2026, 16:34:22 (Asia/Kolkata)
+Run #350 · Updated: 29/09/2026, 17:01:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(39)
 
@@ -34,7 +34,7 @@ Sources this run: trends(39)
 
 **Event:** Ken Paxton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-17 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,17 +44,17 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Gordon Johncock — 25/100
+### Gordon Johncock — 20/100
 
 **Event:** Gordon Johncock: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Gordon Johncock gordon johncock: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
 
 **Status:** RESEARCH
 
