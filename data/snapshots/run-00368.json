@@ -1,0 +1,23 @@
+{
+  "runNo": 368,
+  "at": "2026-09-29T19:31:09.994Z",
+  "rows": [
+    {
+      "event": "story-jason-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 34,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-yastrzemski",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
