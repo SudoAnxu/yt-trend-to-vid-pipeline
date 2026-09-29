@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #343 · Updated: 29/09/2026, 13:14:35 (Asia/Kolkata)
+Run #344 · Updated: 29/09/2026, 14:26:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
+
+### Daniel Vallejo — 21/100
+
+**Event:** Daniel Vallejo: Adolfo Daniel Vallejo vs Jaime Faria Prediction & Picks - ATP Japan Open
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Daniel Vallejo daniel vallejo: adolfo daniel vallejo vs jaime faria prediction & picks - atp japan open story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
 
 ### World Makes Every — 19/100
 
 **Event:** World Makes Every: How Minecraft Dungeons II’s Interconnected World Makes Every Journey an Adventure
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,17 +44,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jimmy Kimmel — 16/100
+### Jimmy Kimmel — 15/100
 
 **Event:** Jimmy Kimmel: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Jimmy Kimmel jimmy kimmel: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** BOOSTED
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Jimmy Kimmel's: Mayor Zohran Mamdani Refuses Jimmy Kimmel’s Request to Text Trump a Selfie of Them
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,45 +72,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Josh Hartnett — 17/100
+### Josh Hartnett — 18/100
 
 **Event:** Josh Hartnett: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Josh Hartnett josh hartnett: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Michael Showalter — 22/100
-
-**Event:** Michael Showalter: Colleen Hoover and Michael Showalter on How Anne Hathaway and Dakota Johnson Made ‘Verity’ More Erotic, ‘It En
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Michael Showalter situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
-
-### Ken Paxton — 20/100
-
-**Event:** Ken Paxton: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (+18 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ken Paxton ken paxton: maga candidate ken paxton defends his 1-day prison deal for child sex predator filings actually say — line by line — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** BOOSTED
 

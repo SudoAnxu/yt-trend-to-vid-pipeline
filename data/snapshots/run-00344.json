@@ -1,0 +1,44 @@
+{
+  "runNo": 344,
+  "at": "2026-09-29T08:56:24.376Z",
+  "rows": [
+    {
+      "event": "story-daniel-vallejo",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-world-makes-every",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-kimmel",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-kimmel-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-hartnett",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
