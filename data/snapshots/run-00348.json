@@ -1,0 +1,23 @@
+{
+  "runNo": 348,
+  "at": "2026-09-29T10:52:16.375Z",
+  "rows": [
+    {
+      "event": "story-gordon-johncock",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-change",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

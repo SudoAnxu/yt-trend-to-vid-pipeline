@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #347 · Updated: 29/09/2026, 15:43:57 (Asia/Kolkata)
+Run #348 · Updated: 29/09/2026, 16:22:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Zack Gelof — 22/100
+### Gordon Johncock — 28/100
 
-**Event:** Zack Gelof: detroit tigers lawsuit
+**Event:** Gordon Johncock: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 11 · risk 86 · external momentum 21 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Zack Gelof zack gelof: detroit tigers lawsuit filings actually say — line by line — what happens next
+> What the Gordon Johncock gordon johncock: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Will Change — 19/100
+
+**Event:** Will Change: SNAP and Medicaid Will Change Dramatically in October: What to Know
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Will Change situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** RESEARCH
 
