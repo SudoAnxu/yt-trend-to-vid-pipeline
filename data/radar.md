@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #370 · Updated: 30/09/2026, 01:38:59 (Asia/Kolkata)
+Run #371 · Updated: 30/09/2026, 01:49:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jason Kelce — 30/100
+### John Kruk — 17/100
 
-**Event:** Jason Kelce: trending now
+**Event:** John Kruk: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 28 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jason Kelce situation is weirder than the clips suggest — the other side of the fight
+> What the John Kruk john kruk: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** BOOSTED
+**Status:** RESEARCH
+
+### Steve Stone — 21/100
+
+**Event:** Steve Stone: joins NBC broadcast team for White Sox-Astros Wild Card series
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Steve Stone steve stone: joins nbc broadcast team for white sox-astros wild card series filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
