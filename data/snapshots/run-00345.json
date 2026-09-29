@@ -1,0 +1,37 @@
+{
+  "runNo": 345,
+  "at": "2026-09-29T09:14:05.089Z",
+  "rows": [
+    {
+      "event": "story-hormuz-breaks-down",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-world-makes-every",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-kimmel",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-kimmel-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
