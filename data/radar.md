@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #369 · Updated: 30/09/2026, 01:15:44 (Asia/Kolkata)
+Run #370 · Updated: 30/09/2026, 01:38:59 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jason Kelce — 25/100
+### Jason Kelce — 30/100
 
 **Event:** Jason Kelce: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-6 vs prev run) · spice 19 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 28 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jason Kelce jason kelce: why jason kelce apologized live on air during espn broadcast of eagles game story is actually a money story — the detail nobody has explained
+> The Jason Kelce situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
 
 **Status:** BOOSTED
 
