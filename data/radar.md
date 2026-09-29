@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #354 · Updated: 29/09/2026, 19:44:48 (Asia/Kolkata)
+Run #355 · Updated: 29/09/2026, 20:11:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,77 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jack Smith — 22/100
+### Aaron Judge — 17/100
 
-**Event:** Jack Smith: Live updates: Jack Smith testifies before the Senate Judiciary Committee
+**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jack Smith filing that will matter in six months — what happens next
-
-**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Harry Potter — 15/100
-
-**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Harry Potter harry potter: hbo harry potter series cast filings actually say — line by line — the other side of the fight
+> What the Aaron Judge aaron judge: not on yankees' roster for alwcs, source confirms filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Harry Potter's — 21/100
+### Bruce Willis — 23/100
 
-**Event:** Harry Potter's: Harry Potter’s Fan-Favorite Movie Star Discusses ‘Fabulous’ Honor to Reprise Role in TV Show
+**Event:** Bruce Willis: Smiles in Rare New Photo Amid His Dementia Battle
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Harry Potter's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Matt Rife — 19/100
-
-**Event:** Matt Rife: Steve Doocy catches up with viral comedian Matt Rife on tour
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Matt Rife matt rife: steve doocy catches up with viral comedian matt rife on tour filings actually say — line by line — the other side of the fight
+> The Bruce Willis bruce willis: smiles in rare new photo amid his dementia battle story is actually a money story — the other side of the fight
 
-**Competition:** 20 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Steve Doocy — 21/100
-
-**Event:** Steve Doocy: catches up with viral comedian Matt Rife on tour
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Steve Doocy steve doocy: catches up with viral comedian matt rife on tour filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 17 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
