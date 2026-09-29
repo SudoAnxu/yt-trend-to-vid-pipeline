@@ -1,0 +1,30 @@
+{
+  "runNo": 366,
+  "at": "2026-09-29T18:49:59.344Z",
+  "rows": [
+    {
+      "event": "story-alec-bohm",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-luis-arraez",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-skenes",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
