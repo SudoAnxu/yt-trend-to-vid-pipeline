@@ -1,0 +1,30 @@
+{
+  "runNo": 359,
+  "at": "2026-09-29T16:23:23.740Z",
+  "rows": [
+    {
+      "event": "story-eric-schmitt",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-and",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
