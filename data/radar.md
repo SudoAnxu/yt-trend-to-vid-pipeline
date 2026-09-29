@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #364 · Updated: 29/09/2026, 23:42:00 (Asia/Kolkata)
+Run #365 · Updated: 29/09/2026, 23:56:54 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Chris Sale — 23/100
-
-**Event:** Chris Sale: Phillies vs. Braves live updates, news, starting pitchers for Game 1: Chris Sale, Jesús Luzardo take the mound
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Chris Sale story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
