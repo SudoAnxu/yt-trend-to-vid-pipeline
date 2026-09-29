@@ -1,0 +1,51 @@
+{
+  "runNo": 336,
+  "at": "2026-09-29T02:12:10.149Z",
+  "rows": [
+    {
+      "event": "story-adam-levine",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-riley-green",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-luis-fernando",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-dennis-haskins",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
