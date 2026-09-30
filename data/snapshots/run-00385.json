@@ -1,0 +1,44 @@
+{
+  "runNo": 385,
+  "at": "2026-09-30T01:50:31.220Z",
+  "rows": [
+    {
+      "event": "story-will-win",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-neil-patrick",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-hartnett",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-cameron",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
