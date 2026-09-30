@@ -1,0 +1,16 @@
+{
+  "runNo": 381,
+  "at": "2026-09-30T00:17:37.633Z",
+  "rows": [
+    {
+      "event": "story-adam-levine",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

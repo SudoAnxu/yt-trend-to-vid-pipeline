@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #380 · Updated: 30/09/2026, 05:19:02 (Asia/Kolkata)
+Run #381 · Updated: 30/09/2026, 05:47:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Matthew Knies — 18/100
+### Adam Levine — 16/100
 
-**Event:** Matthew Knies: trending now
+**Event:** Adam Levine: ‘The Voice’ recap: Adam Levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-16 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Matthew Knies matthew knies: to columbus: the strange end to a maple leafs success story filings actually say — line by line — the other side of the fight
+> What the Adam Levine adam levine: the voice season 30: an epic fake-out leaves adam levine 'crushed' in week two — vote for your favorite auditi filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** ARCHIVED
 
