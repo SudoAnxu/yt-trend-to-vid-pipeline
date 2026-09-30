@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #409 · Updated: 30/09/2026, 22:11:32 (Asia/Kolkata)
+Run #410 · Updated: 30/09/2026, 22:24:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
@@ -27,20 +27,6 @@ Sources this run: trends(40)
 > What the Jason Priestley jason priestley: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** KEPT
-
-### Moore Says It — 19/100
-
-**Event:** Moore Says It: Shemar Moore Says It Was ‘Hard to Say Goodbye’ to ‘S.W.A.T.’ Cast After 8 Years (Exclusive)
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Moore Says It moore says it: shemar moore says it was ‘hard to say goodbye’ to ‘s.w.a.t.’ cast after 8 years (exclusive) filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
 
