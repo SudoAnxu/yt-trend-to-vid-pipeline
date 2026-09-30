@@ -1,0 +1,16 @@
+{
+  "runNo": 393,
+  "at": "2026-09-30T09:07:48.196Z",
+  "rows": [
+    {
+      "event": "story-justin-jefferson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
