@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #408 · Updated: 30/09/2026, 21:57:35 (Asia/Kolkata)
+Run #409 · Updated: 30/09/2026, 22:11:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jason Priestley: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -28,13 +28,13 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Moore Says It — 19/100
 
 **Event:** Moore Says It: Shemar Moore Says It Was ‘Hard to Say Goodbye’ to ‘S.W.A.T.’ Cast After 8 Years (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
