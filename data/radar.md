@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #422 · Updated: 01/10/2026, 02:59:33 (Asia/Kolkata)
+Run #423 · Updated: 01/10/2026, 03:23:34 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Alec Bohm — 15/100
+### Sean Burke — 19/100
 
-**Event:** Alec Bohm: trending now
+**Event:** Sean Burke: White Sox's Sean Burke Drops Legendary Quote Ahead of MLB Wild Card Game 2 Start vs. Astros
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-19 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alec Bohm alec bohm: trending now filings actually say — line by line — the other side of the fight
+> The Sean Burke story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 3h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Andrew Painter — 20/100
+### Shaw Says Vaccines — 22/100
 
-**Event:** Andrew Painter: trending now
+**Event:** Shaw Says Vaccines: Andrea Shaw Says Vaccines Killed Her Twins. Authorities Say She Suffocated Them.
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Andrew Painter andrew painter: trending now story is actually a money story — the other side of the fight
+> What the Shaw Says Vaccines shaw says vaccines: andrea shaw says vaccines killed her twins. authorities say she suffocated them. filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Authorities Say She — 22/100
+
+**Event:** Authorities Say She: Andrea Shaw Says Vaccines Killed Her Twins. Authorities Say She Suffocated Them.
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Authorities Say She authorities say she: andrea shaw says vaccines killed her twins. authorities say she suffocated them. filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
