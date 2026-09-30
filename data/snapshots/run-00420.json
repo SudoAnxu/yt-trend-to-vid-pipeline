@@ -1,0 +1,16 @@
+{
+  "runNo": 420,
+  "at": "2026-09-30T20:56:30.386Z",
+  "rows": [
+    {
+      "event": "story-ryan-nembhard",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
