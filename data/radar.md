@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #382 · Updated: 30/09/2026, 06:10:58 (Asia/Kolkata)
+Run #383 · Updated: 30/09/2026, 06:31:49 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,77 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Julia Stiles — 24/100
+### Paul Goldschmidt — 33/100
 
-**Event:** Julia Stiles: julianne hough supports julia stiles
+**Event:** Paul Goldschmidt: How Yankees’ Paul Goldschmidt can join Rickey Henderson, other former stars in MLB history vs. Red Sox
 
-**Why now:** 2 source lane(s): trends, news · momentum 29 (+18 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Julia Stiles story is a proxy fight about something bigger — the number behind the headline
-
-**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Josh Hader — 19/100
-
-**Event:** Josh Hader: Astros’ facing make-or-break moment with Josh Hader trade decision
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 14 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Josh Hader josh hader: trending now story is actually a money story — the other side of the fight
+> The Paul Goldschmidt story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Tim Ream — 25/100
+### Justin Verlander — 16/100
 
-**Event:** Tim Ream: trending now
+**Event:** Justin Verlander: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tim Ream tim ream: trending now story is actually a money story — the other side of the fight
+> What the Justin Verlander justin verlander: si swimsuit gave justin verlander a proper retirement send off with look back at kate upton cover shoot filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Kate Upton — 26/100
+
+**Event:** Kate Upton: SI Swimsuit gave Justin Verlander a proper retirement send off with look back at Kate Upton cover shoot
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Kate Upton kate upton: si swimsuit gave justin verlander a proper retirement send off with look back at kate upton cover shoot filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
-### Justin Herbert — 21/100
+### Will Be — 19/100
 
-**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Justin Herbert justin herbert: fantasy football panic meter: justin herbert, malik nabers, drake maye filings actually say — line by line — the other side of the fight
+> What the Will Be will be: ‘dwts’: who will be eliminated on yacht rock night? filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
-### Anthony Rizzo — 23/100
+### Ben Rice — 21/100
 
-**Event:** Anthony Rizzo: Why NBC analyst Anthony Rizzo is bullish on the Astros as the MLB playoffs begin
+**Event:** Ben Rice: See Yankees star Ben Rice blast his 40th home run of the season
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Anthony Rizzo story is a proxy fight about something bigger — the detail nobody has explained
+> The Ben Rice story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Neil Pierre — 36/100
+
+**Event:** Neil Pierre: Who is Neil Pierre? The USMNT giant with the potential to rival Pau Cubarsi
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 14 · risk 34 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Neil Pierre story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** RESEARCH
 

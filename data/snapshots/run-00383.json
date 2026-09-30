@@ -1,0 +1,51 @@
+{
+  "runNo": 383,
+  "at": "2026-09-30T01:01:48.390Z",
+  "rows": [
+    {
+      "event": "story-paul-goldschmidt",
+      "alert": "ARCHIVE",
+      "opportunity": 33,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-justin-verlander",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-upton",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-rice",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-neil-pierre",
+      "alert": "ARCHIVE",
+      "opportunity": 36,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
