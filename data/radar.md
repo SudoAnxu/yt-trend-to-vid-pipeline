@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #399 · Updated: 30/09/2026, 17:43:26 (Asia/Kolkata)
+Run #400 · Updated: 30/09/2026, 18:23:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Adam Sandler — 13/100
-
-**Event:** Adam Sandler: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Adam Sandler adam sandler: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
