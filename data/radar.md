@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #412 · Updated: 30/09/2026, 23:34:04 (Asia/Kolkata)
+Run #413 · Updated: 30/09/2026, 23:46:05 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,15 +20,29 @@ Sources this run: trends(40)
 
 **Event:** Ken Paxton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+6 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Ken Paxton ken paxton: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Ken Paxton's — 22/100
+
+**Event:** Ken Paxton's: take on Republican convention heard on leaked audio
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Ken Paxton's ken paxton's: take on republican convention heard on leaked audio filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
