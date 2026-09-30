@@ -1,0 +1,44 @@
+{
+  "runNo": 388,
+  "at": "2026-09-30T05:45:41.817Z",
+  "rows": [
+    {
+      "event": "story-maya-joint",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-mason-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean-burke",
+      "alert": "ARCHIVE",
+      "opportunity": 35,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-musgrove",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-kimmel",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

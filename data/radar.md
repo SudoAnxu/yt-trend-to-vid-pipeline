@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #387 · Updated: 30/09/2026, 09:39:38 (Asia/Kolkata)
+Run #388 · Updated: 30/09/2026, 11:15:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(36)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,79 @@ Sources this run: trends(36)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Ted Lasso — 20/100
+### Maya Joint — 26/100
 
-**Event:** Ted Lasso: mae ted lasso
+**Event:** Maya Joint: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ted Lasso ted lasso: mae ted lasso story is actually a money story — the other side of the fight
+> What the Maya Joint maya joint: wta beijing first round best bets including maya joint vs sinja kraus filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** KEPT
+
+### Mason Miller — 21/100
+
+**Event:** Mason Miller: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Mason Miller story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Max Fried — 25/100
+### Sean Burke — 35/100
 
-**Event:** Max Fried: trending now
+**Event:** Sean Burke: White Sox's Sean Burke Drops Legendary Quote Ahead of MLB Wild Card Game 2 Start vs. Astros
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Sean Burke story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Joe Musgrove — 23/100
+
+**Event:** Joe Musgrove: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Max Fried max fried: trending now story is actually a money story — the other side of the fight
+> What the Joe Musgrove joe musgrove: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 16 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Pedro Martinez — 19/100
+### Jimmy Kimmel — 16/100
 
-**Event:** Pedro Martinez: MLB Legend Pedro Martinez Reveals What Yankees Should Do in Playoffs
+**Event:** Jimmy Kimmel: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Pedro Martinez story is a proxy fight about something bigger — the other side of the fight
+> What the Jimmy Kimmel jimmy kimmel: live schedule for the week of 9/28/2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
