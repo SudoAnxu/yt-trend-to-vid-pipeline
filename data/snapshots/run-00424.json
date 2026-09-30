@@ -1,0 +1,16 @@
+{
+  "runNo": 424,
+  "at": "2026-09-30T22:31:15.436Z",
+  "rows": [
+    {
+      "event": "story-jeremy-pena",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
