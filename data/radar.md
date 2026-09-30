@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #426 · Updated: 01/10/2026, 04:36:26 (Asia/Kolkata)
+Run #427 · Updated: 01/10/2026, 05:04:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Kai Cenat — 14/100
+### Will Win — 19/100
 
-**Event:** Kai Cenat: trending now
+**Event:** Will Win: Experts Predict: Who Will Win Laver Cup London 2026?
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Kai Cenat kai cenat: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Reggie Travers — 26/100
-
-**Event:** Reggie Travers: Twitch streamer Reggie Travers accuses brother of sexual abuse in tearful video
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 18 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Reggie Travers situation is weirder than the clips suggest — the other side of the fight
+> What the Will Win will win: big brother finale poll: who will win season 28? and who should win? filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
