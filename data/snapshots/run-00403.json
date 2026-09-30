@@ -1,0 +1,16 @@
+{
+  "runNo": 403,
+  "at": "2026-09-30T14:41:59.928Z",
+  "rows": [
+    {
+      "event": "story-zach-braff",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
