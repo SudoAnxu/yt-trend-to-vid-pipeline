@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #411 · Updated: 30/09/2026, 22:42:14 (Asia/Kolkata)
+Run #412 · Updated: 30/09/2026, 23:34:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jason Priestley — 17/100
+### Ken Paxton — 17/100
 
-**Event:** Jason Priestley: trending now
+**Event:** Ken Paxton: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 9 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+6 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jason Priestley jason priestley: trending now filings actually say — line by line — the other side of the fight
+> The Ken Paxton ken paxton: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>

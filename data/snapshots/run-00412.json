@@ -1,0 +1,16 @@
+{
+  "runNo": 412,
+  "at": "2026-09-30T18:04:04.418Z",
+  "rows": [
+    {
+      "event": "story-ken-paxton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
