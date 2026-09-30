@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #386 · Updated: 30/09/2026, 07:47:08 (Asia/Kolkata)
+Run #387 · Updated: 30/09/2026, 09:39:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(36)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tyler Cameron — 23/100
+### Ted Lasso — 20/100
 
-**Event:** Tyler Cameron: Exclusive | Dylan Efron reacts to Derek Hough's hilarious Tyler Cameron flub on 'DWTS' — and all the viral Tik
+**Event:** Ted Lasso: mae ted lasso
 
-**Why now:** 2 source lane(s): trends, news · momentum 30 (+16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tyler Cameron tyler cameron: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Brian Austin — 32/100
-
-**Event:** Brian Austin: Green’s comments about Dancing With the Stars ‘stress’ spark backlash
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brian Austin story is a proxy fight about something bigger — the other side of the fight
+> The Ted Lasso ted lasso: mae ted lasso story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Austin Green — 26/100
+### Max Fried — 25/100
 
-**Event:** Austin Green: brian austin green
+**Event:** Max Fried: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Austin Green austin green: brian austin green filings actually say — line by line — the other side of the fight
+> The Max Fried max fried: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Pedro Martinez — 19/100
+
+**Event:** Pedro Martinez: MLB Legend Pedro Martinez Reveals What Yankees Should Do in Playoffs
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Pedro Martinez story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
