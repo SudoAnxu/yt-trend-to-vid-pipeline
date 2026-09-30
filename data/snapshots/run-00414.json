@@ -1,0 +1,37 @@
+{
+  "runNo": 414,
+  "at": "2026-09-30T18:32:33.385Z",
+  "rows": [
+    {
+      "event": "story-tyler-mahle",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-paxton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-privately-said-trump-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ken-paxton-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
