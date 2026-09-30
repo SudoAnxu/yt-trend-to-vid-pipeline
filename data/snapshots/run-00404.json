@@ -1,0 +1,30 @@
+{
+  "runNo": 404,
+  "at": "2026-09-30T15:10:40.539Z",
+  "rows": [
+    {
+      "event": "story-moore-says-it",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-russell-lands-contract",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-zach-braff",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
