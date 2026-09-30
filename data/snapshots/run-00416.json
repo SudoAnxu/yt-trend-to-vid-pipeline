@@ -1,0 +1,23 @@
+{
+  "runNo": 416,
+  "at": "2026-09-30T19:31:21.468Z",
+  "rows": [
+    {
+      "event": "story-tyler-mahle",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-mahle-reacts-before",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
