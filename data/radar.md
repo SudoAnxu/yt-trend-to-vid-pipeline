@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #406 · Updated: 30/09/2026, 21:30:13 (Asia/Kolkata)
+Run #407 · Updated: 30/09/2026, 21:48:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jason Priestley: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Moore Says It: Shemar Moore Says It Was ‘Hard to Say Goodbye’ to ‘S.W.A.T.’ Cast After 8 Years (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Russell Lands Contract: D'Angelo Russell Lands Contract in Chinese Basketball Association After Grizzlies Release
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 6 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,25 +58,25 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Zach Braff — 25/100
+### Zach Braff — 22/100
 
 **Event:** Zach Braff: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-8 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Zach Braff zach braff: 'scrubs' zach braff gives discouraging ken jenkins return update filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** KEPT
 
-### Ken Jenkins — 24/100
+### Ken Jenkins — 23/100
 
 **Event:** Ken Jenkins: 'Scrubs' Zach Braff Gives Discouraging Ken Jenkins Return Update
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 34 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -86,11 +86,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Braff Gives Discouraging — 24/100
+### Braff Gives Discouraging — 23/100
 
 **Event:** Braff Gives Discouraging: 'Scrubs' Zach Braff Gives Discouraging Ken Jenkins Return Update
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 34 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 

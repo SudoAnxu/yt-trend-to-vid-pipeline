@@ -1,0 +1,51 @@
+{
+  "runNo": 407,
+  "at": "2026-09-30T16:18:57.256Z",
+  "rows": [
+    {
+      "event": "story-jason-priestley",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    },
+    {
+      "event": "story-moore-says-it",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-russell-lands-contract",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-zach-braff",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-jenkins",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-braff-gives-discouraging",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
