@@ -1,0 +1,44 @@
+{
+  "runNo": 395,
+  "at": "2026-09-30T10:05:49.350Z",
+  "rows": [
+    {
+      "event": "story-michael-weatherly",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 33,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-include",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-blow",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cruise-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
