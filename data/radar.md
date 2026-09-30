@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #391 · Updated: 30/09/2026, 13:17:53 (Asia/Kolkata)
+Run #392 · Updated: 30/09/2026, 14:25:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Evan Bouchard — 20/100
+### Justin Jefferson — 19/100
 
-**Event:** Evan Bouchard: tallies goal vs. Oilers
+**Event:** Justin Jefferson: 2026 NFL Week 4 Injury Report: Achane's ACL, updates on Baker Mayfield, Justin Jefferson, Breece Hall, more
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Evan Bouchard evan bouchard: tallies goal vs. oilers filings actually say — line by line — the other side of the fight
+> The Justin Jefferson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 

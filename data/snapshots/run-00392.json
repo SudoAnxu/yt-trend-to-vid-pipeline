@@ -1,0 +1,16 @@
+{
+  "runNo": 392,
+  "at": "2026-09-30T08:55:15.652Z",
+  "rows": [
+    {
+      "event": "story-justin-jefferson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
