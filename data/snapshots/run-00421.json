@@ -1,0 +1,16 @@
+{
+  "runNo": 421,
+  "at": "2026-09-30T21:21:46.670Z",
+  "rows": [
+    {
+      "event": "story-alec-bohm",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

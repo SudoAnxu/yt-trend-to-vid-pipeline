@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #420 · Updated: 01/10/2026, 02:26:30 (Asia/Kolkata)
+Run #421 · Updated: 01/10/2026, 02:51:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ryan Nembhard — 24/100
+### Alec Bohm — 16/100
 
-**Event:** Ryan Nembhard: trending now
+**Event:** Alec Bohm: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (+3 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ryan Nembhard ryan nembhard: news: signing two-way deal with denver filings actually say — line by line — the number behind the headline
+> What the Alec Bohm alec bohm: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>
