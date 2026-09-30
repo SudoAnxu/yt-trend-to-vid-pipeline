@@ -1,0 +1,44 @@
+{
+  "runNo": 382,
+  "at": "2026-09-30T00:40:57.029Z",
+  "rows": [
+    {
+      "event": "story-julia-stiles",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-hader",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-tim-ream",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-justin-herbert",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-rizzo",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

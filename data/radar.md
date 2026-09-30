@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #381 · Updated: 30/09/2026, 05:47:37 (Asia/Kolkata)
+Run #382 · Updated: 30/09/2026, 06:10:58 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,23 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Adam Levine — 16/100
+### Julia Stiles — 24/100
 
-**Event:** Adam Levine: ‘The Voice’ recap: Adam Levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist
+**Event:** Julia Stiles: julianne hough supports julia stiles
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 29 (+18 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Adam Levine adam levine: the voice season 30: an epic fake-out leaves adam levine 'crushed' in week two — vote for your favorite auditi filings actually say — line by line — the other side of the fight
+> The Julia Stiles story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 13 videos in last 6h · TTS ≈ 3h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
+
+### Josh Hader — 19/100
+
+**Event:** Josh Hader: Astros’ facing make-or-break moment with Josh Hader trade decision
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Hader josh hader: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Tim Ream — 25/100
+
+**Event:** Tim Ream: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Tim Ream tim ream: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Justin Herbert — 21/100
+
+**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Justin Herbert justin herbert: fantasy football panic meter: justin herbert, malik nabers, drake maye filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Anthony Rizzo — 23/100
+
+**Event:** Anthony Rizzo: Why NBC analyst Anthony Rizzo is bullish on the Astros as the MLB playoffs begin
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Anthony Rizzo story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
