@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #418 · Updated: 01/10/2026, 01:43:44 (Asia/Kolkata)
+Run #419 · Updated: 01/10/2026, 01:54:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alec Bohm — 16/100
+### Brandon Marsh — 21/100
+
+**Event:** Brandon Marsh: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Brandon Marsh brandon marsh: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Alec Bohm — 17/100
 
 **Event:** Alec Bohm: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,47 +44,33 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### John Kruk — 21/100
+### John Kruk — 20/100
 
 **Event:** John Kruk: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the John Kruk john kruk: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** BOOSTED
 
-### Jack Smith — 16/100
+### Jack Smith — 20/100
 
 **Event:** Jack Smith: Live updates: Jack Smith testifies before the Senate Judiciary Committee
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+14 vs prev run) · spice 5 · risk 86 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 12 · risk 86 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jack Smith jack smith: blackburn sues jack smith, doj over cell phone record probe story is actually a money story — what happens next
+> What the Jack Smith jack smith: faces new lawsuit over congressional phone records filings actually say — line by line — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Joey Votto — 24/100
-
-**Event:** Joey Votto: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Joey Votto joey votto: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
