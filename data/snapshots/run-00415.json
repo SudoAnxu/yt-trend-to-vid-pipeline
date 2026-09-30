@@ -1,0 +1,37 @@
+{
+  "runNo": 415,
+  "at": "2026-09-30T18:46:00.399Z",
+  "rows": [
+    {
+      "event": "story-tyler-mahle",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-mahle-reacts-before",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-austin-riley",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-chris-sale",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
