@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #397 · Updated: 30/09/2026, 16:23:23 (Asia/Kolkata)
+Run #398 · Updated: 30/09/2026, 16:49:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,45 +16,45 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Evan Gershkovich — 21/100
+### Mitchell Soccer — 22/100
+
+**Event:** Mitchell Soccer: Association continues to grow, build momentum for youth soccer
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Mitchell Soccer story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Evan Gershkovich — 20/100
 
 **Event:** Evan Gershkovich: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Evan Gershkovich evan gershkovich: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Ken Griffin — 28/100
+### Evan Gershkovich's — 19/100
 
-**Event:** Ken Griffin: Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida
+**Event:** Evan Gershkovich's: In Evan Gershkovich’s new memoir, prison is a microcosm of Russia
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 14 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ken Griffin ken griffin: hedge fund ceo ken griffin donates $3 billion to carnegie mellon as part of his bet on florida filings actually say — line by line — the number behind the headline
-
-**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Alex Karp — 23/100
-
-**Event:** Alex Karp: Palantir CEO Alex Karp buys 15,000 hectares of Swedish forest
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Alex Karp alex karp: palantir ceo alex karp buys 15,000 hectares of swedish forest filings actually say — line by line — the other side of the fight
+> What the Evan Gershkovich's evan gershkovich's: in evan gershkovich’s new memoir, prison is a microcosm of russia filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
