@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #410 · Updated: 30/09/2026, 22:24:06 (Asia/Kolkata)
+Run #411 · Updated: 30/09/2026, 22:42:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jason Priestley: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 9 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
