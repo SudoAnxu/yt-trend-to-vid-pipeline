@@ -1,0 +1,51 @@
+{
+  "runNo": 476,
+  "at": "2026-10-01T23:59:05.502Z",
+  "rows": [
+    {
+      "event": "story-billy-crystal",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-crystal-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-pittman",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-nola",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ray-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 6,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
