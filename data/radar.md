@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #469 · Updated: 02/10/2026, 03:13:28 (Asia/Kolkata)
+Run #470 · Updated: 02/10/2026, 03:24:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** John Wick: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Russell Wilson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,33 +44,19 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Travis Etienne — 20/100
+### Ciara Says Her — 22/100
 
-**Event:** Travis Etienne: trending now
+**Event:** Ciara Says Her: 9-Year-Old Daughter Nearly Spoiled Baby No. 5 Surprise: ‘She’s Got This Sixth Sense’
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Travis Etienne travis etienne: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
+> What the Ciara Says Her ciara says her: 9-year-old daughter nearly spoiled baby no. 5 surprise: ‘she’s got this sixth sense’ filings actually say — line by line — the part that was not supposed to be public
 
-**Competition:** 9 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Jayden Daniels — 13/100
-
-**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jayden Daniels jayden daniels: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
