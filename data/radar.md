@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #432 · Updated: 01/10/2026, 06:56:32 (Asia/Kolkata)
+Run #433 · Updated: 01/10/2026, 07:18:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Cody Bellinger — 19/100
+### Aaron Judge — 14/100
 
-**Event:** Cody Bellinger: trending now
+**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
+
+**Why now:** 2 source lane(s): news, trends · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Judge aaron judge: won't play alwcs; giancarlo stanton makes roster filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Aaron Judge's — 18/100
+
+**Event:** Aaron Judge's: calf strain could cascade into hamstring or Achilles injuries if rushed back, surgeon warns
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Aaron Judge's aaron judge's: calf strain could cascade into hamstring or achilles injuries if rushed back, surgeon warns story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Steve Hilton — 17/100
+
+**Event:** Steve Hilton: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
+> What the Steve Hilton steve hilton: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 14 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Cody Bellinger — 18/100
+
+**Event:** Cody Bellinger: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
 > The Cody Bellinger cody bellinger: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -34,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Ben Rice: See Yankees star Ben Rice blast his 40th home run of the season
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -42,13 +84,13 @@ Sources this run: trends(40)
 
 **Competition:** 13 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
-### Angel Reese — 21/100
+### Angel Reese — 20/100
 
 **Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 2 source lane(s): news, trends · momentum 33 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 27 (-6 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -57,20 +99,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** BOOSTED
-
-### Trevor Story — 19/100
-
-**Event:** Trevor Story: Red Sox’ Trevor Story Drops Telling Quote on Potential Yankees Rematch
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Trevor Story trevor story: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
