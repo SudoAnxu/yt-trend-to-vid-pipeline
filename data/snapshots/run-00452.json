@@ -1,0 +1,44 @@
+{
+  "runNo": 452,
+  "at": "2026-10-01T15:37:08.057Z",
+  "rows": [
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-shortage-hits-japan",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-eric-schmitt",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
