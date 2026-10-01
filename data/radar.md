@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #450 · Updated: 01/10/2026, 20:11:03 (Asia/Kolkata)
+Run #451 · Updated: 01/10/2026, 20:40:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Rick Ross — 20/100
+### Eric Schmitt — 14/100
+
+**Event:** Eric Schmitt: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Eric Schmitt filing that will matter in six months — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jack Smith — 18/100
+
+**Event:** Jack Smith: Live updates: Jack Smith testifies before the Senate Judiciary Committee
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jack Smith jack smith: eric schmitt was warned about the jack smith texts. he used them anyway. filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rick Ross — 25/100
 
 **Event:** Rick Ross: Rapper Rick Ross arrested in Miami Beach on felony battery by strangulation charge
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Rick Ross rick ross: rapper rick ross arrested in miami beach on felony battery by strangulation charge filings actually say — line by line — what happens next
+> What the Rick Ross rick ross: arrested on domestic violence charges after his ex tells police he slapped her, choked her and slammed her int filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Tom Kim — 22/100
-
-**Event:** Tom Kim: Why Tom Kim will ‘most likely’ leave Medinah before the Presidents Cup has even finished on Sunday
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Tom Kim story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jeff Bezos — 23/100
-
-**Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jeff Bezos jeff bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his earth fund is putting filings actually say — line by line — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
-
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
