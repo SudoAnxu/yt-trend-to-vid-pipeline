@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #468 · Updated: 02/10/2026, 02:41:55 (Asia/Kolkata)
+Run #469 · Updated: 02/10/2026, 03:13:28 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### John Wick — 11/100
+
+**Event:** John Wick: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the John Wick john wick: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Russell Wilson — 19/100
 
 **Event:** Russell Wilson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,35 +42,35 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
 ### Travis Etienne — 20/100
 
 **Event:** Travis Etienne: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Travis Etienne travis etienne: trending now story is actually a money story — the other side of the fight
+> The Travis Etienne travis etienne: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Roger Rogoff — 18/100
+### Jayden Daniels — 13/100
 
-**Event:** Roger Rogoff: us attorney lawsuit
+**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 10 · risk 86 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Roger Rogoff roger rogoff: us attorney lawsuit filings actually say — line by line — the number behind the headline
+> The Jayden Daniels jayden daniels: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
