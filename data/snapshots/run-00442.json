@@ -1,0 +1,16 @@
+{
+  "runNo": 442,
+  "at": "2026-10-01T10:24:20.479Z",
+  "rows": [
+    {
+      "event": "story-peter-thiel",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

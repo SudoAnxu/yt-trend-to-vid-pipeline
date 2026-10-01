@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #441 · Updated: 01/10/2026, 15:04:51 (Asia/Kolkata)
+Run #442 · Updated: 01/10/2026, 15:54:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Charles Kelley — 22/100
+### Peter Thiel — 30/100
 
-**Event:** Charles Kelley: Lady A Singer Charles Kelley Announces Cancer Diagnosis: ‘I Feel Really Hopeful’
+**Event:** Peter Thiel: buys troubled Bel-Air mega-mansion for $130 million
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Charles Kelley charles kelley: lady a singer charles kelley reveals cancer diagnosis story is actually a money story — the other side of the fight
+> The Peter Thiel peter thiel: buys troubled bel-air mega-mansion for $130 million story is actually a money story — the number behind the headline
 
-**Competition:** 9 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
