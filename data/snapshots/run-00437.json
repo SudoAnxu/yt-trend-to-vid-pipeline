@@ -1,0 +1,23 @@
+{
+  "runNo": 437,
+  "at": "2026-10-01T06:59:22.829Z",
+  "rows": [
+    {
+      "event": "story-jim-carrey",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-zoe-kazan",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
