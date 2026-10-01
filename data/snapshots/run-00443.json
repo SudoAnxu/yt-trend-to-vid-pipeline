@@ -1,0 +1,30 @@
+{
+  "runNo": 443,
+  "at": "2026-10-01T10:33:55.416Z",
+  "rows": [
+    {
+      "event": "story-bradley-whitford",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-larry-krasner",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-peter-thiel",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
