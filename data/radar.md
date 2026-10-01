@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #433 · Updated: 01/10/2026, 07:18:37 (Asia/Kolkata)
+Run #434 · Updated: 01/10/2026, 07:47:37 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,93 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Aaron Judge — 14/100
+### Aaron Boone — 24/100
 
-**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
+**Event:** Aaron Boone: Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Aaron Judge aaron judge: won't play alwcs; giancarlo stanton makes roster filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Aaron Judge's — 18/100
-
-**Event:** Aaron Judge's: calf strain could cascade into hamstring or Achilles injuries if rushed back, surgeon warns
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Aaron Judge's aaron judge's: calf strain could cascade into hamstring or achilles injuries if rushed back, surgeon warns story is actually a money story — the other side of the fight
+> The Aaron Boone story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Anthony Volpe's — 18/100
+
+**Event:** Anthony Volpe's: Yankees’ Jazz Chisholm will not be happy with Game 1 benching ... and Anthony Volpe’s ‘very much in play’
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Anthony Volpe's anthony volpe's: yankees’ jazz chisholm will not be happy with game 1 benching ... and anthony volpe’s ‘very much in play’ story is actually a money story — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
-### Steve Hilton — 17/100
+### Luis Garc — 22/100
 
-**Event:** Steve Hilton: trending now
+**Event:** Luis Garc: ía: “Necesitábamos gente nueva, fresca”
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Steve Hilton steve hilton: trending now filings actually say — line by line — the other side of the fight
+> What the Luis Garc luis garc: ía: “necesitábamos gente nueva, fresca” filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Cody Bellinger — 18/100
-
-**Event:** Cody Bellinger: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Cody Bellinger cody bellinger: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Ben Rice — 17/100
-
-**Event:** Ben Rice: See Yankees star Ben Rice blast his 40th home run of the season
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ben Rice ben rice: new york yankees announce ben rice change during red sox series filings actually say — line by line — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** KEPT
-
-### Angel Reese — 20/100
-
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
-
-**Why now:** 2 source lane(s): news, trends · momentum 27 (-6 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** BOOSTED
 
 
 </details>
