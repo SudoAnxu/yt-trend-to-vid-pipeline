@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #429 · Updated: 01/10/2026, 05:58:28 (Asia/Kolkata)
+Run #430 · Updated: 01/10/2026, 06:12:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Anthony Rizzo: Why NBC analyst Anthony Rizzo is bullish on the Astros as the MLB playoffs begin
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -29,6 +29,20 @@ Sources this run: trends(40)
 **Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Mike Tomlin — 20/100
+
+**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mike Tomlin mike tomlin: shows off minecraft city in new video after former steelers hc's viral comments filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Olivia Miles — 13/100
 
@@ -40,23 +54,9 @@ Sources this run: trends(40)
 
 > The Olivia Miles olivia miles: cheryl reeves snubs napheesa collier, claims olivia miles and natasha howard were their best players story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** KEPT
-
-### Miguel Vargas — 13/100
-
-**Event:** Miguel Vargas: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Miguel Vargas miguel vargas: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
