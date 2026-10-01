@@ -1,0 +1,30 @@
+{
+  "runNo": 454,
+  "at": "2026-10-01T16:34:19.024Z",
+  "rows": [
+    {
+      "event": "story-ray-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
