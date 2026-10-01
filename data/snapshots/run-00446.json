@@ -1,0 +1,16 @@
+{
+  "runNo": 446,
+  "at": "2026-10-01T11:46:42.040Z",
+  "rows": [
+    {
+      "event": "story-daniel-vallejo",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

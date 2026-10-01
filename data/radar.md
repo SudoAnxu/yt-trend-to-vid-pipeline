@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #445 · Updated: 01/10/2026, 16:50:45 (Asia/Kolkata)
+Run #446 · Updated: 01/10/2026, 17:16:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,21 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Brian Burns — 13/100
+### Daniel Vallejo — 19/100
 
-**Event:** Brian Burns: trending now
+**Event:** Daniel Vallejo: Adolfo Daniel Vallejo vs Jaime Faria Prediction & Picks - ATP Japan Open
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Brian Burns brian burns: giants sign jihad ward to bolster pass rush after brian burns injury filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Bradley Whitford — 20/100
-
-**Event:** Bradley Whitford: The West Wing Revival TV Show Gets Exciting Tease From Star Bradley Whitford
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Bradley Whitford bradley whitford: on bringing back ‘the west wing’ as a ‘limited series’ filings actually say — line by line — the other side of the fight
+> What the Daniel Vallejo daniel vallejo: rafa jódar - daniel vallejo: horario y dónde ver hoy por tv el partido de tokio filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
-
-**Status:** RESEARCH
-
-### Max Streaming — 17/100
-
-**Event:** Max Streaming: paramount+ hbo max streaming combination
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Max Streaming situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
