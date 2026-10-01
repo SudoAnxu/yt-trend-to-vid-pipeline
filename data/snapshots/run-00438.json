@@ -1,0 +1,16 @@
+{
+  "runNo": 438,
+  "at": "2026-10-01T07:17:26.051Z",
+  "rows": [
+    {
+      "event": "story-jim-carrey",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
