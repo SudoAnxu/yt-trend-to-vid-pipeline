@@ -1,0 +1,16 @@
+{
+  "runNo": 463,
+  "at": "2026-10-01T19:12:45.731Z",
+  "rows": [
+    {
+      "event": "story-trump-defends-white",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
