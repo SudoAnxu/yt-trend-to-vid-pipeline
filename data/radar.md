@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #434 · Updated: 01/10/2026, 07:47:37 (Asia/Kolkata)
+Run #435 · Updated: 01/10/2026, 09:51:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Aaron Boone — 24/100
+### Joey Porter — 19/100
 
-**Event:** Aaron Boone: Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone
+**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Aaron Boone story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Anthony Volpe's — 18/100
-
-**Event:** Anthony Volpe's: Yankees’ Jazz Chisholm will not be happy with Game 1 benching ... and Anthony Volpe’s ‘very much in play’
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+1 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Anthony Volpe's anthony volpe's: yankees’ jazz chisholm will not be happy with game 1 benching ... and anthony volpe’s ‘very much in play’ story is actually a money story — the other side of the fight
+> The Joey Porter joey porter: jr contract story is actually a money story — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Luis Garc — 22/100
+### Aaron Donald — 13/100
 
-**Event:** Luis Garc: ía: “Necesitábamos gente nueva, fresca”
+**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Luis Garc luis garc: ía: “necesitábamos gente nueva, fresca” filings actually say — line by line — the other side of the fight
+> The Aaron Donald story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Ethan Salas — 19/100
+
+**Event:** Ethan Salas: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ethan Salas ethan salas: de padres se convierte en el cátcher más joven en playoffs, en 2do juego ante cachorros filings actually say — line by line — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Tiffany Hayes — 31/100
+
+**Event:** Tiffany Hayes: Why WNBA playoff veteran Tiffany Hayes thinks Valkyries could win it all
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tiffany Hayes story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 

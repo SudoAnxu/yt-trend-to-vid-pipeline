@@ -1,0 +1,37 @@
+{
+  "runNo": 435,
+  "at": "2026-10-01T04:21:43.579Z",
+  "rows": [
+    {
+      "event": "story-joey-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-donald",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-salas",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-tiffany-hayes",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
