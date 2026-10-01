@@ -1,0 +1,23 @@
+{
+  "runNo": 440,
+  "at": "2026-10-01T09:19:19.098Z",
+  "rows": [
+    {
+      "event": "story-charles-kelley",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
