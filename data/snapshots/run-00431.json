@@ -1,0 +1,37 @@
+{
+  "runNo": 431,
+  "at": "2026-10-01T01:03:15.198Z",
+  "rows": [
+    {
+      "event": "story-aaron-sorkin",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-zuckerberg",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-upton",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-verlander",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
