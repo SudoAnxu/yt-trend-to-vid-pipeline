@@ -1,0 +1,23 @@
+{
+  "runNo": 448,
+  "at": "2026-10-01T13:43:58.185Z",
+  "rows": [
+    {
+      "event": "story-tom-kim",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-dennis-haskins",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
