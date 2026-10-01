@@ -1,0 +1,16 @@
+{
+  "runNo": 436,
+  "at": "2026-10-01T06:12:14.621Z",
+  "rows": [
+    {
+      "event": "story-jim-carrey",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
