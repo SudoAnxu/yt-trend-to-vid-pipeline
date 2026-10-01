@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #463 · Updated: 02/10/2026, 00:42:45 (Asia/Kolkata)
+Run #464 · Updated: 02/10/2026, 01:09:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Trump Defends White: House Construction Projects—Claims White House Had ‘Massive Gaping Wounds’
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
