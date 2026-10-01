@@ -1,0 +1,16 @@
+{
+  "runNo": 467,
+  "at": "2026-10-01T20:40:25.552Z",
+  "rows": [
+    {
+      "event": "story-tracy-gives-chase",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
