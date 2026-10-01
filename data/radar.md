@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #428 · Updated: 01/10/2026, 05:30:16 (Asia/Kolkata)
+Run #429 · Updated: 01/10/2026, 05:58:28 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jordan Hicks — 25/100
+### Anthony Rizzo — 16/100
 
-**Event:** Jordan Hicks: 'It feels like home': 4-star DB Jordan Hicks takes first-ever visit to Alabama
+**Event:** Anthony Rizzo: Why NBC analyst Anthony Rizzo is bullish on the Astros as the MLB playoffs begin
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jordan Hicks story is a proxy fight about something bigger — the other side of the fight
+> What the Anthony Rizzo anthony rizzo: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Olivia Miles — 13/100
+
+**Event:** Olivia Miles: Live: Lynx can clinch No. 1 playoff seed vs. Caitlin Clark and the Fever. Will Olivia Miles play?
+
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Olivia Miles olivia miles: cheryl reeves snubs napheesa collier, claims olivia miles and natasha howard were their best players story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
 
 **Status:** KEPT
+
+### Miguel Vargas — 13/100
+
+**Event:** Miguel Vargas: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Miguel Vargas miguel vargas: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
