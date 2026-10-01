@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #471 · Updated: 02/10/2026, 03:51:47 (Asia/Kolkata)
+Run #472 · Updated: 02/10/2026, 04:21:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Wick — 12/100
+### Kate Middleton — 13/100
 
-**Event:** John Wick: trending now
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the John Wick john wick: trending now filings actually say — line by line — the other side of the fight
+> The Kate Middleton kate middleton: and prince william’s recent appearance may have sent a subtle message to prince harry and meghan markle story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
