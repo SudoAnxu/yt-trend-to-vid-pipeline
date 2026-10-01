@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #438 · Updated: 01/10/2026, 12:47:26 (Asia/Kolkata)
+Run #439 · Updated: 01/10/2026, 13:36:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jim Carrey — 20/100
+### Carlos Alcaraz — 17/100
 
-**Event:** Jim Carrey: , 64, marries longtime girlfriend Min Ah, 32, in secret Los Angeles ceremony
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jim Carrey story is a proxy fight about something bigger — the detail nobody has explained
+> What the Carlos Alcaraz carlos alcaraz: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
