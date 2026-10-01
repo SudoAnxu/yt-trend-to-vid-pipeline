@@ -1,0 +1,37 @@
+{
+  "runNo": 432,
+  "at": "2026-10-01T01:26:31.775Z",
+  "rows": [
+    {
+      "event": "story-cody-bellinger",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-rice",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-angel-reese",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-trevor-story",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

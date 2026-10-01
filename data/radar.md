@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #431 · Updated: 01/10/2026, 06:33:15 (Asia/Kolkata)
+Run #432 · Updated: 01/10/2026, 06:56:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,59 +16,59 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Aaron Sorkin — 23/100
+### Cody Bellinger — 19/100
 
-**Event:** Aaron Sorkin: Officially Confirms ‘The Social Reckoning’ Was Changed Over Legal Concerns
+**Event:** Cody Bellinger: trending now
 
-**Why now:** 1 source lane(s): news · momentum 21 (-1 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Sorkin aaron sorkin: why aaron sorkin left trump out of ‘the social reckoning’ story is actually a money story — the detail nobody has explained
+> The Cody Bellinger cody bellinger: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Mark Zuckerberg — 14/100
+### Ben Rice — 17/100
 
-**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
+**Event:** Ben Rice: See Yankees star Ben Rice blast his 40th home run of the season
 
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mark Zuckerberg mark zuckerberg: aaron sorkin on ‘the social reckoning,’ mark zuckerberg, and trump filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Kate Upton — 18/100
-
-**Event:** Kate Upton: SI Swimsuit gave Justin Verlander a proper retirement send off with look back at Kate Upton cover shoot
-
-**Why now:** 1 source lane(s): news · momentum 23 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kate Upton kate upton: after verlander retirement: 'never watching baseball again' story is actually a money story — the other side of the fight
+> What the Ben Rice ben rice: new york yankees announce ben rice change during red sox series filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 7.3h · sources: news
+**Competition:** 13 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
-### Justin Verlander — 13/100
+### Angel Reese — 21/100
 
-**Event:** Justin Verlander: trending now
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 33 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Justin Verlander justin verlander: si swimsuit gave justin verlander a proper retirement send off with look back at kate upton cover shoot filings actually say — line by line — the other side of the fight
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Trevor Story — 19/100
+
+**Event:** Trevor Story: Red Sox’ Trevor Story Drops Telling Quote on Potential Yankees Rematch
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Trevor Story trevor story: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
