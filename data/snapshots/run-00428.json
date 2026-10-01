@@ -1,0 +1,16 @@
+{
+  "runNo": 428,
+  "at": "2026-10-01T00:00:15.780Z",
+  "rows": [
+    {
+      "event": "story-jordan-hicks",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
