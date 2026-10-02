@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #511 · Updated: 03/10/2026, 00:23:58 (Asia/Kolkata)
+Run #512 · Updated: 03/10/2026, 00:55:30 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Amanda Peet — 27/100
+
+**Event:** Amanda Peet: Reveals First ‘Weird’ Symptom She Had Months Before Breast Cancer Diagnosis
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Amanda Peet amanda peet: reveals first ‘weird’ symptom she had months before breast cancer diagnosis filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
 ### Ken Paxton — 13/100
 
 **Event:** Ken Paxton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,43 +48,29 @@ Sources this run: trends(40)
 
 **Event:** James Talarico: ken paxton james talarico polls
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the James Talarico james talarico: ken paxton james talarico polls filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Bruce Willis — 18/100
+### James Milton — 19/100
 
-**Event:** Bruce Willis: Smiles in Rare New Photo Amid His Dementia Battle
+**Event:** James Milton: Football Bet of the Day: James Milton has a 10-11 selection from the Nations League
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Bruce Willis bruce willis: appears in rare photo with daughter tallulah willis after her wedding story is actually a money story — the other side of the fight
-
-**Competition:** 23 videos in last 6h · TTS ≈ 5.1h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Bruce Willis' — 18/100
-
-**Event:** Bruce Willis': wife makes emotional promise as actor enters 'next chapter'
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Bruce Willis' story is a proxy fight about something bigger — the other side of the fight
+> What the James Milton james milton: football bet of the day: james milton has a 10-11 selection from the nations league filings actually say — line by line — the other side of the fight
 
-**Competition:** 16 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
