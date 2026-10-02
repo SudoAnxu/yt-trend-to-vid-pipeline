@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #501 · Updated: 02/10/2026, 20:37:41 (Asia/Kolkata)
+Run #502 · Updated: 02/10/2026, 21:25:01 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (9)
 
 <details><summary>show</summary>
+
+### James Gunn — 17/100
+
+**Event:** James Gunn: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the James Gunn james gunn: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 ### Michael De — 20/100
 
 **Event:** Michael De: Warner Bros Film Bosses Michael De Luca, Pam Abdy Out As Paramount Takes Over
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Michael De story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news
+
+**Status:** RESEARCH
+
+### Paramount Takes Over — 22/100
+
+**Event:** Paramount Takes Over: Warner Bros Film Bosses Michael De Luca, Pam Abdy Out As Paramount Takes Over
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Paramount Takes Over story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** From Producer: The Walking Dead: Dead City Season 4 Renewal Gets Official Status Update From Producer Scott Gimple: 'I Think 
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Producer Scott: The Walking Dead: Dead City Season 4 Renewal Gets Official Status Update From Producer Scott Gimple: 'I Think 
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Gimple: The Walking Dead: Dead City Season 4 Renewal Gets Official Status Update From Producer Scott Gimple: 'I Think 
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -72,17 +100,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Mark Consuelos — 17/100
+### Mark Consuelos — 21/100
 
 **Event:** Mark Consuelos: Announces ‘Major Surgery’ in ‘Live’ Health Update
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+9 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Mark Consuelos mark consuelos: see the best throwback photos of mark consuelos and kelly ripa, as the actress celebrates her 56th birthday to filings actually say — line by line — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -90,13 +118,13 @@ Sources this run: trends(40)
 
 **Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
 
-**Why now:** 1 source lane(s): news · momentum 22 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 20 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the David Ellison david ellison: renames combined paramount-warner as skydance filings actually say — line by line — the other side of the fight
+> What the David Ellison david ellison: changes name of combined paramount-warner to skydance filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 2.4h · sources: news
+**Competition:** 9 videos in last 6h · TTS ≈ 2.4h · sources: news
 
 **Status:** BOOSTED
 
@@ -104,7 +132,7 @@ Sources this run: trends(40)
 
 **Event:** Mark Ruffalo: blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 19 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 19 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
