@@ -1,0 +1,16 @@
+{
+  "runNo": 497,
+  "at": "2026-10-02T13:24:44.617Z",
+  "rows": [
+    {
+      "event": "story-david-lynch-s",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
