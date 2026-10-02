@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #509 · Updated: 02/10/2026, 23:42:03 (Asia/Kolkata)
+Run #510 · Updated: 03/10/2026, 00:09:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,29 +12,57 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Bruce Willis — 16/100
+### Ken Paxton — 13/100
 
-**Event:** Bruce Willis: Smiles in Rare New Photo Amid His Dementia Battle
+**Event:** Ken Paxton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Bruce Willis bruce willis: shares sweet moment with his daughter in rare photo filings actually say — line by line — the other side of the fight
+> What the Ken Paxton ken paxton: james talarico polls filings actually say — line by line — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### James Talarico — 19/100
+
+**Event:** James Talarico: ken paxton james talarico polls
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the James Talarico james talarico: ken paxton james talarico polls filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Bruce Willis' — 21/100
+### Bruce Willis — 18/100
+
+**Event:** Bruce Willis: Smiles in Rare New Photo Amid His Dementia Battle
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+6 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Bruce Willis bruce willis: appears in rare photo with daughter tallulah willis after her wedding story is actually a money story — the other side of the fight
+
+**Competition:** 23 videos in last 6h · TTS ≈ 5.1h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Bruce Willis' — 18/100
 
 **Event:** Bruce Willis': wife makes emotional promise as actor enters 'next chapter'
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -42,49 +70,35 @@ Sources this run: trends(40)
 
 **Competition:** 16 videos in last 6h · TTS ≈ 5.3h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 ### Paul Skenes — 22/100
 
 **Event:** Paul Skenes: Why Paul Skenes blames the World Baseball Classic for decreased velocity as Pirates ace wraps up down season
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.3h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Paul Skenes story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 6.1h · sources: news, trends
+**Competition:** 18 videos in last 6h · TTS ≈ 6.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jim Farley — 23/100
+### Olivia Dunne's — 19/100
 
-**Event:** Jim Farley: Ford CEO Jim Farley says the line between engineers and skilled tradespeople is now ‘completely blurred out’
+**Event:** Olivia Dunne's: Celebrate Olivia Dunne’s Birthday With a Look at Her Four Fabulous SI Swimsuit Shoots
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jim Farley jim farley: ford ceo jim farley says the line between engineers and skilled tradespeople is now ‘completely blurred out’ story is actually a money story — the other side of the fight
+> What the Olivia Dunne's olivia dunne's: celebrate olivia dunne’s birthday with a look at her four fabulous si swimsuit shoots filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Zilis Says She's — 18/100
-
-**Event:** Zilis Says She's: Shivon Zilis Says She’s Been ‘Let Go’ From Relationship With Elon Musk
-
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Zilis Says She's zilis says she's: shivon zilis says she’s been ‘let go’ from relationship with elon musk filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>

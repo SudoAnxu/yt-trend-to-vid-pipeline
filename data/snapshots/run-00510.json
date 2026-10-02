@@ -1,0 +1,51 @@
+{
+  "runNo": 510,
+  "at": "2026-10-02T18:39:11.272Z",
+  "rows": [
+    {
+      "event": "story-ken-paxton",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-talarico",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-bruce-willis",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-bruce-willis-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-skenes",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-dunne-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
