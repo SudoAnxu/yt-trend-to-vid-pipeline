@@ -1,0 +1,23 @@
+{
+  "runNo": 518,
+  "at": "2026-10-02T21:24:22.695Z",
+  "rows": [
+    {
+      "event": "story-tony-reno",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-owen-coyne",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
