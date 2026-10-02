@@ -1,0 +1,16 @@
+{
+  "runNo": 485,
+  "at": "2026-10-02T06:49:05.673Z",
+  "rows": [
+    {
+      "event": "story-zach-galifianakis",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
