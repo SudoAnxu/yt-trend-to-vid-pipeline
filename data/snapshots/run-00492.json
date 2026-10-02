@@ -1,0 +1,16 @@
+{
+  "runNo": 492,
+  "at": "2026-10-02T10:41:36.506Z",
+  "rows": [
+    {
+      "event": "story-michael-jordan-s",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
