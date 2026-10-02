@@ -1,0 +1,51 @@
+{
+  "runNo": 508,
+  "at": "2026-10-02T17:58:15.451Z",
+  "rows": [
+    {
+      "event": "story-bruce-willis",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-skenes",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-zilis-says-she-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-bush",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-bush-joins-fox",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-tony-romo",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
