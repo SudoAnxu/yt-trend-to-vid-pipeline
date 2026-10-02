@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #519 · Updated: 03/10/2026, 03:20:27 (Asia/Kolkata)
+Run #520 · Updated: 03/10/2026, 03:58:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Jeff Van — 21/100
+
+**Event:** Jeff Van: note
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jeff Van jeff van: note filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Tyler Perry — 17/100
+
+**Event:** Tyler Perry: doing life tyler perry
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Tyler Perry tyler perry: doing life tyler perry filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
 ### Tyler Perry's — 19/100
 
 **Event:** Tyler Perry's: Meet the Cast of Tyler Perry’s ‘Doing Life’ on Netflix (with Pictures)
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Tyler Perry's situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
-
-**Status:** RESEARCH
-
-### Luis Fernando — 19/100
-
-**Event:** Luis Fernando: Tena: "El Salvador tiene delanteros muy buenos y eso los hace peligrosos"
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Luis Fernando luis fernando: tena: "este surinam es mejor al del año pasado" filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Tony Reno — 24/100
-
-**Event:** Tony Reno: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tony Reno tony reno: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.2h · sources: news
 
 **Status:** RESEARCH
 
