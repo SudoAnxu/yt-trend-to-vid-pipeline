@@ -1,0 +1,23 @@
+{
+  "runNo": 499,
+  "at": "2026-10-02T14:31:33.334Z",
+  "rows": [
+    {
+      "event": "story-mark-consuelos",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-ellison",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
