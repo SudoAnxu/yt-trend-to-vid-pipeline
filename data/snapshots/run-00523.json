@@ -1,0 +1,16 @@
+{
+  "runNo": 523,
+  "at": "2026-10-02T23:37:17.689Z",
+  "rows": [
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
