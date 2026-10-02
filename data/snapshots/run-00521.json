@@ -1,0 +1,44 @@
+{
+  "runNo": 521,
+  "at": "2026-10-02T22:38:50.653Z",
+  "rows": [
+    {
+      "event": "story-simon-edvinsson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeff-van",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-perry",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tyler-perry-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-city",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
