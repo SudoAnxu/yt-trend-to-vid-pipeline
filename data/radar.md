@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #503 · Updated: 02/10/2026, 21:39:15 (Asia/Kolkata)
+Run #504 · Updated: 02/10/2026, 21:48:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Tony Romo — 25/100
+
+**Event:** Tony Romo: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tony Romo tony romo: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Will Go — 24/100
+
+**Event:** Will Go: Grammy Asian Pop Category Will Go Forward, CEO Says: ‘We Understand This Conclusion Will Not Satisfy Everyone’
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Will Go will go: grammy asian pop category will go forward, ceo says: ‘we understand this conclusion will not satisfy everyone’ filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
 ### James Gunn — 17/100
 
 **Event:** James Gunn: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Michael De — 20/100
+### Michael De — 19/100
 
 **Event:** Michael De: Warner Bros Film Bosses Michael De Luca, Pam Abdy Out As Paramount Takes Over
 
-**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Paramount Takes Over: Warner Bros Film Bosses Michael De Luca, Pam Abdy Out As Paramount Takes Over
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** From Producer: The Walking Dead: Dead City Season 4 Renewal Gets Official Status Update From Producer Scott Gimple: 'I Think 
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -70,13 +98,13 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Producer Scott — 22/100
 
 **Event:** Producer Scott: The Walking Dead: Dead City Season 4 Renewal Gets Official Status Update From Producer Scott Gimple: 'I Think 
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -84,13 +112,13 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Gimple — 22/100
 
 **Event:** Gimple: The Walking Dead: Dead City Season 4 Renewal Gets Official Status Update From Producer Scott Gimple: 'I Think 
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -98,49 +126,21 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
-### Mark Consuelos — 20/100
+### Mark Consuelos — 21/100
 
 **Event:** Mark Consuelos: Announces ‘Major Surgery’ in ‘Live’ Health Update
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Mark Consuelos mark consuelos: see the best throwback photos of mark consuelos and kelly ripa, as the actress celebrates her 56th birthday to filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### David Ellison — 18/100
-
-**Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
-
-**Why now:** 1 source lane(s): news · momentum 10 (-10 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the David Ellison david ellison: changes name of combined paramount-warner to skydance filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 2.4h · sources: news
-
-**Status:** BOOSTED
-
-### Mark Ruffalo — 24/100
-
-**Event:** Mark Ruffalo: blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 19 · risk 64 · external momentum 16 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Mark Ruffalo mark ruffalo: blasts paramount-warner bros. merger after judge clears $110b hollywood deal story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
