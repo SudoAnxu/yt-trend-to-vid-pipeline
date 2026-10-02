@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #485 · Updated: 02/10/2026, 12:19:06 (Asia/Kolkata)
+Run #486 · Updated: 02/10/2026, 12:36:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Zach Galifianakis — 22/100
-
-**Event:** Zach Galifianakis: Today’s famous birthdays list for October 1, 2026 includes celebrities Julie Andrews, Zach Galifianakis
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Zach Galifianakis zach galifianakis: today’s famous birthdays list for october 1, 2026 includes celebrities julie andrews, zach galifianakis story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
