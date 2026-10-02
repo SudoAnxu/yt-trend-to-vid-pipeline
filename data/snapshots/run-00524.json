@@ -1,0 +1,23 @@
+{
+  "runNo": 524,
+  "at": "2026-10-02T23:53:21.597Z",
+  "rows": [
+    {
+      "event": "story-ethan-grunkemeyer",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
