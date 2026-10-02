@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #480 · Updated: 02/10/2026, 07:16:39 (Asia/Kolkata)
+Run #481 · Updated: 02/10/2026, 07:31:05 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,77 +12,63 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Todd Monken — 19/100
+### Brittany Mahomes — 18/100
 
-**Event:** Todd Monken: has jokes before facing T.J. Watt: 'I think it's about time he retires'
+**Event:** Brittany Mahomes: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (-8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Todd Monken todd monken: has jokes before facing t.j. watt: 'i think it's about time he retires' filings actually say — line by line — what happens next
+> What the Brittany Mahomes brittany mahomes: reacts to sophie cunningham after indiana fever’s game 2 win filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Larry Nassar — 30/100
+### Brandon Marsh — 21/100
 
-**Event:** Larry Nassar: trending now
+**Event:** Brandon Marsh: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Larry Nassar larry nassar: trending now filings actually say — line by line — the other side of the fight
+> What the Brandon Marsh brandon marsh: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Chris Brown — 20/100
+### Ken Urker — 17/100
 
-**Event:** Chris Brown: Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
+**Event:** Ken Urker: cause of death update: How did Gypsy Rose Blanchard's fiance die? Latest details after demise at 33 | Hindusta
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+6 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Chris Brown story is a proxy fight about something bigger — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Chris Brown's — 19/100
-
-**Event:** Chris Brown's: Chris Brown’s Ex-Housekeeper Accepts $9.5M Verdict in Dog Attack Case, Down From $13M
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Chris Brown's chris brown's: chris brown’s ex-housekeeper accepts $9.5m verdict in dog attack case, down from $13m filings actually say — line by line — the other side of the fight
+> The Ken Urker ken urker: cause of death update: how did gypsy rose blanchard's fiance die? latest details after demise at 33 | hindusta story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 20 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
-### Joey Porter — 13/100
+### Oliver Hudson — 16/100
 
-**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
+**Event:** Oliver Hudson: Talks Pressure of Growing Up with ‘Icon’ Mom Goldie Hawn: ‘I Wrestle with Insecurity’
 
-**Why now:** 2 source lane(s): news, trends · momentum 3 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Joey Porter joey porter: jr. trade to dallas puts omar khan's gm tenure in question filings actually say — line by line — the other side of the fight
+> What the Oliver Hudson oliver hudson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
