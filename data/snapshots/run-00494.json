@@ -1,0 +1,16 @@
+{
+  "runNo": 494,
+  "at": "2026-10-02T11:17:08.507Z",
+  "rows": [
+    {
+      "event": "story-will-always",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
