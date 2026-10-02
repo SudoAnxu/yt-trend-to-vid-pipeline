@@ -1,0 +1,16 @@
+{
+  "runNo": 487,
+  "at": "2026-10-02T07:49:05.211Z",
+  "rows": [
+    {
+      "event": "story-benjamin-franklin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
