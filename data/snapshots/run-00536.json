@@ -1,0 +1,16 @@
+{
+  "runNo": 536,
+  "at": "2026-10-03T08:28:55.291Z",
+  "rows": [
+    {
+      "event": "story-tom-cruise-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

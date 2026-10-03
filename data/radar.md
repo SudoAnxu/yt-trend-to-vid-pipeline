@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #535 · Updated: 03/10/2026, 12:53:48 (Asia/Kolkata)
+Run #536 · Updated: 03/10/2026, 13:58:55 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 19/100
+### Tom Cruise's — 19/100
 
-**Event:** Alexander Zverev: trending now
+**Event:** Tom Cruise's: Tom Cruise’s Sweet Gesture Toward Kate Middleton Actually Breaks This Royal Rule
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexander Zverev alexander zverev: atp beijing day 4 predictions including alexander zverev vs juncheng shang filings actually say — line by line — the other side of the fight
+> The Tom Cruise's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
