@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #553 · Updated: 03/10/2026, 20:34:06 (Asia/Kolkata)
+Run #554 · Updated: 03/10/2026, 20:40:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,13 +28,13 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Andrew Sprague — 18/100
 
 **Event:** Andrew Sprague: Michigan right tackle Andrew Sprague ruled out for Big Ten road game against Minnesota
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Will Aaron: Judge be on the Yankees' ALDS roster? Here's the latest
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · external momentum 16 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,11 +62,11 @@ Sources this run: trends(40)
 
 **Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Judge aaron judge: left off of yankees' alds roster vs. rays: three-time mvp still recovering from calf injury filings actually say — line by line — the other side of the fight
+> What the Aaron Judge aaron judge: three-time mvp aaron judge left off yankees roster vs rays with injury filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Ryan Williams: quem é o camisa 10 da Índia? Ele é indiano?
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -90,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -118,7 +118,7 @@ Sources this run: trends(40)
 
 **Event:** Jordan Release: J Balvin x Air Jordan 4: October 2026 Air Jordan Release Dates
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
