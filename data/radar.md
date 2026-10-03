@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #542 · Updated: 03/10/2026, 16:03:41 (Asia/Kolkata)
+Run #543 · Updated: 03/10/2026, 16:51:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jim Harbaugh — 19/100
+### Tom Kim — 22/100
 
-**Event:** Jim Harbaugh: gave brother J.J. McCarthy scouting report before Giants trade
+**Event:** Tom Kim: Why Tom Kim will ‘most likely’ leave Medinah before the Presidents Cup has even finished on Sunday
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-3 vs prev run) · spice 5 · risk 26 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jim Harbaugh filing that will matter in six months — the other side of the fight
+> The Tom Kim story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
+**Competition:** 24 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Chad Lowe — 16/100
+
+**Event:** Chad Lowe: fiona lowe daughter of chad lowe
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Chad Lowe chad lowe: fiona lowe daughter of chad lowe story is actually a money story — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Chad Lowe's — 17/100
+
+**Event:** Chad Lowe's: New details released after death of Chad Lowe's teenage daughter
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Chad Lowe's chad lowe's: new details released after death of chad lowe's teenage daughter story is actually a money story — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
