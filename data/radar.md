@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #533 · Updated: 03/10/2026, 11:40:53 (Asia/Kolkata)
+Run #534 · Updated: 03/10/2026, 12:09:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 20/100
+### Carlos Alcaraz — 19/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+12 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 

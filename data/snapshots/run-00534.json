@@ -1,0 +1,16 @@
+{
+  "runNo": 534,
+  "at": "2026-10-03T06:39:52.382Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
