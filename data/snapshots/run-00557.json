@@ -1,0 +1,23 @@
+{
+  "runNo": 557,
+  "at": "2026-10-03T16:57:14.354Z",
+  "rows": [
+    {
+      "event": "story-harry-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-tuchel",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
