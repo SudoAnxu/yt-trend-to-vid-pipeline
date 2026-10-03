@@ -1,0 +1,16 @@
+{
+  "runNo": 555,
+  "at": "2026-10-03T15:23:49.033Z",
+  "rows": [
+    {
+      "event": "story-andrew-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
