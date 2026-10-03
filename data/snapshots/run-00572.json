@@ -1,0 +1,30 @@
+{
+  "runNo": 572,
+  "at": "2026-10-03T23:11:57.152Z",
+  "rows": [
+    {
+      "event": "story-ken-griffin",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-eli-raridon",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-eli-raridon-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
