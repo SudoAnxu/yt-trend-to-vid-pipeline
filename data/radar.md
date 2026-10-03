@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #568 · Updated: 04/10/2026, 03:11:32 (Asia/Kolkata)
+Run #569 · Updated: 04/10/2026, 03:23:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,79 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Anthony Wint — 28/100
+### Kirk Herbstreit — 19/100
+
+**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
+
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kirk Herbstreit story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Aaron Judge — 23/100
+
+**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Judge aaron judge: not on yankees' roster for alds vs. rays filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Anthony Wint — 23/100
 
 **Event:** Anthony Wint: vs Lucas Armand Prediction, Picks, Odds for UFC 332 (Saturday, October 3)
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Anthony Wint story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Ben Whittaker — 29/100
+### Ben Whittaker — 24/100
 
 **Event:** Ben Whittaker: vs. Conor Wallace LIVE: Latest updates, results and analysis
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Ben Whittaker ben whittaker: vs. conor wallace live: latest updates, results and analysis filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Josh Heupel — 18/100
+### Amy Acton — 17/100
 
-**Event:** Josh Heupel: trending now
+**Event:** Amy Acton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Josh Heupel josh heupel: faizon brandon gave josh heupel no choice but to bench him in tennessee vs. auburn story is actually a money story — the other side of the fight
+> What the Amy Acton amy acton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** BOOSTED
+**Status:** RESEARCH
 
 
 </details>
