@@ -1,0 +1,65 @@
+{
+  "runNo": 552,
+  "at": "2026-10-03T14:47:08.726Z",
+  "rows": [
+    {
+      "event": "story-will-aaron",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-judge",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-marcus-freeman",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-jordan-s",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-release",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ken-urker",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-rose-blanchard",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-rose-blanchard-s",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

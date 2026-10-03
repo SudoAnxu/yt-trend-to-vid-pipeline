@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #551 · Updated: 03/10/2026, 20:06:13 (Asia/Kolkata)
+Run #552 · Updated: 03/10/2026, 20:17:09 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (11)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Will Aaron: Judge be on the Yankees' ALDS roster? Here's the latest
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,31 +30,31 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Aaron Judge — 15/100
+### Aaron Judge — 22/100
 
 **Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+10 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Judge aaron judge: will aaron judge be on the yankees' alds roster? here's the latest filings actually say — line by line — the other side of the fight
+> What the Aaron Judge aaron judge: left off of yankees' alds roster vs. rays: three-time mvp still recovering from calf injury filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Aaron Judge's — 21/100
+### Marcus Freeman — 19/100
 
-**Event:** Aaron Judge's: calf strain could cascade into hamstring or Achilles injuries if rushed back, surgeon warns
+**Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Aaron Judge's aaron judge's: availability for yankees in alds vs. rays still uncertain story is actually a money story — the other side of the fight
+> What the Marcus Freeman marcus freeman: notre dame football coach marcus freeman on qb cj carr's line checks filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
@@ -72,11 +72,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
+### Jordan Release — 18/100
+
+**Event:** Jordan Release: J Balvin x Air Jordan 4: October 2026 Air Jordan Release Dates
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jordan Release jordan release: j balvin x air jordan 4: october 2026 air jordan release dates story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
 ### Ken Urker — 17/100
 
 **Event:** Ken Urker: cause of death update: How did Gypsy Rose Blanchard's fiance die? Latest details after demise at 33 | Hindusta
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -90,13 +104,13 @@ Sources this run: trends(40)
 
 **Event:** Rose Blanchard: Ken Urker, Partner of Gypsy Rose Blanchard, Is Found Dead in Louisiana
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Rose Blanchard rose blanchard: ken urker, partner of gypsy rose blanchard, is found dead in louisiana filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
 
 **Status:** RESEARCH
 
@@ -104,7 +118,7 @@ Sources this run: trends(40)
 
 **Event:** Rose Blanchard's: Gypsy Rose Blanchard's partner found dead in apparent drug-related incident
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -113,62 +127,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
-
-### Kirk Ferentz — 20/100
-
-**Event:** Kirk Ferentz: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+12 vs prev run) · spice 0 · risk 64 · external momentum 23 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Kirk Ferentz kirk ferentz: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Ian Rapoport — 19/100
-
-**Event:** Ian Rapoport: The Pat McAfee Show - PMS 2.0 1637 - LIVE From Iowa with Ian Rapoport, Nick Saban, Ben McCollum, Kirk Ferentz 
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Ian Rapoport ian rapoport: the pat mcafee show - pms 2.0 1637 - live from iowa with ian rapoport, nick saban, ben mccollum, kirk ferentz  filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Nick Saban — 15/100
-
-**Event:** Nick Saban: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Nick Saban nick saban: the pat mcafee show - pms 2.0 1637 - live from iowa with ian rapoport, nick saban, ben mccollum, kirk ferentz  filings actually say — line by line — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kirk Ferentz's — 19/100
-
-**Event:** Kirk Ferentz's: How does Kirk Ferentz’s Iowa keep doing this? ‘We’re not in the entertainment business’
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Kirk Ferentz's kirk ferentz's: revelation about his remarkable journey will bring a tear to your eye filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
