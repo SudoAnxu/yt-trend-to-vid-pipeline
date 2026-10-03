@@ -1,0 +1,23 @@
+{
+  "runNo": 538,
+  "at": "2026-10-03T09:23:30.759Z",
+  "rows": [
+    {
+      "event": "story-human-interaction-model",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-interaction-model",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
