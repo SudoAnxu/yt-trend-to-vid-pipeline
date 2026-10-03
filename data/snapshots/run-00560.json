@@ -1,0 +1,30 @@
+{
+  "runNo": 560,
+  "at": "2026-10-03T18:03:08.936Z",
+  "rows": [
+    {
+      "event": "story-tony-reno",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-marcus-freeman",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-ted-cruz-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
