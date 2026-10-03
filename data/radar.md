@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #543 · Updated: 03/10/2026, 16:51:58 (Asia/Kolkata)
+Run #544 · Updated: 03/10/2026, 17:23:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tom Kim — 22/100
+### Jack Hughes — 26/100
 
-**Event:** Tom Kim: Why Tom Kim will ‘most likely’ leave Medinah before the Presidents Cup has even finished on Sunday
+**Event:** Jack Hughes: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-3 vs prev run) · spice 5 · risk 26 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Tom Kim story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 24 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Chad Lowe — 16/100
-
-**Event:** Chad Lowe: fiona lowe daughter of chad lowe
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 15.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Chad Lowe chad lowe: fiona lowe daughter of chad lowe story is actually a money story — the other side of the fight
+> The Jack Hughes filing that will matter in six months — the part that was not supposed to be public
 
-**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 15.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Chad Lowe's — 17/100
+### Alexander Zverev — 21/100
 
-**Event:** Chad Lowe's: New details released after death of Chad Lowe's teenage daughter
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Chad Lowe's chad lowe's: new details released after death of chad lowe's teenage daughter story is actually a money story — the other side of the fight
+> What the Alexander Zverev alexander zverev: “the no. 16 in the world could play the no. 17 in the world" - alexander zverev blasts masters 1000 tournament filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 11 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
+
+### Carlos Alcaraz — 13/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Carlos Alcaraz carlos alcaraz: china open and japan open: carlos alcaraz, harriet dart, sonay kartal victorious, but brits cam norrie, arthur filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** BOOSTED
 
 
 </details>
