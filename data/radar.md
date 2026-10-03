@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #546 · Updated: 03/10/2026, 18:10:52 (Asia/Kolkata)
+Run #547 · Updated: 03/10/2026, 18:37:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
@@ -62,43 +62,15 @@ Sources this run: trends(40)
 
 **Event:** Jack Hughes: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 18h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 18.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Jack Hughes filing that will matter in six months — the part that was not supposed to be public
 
-**Competition:** 25 videos in last 6h · TTS ≈ 18h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 18.5h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Alexander Zverev — 20/100
-
-**Event:** Alexander Zverev: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alexander Zverev alexander zverev: “the no. 16 in the world could play the no. 17 in the world" - alexander zverev blasts masters 1000 tournament filings actually say — line by line — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Carlos Alcaraz — 14/100
-
-**Event:** Carlos Alcaraz: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Carlos Alcaraz carlos alcaraz: china open and japan open: carlos alcaraz, harriet dart, sonay kartal victorious, but brits cam norrie, arthur filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>

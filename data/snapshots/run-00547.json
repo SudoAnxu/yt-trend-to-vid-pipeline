@@ -1,0 +1,37 @@
+{
+  "runNo": 547,
+  "at": "2026-10-03T13:07:25.214Z",
+  "rows": [
+    {
+      "event": "story-from-producer",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-producer-scott",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-gimple",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-hughes",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
