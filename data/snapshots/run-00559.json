@@ -1,0 +1,23 @@
+{
+  "runNo": 559,
+  "at": "2026-10-03T17:43:38.606Z",
+  "rows": [
+    {
+      "event": "story-tony-reno",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-marcus-freeman",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

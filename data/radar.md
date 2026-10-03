@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #558 · Updated: 03/10/2026, 23:02:46 (Asia/Kolkata)
+Run #559 · Updated: 03/10/2026, 23:13:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
+
+### Tony Reno — 24/100
+
+**Event:** Tony Reno: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Tony Reno tony reno: , who guided yale to 5 ivy league titles, dies at 52 filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Marcus Freeman — 17/100
 
 **Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,35 +42,7 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
-
-### Aaron Sorkin — 20/100
-
-**Event:** Aaron Sorkin: Officially Confirms ‘The Social Reckoning’ Was Changed Over Legal Concerns
-
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-10 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Aaron Sorkin aaron sorkin: says money was a ‘disincentive’ for jesse eisenberg to return as mark zuckerberg: ‘it’s infuriating’ filings actually say — line by line — the number behind the headline
-
-**Competition:** 7 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
-
-**Status:** RESEARCH
-
-### Mark Zuckerberg — 16/100
-
-**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mark Zuckerberg mark zuckerberg: aaron sorkin says money was a ‘disincentive’ for jesse eisenberg to return as mark zuckerberg: ‘it’s infuriati filings actually say — line by line — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>
