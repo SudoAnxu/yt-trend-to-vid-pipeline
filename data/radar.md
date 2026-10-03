@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #573 · Updated: 04/10/2026, 05:12:55 (Asia/Kolkata)
+Run #574 · Updated: 04/10/2026, 05:29:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Aaron Judge — 22/100
+### Isaac Wilson — 25/100
 
-**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
+**Event:** Isaac Wilson: Colorado reportedly set to start Isaac Wilson over JuJu Lewis at QB for game vs. No. 12 Texas Tech
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-6 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Judge aaron judge: not on yankees' roster for alds vs. rays filings actually say — line by line — the other side of the fight
+> The Isaac Wilson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Spencer Jones — 23/100
+
+**Event:** Spencer Jones: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Spencer Jones spencer jones: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
