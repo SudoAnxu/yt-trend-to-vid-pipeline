@@ -1,0 +1,86 @@
+{
+  "runNo": 551,
+  "at": "2026-10-03T14:36:12.606Z",
+  "rows": [
+    {
+      "event": "story-will-aaron",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-judge",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-judge-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-jordan-s",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-urker",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-rose-blanchard",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-rose-blanchard-s",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-ferentz",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ian-rapoport",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-ferentz-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
