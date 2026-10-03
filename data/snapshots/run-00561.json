@@ -1,0 +1,30 @@
+{
+  "runNo": 561,
+  "at": "2026-10-03T18:30:19.091Z",
+  "rows": [
+    {
+      "event": "story-james-milton",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-affleck",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-diego-pavia",
+      "alert": "ARCHIVE",
+      "opportunity": 33,
+      "momentum": 36,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
