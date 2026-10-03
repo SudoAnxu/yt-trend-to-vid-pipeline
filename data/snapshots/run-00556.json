@@ -1,0 +1,23 @@
+{
+  "runNo": 556,
+  "at": "2026-10-03T16:34:41.144Z",
+  "rows": [
+    {
+      "event": "story-harry-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-tuchel",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

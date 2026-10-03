@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #555 · Updated: 03/10/2026, 20:53:49 (Asia/Kolkata)
+Run #556 · Updated: 03/10/2026, 22:04:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Andrew Miller — 23/100
+### Harry Kane — 20/100
 
-**Event:** Andrew Miller: Alabama vs Mississippi State Preview: Q&A with Andrew Miller
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Andrew Miller andrew miller: alabama vs mississippi state preview: q&a with andrew miller filings actually say — line by line — the other side of the fight
+> The Harry Kane harry kane: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Thomas Tuchel — 21/100
+
+**Event:** Thomas Tuchel: England: Impossible for Three Lions to find another Harry Kane - Thomas Tuchel
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Thomas Tuchel thomas tuchel: england: impossible for three lions to find another harry kane - thomas tuchel story is actually a money story — the other side of the fight
+
+**Competition:** 15 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
