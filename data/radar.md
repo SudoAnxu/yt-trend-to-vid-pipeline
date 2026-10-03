@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #534 · Updated: 03/10/2026, 12:09:52 (Asia/Kolkata)
+Run #535 · Updated: 03/10/2026, 12:53:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 19/100
+### Alexander Zverev — 19/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: atp tokyo day 4 predictions including carlos alcaraz vs matteo arnaldi filings actually say — line by line — the other side of the fight
+> What the Alexander Zverev alexander zverev: atp beijing day 4 predictions including alexander zverev vs juncheng shang filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** RESEARCH
 
 
 </details>

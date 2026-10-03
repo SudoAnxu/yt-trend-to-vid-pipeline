@@ -1,0 +1,16 @@
+{
+  "runNo": 535,
+  "at": "2026-10-03T07:23:48.334Z",
+  "rows": [
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
