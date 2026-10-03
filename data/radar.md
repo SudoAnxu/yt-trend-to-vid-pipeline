@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #525 · Updated: 03/10/2026, 05:51:13 (Asia/Kolkata)
+Run #526 · Updated: 03/10/2026, 06:07:40 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,17 +16,17 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Diego Wave — 26/100
+### Ryan Seacrest — 18/100
 
-**Event:** Diego Wave: san diego wave vs orlando pride
+**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Diego Wave diego wave: san diego wave vs orlando pride story is actually a money story — the other side of the fight
+> What the Ryan Seacrest ryan seacrest: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** RESEARCH
 

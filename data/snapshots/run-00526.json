@@ -1,0 +1,16 @@
+{
+  "runNo": 526,
+  "at": "2026-10-03T00:37:40.106Z",
+  "rows": [
+    {
+      "event": "story-ryan-seacrest",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
