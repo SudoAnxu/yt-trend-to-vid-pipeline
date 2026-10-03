@@ -1,0 +1,16 @@
+{
+  "runNo": 531,
+  "at": "2026-10-03T03:57:06.950Z",
+  "rows": [
+    {
+      "event": "story-william-shatner",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
