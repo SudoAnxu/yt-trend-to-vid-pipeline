@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #548 · Updated: 03/10/2026, 19:07:18 (Asia/Kolkata)
+Run #549 · Updated: 03/10/2026, 19:28:54 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,9 +12,37 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Kirk Ferentz — 17/100
+
+**Event:** Kirk Ferentz: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Kirk Ferentz kirk ferentz: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Jonathan Bennett — 21/100
+
+**Event:** Jonathan Bennett: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jonathan Bennett jonathan bennett: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Tom Cruise's — 19/100
 
