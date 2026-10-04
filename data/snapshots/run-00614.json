@@ -1,0 +1,44 @@
+{
+  "runNo": 614,
+  "at": "2026-10-04T20:18:30.509Z",
+  "rows": [
+    {
+      "event": "story-tony-romo",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen-s",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-shipley",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-travis-hunter",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
