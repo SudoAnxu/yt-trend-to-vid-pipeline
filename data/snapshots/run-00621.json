@@ -1,0 +1,51 @@
+{
+  "runNo": 621,
+  "at": "2026-10-04T23:55:08.697Z",
+  "rows": [
+    {
+      "event": "story-justin-herbert",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes-",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-xavier-legette",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
