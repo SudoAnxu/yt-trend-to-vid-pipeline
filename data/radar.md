@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #600 · Updated: 04/10/2026, 20:56:43 (Asia/Kolkata)
+Run #601 · Updated: 04/10/2026, 21:11:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Spencer Shrader: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · external momentum 21 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Daniel Jones — 13/100
+### Daniel Jones — 14/100
 
 **Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,47 +44,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jonathan Taylor — 17/100
+### Josh Downs' — 19/100
 
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+**Event:** Josh Downs': 5 Colts Things: Josh Downs' chemistry with Daniel Jones shines, DeForest Buckner dominates, Cowboys-Ravens gam
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jonathan Taylor jonathan taylor: why seth mcgowan is getting carries over jonathan taylor for colts filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 21 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Seth Mcgowan — 17/100
-
-**Event:** Seth Mcgowan: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Seth Mcgowan seth mcgowan: trending now filings actually say — line by line — the other side of the fight
+> What the Josh Downs' josh downs': 5 colts things: josh downs' chemistry with daniel jones shines, deforest buckner dominates, cowboys-ravens gam filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Marcus Mariota — 15/100
-
-**Event:** Marcus Mariota: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Marcus Mariota marcus mariota: adetomiwa adebawore comes up with a big red-zone sack of marcus mariota filings actually say — line by line — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>

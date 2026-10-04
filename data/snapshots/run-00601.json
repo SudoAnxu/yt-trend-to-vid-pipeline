@@ -1,0 +1,30 @@
+{
+  "runNo": 601,
+  "at": "2026-10-04T15:41:15.538Z",
+  "rows": [
+    {
+      "event": "story-spencer-shrader",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "unknown"
+    },
+    {
+      "event": "story-daniel-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-downs-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
