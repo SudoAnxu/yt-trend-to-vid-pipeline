@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #597 · Updated: 04/10/2026, 19:57:47 (Asia/Kolkata)
+Run #598 · Updated: 04/10/2026, 20:23:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Marcus Mariota — 20/100
+### Marcus Mariota — 14/100
 
 **Event:** Marcus Mariota: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-6 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Marcus Mariota marcus mariota: injury update: latest news on commanders qb's status in wek 4 game filings actually say — line by line — the other side of the fight
+> What the Marcus Mariota marcus mariota: adetomiwa adebawore comes up with a big red-zone sack of marcus mariota filings actually say — line by line — the other side of the fight
 
 **Competition:** 13 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### David Blough — 22/100
+### Anthony Richardson — 21/100
 
-**Event:** David Blough: trending now
+**Event:** Anthony Richardson: Injury Latest Colts
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-9 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The David Blough story is a proxy fight about something bigger — the other side of the fight
+> The Anthony Richardson anthony richardson: new anthony richardson trade rumors update colts qb's availability after j.j. mccarthy to giants story is actually a money story — the detail nobody has explained
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Jayden Daniels — 15/100
+### Kurt Warner — 29/100
 
-**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
+**Event:** Kurt Warner: NFL Legend Kurt Warner Posts Tutorial Video for Young QBs
 
-**Why now:** 1 source lane(s): news · momentum 11 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jayden Daniels jayden daniels: nfc notes: jayden daniels, j.j. mccarthy, commanders, eagles, giants filings actually say — line by line — the other side of the fight
+> The Kurt Warner story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
