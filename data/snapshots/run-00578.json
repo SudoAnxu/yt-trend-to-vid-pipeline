@@ -1,0 +1,23 @@
+{
+  "runNo": 578,
+  "at": "2026-10-04T02:49:11.762Z",
+  "rows": [
+    {
+      "event": "story-tyler-adams",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-mora",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
