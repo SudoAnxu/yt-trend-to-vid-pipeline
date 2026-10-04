@@ -1,0 +1,37 @@
+{
+  "runNo": 585,
+  "at": "2026-10-04T08:57:00.711Z",
+  "rows": [
+    {
+      "event": "story-jayden-daniels",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-max-verstappen",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-lewis-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
