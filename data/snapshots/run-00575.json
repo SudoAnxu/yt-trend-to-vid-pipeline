@@ -1,0 +1,37 @@
+{
+  "runNo": 575,
+  "at": "2026-10-04T00:21:11.266Z",
+  "rows": [
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-isaac-wilson",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-chad-lowe-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-chad-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
