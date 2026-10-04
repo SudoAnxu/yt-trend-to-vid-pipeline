@@ -1,0 +1,30 @@
+{
+  "runNo": 589,
+  "at": "2026-10-04T10:53:42.346Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-bradley-ritger",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-martin-damm",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
