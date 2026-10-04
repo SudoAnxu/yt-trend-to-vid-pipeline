@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #617 · Updated: 05/10/2026, 03:32:14 (Asia/Kolkata)
+Run #618 · Updated: 05/10/2026, 03:54:06 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,31 +16,31 @@ Sources this run: trends(37)
 
 <details><summary>show</summary>
 
-### Will Return — 19/100
+### Russell Wilson — 17/100
 
-**Event:** Will Return: John Mayer Will Return to the Sphere in 2027
+**Event:** Russell Wilson: trending now
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Return story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Joe Mixon — 19/100
-
-**Event:** Joe Mixon: Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Joe Mixon joe mixon: seahawks gm describes jadarian price’s injury prognosis--and looks at joe mixon filings actually say — line by line — the other side of the fight
+> What the Russell Wilson russell wilson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** KEPT
+
+### Patrick Surtain — 27/100
+
+**Event:** Patrick Surtain: II injury update: Latest news on Broncos CB's non-contact issue vs. 49ers
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Patrick Surtain patrick surtain: ii injury update: latest news on broncos cb's non-contact issue vs. 49ers story is actually a money story — the other side of the fight
+
+**Competition:** 12 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
