@@ -1,0 +1,30 @@
+{
+  "runNo": 594,
+  "at": "2026-10-04T13:22:57.853Z",
+  "rows": [
+    {
+      "event": "story-justin-jefferson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-zach-bryan",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-kraft",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
