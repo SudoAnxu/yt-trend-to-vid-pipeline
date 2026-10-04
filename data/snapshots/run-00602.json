@@ -1,0 +1,16 @@
+{
+  "runNo": 602,
+  "at": "2026-10-04T15:53:43.584Z",
+  "rows": [
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
