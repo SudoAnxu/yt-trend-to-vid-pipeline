@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #618 · Updated: 05/10/2026, 03:54:06 (Asia/Kolkata)
+Run #619 · Updated: 05/10/2026, 04:22:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,37 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Russell Wilson — 17/100
+### Mike Mcdaniel — 17/100
 
-**Event:** Russell Wilson: trending now
+**Event:** Mike Mcdaniel: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Russell Wilson russell wilson: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** KEPT
-
-### Patrick Surtain — 27/100
-
-**Event:** Patrick Surtain: II injury update: Latest news on Broncos CB's non-contact issue vs. 49ers
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Patrick Surtain patrick surtain: ii injury update: latest news on broncos cb's non-contact issue vs. 49ers story is actually a money story — the other side of the fight
+> What the Mike Mcdaniel mike mcdaniel: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
+
+### David Blough — 20/100
+
+**Event:** David Blough: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The David Blough story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jayden Daniels — 15/100
+
+**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
+
+**Why now:** 1 source lane(s): news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jayden Daniels jayden daniels: nfc notes: jayden daniels, j.j. mccarthy, commanders, eagles, giants filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news
+
+**Status:** ARCHIVED
+
+### Jacob Rodriguez — 12/100
+
+**Event:** Jacob Rodriguez: is Defensive Rookie of the Year favorite after big game vs. Chiefs
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-25 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jacob Rodriguez jacob rodriguez: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
