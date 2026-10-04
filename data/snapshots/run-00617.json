@@ -1,0 +1,23 @@
+{
+  "runNo": 617,
+  "at": "2026-10-04T22:02:14.082Z",
+  "rows": [
+    {
+      "event": "story-will-return",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-mixon",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

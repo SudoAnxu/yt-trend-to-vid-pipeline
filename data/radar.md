@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #616 · Updated: 05/10/2026, 03:20:28 (Asia/Kolkata)
+Run #617 · Updated: 05/10/2026, 03:32:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,21 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Will Anderson — 19/100
+### Will Return — 19/100
 
-**Event:** Will Anderson: Jr.'s strip-sack on Jones results in Indy turnover
+**Event:** Will Return: John Mayer Will Return to the Sphere in 2027
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Anderson will anderson: jr.'s strip-sack on jones results in indy turnover filings actually say — line by line — the other side of the fight
+> The Will Return story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,27 +34,13 @@ Sources this run: trends(38)
 
 **Event:** Joe Mixon: Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Joe Mixon joe mixon: seahawks gm describes jadarian price’s injury prognosis--and looks at joe mixon filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Connor Heyward — 26/100
-
-**Event:** Connor Heyward: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Connor Heyward connor heyward: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
 
