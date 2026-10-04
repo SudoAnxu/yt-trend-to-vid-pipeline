@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #583 · Updated: 04/10/2026, 13:08:20 (Asia/Kolkata)
+Run #584 · Updated: 04/10/2026, 14:11:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Max Verstappen — 16/100
+### Max Verstappen — 15/100
 
 **Event:** Max Verstappen: pips George Russell in closing stages of Azerbaijan GP final practice
 
-**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 24 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Max Verstappen max verstappen: chases first win of 2026 as f1's bahrain gp takes place in malaysia story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
 
 **Status:** BOOSTED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Lewis Hamilton: Kim Kardashian Shares Photo of Steamy Kiss with Lewis Hamilton Under the Eiffel Tower
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 

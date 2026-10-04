@@ -1,0 +1,23 @@
+{
+  "runNo": 584,
+  "at": "2026-10-04T08:41:18.156Z",
+  "rows": [
+    {
+      "event": "story-max-verstappen",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-lewis-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 6,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
