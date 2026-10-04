@@ -1,0 +1,44 @@
+{
+  "runNo": 620,
+  "at": "2026-10-04T23:20:24.743Z",
+  "rows": [
+    {
+      "event": "story-mason-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jacob-misiorowski",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-kyle-juszczyk",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
