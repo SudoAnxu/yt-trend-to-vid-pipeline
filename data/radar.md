@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #590 · Updated: 04/10/2026, 16:45:22 (Asia/Kolkata)
+Run #591 · Updated: 04/10/2026, 17:33:18 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 22/100
+### Xavier Legette — 19/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Xavier Legette: Panthers place WR Xavier Legette on IR with knee injury
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-8 vs prev run) · spice 9 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: atp roundup: carlos alcaraz fights off 4 set points in tokyo filings actually say — line by line — the other side of the fight
+> What the Xavier Legette xavier legette: panthers place wr xavier legette on ir with knee injury filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** KEPT
+**Status:** RESEARCH
+
+### Alexander Zverev — 23/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (+6 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alexander Zverev alexander zverev: china open: sonay kartal wins as alexander zverev sets up novak djokovic clash filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** BOOSTED
 
 
 </details>

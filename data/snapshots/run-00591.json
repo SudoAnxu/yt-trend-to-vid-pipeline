@@ -1,0 +1,23 @@
+{
+  "runNo": 591,
+  "at": "2026-10-04T12:03:17.516Z",
+  "rows": [
+    {
+      "event": "story-xavier-legette",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
