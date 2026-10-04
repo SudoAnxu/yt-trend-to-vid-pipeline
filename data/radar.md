@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #579 · Updated: 04/10/2026, 09:59:50 (Asia/Kolkata)
+Run #580 · Updated: 04/10/2026, 11:34:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,51 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Colin Farrell — 14/100
+### Alexander Zverev — 15/100
 
-**Event:** Colin Farrell: Taylor Swift Drops New 13-Second ‘Patient Zero’ Music Video Tease Featuring Dakota Johnson and Colin Farrell
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-7 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Colin Farrell colin farrell: so that’s what dakota johnson and colin farrell were fighting about filings actually say — line by line — the other side of the fight
+> The Alexander Zverev alexander zverev: what happened the last time novak djokovic faced alexander zverev as they meet again at the china open story is actually a money story — the detail nobody has explained
 
-**Competition:** 16 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Carlos Alcaraz — 28/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 29 (+16 vs prev run) · spice 9 · risk 19 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Carlos Alcaraz carlos alcaraz: atp roundup: carlos alcaraz fights off 4 set points in tokyo filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Thomas Randolph — 22/100
+
+**Event:** Thomas Randolph: Where is Thomas Randolph now? Update on 'The Widower' case
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Thomas Randolph thomas randolph: where is thomas randolph now? update on 'the widower' case filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Simon Cowell — 20/100
-
-**Event:** Simon Cowell: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+5 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Simon Cowell simon cowell: huge tv star 'who'll have the audience in stitches' lined up to stand in for simon cowell in bgt auditions nex story is actually a money story — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
