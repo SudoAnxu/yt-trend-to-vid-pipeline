@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #605 · Updated: 04/10/2026, 22:45:39 (Asia/Kolkata)
+Run #606 · Updated: 04/10/2026, 23:17:25 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Angel City — 20/100
+### Joey Porter — 13/100
 
-**Event:** Angel City: fc vs washington spirit
+**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Angel City angel city: fc vs gotham story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Joe Burrow — 25/100
-
-**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Joe Burrow situation is weirder than the clips suggest — the other side of the fight
+> The Joey Porter story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Justin Jefferson — 19/100
+
+**Event:** Justin Jefferson: 2026 NFL Week 4 Injury Report: Achane's ACL, updates on Baker Mayfield, Justin Jefferson, Breece Hall, more
+
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Justin Jefferson story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
