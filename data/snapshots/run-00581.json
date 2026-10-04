@@ -1,0 +1,30 @@
+{
+  "runNo": 581,
+  "at": "2026-10-04T06:40:40.179Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-randolph",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-che",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

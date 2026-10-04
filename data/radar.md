@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #580 · Updated: 04/10/2026, 11:34:55 (Asia/Kolkata)
+Run #581 · Updated: 04/10/2026, 12:10:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,25 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 15/100
-
-**Event:** Alexander Zverev: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-7 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alexander Zverev alexander zverev: what happened the last time novak djokovic faced alexander zverev as they meet again at the china open story is actually a money story — the detail nobody has explained
-
-**Competition:** 17 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Carlos Alcaraz — 28/100
+### Carlos Alcaraz — 26/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 29 (+16 vs prev run) · spice 9 · risk 19 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-8 vs prev run) · spice 9 · risk 19 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,17 +30,31 @@ Sources this run: trends(40)
 
 **Status:** BOOSTED
 
-### Thomas Randolph — 22/100
+### Thomas Randolph — 21/100
 
 **Event:** Thomas Randolph: Where is Thomas Randolph now? Update on 'The Widower' case
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Thomas Randolph thomas randolph: where is thomas randolph now? update on 'the widower' case filings actually say — line by line — the other side of the fight
 
 **Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Michael Che — 19/100
+
+**Event:** Michael Che: Comedian Michael Che roasts LeBron James during SNL Weekend Update segment
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Michael Che michael che: comedian michael che roasts lebron james during snl weekend update segment filings actually say — line by line — the other side of the fight
+
+**Competition:** 13 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
