@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #578 · Updated: 04/10/2026, 08:19:12 (Asia/Kolkata)
+Run #579 · Updated: 04/10/2026, 09:59:50 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tyler Adams — 29/100
+### Colin Farrell — 14/100
 
-**Event:** Tyler Adams: begins second stint as USMNT captain ahead of Mexico rivalry match
+**Event:** Colin Farrell: Taylor Swift Drops New 13-Second ‘Patient Zero’ Music Video Tease Featuring Dakota Johnson and Colin Farrell
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tyler Adams tyler adams: begins second stint as usmnt captain ahead of mexico rivalry match story is actually a money story — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jim Mora — 22/100
-
-**Event:** Jim Mora: Did Jim Mora, CSU make an in-game change at defensive coordinator?
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jim Mora jim mora: did jim mora, csu make an in-game change at defensive coordinator? filings actually say — line by line — the other side of the fight
+> What the Colin Farrell colin farrell: so that’s what dakota johnson and colin farrell were fighting about filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 16 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Simon Cowell — 20/100
+
+**Event:** Simon Cowell: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+5 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Simon Cowell simon cowell: huge tv star 'who'll have the audience in stitches' lined up to stand in for simon cowell in bgt auditions nex story is actually a money story — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
