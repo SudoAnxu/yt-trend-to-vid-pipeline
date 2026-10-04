@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #615 · Updated: 05/10/2026, 02:23:59 (Asia/Kolkata)
+Run #616 · Updated: 05/10/2026, 03:20:28 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Justin Boone's — 22/100
+### Will Anderson — 19/100
 
-**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+**Event:** Will Anderson: Jr.'s strip-sack on Jones results in Indy turnover
 
-**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Justin Boone's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** BOOSTED
-
-### Travis Kelce's — 19/100
-
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Travis Kelce's travis kelce's: is taylor swift going to travis kelce’s chiefs game today (october 4)? what we know filings actually say — line by line — the other side of the fight
+> What the Will Anderson will anderson: jr.'s strip-sack on jones results in indy turnover filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Joe Mixon — 19/100
+
+**Event:** Joe Mixon: Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Joe Mixon joe mixon: seahawks gm describes jadarian price’s injury prognosis--and looks at joe mixon filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Connor Heyward — 26/100
+
+**Event:** Connor Heyward: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Connor Heyward connor heyward: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
 

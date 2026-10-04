@@ -1,0 +1,30 @@
+{
+  "runNo": 616,
+  "at": "2026-10-04T21:50:27.858Z",
+  "rows": [
+    {
+      "event": "story-will-anderson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-joe-mixon",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-connor-heyward",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
