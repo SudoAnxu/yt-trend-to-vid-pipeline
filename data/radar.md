@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #604 · Updated: 04/10/2026, 22:25:42 (Asia/Kolkata)
+Run #605 · Updated: 04/10/2026, 22:45:39 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Brandon Jones — 26/100
+### Angel City — 20/100
 
-**Event:** Brandon Jones: nascar disqualification las vegas
+**Event:** Angel City: fc vs washington spirit
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brandon Jones brandon jones: nascar disqualification las vegas story is actually a money story — the other side of the fight
+> The Angel City angel city: fc vs gotham story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Aaron Donald — 13/100
+### Joe Burrow — 25/100
 
-**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
+**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Aaron Donald aaron donald: puka nacua to play, aaron donald out for rams' matchup with eagles filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jason Kelce — 25/100
-
-**Event:** Jason Kelce: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 19 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Kelce jason kelce: why jason kelce apologized live on air during espn broadcast of eagles game story is actually a money story — the detail nobody has explained
+> The Joe Burrow situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** RESEARCH
 
 
 </details>
