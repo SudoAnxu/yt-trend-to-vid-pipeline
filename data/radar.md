@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #582 · Updated: 04/10/2026, 12:32:58 (Asia/Kolkata)
+Run #583 · Updated: 04/10/2026, 13:08:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 25/100
+### Max Verstappen — 16/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Max Verstappen: pips George Russell in closing stages of Azerbaijan GP final practice
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-5 vs prev run) · spice 9 · risk 19 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: atp roundup: carlos alcaraz fights off 4 set points in tokyo filings actually say — line by line — the other side of the fight
+> The Max Verstappen max verstappen: chases first win of 2026 as f1's bahrain gp takes place in malaysia story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** BOOSTED
+
+### Lewis Hamilton — 11/100
+
+**Event:** Lewis Hamilton: Kim Kardashian Shares Photo of Steamy Kiss with Lewis Hamilton Under the Eiffel Tower
+
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Lewis Hamilton lewis hamilton: bahrain gp in malaysia: max verstappen takes first pole this season, lewis hamilton behind story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>

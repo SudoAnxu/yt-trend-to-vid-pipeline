@@ -1,0 +1,23 @@
+{
+  "runNo": 583,
+  "at": "2026-10-04T07:38:19.924Z",
+  "rows": [
+    {
+      "event": "story-max-verstappen",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-lewis-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
