@@ -1,0 +1,30 @@
+{
+  "runNo": 609,
+  "at": "2026-10-04T18:30:55.539Z",
+  "rows": [
+    {
+      "event": "story-brian-burns",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen-s",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
