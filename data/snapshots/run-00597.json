@@ -1,0 +1,30 @@
+{
+  "runNo": 597,
+  "at": "2026-10-04T14:27:47.141Z",
+  "rows": [
+    {
+      "event": "story-marcus-mariota",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-blough",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jayden-daniels",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
