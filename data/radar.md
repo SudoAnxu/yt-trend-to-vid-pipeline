@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #586 · Updated: 04/10/2026, 15:33:09 (Asia/Kolkata)
+Run #587 · Updated: 04/10/2026, 15:48:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -29,6 +29,20 @@ Sources this run: trends(40)
 **Competition:** 17 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** KEPT
+
+### Terry Mclaurin — 17/100
+
+**Event:** Terry Mclaurin: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Terry Mclaurin terry mclaurin: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 ### Jayden Daniels — 17/100
 
