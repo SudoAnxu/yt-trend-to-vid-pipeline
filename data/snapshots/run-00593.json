@@ -1,0 +1,23 @@
+{
+  "runNo": 593,
+  "at": "2026-10-04T12:59:33.961Z",
+  "rows": [
+    {
+      "event": "story-zach-bryan",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
