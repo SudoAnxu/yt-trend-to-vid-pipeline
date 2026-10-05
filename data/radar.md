@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #638 · Updated: 05/10/2026, 18:03:12 (Asia/Kolkata)
+Run #639 · Updated: 05/10/2026, 19:36:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Chris Rock — 26/100
+### Tom Holland — 13/100
 
-**Event:** Chris Rock: Rob Lowe explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
+**Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
 
-**Why now:** 2 source lane(s): news, trends · momentum 32 (+4 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Chris Rock chris rock: slams woke 1 advocates for forgiveness while likening era to salem witch trials filings actually say — line by line — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** KEPT
-
-### Olivia Dean — 24/100
-
-**Event:** Olivia Dean: accused of copying Bill Withers' Just The Two of Us
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 9 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Olivia Dean olivia dean: accused of copying bill withers' just the two of us filings actually say — line by line — the other side of the fight
+> What the Tom Holland tom holland: pete hegseth chugs ‘spider-man’s non-alcoholic b—- beer’ in ‘snl’ cold open that mocks tom holland, mitch mcco filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
 
 **Status:** RESEARCH
 
-### Alexander Zverev — 15/100
+### Peter Thiel — 24/100
 
-**Event:** Alexander Zverev: trending now
+**Event:** Peter Thiel: buys troubled Bel-Air mega-mansion for $130 million
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 23 (-5 vs prev run) · spice 13 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexander Zverev alexander zverev: makes comment about novak djokovic’s game from the baseline after losing to him in beijing filings actually say — line by line — the other side of the fight
+> The Peter Thiel peter thiel: revealed as secret buyer of bel air mansion that sold for $130m story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
-**Status:** BOOSTED
+**Status:** RESEARCH
+
+### Dennis Hastert — 33/100
+
+**Event:** Dennis Hastert: , Powerful Politician Disgraced by Child Sex Scandal, Dies
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Dennis Hastert filing that will matter in six months — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 14h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
