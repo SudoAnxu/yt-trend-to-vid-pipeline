@@ -1,0 +1,30 @@
+{
+  "runNo": 649,
+  "at": "2026-10-05T20:01:47.146Z",
+  "rows": [
+    {
+      "event": "story-matt-damon",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cotton",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
