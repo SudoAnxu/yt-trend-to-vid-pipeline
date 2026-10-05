@@ -1,0 +1,16 @@
+{
+  "runNo": 629,
+  "at": "2026-10-05T06:38:31.530Z",
+  "rows": [
+    {
+      "event": "story-alex-rodriguez",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
