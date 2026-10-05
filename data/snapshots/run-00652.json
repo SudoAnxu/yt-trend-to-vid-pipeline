@@ -1,0 +1,16 @@
+{
+  "runNo": 652,
+  "at": "2026-10-05T21:18:14.675Z",
+  "rows": [
+    {
+      "event": "story-mark-mortimer",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
