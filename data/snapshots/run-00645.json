@@ -1,0 +1,30 @@
+{
+  "runNo": 645,
+  "at": "2026-10-05T17:28:53.669Z",
+  "rows": [
+    {
+      "event": "story-roy-moore",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-roy-moore-s",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-ruffalo",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
