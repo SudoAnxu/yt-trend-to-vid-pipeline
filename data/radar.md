@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #627 · Updated: 05/10/2026, 09:45:25 (Asia/Kolkata)
+Run #628 · Updated: 05/10/2026, 11:27:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Donna Vekic — 24/100
-
-**Event:** Donna Vekic: WTA Beijing Day 6 Predictions Including Donna Vekic vs Iga Swiatek
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Donna Vekic donna vekic: wta beijing day 6 predictions including donna vekic vs iga swiatek story is actually a money story — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
