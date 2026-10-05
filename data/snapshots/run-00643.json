@@ -1,0 +1,37 @@
+{
+  "runNo": 643,
+  "at": "2026-10-05T16:53:07.136Z",
+  "rows": [
+    {
+      "event": "story-robert-de",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-brittany-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes-",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-ovechkin",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
