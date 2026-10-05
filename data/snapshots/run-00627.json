@@ -1,0 +1,16 @@
+{
+  "runNo": 627,
+  "at": "2026-10-05T04:15:24.934Z",
+  "rows": [
+    {
+      "event": "story-donna-vekic",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
