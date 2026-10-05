@@ -1,0 +1,44 @@
+{
+  "runNo": 658,
+  "at": "2026-10-05T22:50:49.904Z",
+  "rows": [
+    {
+      "event": "story-tyler-shough",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-mixon",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-noah-fant",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jordan-hawkins",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-flatley",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

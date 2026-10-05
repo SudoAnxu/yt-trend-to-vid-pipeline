@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #657 · Updated: 06/10/2026, 03:45:37 (Asia/Kolkata)
+Run #658 · Updated: 06/10/2026, 04:20:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,25 +16,67 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jordan Hawkins — 20/100
+### Tyler Shough — 19/100
 
-**Event:** Jordan Hawkins: trending now
+**Event:** Tyler Shough: Watch Jeff Brohm breaks down transfer quarterbacks Tyler Shough and Lincoln Kienholz - Wake Up Barstool
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jordan Hawkins jordan hawkins: trending now story is actually a money story — the other side of the fight
+> The Tyler Shough story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
-### Michael Flatley — 27/100
+### Joe Mixon — 16/100
+
+**Event:** Joe Mixon: Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Joe Mixon joe mixon: news filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** KEPT
+
+### Noah Fant — 31/100
+
+**Event:** Noah Fant: (abdominal) questionable for MNF vs. ATL
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Noah Fant noah fant: (abdominal) questionable for mnf vs. atl story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jordan Hawkins — 21/100
+
+**Event:** Jordan Hawkins: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jordan Hawkins jordan hawkins: bulls, jordan hawkins agree to two-way contract story is actually a money story — the number behind the headline
+
+**Competition:** 3 videos in last 6h · TTS ≈ 8h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Michael Flatley — 22/100
 
 **Event:** Michael Flatley: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -42,49 +84,7 @@ Sources this run: trends(40)
 
 **Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Travis Etienne — 21/100
-
-**Event:** Travis Etienne: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Travis Etienne travis etienne: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
-
 **Status:** ARCHIVED
-
-### Jayden Daniels — 16/100
-
-**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
-
-**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jayden Daniels jayden daniels: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** ARCHIVED
-
-### Nick Nurse — 19/100
-
-**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Nick Nurse nick nurse: new-look sixers roster should allow nick nurse to get into his ‘bag’ on defense filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
