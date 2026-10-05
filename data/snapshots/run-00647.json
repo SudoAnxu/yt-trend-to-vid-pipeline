@@ -1,0 +1,16 @@
+{
+  "runNo": 647,
+  "at": "2026-10-05T19:07:23.740Z",
+  "rows": [
+    {
+      "event": "story-charles-barkley",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
