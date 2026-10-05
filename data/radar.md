@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #647 · Updated: 06/10/2026, 00:37:24 (Asia/Kolkata)
+Run #648 · Updated: 06/10/2026, 00:50:28 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Charles Barkley — 17/100
-
-**Event:** Charles Barkley: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Charles Barkley charles barkley: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
