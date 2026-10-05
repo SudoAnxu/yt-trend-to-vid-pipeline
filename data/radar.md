@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #649 · Updated: 06/10/2026, 01:31:47 (Asia/Kolkata)
+Run #650 · Updated: 06/10/2026, 02:18:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Matt Damon — 14/100
+### Will Be — 19/100
 
-**Event:** Matt Damon: Casey Affleck on Matt Damon Rivalry, a Chris Nolan Phone Call and Being a Proud “Hollywood Outsider”
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Matt Damon matt damon: on how bourne changed his career filings actually say — line by line — the other side of the fight
-
-**Competition:** 24 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Tom Cotton — 19/100
-
-**Event:** Tom Cotton: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Tom Cotton tom cotton: trending now filings actually say — line by line — the other side of the fight
+> What the Will Be will be: another major ps5 game will be delisted in october 2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Tom Cruise — 15/100
-
-**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-6 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tom Cruise tom cruise: ‘i literally fell off the chair’: tom cruise floored one digger co-star in particular story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
