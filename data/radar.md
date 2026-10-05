@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #655 · Updated: 06/10/2026, 03:17:35 (Asia/Kolkata)
+Run #656 · Updated: 06/10/2026, 03:37:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jeffrey Archer — 30/100
+### Travis Etienne — 20/100
+
+**Event:** Travis Etienne: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-11 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Travis Etienne travis etienne: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jayden Daniels — 15/100
+
+**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
+
+**Why now:** 1 source lane(s): news · momentum 12 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jayden Daniels jayden daniels: nfl news roundup: jayden daniels provides update on elbow; saints place travis etienne on ir story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** ARCHIVED
+
+### Jeffrey Archer — 24/100
 
 **Event:** Jeffrey Archer: successful novelist, disgraced politician and convicted liar
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jeffrey Archer jeffrey archer: successful novelist, disgraced politician and convicted liar filings actually say — line by line — the other side of the fight
+> What the Jeffrey Archer jeffrey archer: author and former politician jeffrey archer dies aged 86 filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jessica Biel — 23/100
-
-**Event:** Jessica Biel: Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jessica Biel jessica biel: justin timberlake and jessica biel share rare, loved-up photos to mark their 14th wedding anniversary filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Justin Timberlake — 20/100
-
-**Event:** Justin Timberlake: , Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
-
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Justin Timberlake justin timberlake: and jessica biel share rare, loved-up photos to mark their 14th wedding anniversary filings actually say — line by line — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 2.6h · sources: news
+**Competition:** 16 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
