@@ -1,0 +1,30 @@
+{
+  "runNo": 638,
+  "at": "2026-10-05T12:33:11.159Z",
+  "rows": [
+    {
+      "event": "story-chris-rock",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-dean",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
