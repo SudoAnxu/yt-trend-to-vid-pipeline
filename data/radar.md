@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #632 · Updated: 05/10/2026, 15:01:40 (Asia/Kolkata)
+Run #633 · Updated: 05/10/2026, 15:16:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 22/100
+### Carlos Alcaraz — 26/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+3 vs prev run) · spice 15 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: vs jaume munar prediction & best bets for atp tokyo semifinal filings actually say — line by line — the other side of the fight
+> The Carlos Alcaraz carlos alcaraz: says best-of-5-set tennis is the best, and fine, at grand slams - the athletic story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
 
 </details>
