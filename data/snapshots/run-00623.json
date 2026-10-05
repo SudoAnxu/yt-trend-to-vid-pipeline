@@ -1,0 +1,23 @@
+{
+  "runNo": 623,
+  "at": "2026-10-05T00:25:31.374Z",
+  "rows": [
+    {
+      "event": "story-sam-altman",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-finebaum",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
