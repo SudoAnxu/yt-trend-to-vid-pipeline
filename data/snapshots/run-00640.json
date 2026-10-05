@@ -1,0 +1,23 @@
+{
+  "runNo": 640,
+  "at": "2026-10-05T15:07:20.414Z",
+  "rows": [
+    {
+      "event": "story-william-back",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tom-holland",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

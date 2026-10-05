@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #639 · Updated: 05/10/2026, 19:36:22 (Asia/Kolkata)
+Run #640 · Updated: 05/10/2026, 20:37:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Tom Holland — 13/100
+### William Back — 19/100
+
+**Event:** William Back: How King Charles III Plans to Bring Prince Harry and Prince William Back Together
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the William Back william back: how king charles iii plans to bring prince harry and prince william back together filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Tom Holland — 14/100
 
 **Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
 
-**Why now:** 1 source lane(s): news · momentum 9 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -28,35 +42,7 @@ Sources this run: trends(40)
 
 **Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
 
-**Status:** RESEARCH
-
-### Peter Thiel — 24/100
-
-**Event:** Peter Thiel: buys troubled Bel-Air mega-mansion for $130 million
-
-**Why now:** 2 source lane(s): news, trends · momentum 23 (-5 vs prev run) · spice 13 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Peter Thiel peter thiel: revealed as secret buyer of bel air mansion that sold for $130m story is actually a money story — the number behind the headline
-
-**Competition:** 10 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** RESEARCH
-
-### Dennis Hastert — 33/100
-
-**Event:** Dennis Hastert: , Powerful Politician Disgraced by Child Sex Scandal, Dies
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Dennis Hastert filing that will matter in six months — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 14h · sources: trends, news
-
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
