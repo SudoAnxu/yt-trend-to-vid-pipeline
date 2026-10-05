@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #623 · Updated: 05/10/2026, 05:55:32 (Asia/Kolkata)
+Run #624 · Updated: 05/10/2026, 06:38:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Sam Altman — 16/100
+### Max Muncy — 24/100
 
-**Event:** Sam Altman: to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI
+**Event:** Max Muncy: Dodgers’ Dave Roberts makes eye-opening Max Muncy lineup decision for NLDS Game 2 vs. Braves
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Sam Altman sam altman: to decoded: ‘the world should accept some bad things happening’ for the benefits of ai story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Paul Finebaum — 27/100
-
-**Event:** Paul Finebaum: deion sanders colorado
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Paul Finebaum paul finebaum: deion sanders colorado filings actually say — line by line — the other side of the fight
+> What the Max Muncy max muncy: dodgers’ dave roberts makes eye-opening max muncy lineup decision for nlds game 2 vs. braves filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
+
+### Kyle Monangai — 14/100
+
+**Event:** Kyle Monangai: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kyle Monangai kyle monangai: nfl week 4's best arrivals, led by bears rb kyle monangai story is actually a money story — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Xavier Legette — 23/100
+
+**Event:** Xavier Legette: Panthers place WR Xavier Legette on IR with knee injury
+
+**Why now:** 2 source lane(s): news, trends · momentum 25 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Xavier Legette xavier legette: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** KEPT
 
 
 </details>
