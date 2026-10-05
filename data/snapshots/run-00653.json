@@ -1,0 +1,16 @@
+{
+  "runNo": 653,
+  "at": "2026-10-05T21:19:54.321Z",
+  "rows": [
+    {
+      "event": "story-mark-mortimer",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
