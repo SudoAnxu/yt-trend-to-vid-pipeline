@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #631 · Updated: 05/10/2026, 13:32:51 (Asia/Kolkata)
+Run #632 · Updated: 05/10/2026, 15:01:40 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Donna Vekic — 15/100
+### Carlos Alcaraz — 22/100
 
-**Event:** Donna Vekic: WTA Beijing Day 6 Predictions Including Donna Vekic vs Iga Swiatek
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Donna Vekic donna vekic: on brink of defeat, iga swiatek launches epic comeback to get past donna vekic at china open story is actually a money story — the other side of the fight
+> What the Carlos Alcaraz carlos alcaraz: vs jaume munar prediction & best bets for atp tokyo semifinal filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
 
 
 </details>
