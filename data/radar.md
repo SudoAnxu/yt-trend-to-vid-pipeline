@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #634 · Updated: 05/10/2026, 16:17:26 (Asia/Kolkata)
+Run #635 · Updated: 05/10/2026, 16:28:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Douglas — 19/100
+### Michael Douglas — 20/100
 
 **Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-2 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Douglas Reveals He: Michael Douglas Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Michael Douglas': “Good Heavens”: Kathleen Turner Reacts to Michael Douglas’ Bombshell About Their Secret Romance During ‘Romanc
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 14 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 14 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 

@@ -1,0 +1,30 @@
+{
+  "runNo": 635,
+  "at": "2026-10-05T10:58:37.985Z",
+  "rows": [
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-douglas-reveals-he",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-douglas-",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
