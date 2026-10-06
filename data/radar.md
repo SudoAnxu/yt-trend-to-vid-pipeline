@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #665 · Updated: 06/10/2026, 06:42:36 (Asia/Kolkata)
+Run #666 · Updated: 06/10/2026, 06:51:30 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,39 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
+### Megan Fox — 21/100
+
+**Event:** Megan Fox: Stars in Cheeky Ad for Erectile Dysfunction Drug: ‘Maybe I Was Born for This’ (Exclusive)
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Megan Fox story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Megan Fox's — 22/100
+
+**Event:** Megan Fox's: Megan Fox’s New Role? Promoting Erectile Dysfunction Pills for Ro in All-Red Ensemble
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Megan Fox's megan fox's: megan fox’s new role? promoting erectile dysfunction pills for ro in all-red ensemble filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
 ### Adam Levine — 15/100
 
 **Event:** Adam Levine: ‘The Voice’ recap: Adam Levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,41 +62,13 @@ Sources this run: trends(39)
 
 **Event:** Trump Gets Some: ‘S.N.L.’ Recap: Taylor Swift Makes a Surprise Cameo and Trump Gets Some Last-Minute Promo
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Trump Gets Some trump gets some: ‘s.n.l.’ recap: taylor swift makes a surprise cameo and trump gets some last-minute promo filings actually say — line by line — the part that was not supposed to be public
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Tyler Shough — 13/100
-
-**Event:** Tyler Shough: Watch Jeff Brohm breaks down transfer quarterbacks Tyler Shough and Lincoln Kienholz - Wake Up Barstool
-
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tyler Shough tyler shough: ‘shough doesn’t rhyme with flow,’ ‘don’t even know prominent player names’ — fans point out espn’s tyler shoug story is actually a money story — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 6.8h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Tyler Shough's — 19/100
-
-**Event:** Tyler Shough's: Kellen Moore's Impact: Tyler Shough's Rise in the NFL!
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Tyler Shough's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
