@@ -1,0 +1,16 @@
+{
+  "runNo": 697,
+  "at": "2026-10-06T17:34:58.810Z",
+  "rows": [
+    {
+      "event": "story-luke-grimes",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
