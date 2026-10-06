@@ -1,0 +1,16 @@
+{
+  "runNo": 713,
+  "at": "2026-10-06T23:39:49.202Z",
+  "rows": [
+    {
+      "event": "story-dylan-larkin",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
