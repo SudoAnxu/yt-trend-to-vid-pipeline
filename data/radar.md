@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #683 · Updated: 06/10/2026, 17:16:25 (Asia/Kolkata)
+Run #684 · Updated: 06/10/2026, 17:41:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Mark Harmon — 19/100
+### Warren Buffett — 18/100
 
-**Event:** Mark Harmon: What To Watch Tuesday: Mark Harmon, Michael Weatherly, And LL COOL J Return To The NCIS Franchise
+**Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mark Harmon mark harmon: what to watch tuesday: mark harmon, michael weatherly, and ll cool j return to the ncis franchise filings actually say — line by line — the other side of the fight
+> What the Warren Buffett warren buffett: says buy this vanguard index fund -- it could turn $400 per month into $820,000 filings actually say — line by line — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Reed Sheppard — 25/100
+
+**Event:** Reed Sheppard: Why Reed Sheppard Could Win Sixth Man of the Year
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · external momentum 28 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Reed Sheppard reed sheppard: why reed sheppard could win sixth man of the year filings actually say — line by line — the detail nobody has explained
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Michael Weatherly — 18/100
-
-**Event:** Michael Weatherly: Will Tony & Gibbs Reunite? Michael Weatherly Teases ‘NCIS’ Crossover
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Michael Weatherly michael weatherly: what to watch tuesday: mark harmon, michael weatherly, and ll cool j return to the ncis franchise filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
