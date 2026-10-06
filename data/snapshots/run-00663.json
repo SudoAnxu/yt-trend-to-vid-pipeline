@@ -1,0 +1,37 @@
+{
+  "runNo": 663,
+  "at": "2026-10-06T00:25:41.009Z",
+  "rows": [
+    {
+      "event": "story-anthony-mackie",
+      "alert": "ARCHIVE",
+      "opportunity": 35,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-return",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-ruffalo",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-de",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #662 · Updated: 06/10/2026, 05:45:59 (Asia/Kolkata)
+Run #663 · Updated: 06/10/2026, 05:55:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Anthony Mackie — 35/100
+
+**Event:** Anthony Mackie: Avengers Star Anthony Mackie Says He'll Film Secret Wars When He's Done on Broadway Playing Macbeth — a Run Th
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Anthony Mackie story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Will Return — 19/100
+
+**Event:** Will Return: John Mayer Will Return to the Sphere in 2027
+
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Will Return will return: anthony mackie will return to broadway in macbeth in 2027 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Mark Ruffalo — 16/100
 
 **Event:** Mark Ruffalo: blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 18 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,59 +58,17 @@ Sources this run: trends(40)
 
 **Status:** BOOSTED
 
-### Robert De — 17/100
+### Robert De — 16/100
 
 **Event:** Robert De: Niro and partner Tiffany host Anupam Kher for lunch in the US, gift him a cap: ‘Fortunate to call you my frien
 
-**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Robert De robert de: niro rips 'coward' trump over voter suppression filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
-
-**Status:** RESEARCH
-
-### Mike Lee — 15/100
-
-**Event:** Mike Lee: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Mike Lee mike lee: crows new jack smith claim is bigger than watergate story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jack Smith — 12/100
-
-**Event:** Jack Smith: Live updates: Jack Smith testifies before the Senate Judiciary Committee
-
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jack Smith jack smith: mike lee crows new jack smith claim is bigger than watergate story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Luis Silberwasser — 32/100
-
-**Event:** Luis Silberwasser: Exiting TNT Sports as Paramount-Warner Bros. Merger Closes
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Luis Silberwasser luis silberwasser: exiting tnt sports as paramount-warner bros. merger closes story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
