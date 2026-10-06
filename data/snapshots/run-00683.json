@@ -1,0 +1,23 @@
+{
+  "runNo": 683,
+  "at": "2026-10-06T11:46:25.805Z",
+  "rows": [
+    {
+      "event": "story-mark-harmon",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-weatherly",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
