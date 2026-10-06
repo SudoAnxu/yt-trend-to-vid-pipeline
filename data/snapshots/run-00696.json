@@ -1,0 +1,37 @@
+{
+  "runNo": 696,
+  "at": "2026-10-06T17:19:42.637Z",
+  "rows": [
+    {
+      "event": "story-eric-kendricks",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-stephen-colbert-s",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-beghe",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

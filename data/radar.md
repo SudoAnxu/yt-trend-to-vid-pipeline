@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #695 · Updated: 06/10/2026, 22:33:51 (Asia/Kolkata)
+Run #696 · Updated: 06/10/2026, 22:49:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,43 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Eric Kendricks — 27/100
+### Eric Kendricks — 21/100
 
 **Event:** Eric Kendricks: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Eric Kendricks eric kendricks: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Travis Kelce — 13/100
+### Stephen Colbert's — 17/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Stephen Colbert's: Elvis Costello Was in Talks to Become Stephen Colbert’s ‘Late Show’ Bandleader
 
-**Why now:** 2 source lane(s): news, trends · momentum 3 (+2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Travis Kelce travis kelce: taylor swift gets a brutal rating from raiders fan in viral travis kelce sign story is actually a money story — the other side of the fight
+> The Stephen Colbert's stephen colbert's: elvis costello was in talks to become stephen colbert’s ‘late show’ bandleader story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 ### Travis Kelce's — 18/100
 
 **Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,25 +62,11 @@ Sources this run: trends(40)
 
 **Event:** Jason Beghe: Hints at "Real Change" in Upcoming Season of Chicago P.D. (EXCLUSIVE)
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Jason Beghe jason beghe: hints at "real change" in upcoming season of chicago p.d. (exclusive) filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Eric Chelle — 19/100
-
-**Event:** Eric Chelle: bullish about young squad for Russia friendly as withdrawals deplete Super Eagles
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Eric Chelle eric chelle: bullish about young squad for russia friendly as withdrawals deplete super eagles filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
