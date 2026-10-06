@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #661 · Updated: 06/10/2026, 05:15:37 (Asia/Kolkata)
+Run #662 · Updated: 06/10/2026, 05:45:59 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,79 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Tyler Shough — 18/100
+### Mark Ruffalo — 16/100
 
-**Event:** Tyler Shough: Watch Jeff Brohm breaks down transfer quarterbacks Tyler Shough and Lincoln Kienholz - Wake Up Barstool
+**Event:** Mark Ruffalo: blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal
 
-**Why now:** 2 source lane(s): news, trends · momentum 28 (+12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tyler Shough tyler shough: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 6.8h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Ryan Seacrest — 21/100
-
-**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
-
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+21 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Seacrest ryan seacrest: shows off abs and muscles at beach in thirst trap photo and video: ‘this is what a day off looks like’ filings actually say — line by line — the other side of the fight
+> What the Mark Ruffalo mark ruffalo: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** BOOSTED
+
+### Robert De — 17/100
+
+**Event:** Robert De: Niro and partner Tiffany host Anupam Kher for lunch in the US, gift him a cap: ‘Fortunate to call you my frien
+
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Robert De robert de: niro rips 'coward' trump over voter suppression filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
+
+**Status:** RESEARCH
+
+### Mike Lee — 15/100
+
+**Event:** Mike Lee: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Lee mike lee: crows new jack smith claim is bigger than watergate story is actually a money story — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jack Smith — 12/100
+
+**Event:** Jack Smith: Live updates: Jack Smith testifies before the Senate Judiciary Committee
+
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jack Smith jack smith: mike lee crows new jack smith claim is bigger than watergate story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Luis Silberwasser — 32/100
+
+**Event:** Luis Silberwasser: Exiting TNT Sports as Paramount-Warner Bros. Merger Closes
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Luis Silberwasser luis silberwasser: exiting tnt sports as paramount-warner bros. merger closes story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
