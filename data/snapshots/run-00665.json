@@ -1,0 +1,37 @@
+{
+  "runNo": 665,
+  "at": "2026-10-06T01:12:36.739Z",
+  "rows": [
+    {
+      "event": "story-adam-levine",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-trump-gets-some",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tyler-shough",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-shough-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #664 · Updated: 06/10/2026, 06:23:46 (Asia/Kolkata)
+Run #665 · Updated: 06/10/2026, 06:42:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,43 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Tyler Shough — 12/100
+### Adam Levine — 15/100
+
+**Event:** Adam Levine: ‘The Voice’ recap: Adam Levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Adam Levine adam levine: queen latifah steals a four-chair standout on ‘the voice’—what did adam levine say next? story is actually a money story — the other side of the fight
+
+**Competition:** 13 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Trump Gets Some — 25/100
+
+**Event:** Trump Gets Some: ‘S.N.L.’ Recap: Taylor Swift Makes a Surprise Cameo and Trump Gets Some Last-Minute Promo
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Trump Gets Some trump gets some: ‘s.n.l.’ recap: taylor swift makes a surprise cameo and trump gets some last-minute promo filings actually say — line by line — the part that was not supposed to be public
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Tyler Shough — 13/100
 
 **Event:** Tyler Shough: Watch Jeff Brohm breaks down transfer quarterbacks Tyler Shough and Lincoln Kienholz - Wake Up Barstool
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,33 +58,19 @@ Sources this run: trends(38)
 
 **Status:** ARCHIVED
 
-### Daniel Jones — 16/100
+### Tyler Shough's — 19/100
 
-**Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
+**Event:** Tyler Shough's: Kellen Moore's Impact: Tyler Shough's Rise in the NFL!
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Daniel Jones daniel jones: emergency colts-saints trade proposal to keep daniel jones from tanking indy's season story is actually a money story — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kyle Pitts — 23/100
-
-**Event:** Kyle Pitts: Can Falcons finally get TE Kyle Pitts going on 'Thursday Night Football' vs. Packers?
-
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Kyle Pitts kyle pitts: receptions pick for falcons vs. saints story is actually a money story — the other side of the fight
+> The Tyler Shough's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>
