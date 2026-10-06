@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #684 · Updated: 06/10/2026, 17:41:31 (Asia/Kolkata)
+Run #685 · Updated: 06/10/2026, 18:34:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Warren Buffett — 18/100
+### Brandon Larracuente — 19/100
 
-**Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
+**Event:** Brandon Larracuente: 'Chicago Fire': Brandon Larracuente Teases Joe Miñoso & Dermot Mulroney's Exits (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Warren Buffett warren buffett: says buy this vanguard index fund -- it could turn $400 per month into $820,000 filings actually say — line by line — the number behind the headline
+> What the Brandon Larracuente brandon larracuente: 'chicago fire': brandon larracuente teases joe miñoso & dermot mulroney's exits (exclusive) filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Reed Sheppard — 25/100
+### Tom Cotton — 11/100
 
-**Event:** Reed Sheppard: Why Reed Sheppard Could Win Sixth Man of the Year
+**Event:** Tom Cotton: trending now
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Reed Sheppard reed sheppard: why reed sheppard could win sixth man of the year filings actually say — line by line — the detail nobody has explained
+> What the Tom Cotton tom cotton: daylight saving time opposition filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Michael Douglas — 23/100
+
+**Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
+
+**Why now:** 2 source lane(s): news, trends · momentum 27 (+8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Michael Douglas michael douglas: gets candid about affairs, drugs, surviving cancer (exclusive) story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Rob Reiner — 22/100
+
+**Event:** Rob Reiner: Michael Douglas details ‘heartbreaking’ Rob Reiner talks over troubled sons before director’s murder
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Rob Reiner rob reiner: michael douglas details ‘heartbreaking’ rob reiner talks over troubled sons before director’s murder story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 

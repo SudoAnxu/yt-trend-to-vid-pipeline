@@ -1,0 +1,37 @@
+{
+  "runNo": 685,
+  "at": "2026-10-06T13:04:42.599Z",
+  "rows": [
+    {
+      "event": "story-brandon-larracuente",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tom-cotton",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-reiner",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
