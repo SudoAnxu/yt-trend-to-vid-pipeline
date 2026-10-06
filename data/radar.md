@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #667 · Updated: 06/10/2026, 07:13:37 (Asia/Kolkata)
+Run #668 · Updated: 06/10/2026, 07:20:30 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Sean Payton's: After terrorizing old team, 49ers’ Dre Greenlaw said he was fueled by Sean Payton’s ‘disrespect’
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,17 +44,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Spencer Jones — 21/100
+### Paul Wight — 21/100
 
-**Event:** Spencer Jones: trending now
+**Event:** Paul Wight: Comments On Stretcher Spot At AAA Triplemanía 34: “Imitation Is The Best Form Of Flattery”
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Spencer Jones spencer jones: trending now filings actually say — line by line — the other side of the fight
+> What the Paul Wight paul wight: comments on stretcher spot at aaa triplemanía 34: “imitation is the best form of flattery” filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Brian Robinson: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -72,17 +72,45 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jake Matthews — 28/100
+### Justin Boone — 19/100
 
-**Event:** Jake Matthews: trending now
+**Event:** Justin Boone: Fantasy Football Rankings: Top running backs for Week 4 from Justin Boone
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jake Matthews jake matthews: trending now filings actually say — line by line — the other side of the fight
+> What the Justin Boone justin boone: fantasy football rankings: top running backs for week 4 from justin boone filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Aaron Jones — 19/100
+
+**Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Aaron Jones aaron jones: fantasy football week 4 rb preview: aaron jones and jaylen warren surging at just the right time filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Spencer Jones — 20/100
+
+**Event:** Spencer Jones: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Spencer Jones spencer jones: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** RESEARCH
 
