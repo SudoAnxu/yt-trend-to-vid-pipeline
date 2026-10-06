@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #676 · Updated: 06/10/2026, 13:10:30 (Asia/Kolkata)
+Run #677 · Updated: 06/10/2026, 13:54:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Lloyd Harris — 16/100
+
+**Event:** Lloyd Harris: Valentin Vacherot vs. Lloyd Harris prediction, odds, picks for ATP Chengdu Open 2026
+
+**Why now:** 2 source lane(s): news, trends · momentum 6 (-26 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Lloyd Harris lloyd harris: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
 
 ### Michael Zheng — 17/100
 
 **Event:** Michael Zheng: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Chris Brown's: Chris Brown’s Ex-Housekeeper Accepts $9.5M Verdict in Dog Attack Case, Down From $13M
 
-**Why now:** 1 source lane(s): news · momentum 22 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Kristen Wiig: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 

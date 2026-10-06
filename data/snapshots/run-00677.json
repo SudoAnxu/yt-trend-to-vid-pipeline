@@ -1,0 +1,37 @@
+{
+  "runNo": 677,
+  "at": "2026-10-06T08:24:47.211Z",
+  "rows": [
+    {
+      "event": "story-lloyd-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-zheng",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    },
+    {
+      "event": "story-chris-brown-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-kristen-wiig",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
