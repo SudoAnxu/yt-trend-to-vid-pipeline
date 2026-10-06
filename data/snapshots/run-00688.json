@@ -1,0 +1,16 @@
+{
+  "runNo": 688,
+  "at": "2026-10-06T14:23:08.788Z",
+  "rows": [
+    {
+      "event": "story-mark-zuckerberg",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
