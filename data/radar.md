@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #689 · Updated: 06/10/2026, 20:18:21 (Asia/Kolkata)
+Run #690 · Updated: 06/10/2026, 20:54:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,49 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Dennis Franchione — 29/100
+### Dennis Franchione — 21/100
 
 **Event:** Dennis Franchione: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Dennis Franchione dennis franchione: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### David Jolly — 17/100
+
+**Event:** David Jolly: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the David Jolly david jolly: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Steven Tyler's — 19/100
+
+**Event:** Steven Tyler's: Exclusive | Steven Tyler’s vocal cord status post-injury revealed ahead of Aerosmith’s Hollywood Bowl shows
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Steven Tyler's steven tyler's: exclusive | steven tyler’s vocal cord status post-injury revealed ahead of aerosmith’s hollywood bowl shows filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
