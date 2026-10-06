@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #699 · Updated: 07/10/2026, 00:14:57 (Asia/Kolkata)
+Run #700 · Updated: 07/10/2026, 00:31:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Bunting — 25/100
+### Michael Bunting — 29/100
 
 **Event:** Michael Bunting: Philadelphia Flyers sign free agent Michael Bunting to 1-year, $1.2 million contract: Sources
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+5 vs prev run) · spice 14 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Bunting michael bunting: philadelphia flyers sign free agent michael bunting to 1-year, $1.2 million contract: sources filings actually say — line by line — the number behind the headline
+> The Michael Bunting story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Joe Mixon: Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 

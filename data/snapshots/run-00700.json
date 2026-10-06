@@ -1,0 +1,23 @@
+{
+  "runNo": 700,
+  "at": "2026-10-06T19:00:57.860Z",
+  "rows": [
+    {
+      "event": "story-michael-bunting",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-mixon",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
