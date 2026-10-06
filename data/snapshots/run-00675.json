@@ -1,0 +1,23 @@
+{
+  "runNo": 675,
+  "at": "2026-10-06T07:19:50.500Z",
+  "rows": [
+    {
+      "event": "story-chris-brown-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-kristen-wiig",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
