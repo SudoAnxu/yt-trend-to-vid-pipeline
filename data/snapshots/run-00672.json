@@ -1,0 +1,16 @@
+{
+  "runNo": 672,
+  "at": "2026-10-06T03:12:42.298Z",
+  "rows": [
+    {
+      "event": "story-austin-reaves",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
