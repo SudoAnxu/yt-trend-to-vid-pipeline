@@ -1,0 +1,16 @@
+{
+  "runNo": 689,
+  "at": "2026-10-06T14:48:21.498Z",
+  "rows": [
+    {
+      "event": "story-dennis-franchione",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #688 · Updated: 06/10/2026, 19:53:08 (Asia/Kolkata)
+Run #689 · Updated: 06/10/2026, 20:18:21 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,19 +16,19 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Mark Zuckerberg — 15/100
+### Dennis Franchione — 29/100
 
-**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
+**Event:** Dennis Franchione: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mark Zuckerberg mark zuckerberg: bill burr says he won't sit down with mark zuckerberg because then he 'can't make fun' of him afterwards filings actually say — line by line — the other side of the fight
+> What the Dennis Franchione dennis franchione: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
