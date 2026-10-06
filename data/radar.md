@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #697 · Updated: 06/10/2026, 23:04:58 (Asia/Kolkata)
+Run #698 · Updated: 07/10/2026, 00:02:10 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Luke Grimes — 22/100
+### Michael Bunting — 33/100
 
-**Event:** Luke Grimes: 'Marshals' Season 2 premiere ends in shocking death, star Luke Grimes explains | Exclusive
+**Event:** Michael Bunting: Philadelphia Flyers sign free agent Michael Bunting to 1-year, $1.2 million contract: Sources
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 12 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Luke Grimes luke grimes: 'marshals' season 2 premiere ends in shocking death, star luke grimes explains | exclusive story is actually a money story — the part that was not supposed to be public
+> What the Michael Bunting michael bunting: philadelphia flyers sign free agent michael bunting to 1-year, $1.2 million contract: sources filings actually say — line by line — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Joe Mixon — 18/100
+
+**Event:** Joe Mixon: Seahawks GM describes Jadarian Price’s injury prognosis--and looks at Joe Mixon
+
+**Why now:** 2 source lane(s): news, trends · momentum 26 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Joe Mixon joe mixon: news filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** KEPT
 
 
 </details>
