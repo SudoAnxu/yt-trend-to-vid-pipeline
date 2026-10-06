@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #701 · Updated: 07/10/2026, 00:47:15 (Asia/Kolkata)
+Run #702 · Updated: 07/10/2026, 01:07:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Andrew Tate: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
