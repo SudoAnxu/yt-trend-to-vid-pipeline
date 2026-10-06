@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #685 · Updated: 06/10/2026, 18:34:43 (Asia/Kolkata)
+Run #686 · Updated: 06/10/2026, 19:00:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,11 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### David Ellison — 14/100
+
+**Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
+
+**Why now:** 2 source lane(s): news, trends · momentum 6 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the David Ellison david ellison: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 12 videos in last 6h · TTS ≈ 2.4h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Scott Caan — 21/100
+
+**Event:** Scott Caan: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Scott Caan scott caan: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Brandon Larracuente — 19/100
 
 **Event:** Brandon Larracuente: 'Chicago Fire': Brandon Larracuente Teases Joe Miñoso & Dermot Mulroney's Exits (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Tom Cotton — 11/100
+### Tom Cotton — 12/100
 
 **Event:** Tom Cotton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,34 +71,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Michael Douglas — 23/100
-
-**Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
-
-**Why now:** 2 source lane(s): news, trends · momentum 27 (+8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Michael Douglas michael douglas: gets candid about affairs, drugs, surviving cancer (exclusive) story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Rob Reiner — 22/100
-
-**Event:** Rob Reiner: Michael Douglas details ‘heartbreaking’ Rob Reiner talks over troubled sons before director’s murder
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Rob Reiner rob reiner: michael douglas details ‘heartbreaking’ rob reiner talks over troubled sons before director’s murder story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
