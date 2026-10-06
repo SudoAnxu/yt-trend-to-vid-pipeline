@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #677 · Updated: 06/10/2026, 13:54:47 (Asia/Kolkata)
+Run #678 · Updated: 06/10/2026, 14:46:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Lloyd Harris — 16/100
+### Ben Affleck — 24/100
 
-**Event:** Lloyd Harris: Valentin Vacherot vs. Lloyd Harris prediction, odds, picks for ATP Chengdu Open 2026
+**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-26 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (-4 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Lloyd Harris lloyd harris: trending now filings actually say — line by line — the other side of the fight
+> The Ben Affleck story is a proxy fight about something bigger — the part that was not supposed to be public
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Michael Zheng — 17/100
+### Alexander Zverev — 18/100
 
-**Event:** Michael Zheng: trending now
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Michael Zheng michael zheng: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Chris Brown's — 15/100
-
-**Event:** Chris Brown's: Chris Brown’s Ex-Housekeeper Accepts $9.5M Verdict in Dog Attack Case, Down From $13M
-
-**Why now:** 1 source lane(s): news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Chris Brown's chris brown's: baby mama wants around $45k a month in child support story is actually a money story — the other side of the fight
+> What the Alexander Zverev alexander zverev: atp beijing best bets including alexander zverev vs novak djokovic filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
-**Status:** BOOSTED
-
-### Kristen Wiig — 19/100
-
-**Event:** Kristen Wiig: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kristen Wiig kristen wiig: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
-
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
