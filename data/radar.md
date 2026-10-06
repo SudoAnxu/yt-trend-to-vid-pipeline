@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #709 · Updated: 07/10/2026, 03:50:47 (Asia/Kolkata)
+Run #710 · Updated: 07/10/2026, 04:15:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Joe Davis — 31/100
-
-**Event:** Joe Davis: Where is Joe Davis? Why Kenny Albert is filling in on Dodgers-Braves Fox telecast
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joe Davis joe davis: where is joe davis? why kenny albert is filling in on dodgers-braves fox telecast filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Michael Lewis — 29/100
-
-**Event:** Michael Lewis: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Michael Lewis michael lewis: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Chris Sale — 23/100
+### Chris Sale — 20/100
 
 **Event:** Chris Sale: Phillies vs. Braves live updates, news, starting pitchers for Game 1: Chris Sale, Jesús Luzardo take the mound
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Chris Sale chris sale: braves vs dodgers nlds chat and discussion: chris sale vs yoshinobu yamamoto filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** KEPT
 
-### Will Have — 23/100
+### Bryan Seaver — 20/100
 
-**Event:** Will Have: Unpopular Opinion: I Don't Like "Blackout-Themed" Football Games Like Baylor Will Have vs. TCU in Week 7
+**Event:** Bryan Seaver: dolly parton estate lawsuit bryan seaver
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 10 · risk 86 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Have will have: unpopular opinion: i don't like "blackout-themed" football games like baylor will have vs. tcu in week 7 filings actually say — line by line — the other side of the fight
+> What the Bryan Seaver bryan seaver: dolly parton estate bryan seaver lawsuit filings actually say — line by line — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Hayden Panettiere's — 20/100
+
+**Event:** Hayden Panettiere's: ex-fiance files petition over daughter's estate
+
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Hayden Panettiere's hayden panettiere's: ex wlad klitschko claims some of her jewelry was pawned, demands investigation filings actually say — line by line — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
