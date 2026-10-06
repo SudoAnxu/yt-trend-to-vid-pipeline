@@ -1,0 +1,16 @@
+{
+  "runNo": 680,
+  "at": "2026-10-06T10:42:24.186Z",
+  "rows": [
+    {
+      "event": "story-matt-rhule",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

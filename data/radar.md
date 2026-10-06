@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #679 · Updated: 06/10/2026, 15:03:51 (Asia/Kolkata)
+Run #680 · Updated: 06/10/2026, 16:12:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 18/100
+### Matt Rhule — 24/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Matt Rhule: Nebraska HC Matt Rhule makes cameo in HBO's 'Lanterns' season finale
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Carlos Alcaraz carlos alcaraz: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** KEPT
-
-### Travis Kelce — 15/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Travis Kelce travis kelce: chiefs raiders game outfit story is actually a money story — the other side of the fight
+> The Matt Rhule matt rhule: nebraska hc matt rhule makes cameo in hbo's 'lanterns' season finale story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
