@@ -1,0 +1,16 @@
+{
+  "runNo": 682,
+  "at": "2026-10-06T11:27:49.002Z",
+  "rows": [
+    {
+      "event": "story-michael-weatherly",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
