@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #663 · Updated: 06/10/2026, 05:55:42 (Asia/Kolkata)
+Run #664 · Updated: 06/10/2026, 06:23:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Anthony Mackie — 35/100
+### Tyler Shough — 12/100
 
-**Event:** Anthony Mackie: Avengers Star Anthony Mackie Says He'll Film Secret Wars When He's Done on Broadway Playing Macbeth — a Run Th
+**Event:** Tyler Shough: Watch Jeff Brohm breaks down transfer quarterbacks Tyler Shough and Lincoln Kienholz - Wake Up Barstool
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Anthony Mackie story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Return — 19/100
-
-**Event:** Will Return: John Mayer Will Return to the Sphere in 2027
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Will Return will return: anthony mackie will return to broadway in macbeth in 2027 filings actually say — line by line — the other side of the fight
+> The Tyler Shough tyler shough: ‘shough doesn’t rhyme with flow,’ ‘don’t even know prominent player names’ — fans point out espn’s tyler shoug story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 19 videos in last 6h · TTS ≈ 6.8h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Mark Ruffalo — 16/100
+### Daniel Jones — 16/100
 
-**Event:** Mark Ruffalo: blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal
+**Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mark Ruffalo mark ruffalo: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Robert De — 16/100
-
-**Event:** Robert De: Niro and partner Tiffany host Anupam Kher for lunch in the US, gift him a cap: ‘Fortunate to call you my frien
-
-**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Robert De robert de: niro rips 'coward' trump over voter suppression filings actually say — line by line — the other side of the fight
+> The Daniel Jones daniel jones: emergency colts-saints trade proposal to keep daniel jones from tanking indy's season story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
+**Competition:** 15 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Kyle Pitts — 23/100
+
+**Event:** Kyle Pitts: Can Falcons finally get TE Kyle Pitts going on 'Thursday Night Football' vs. Packers?
+
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kyle Pitts kyle pitts: receptions pick for falcons vs. saints story is actually a money story — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
