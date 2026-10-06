@@ -1,0 +1,8 @@
+{
+  "runNo": 673,
+  "at": "2026-10-06T05:03:52.200Z",
+  "rows": [],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
