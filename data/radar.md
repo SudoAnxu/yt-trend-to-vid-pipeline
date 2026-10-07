@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #758 · Updated: 08/10/2026, 04:52:23 (Asia/Kolkata)
+Run #759 · Updated: 08/10/2026, 05:08:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Alex Ovechkin — 16/100
+### Jordan Spieth — 27/100
 
-**Event:** Alex Ovechkin: Washington Capitals star Alex Ovechkin announces this will be his last NHL season
+**Event:** Jordan Spieth: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alex Ovechkin alex ovechkin: capitals vs penguins live updates, how to watch alex ovechkin vs sidney crosby filings actually say — line by line — the other side of the fight
+> What the Jordan Spieth jordan spieth: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Mike Yastrzemski — 22/100
+
+**Event:** Mike Yastrzemski: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Yastrzemski story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** BOOSTED
 
 
 </details>
