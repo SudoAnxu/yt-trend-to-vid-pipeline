@@ -1,0 +1,16 @@
+{
+  "runNo": 732,
+  "at": "2026-10-07T11:57:19.866Z",
+  "rows": [
+    {
+      "event": "story-bruce-blakeman",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
