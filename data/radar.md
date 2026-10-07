@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #742 · Updated: 07/10/2026, 23:11:12 (Asia/Kolkata)
+Run #743 · Updated: 07/10/2026, 23:22:35 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,21 +12,21 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Michael Dell — 18/100
+### Michael Dell — 17/100
 
 **Event:** Michael Dell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Michael Dell michael dell: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -44,19 +44,33 @@ Sources this run: trends(38)
 
 **Status:** ARCHIVED
 
-### Nick Sirianni — 17/100
+### Landon Dickerson — 17/100
 
-**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
+**Event:** Landon Dickerson: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Nick Sirianni nick sirianni: eagles’ nick sirianni on struggling cam jurgens: ‘i’m pleased with where cam is’ filings actually say — line by line — the other side of the fight
+> What the Landon Dickerson landon dickerson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** KEPT
+**Status:** RESEARCH
+
+### Veteran Gives Personal — 21/100
+
+**Event:** Veteran Gives Personal: Eagles’ 28-Year-Old Veteran Gives Personal Injury Update
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Veteran Gives Personal veteran gives personal: eagles’ 28-year-old veteran gives personal injury update filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
