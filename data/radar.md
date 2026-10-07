@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #728 · Updated: 07/10/2026, 16:01:42 (Asia/Kolkata)
+Run #729 · Updated: 07/10/2026, 16:11:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Adrian Mannarino — 23/100
+### Travis Kelce — 21/100
 
-**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
+**Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-7 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+18 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Adrian Mannarino story is a proxy fight about something bigger — the other side of the fight
+> What the Travis Kelce travis kelce: taylor swift spotted at dinner with husband travis kelce on his 37th birthday (new photos) filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.7h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
 
 </details>
