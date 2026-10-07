@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #744 · Updated: 07/10/2026, 23:36:18 (Asia/Kolkata)
+Run #745 · Updated: 08/10/2026, 00:31:59 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Michael Dell — 17/100
+### Travis Kelce — 17/100
 
-**Event:** Michael Dell: trending now
+**Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Dell michael dell: trending now filings actually say — line by line — the other side of the fight
+> What the Travis Kelce travis kelce: birthday chiefs win filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
