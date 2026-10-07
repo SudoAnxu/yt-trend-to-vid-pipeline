@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #717 · Updated: 07/10/2026, 06:42:25 (Asia/Kolkata)
+Run #718 · Updated: 07/10/2026, 07:14:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Adam Levine — 19/100
+### Harry Potter — 12/100
 
-**Event:** Adam Levine: ‘The Voice’ recap: Adam Levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist
+**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Adam Levine adam levine: the voice gives brandon diaz a second chance in season 30, adam levine admits: 'i made a mistake' filings actually say — line by line — the other side of the fight
+> What the Harry Potter harry potter: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Rob Sand — 23/100
+
+**Event:** Rob Sand: vs. Zach Lahn: Latest Polls as Iowa Governor Candidates Debate
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rob Sand rob sand: vs. zach lahn: latest polls as iowa governor candidates debate filings actually say — line by line — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
