@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #739 · Updated: 07/10/2026, 22:12:56 (Asia/Kolkata)
+Run #740 · Updated: 07/10/2026, 22:50:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,77 +12,63 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Aaron Pierre — 13/100
+### Nick Sirianni — 16/100
 
-**Event:** Aaron Pierre: Michael B. Jordan, Mahershala Ali, Aaron Pierre, & More Black Stars Are Brooklyn-Bound For CultureCon 2026
+**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Aaron Pierre aaron pierre: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### John Stewart — 22/100
-
-**Event:** John Stewart: ‘Lanterns’ Finale: Hal Jordan’s Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Stewart john stewart: ‘lanterns’ finale: hal jordan’s killer and manhunter revealed, sinestro creates [spoiler], john stewart powers filings actually say — line by line — the other side of the fight
+> What the Nick Sirianni nick sirianni: eagles’ nick sirianni on struggling cam jurgens: ‘i’m pleased with where cam is’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+
+**Status:** KEPT
+
+### Mia Goth — 31/100
+
+**Event:** Mia Goth: Shia LaBeouf’s wife Mia Goth files for divorce months after his bar fight arrest
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mia Goth mia goth: shia labeouf’s wife mia goth files for divorce months after his bar fight arrest filings actually say — line by line — what happens next
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### John Stewart's — 20/100
+### Joe Manganiello — 24/100
 
-**Event:** John Stewart's: John Stewart’s ‘Lanterns’ Costume Will Wait Until Season 2
+**Event:** Joe Manganiello: trending now
 
-**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The John Stewart's john stewart's: john stewart’s ‘lanterns’ costume will wait until season 2 story is actually a money story — the other side of the fight
+> The Joe Manganiello joe manganiello: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Will Wait — 18/100
+### Spencer Stastney — 26/100
 
-**Event:** Will Wait: John Stewart’s ‘Lanterns’ Costume Will Wait Until Season 2
+**Event:** Spencer Stastney: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Will Wait will wait: john stewart’s ‘lanterns’ costume will wait until season 2 story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Team Breaks Down — 25/100
-
-**Event:** Team Breaks Down: ‘Lanterns’ Team Breaks Down Finale’s Emotional Gamble, Hal Jordan’s Ultimate Fate and John Stewart’s Future
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Team Breaks Down team breaks down: ‘lanterns’ team breaks down finale’s emotional gamble, hal jordan’s ultimate fate and john stewart’s future filings actually say — line by line — the other side of the fight
+> What the Spencer Stastney spencer stastney: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
