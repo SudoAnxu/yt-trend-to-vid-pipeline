@@ -1,0 +1,37 @@
+{
+  "runNo": 727,
+  "at": "2026-10-07T09:30:12.841Z",
+  "rows": [
+    {
+      "event": "story-daniel-merida",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-anthony-head",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-melissa-barrera",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-loomis-",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
