@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #738 · Updated: 07/10/2026, 21:20:59 (Asia/Kolkata)
+Run #739 · Updated: 07/10/2026, 22:12:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(38)
 
@@ -34,7 +34,7 @@ Sources this run: trends(38)
 
 **Event:** John Stewart: ‘Lanterns’ Finale: Hal Jordan’s Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,17 +44,17 @@ Sources this run: trends(38)
 
 **Status:** RESEARCH
 
-### John Stewart's — 21/100
+### John Stewart's — 20/100
 
 **Event:** John Stewart's: John Stewart’s ‘Lanterns’ Costume Will Wait Until Season 2
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The John Stewart's john stewart's: john stewart’s ‘lanterns’ costume will wait until season 2 story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** RESEARCH
 
@@ -62,7 +62,7 @@ Sources this run: trends(38)
 
 **Event:** Will Wait: John Stewart’s ‘Lanterns’ Costume Will Wait Until Season 2
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(38)
 
 **Event:** Team Breaks Down: ‘Lanterns’ Team Breaks Down Finale’s Emotional Gamble, Hal Jordan’s Ultimate Fate and John Stewart’s Future
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
