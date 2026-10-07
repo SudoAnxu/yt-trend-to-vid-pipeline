@@ -1,0 +1,44 @@
+{
+  "runNo": 748,
+  "at": "2026-10-07T19:41:29.321Z",
+  "rows": [
+    {
+      "event": "story-diego-county",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-shipley",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-gasser",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "unknown"
+    },
+    {
+      "event": "story-josh-hader",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

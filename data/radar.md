@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #747 · Updated: 08/10/2026, 00:58:22 (Asia/Kolkata)
+Run #748 · Updated: 08/10/2026, 01:11:30 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,31 +30,45 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Justin Boone's — 19/100
+### Will Shipley — 17/100
 
-**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+**Event:** Will Shipley: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Justin Boone's justin boone's: fantasy football full ppr rb rankings for week 5 filings actually say — line by line — the other side of the fight
+> What the Will Shipley will shipley: fantasy football week 5 running back projections and rankings: will shipley, braelon allen climb filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Robert Gasser — 22/100
+### Robert Gasser — 17/100
 
 **Event:** Robert Gasser: Pat Murphy Facing Chad Patrick, Robert Gasser Decision After NLDS Loss to Padres
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 4 · risk 64 · external momentum 21 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · external momentum 8 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Robert Gasser robert gasser: pat murphy facing chad patrick, robert gasser decision after nlds loss to padres filings actually say — line by line — what happens next
+> What the Robert Gasser robert gasser: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Josh Hader — 21/100
+
+**Event:** Josh Hader: Astros’ facing make-or-break moment with Josh Hader trade decision
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-6 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Hader story is a proxy fight about something bigger — the number behind the headline
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -62,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
