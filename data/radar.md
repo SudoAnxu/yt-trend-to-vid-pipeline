@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #716 · Updated: 07/10/2026, 06:24:50 (Asia/Kolkata)
+Run #717 · Updated: 07/10/2026, 06:42:25 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Emma Slater — 16/100
+### Adam Levine — 19/100
 
-**Event:** Emma Slater: and Alan Bersten Compete on Dancing With the Stars
+**Event:** Adam Levine: ‘The Voice’ recap: Adam Levine gets ‘scrappy’ in four-chair turn fight for ‘the best blind audition’ artist
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Emma Slater emma slater: dwts’ val chmerkovskiy & emma slater call out headline calling his niece hailey bills a ‘nepo-baby’ story is actually a money story — the other side of the fight
+> What the Adam Levine adam levine: the voice gives brandon diaz a second chance in season 30, adam levine admits: 'i made a mistake' filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 

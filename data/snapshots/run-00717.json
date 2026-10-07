@@ -1,0 +1,16 @@
+{
+  "runNo": 717,
+  "at": "2026-10-07T01:12:24.966Z",
+  "rows": [
+    {
+      "event": "story-adam-levine",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
