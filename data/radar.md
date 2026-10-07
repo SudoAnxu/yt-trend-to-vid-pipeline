@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #741 · Updated: 07/10/2026, 22:58:55 (Asia/Kolkata)
+Run #742 · Updated: 07/10/2026, 23:11:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Michael Dell — 18/100
+
+**Event:** Michael Dell: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Michael Dell michael dell: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Ken Paxton — 16/100
 
 **Event:** Ken Paxton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Nick Sirianni — 16/100
+### Nick Sirianni — 17/100
 
 **Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,48 +57,6 @@ Sources this run: trends(40)
 **Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
 
 **Status:** KEPT
-
-### Mia Goth — 25/100
-
-**Event:** Mia Goth: Shia LaBeouf’s wife Mia Goth files for divorce months after his bar fight arrest
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mia Goth mia goth: shia labeouf’s wife mia goth files for divorce months after his bar fight arrest filings actually say — line by line — what happens next
-
-**Competition:** 8 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jon Rahm — 27/100
-
-**Event:** Jon Rahm: leaving LIV Golf as league fights to survive bankruptcy
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 15 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jon Rahm jon rahm: leaving liv golf as league fights to survive bankruptcy story is actually a money story — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Joe Manganiello — 18/100
-
-**Event:** Joe Manganiello: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Joe Manganiello joe manganiello: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
