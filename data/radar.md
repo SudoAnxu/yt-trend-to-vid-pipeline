@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #757 · Updated: 08/10/2026, 04:46:18 (Asia/Kolkata)
+Run #758 · Updated: 08/10/2026, 04:52:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(39)
 
@@ -16,11 +16,11 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Alex Ovechkin — 15/100
+### Alex Ovechkin — 16/100
 
 **Event:** Alex Ovechkin: Washington Capitals star Alex Ovechkin announces this will be his last NHL season
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 

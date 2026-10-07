@@ -1,0 +1,16 @@
+{
+  "runNo": 758,
+  "at": "2026-10-07T23:22:22.979Z",
+  "rows": [
+    {
+      "event": "story-alex-ovechkin",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
