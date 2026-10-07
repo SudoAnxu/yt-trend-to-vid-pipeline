@@ -1,0 +1,23 @@
+{
+  "runNo": 756,
+  "at": "2026-10-07T22:43:56.123Z",
+  "rows": [
+    {
+      "event": "story-michael-jordan-s",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-alan-bersten",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
