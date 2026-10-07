@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #718 · Updated: 07/10/2026, 07:14:06 (Asia/Kolkata)
+Run #719 · Updated: 07/10/2026, 07:35:46 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Harry Potter — 12/100
+### Ted Lasso — 13/100
 
-**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
+**Event:** Ted Lasso: mae ted lasso
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Harry Potter harry potter: trending now filings actually say — line by line — the other side of the fight
+> What the Ted Lasso ted lasso: season 5 has no green light yet, but jason sudeikis may have a bigger plan filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Rob Sand — 23/100
+### Jake Bauers — 29/100
 
-**Event:** Rob Sand: vs. Zach Lahn: Latest Polls as Iowa Governor Candidates Debate
+**Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Rob Sand rob sand: vs. zach lahn: latest polls as iowa governor candidates debate filings actually say — line by line — the other side of the fight
+> The Jake Bauers jake bauers: brewers’ jake bauers explains why he never followed through on mlb retirement story is actually a money story — the detail nobody has explained
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Aaron Award — 19/100
+
+**Event:** Aaron Award: Shohei Ohtani, Hank Aaron Award finalist, still searching at the plate
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Aaron Award story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
