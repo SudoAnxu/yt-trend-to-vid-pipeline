@@ -1,0 +1,23 @@
+{
+  "runNo": 731,
+  "at": "2026-10-07T11:31:12.107Z",
+  "rows": [
+    {
+      "event": "story-valerie-bertinelli",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-zheng",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

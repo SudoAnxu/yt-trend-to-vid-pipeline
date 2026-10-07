@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #730 · Updated: 07/10/2026, 16:47:47 (Asia/Kolkata)
+Run #731 · Updated: 07/10/2026, 17:01:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(38)
 
@@ -16,11 +16,25 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
+### Valerie Bertinelli — 28/100
+
+**Event:** Valerie Bertinelli: shares rare photo with Eddie Van Halen: 'Never the love' six years after his death
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Valerie Bertinelli valerie bertinelli: shares rare photo with eddie van halen: 'never the love' six years after his death filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Michael Zheng — 17/100
 
 **Event:** Michael Zheng: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,21 +42,7 @@ Sources this run: trends(38)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** RESEARCH
-
-### Daniel Merida — 23/100
-
-**Event:** Daniel Merida: October 8, 2026: Botic Van de Zandschulp vs Daniel Merida: Set 1 Winner Tennis Prediction Market
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Daniel Merida story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
