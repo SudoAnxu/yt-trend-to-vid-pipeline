@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #752 · Updated: 08/10/2026, 02:24:24 (Asia/Kolkata)
+Run #753 · Updated: 08/10/2026, 02:58:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,77 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Will Venable — 30/100
+### Sam Antonacci — 31/100
 
-**Event:** Will Venable: trending now
+**Event:** Sam Antonacci: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Will Venable will venable: trending now filings actually say — line by line — the other side of the fight
+> What the Sam Antonacci sam antonacci: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Nick Nurse — 26/100
+### Bryan Hudson — 33/100
 
-**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
+**Event:** Bryan Hudson: John Harbaugh creates center competition with Bryan Hudson start vs. Cardinals
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Nick Nurse nick nurse: lebron james, nick nurse dispute mike breen’s story about joel embiid filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Joel Embiid — 26/100
-
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Joel Embiid joel embiid: lebron james, nick nurse dispute mike breen’s story about joel embiid filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Matt Burke — 21/100
-
-**Event:** Matt Burke: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Matt Burke story is a proxy fight about something bigger — the other side of the fight
+> The Bryan Hudson story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Paul Ferris — 21/100
+### John Harbaugh — 23/100
 
-**Event:** Paul Ferris: trending now
+**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The John Harbaugh story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** ARCHIVED
+
+### Ian Happ — 15/100
+
+**Event:** Ian Happ: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Ian Happ ian happ: cubs trade idea lands $10 million outfielder to replace ian happ story is actually a money story — the number behind the headline
+
+**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Cody Rhodes — 24/100
+
+**Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Cody Rhodes cody rhodes: shares major update on wwe contract and future filings actually say — line by line — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Will Venable — 23/100
+
+**Event:** Will Venable: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Paul Ferris paul ferris: trending now filings actually say — line by line — the other side of the fight
+> What the Will Venable will venable: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
 
 **Status:** RESEARCH
 
