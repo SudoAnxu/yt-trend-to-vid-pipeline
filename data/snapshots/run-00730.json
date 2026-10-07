@@ -1,0 +1,23 @@
+{
+  "runNo": 730,
+  "at": "2026-10-07T11:17:47.729Z",
+  "rows": [
+    {
+      "event": "story-michael-zheng",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-merida",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

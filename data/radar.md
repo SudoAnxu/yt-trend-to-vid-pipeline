@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #729 · Updated: 07/10/2026, 16:11:39 (Asia/Kolkata)
+Run #730 · Updated: 07/10/2026, 16:47:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Travis Kelce — 21/100
+### Michael Zheng — 17/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Michael Zheng: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+18 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: taylor swift spotted at dinner with husband travis kelce on his 37th birthday (new photos) filings actually say — line by line — the other side of the fight
+> What the Michael Zheng michael zheng: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Daniel Merida — 23/100
+
+**Event:** Daniel Merida: October 8, 2026: Botic Van de Zandschulp vs Daniel Merida: Set 1 Winner Tennis Prediction Market
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Daniel Merida story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
