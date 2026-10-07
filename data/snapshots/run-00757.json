@@ -1,0 +1,16 @@
+{
+  "runNo": 757,
+  "at": "2026-10-07T23:16:18.082Z",
+  "rows": [
+    {
+      "event": "story-alex-ovechkin",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 6,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
