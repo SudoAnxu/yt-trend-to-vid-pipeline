@@ -1,0 +1,30 @@
+{
+  "runNo": 737,
+  "at": "2026-10-07T15:43:28.575Z",
+  "rows": [
+    {
+      "event": "story-aaron-pierre",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-stewart-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-barker",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
