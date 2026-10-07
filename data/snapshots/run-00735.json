@@ -1,0 +1,51 @@
+{
+  "runNo": 735,
+  "at": "2026-10-07T14:07:27.613Z",
+  "rows": [
+    {
+      "event": "story-sam-altman",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeremy-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-sorkin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-eric-schmitt",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
