@@ -1,0 +1,44 @@
+{
+  "runNo": 741,
+  "at": "2026-10-07T17:28:54.771Z",
+  "rows": [
+    {
+      "event": "story-ken-paxton",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-sirianni",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-mia-goth",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jon-rahm",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-manganiello",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
