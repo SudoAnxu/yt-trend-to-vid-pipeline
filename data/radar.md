@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #723 · Updated: 07/10/2026, 12:28:39 (Asia/Kolkata)
+Run #724 · Updated: 07/10/2026, 12:51:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Justin Boone's — 19/100
+
+**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Justin Boone's justin boone's: fantasy football rankings: justin boone's top defenses for week 5 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
+
+**Status:** ARCHIVED
+
 ### Megan Fox — 20/100
 
 **Event:** Megan Fox: Stars in Cheeky Ad for Erectile Dysfunction Drug: ‘Maybe I Was Born for This’ (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -29,20 +43,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Adrian Mannarino — 23/100
-
-**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
-
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Adrian Mannarino adrian mannarino: vs. nikoloz basilashvili prediction, odds, picks for atp shanghai masters 2026 story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 8.4h · sources: news, trends
-
-**Status:** BOOSTED
 
 
 </details>

@@ -1,0 +1,23 @@
+{
+  "runNo": 724,
+  "at": "2026-10-07T07:21:04.028Z",
+  "rows": [
+    {
+      "event": "story-justin-boone-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-megan-fox",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
