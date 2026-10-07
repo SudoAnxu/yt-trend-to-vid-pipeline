@@ -1,0 +1,23 @@
+{
+  "runNo": 723,
+  "at": "2026-10-07T06:58:38.862Z",
+  "rows": [
+    {
+      "event": "story-megan-fox",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
