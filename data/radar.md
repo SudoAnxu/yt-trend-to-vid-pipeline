@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #746 · Updated: 08/10/2026, 00:41:42 (Asia/Kolkata)
+Run #747 · Updated: 08/10/2026, 00:58:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Robert Gasser — 23/100
+### Diego County — 19/100
+
+**Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Diego County diego county: potential for high surf, beach erosion and coastal flooding on the way to san diego county filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Justin Boone's — 19/100
+
+**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+
+**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Justin Boone's justin boone's: fantasy football full ppr rb rankings for week 5 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
+
+**Status:** ARCHIVED
+
+### Robert Gasser — 22/100
 
 **Event:** Robert Gasser: Pat Murphy Facing Chad Patrick, Robert Gasser Decision After NLDS Loss to Padres
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 4 · risk 64 · external momentum 21 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,20 +71,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Jennifer Coffindaffer — 17/100
-
-**Event:** Jennifer Coffindaffer: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jennifer Coffindaffer jennifer coffindaffer: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
 
 
 </details>
