@@ -1,0 +1,23 @@
+{
+  "runNo": 722,
+  "at": "2026-10-07T06:13:26.494Z",
+  "rows": [
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-king",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
