@@ -1,0 +1,44 @@
+{
+  "runNo": 752,
+  "at": "2026-10-07T20:54:23.671Z",
+  "rows": [
+    {
+      "event": "story-will-venable",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-nurse",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-joel-embiid",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matt-burke",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-paul-ferris",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
