@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #719 · Updated: 07/10/2026, 07:35:46 (Asia/Kolkata)
+Run #720 · Updated: 07/10/2026, 08:05:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ted Lasso — 13/100
+### Steve Kerr — 24/100
 
-**Event:** Ted Lasso: mae ted lasso
+**Event:** Steve Kerr: Says Warriors Have Fastest Player He’s Ever Coached
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ted Lasso ted lasso: season 5 has no green light yet, but jason sudeikis may have a bigger plan filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jake Bauers — 29/100
-
-**Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 32 (+13 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jake Bauers jake bauers: brewers’ jake bauers explains why he never followed through on mlb retirement story is actually a money story — the detail nobody has explained
+> The Steve Kerr story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** BOOSTED
+
+### Justin Boone — 19/100
+
+**Event:** Justin Boone: Fantasy Football Rankings: Top running backs for Week 4 from Justin Boone
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Justin Boone justin boone: week 5 fantasy football rankings from justin boone filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Aaron Award — 19/100
+### Julia Stiles — 26/100
 
-**Event:** Aaron Award: Shohei Ohtani, Hank Aaron Award finalist, still searching at the plate
+**Event:** Julia Stiles: julianne hough supports julia stiles
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 29 (+0 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Aaron Award story is a proxy fight about something bigger — the other side of the fight
+> The Julia Stiles julia stiles: gets real about facing her fears on dancing with the stars : ‘i refuse to wilt this time’ (exclusive) story is actually a money story — what happens next
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>

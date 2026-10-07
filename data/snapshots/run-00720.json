@@ -1,0 +1,30 @@
+{
+  "runNo": 720,
+  "at": "2026-10-07T02:35:27.191Z",
+  "rows": [
+    {
+      "event": "story-steve-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-boone",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-julia-stiles",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 29,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
