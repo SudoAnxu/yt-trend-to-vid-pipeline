@@ -1,0 +1,30 @@
+{
+  "runNo": 780,
+  "at": "2026-10-08T13:07:24.416Z",
+  "rows": [
+    {
+      "event": "story-josh-brolin",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-ellison",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-ashley-judd",
+      "alert": "ARCHIVE",
+      "opportunity": 36,
+      "momentum": 36,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
