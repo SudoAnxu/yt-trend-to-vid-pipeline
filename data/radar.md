@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #762 · Updated: 08/10/2026, 06:24:43 (Asia/Kolkata)
+Run #763 · Updated: 08/10/2026, 06:41:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Josh Hartnett — 19/100
+### Max Muncy — 13/100
 
-**Event:** Josh Hartnett: trending now
+**Event:** Max Muncy: Dodgers’ Dave Roberts makes eye-opening Max Muncy lineup decision for NLDS Game 2 vs. Braves
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-25 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Hartnett josh hartnett: best horror of october 2026: ‘other mommy’ goes for the heart, ‘carrie’ returns, josh hartnett hunts for sea m filings actually say — line by line — the other side of the fight
+> What the Max Muncy max muncy: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Anthony Volpe — 17/100
+
+**Event:** Anthony Volpe: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Anthony Volpe anthony volpe: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 
 </details>
