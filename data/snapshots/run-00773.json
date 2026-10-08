@@ -1,0 +1,16 @@
+{
+  "runNo": 773,
+  "at": "2026-10-08T09:22:12.944Z",
+  "rows": [
+    {
+      "event": "story-josh-hartnett",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
