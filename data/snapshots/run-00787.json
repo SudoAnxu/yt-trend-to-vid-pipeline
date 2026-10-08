@@ -1,0 +1,16 @@
+{
+  "runNo": 787,
+  "at": "2026-10-08T16:39:50.809Z",
+  "rows": [
+    {
+      "event": "story-jennifer-hudson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
