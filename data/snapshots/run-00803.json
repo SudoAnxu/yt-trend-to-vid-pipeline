@@ -1,0 +1,51 @@
+{
+  "runNo": 803,
+  "at": "2026-10-08T22:16:12.544Z",
+  "rows": [
+    {
+      "event": "story-sam-houston",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-rudd",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-curtis-flowers",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-tony-romo",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-tony-romo-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jerry-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
