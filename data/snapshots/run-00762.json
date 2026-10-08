@@ -1,0 +1,16 @@
+{
+  "runNo": 762,
+  "at": "2026-10-08T00:54:43.319Z",
+  "rows": [
+    {
+      "event": "story-josh-hartnett",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
