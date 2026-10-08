@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #775 · Updated: 08/10/2026, 16:22:42 (Asia/Kolkata)
+Run #776 · Updated: 08/10/2026, 16:31:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kate Middleton — 17/100
+### Dylan Wolf — 23/100
 
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
+**Event:** Dylan Wolf: Bunnie Xo, 46, passionately kisses 24-year-old boyfriend Dylan Wolf after defending age gap backlash
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kate Middleton kate middleton: prince harry and meghan markle are not planning an apology to prince william and kate middleton, source says ( filings actually say — line by line — the other side of the fight
+> The Dylan Wolf dylan wolf: bunnie xo, 46, passionately kisses 24-year-old boyfriend dylan wolf after defending age gap backlash story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

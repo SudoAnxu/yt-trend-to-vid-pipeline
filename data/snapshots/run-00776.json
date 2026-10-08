@@ -1,0 +1,16 @@
+{
+  "runNo": 776,
+  "at": "2026-10-08T11:01:50.554Z",
+  "rows": [
+    {
+      "event": "story-dylan-wolf",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
