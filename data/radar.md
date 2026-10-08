@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #782 · Updated: 08/10/2026, 19:47:02 (Asia/Kolkata)
+Run #783 · Updated: 08/10/2026, 20:16:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,37 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Josh Brolin — 19/100
-
-**Event:** Josh Brolin: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Josh Brolin josh brolin: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### David Ellison — 23/100
-
-**Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+9 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The David Ellison david ellison: skydance's david ellison tells cnbc combined company is 'positioned to win in every single vertical' story is actually a money story — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
