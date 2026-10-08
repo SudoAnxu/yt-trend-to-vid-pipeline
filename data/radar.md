@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #766 · Updated: 08/10/2026, 08:01:20 (Asia/Kolkata)
+Run #767 · Updated: 08/10/2026, 08:19:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,73 +16,73 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kevin Durant — 15/100
+### Robert Gasser — 22/100
 
-**Event:** Kevin Durant: trending now
+**Event:** Robert Gasser: Pat Murphy Facing Chad Patrick, Robert Gasser Decision After NLDS Loss to Padres
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kevin Durant story is a proxy fight about something bigger — the detail nobody has explained
+> The Robert Gasser story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Spencer Jones — 14/100
+### Mason Miller — 21/100
 
-**Event:** Spencer Jones: trending now
+**Event:** Mason Miller: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Spencer Jones spencer jones: yankees rookie spencer jones flies out off catwalk in game 2 filings actually say — line by line — the other side of the fight
+> The Mason Miller story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Tiffany Hayes — 15/100
+
+**Event:** Tiffany Hayes: Why WNBA playoff veteran Tiffany Hayes thinks Valkyries could win it all
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Tiffany Hayes tiffany hayes: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Angel Reese — 15/100
+### Anthony Volpe — 21/100
 
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+**Event:** Anthony Volpe: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Angel Reese's — 19/100
-
-**Event:** Angel Reese's: NY Liberty Star Sends Clear Warning After Angel Reese's Blunt Postgame Take On Latest Win
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Angel Reese's story is a proxy fight about something bigger — the other side of the fight
+> The Anthony Volpe story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
 
-### Kevin Cash — 25/100
+### Michael Keaton — 20/100
 
-**Event:** Kevin Cash: discusses big win over the Yankees
+**Event:** Michael Keaton: US TV: How to watch Batman icon Michael Keaton on Who Wants To Be a Millionaire tonight
 
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kevin Cash kevin cash: rays’ kevin cash expects ‘a very competitive’ alds matchup vs. yankees filings actually say — line by line — the other side of the fight
+> The Michael Keaton michael keaton: us tv: how to watch batman icon michael keaton on who wants to be a millionaire tonight story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 

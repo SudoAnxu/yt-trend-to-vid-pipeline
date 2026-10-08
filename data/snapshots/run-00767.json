@@ -1,0 +1,44 @@
+{
+  "runNo": 767,
+  "at": "2026-10-08T02:49:56.988Z",
+  "rows": [
+    {
+      "event": "story-robert-gasser",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-mason-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-tiffany-hayes",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-volpe",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-keaton",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
