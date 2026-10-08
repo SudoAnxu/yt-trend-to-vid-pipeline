@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #776 · Updated: 08/10/2026, 16:31:50 (Asia/Kolkata)
+Run #777 · Updated: 08/10/2026, 17:04:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Dylan Wolf — 23/100
-
-**Event:** Dylan Wolf: Bunnie Xo, 46, passionately kisses 24-year-old boyfriend Dylan Wolf after defending age gap backlash
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · external momentum 28 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Dylan Wolf dylan wolf: bunnie xo, 46, passionately kisses 24-year-old boyfriend dylan wolf after defending age gap backlash story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
