@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #781 · Updated: 08/10/2026, 19:21:28 (Asia/Kolkata)
+Run #782 · Updated: 08/10/2026, 19:47:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -20,27 +20,27 @@ Sources this run: trends(40)
 
 **Event:** Josh Brolin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Josh Brolin josh brolin: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### David Ellison — 21/100
+### David Ellison — 23/100
 
 **Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+9 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the David Ellison david ellison: skydance's david ellison tells cnbc combined company is 'positioned to win in every single vertical' filings actually say — line by line — the other side of the fight
+> The David Ellison david ellison: skydance's david ellison tells cnbc combined company is 'positioned to win in every single vertical' story is actually a money story — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 2.4h · sources: news, trends
+**Competition:** 15 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
