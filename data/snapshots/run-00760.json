@@ -1,0 +1,30 @@
+{
+  "runNo": 760,
+  "at": "2026-10-08T00:04:18.839Z",
+  "rows": [
+    {
+      "event": "story-jason-sudeikis",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-seacrest",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-martinez",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
