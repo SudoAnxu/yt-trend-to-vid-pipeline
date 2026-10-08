@@ -1,0 +1,16 @@
+{
+  "runNo": 779,
+  "at": "2026-10-08T12:12:41.652Z",
+  "rows": [
+    {
+      "event": "story-has-returned-with",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
