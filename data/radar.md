@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #780 · Updated: 08/10/2026, 18:37:25 (Asia/Kolkata)
+Run #781 · Updated: 08/10/2026, 19:21:28 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,29 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Josh Brolin — 27/100
+### Josh Brolin — 19/100
 
 **Event:** Josh Brolin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Josh Brolin josh brolin: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### David Ellison — 20/100
+### David Ellison — 21/100
 
 **Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+5 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,20 +43,6 @@ Sources this run: trends(40)
 **Competition:** 12 videos in last 6h · TTS ≈ 2.4h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Ashley Judd — 36/100
-
-**Event:** Ashley Judd: accuses UK of being silent over student sexual assaults
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 20 · risk 64 · external momentum 36 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Ashley Judd ashley judd: accuses uk of being silent over student sexual assaults filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
