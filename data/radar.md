@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #784 · Updated: 08/10/2026, 20:47:07 (Asia/Kolkata)
+Run #785 · Updated: 08/10/2026, 21:18:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Joe Buck: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-11 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.8h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Joe Buck story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
