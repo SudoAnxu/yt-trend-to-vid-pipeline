@@ -1,0 +1,16 @@
+{
+  "runNo": 793,
+  "at": "2026-10-08T18:56:50.332Z",
+  "rows": [
+    {
+      "event": "story-amy-acton",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
