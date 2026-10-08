@@ -1,0 +1,44 @@
+{
+  "runNo": 791,
+  "at": "2026-10-08T17:56:21.973Z",
+  "rows": [
+    {
+      "event": "story-luke-grimes",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-costner",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-grimes-says-he-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-scott-speedman",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-sean",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

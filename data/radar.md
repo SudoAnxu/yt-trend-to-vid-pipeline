@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #790 · Updated: 08/10/2026, 23:15:30 (Asia/Kolkata)
+Run #791 · Updated: 08/10/2026, 23:26:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Luke Grimes: 'Marshals' Season 2 premiere ends in shocking death, star Luke Grimes explains | Exclusive
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Kevin Costner: luke grimes comments on kevin costner
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Grimes Says He's: Luke Grimes Says He’s ‘Never Spoken’ to Kevin Costner Since His ‘Yellowstone’ Exit
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Scott Speedman — 21/100
+### Scott Speedman — 20/100
 
 **Event:** Scott Speedman: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · external momentum 21 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -76,27 +76,13 @@ Sources this run: trends(40)
 
 **Event:** Sean: ‘Diddy’ Combs’ release date takes major hit after reports of lavish life behind bars
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > The Sean filing that will matter in six months — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
-
-**Status:** RESEARCH
-
-### Catalysts Make Microsoft — 18/100
-
-**Event:** Catalysts Make Microsoft: These 3 Catalysts Make Microsoft Stock a Bargain Before Year-End
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Catalysts Make Microsoft catalysts make microsoft: these 3 catalysts make microsoft stock a bargain before year-end story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
