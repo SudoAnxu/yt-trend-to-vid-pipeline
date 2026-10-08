@@ -1,0 +1,16 @@
+{
+  "runNo": 775,
+  "at": "2026-10-08T10:52:42.765Z",
+  "rows": [
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
