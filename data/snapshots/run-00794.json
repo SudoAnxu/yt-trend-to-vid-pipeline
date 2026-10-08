@@ -1,0 +1,23 @@
+{
+  "runNo": 794,
+  "at": "2026-10-08T19:07:54.906Z",
+  "rows": [
+    {
+      "event": "story-amy-acton",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-andrew-scott",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
