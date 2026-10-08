@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #806 · Updated: 09/10/2026, 05:05:53 (Asia/Kolkata)
+Run #807 · Updated: 09/10/2026, 05:19:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,63 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### James Harden — 27/100
+### James Harden — 26/100
 
 **Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
 
-**Why now:** 2 source lane(s): news, trends · momentum 33 (+15 vs prev run) · spice 18 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 27 (-6 vs prev run) · spice 18 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > The James Harden story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 16 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 17 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Louis Blues — 23/100
+### Matthew Rhys — 17/100
 
-**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
+**Event:** Matthew Rhys: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Louis Blues louis blues: projected lineup: oct. 8 vs. san jose | st. louis blues filings actually say — line by line — the other side of the fight
+> What the Matthew Rhys matthew rhys: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Matthew Rhys' — 22/100
+### Matthew Rhys' — 20/100
 
 **Event:** Matthew Rhys': Keri Russell Reacts to Being Left Out of Partner Matthew Rhys' Emmys 2026 Acceptance Speeches
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Matthew Rhys' situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.2h · sources: news
 
 **Status:** RESEARCH
 
-### Mike Johnson — 16/100
+### Star Responds After — 25/100
+
+**Event:** Star Responds After: Partner Snubbed Her Twice
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 14 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Star Responds After situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+
+**Status:** RESEARCH
+
+### Mike Johnson — 15/100
 
 **Event:** Mike Johnson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Mike Johnson mike johnson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 24 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -76,13 +90,27 @@ Sources this run: trends(40)
 
 **Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Ben Johnson ben johnson: bears coach ben johnson can be an unapologetic agitator. just ask the packers - the athletic filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Ryan Flournoy — 28/100
+
+**Event:** Ryan Flournoy: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Ryan Flournoy ryan flournoy: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 

@@ -1,0 +1,58 @@
+{
+  "runNo": 807,
+  "at": "2026-10-08T23:49:25.123Z",
+  "rows": [
+    {
+      "event": "story-james-harden",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-rhys",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matthew-rhys-",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-star-responds-after",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-flournoy",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
