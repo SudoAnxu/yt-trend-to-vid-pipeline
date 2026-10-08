@@ -1,0 +1,44 @@
+{
+  "runNo": 806,
+  "at": "2026-10-08T23:35:52.102Z",
+  "rows": [
+    {
+      "event": "story-james-harden",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-louis-blues",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matthew-rhys-",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
