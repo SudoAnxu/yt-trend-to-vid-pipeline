@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #768 · Updated: 08/10/2026, 10:11:30 (Asia/Kolkata)
+Run #769 · Updated: 08/10/2026, 11:51:50 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(35)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,61 +16,61 @@ Sources this run: trends(35)
 
 <details><summary>show</summary>
 
-### Mike Yastrzemski — 18/100
+### Dylan Sprouse — 28/100
 
-**Event:** Mike Yastrzemski: trending now
+**Event:** Dylan Sprouse: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mike Yastrzemski mike yastrzemski: goes 0 for 1 in loss to dodgers filings actually say — line by line — the other side of the fight
+> What the Dylan Sprouse dylan sprouse: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Daniel Altmaier — 18/100
+
+**Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Daniel Altmaier daniel altmaier: holger rune v daniel altmaier odds story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Alex Rodriguez — 13/100
+
+**Event:** Alex Rodriguez: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alex Rodriguez alex rodriguez: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Mason Miller — 17/100
+### Chris Sale — 18/100
 
-**Event:** Mason Miller: trending now
+**Event:** Chris Sale: Phillies vs. Braves live updates, news, starting pitchers for Game 1: Chris Sale, Jesús Luzardo take the mound
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mason Miller mason miller: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jake Bauers — 22/100
-
-**Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jake Bauers story is a proxy fight about something bigger — the other side of the fight
+> What the Chris Sale chris sale: braves have 'zero regrets' about pitching chris sale in relief filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** RESEARCH
-
-### Aaron Award — 19/100
-
-**Event:** Aaron Award: Shohei Ohtani, Hank Aaron Award finalist, still searching at the plate
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Aaron Award story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
