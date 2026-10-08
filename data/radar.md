@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #765 · Updated: 08/10/2026, 07:42:15 (Asia/Kolkata)
+Run #766 · Updated: 08/10/2026, 08:01:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,93 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Kevin Cash — 27/100
+### Kevin Durant — 15/100
 
-**Event:** Kevin Cash: discusses big win over the Yankees
+**Event:** Kevin Durant: trending now
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kevin Cash kevin cash: discusses big win over the yankees filings actually say — line by line — the other side of the fight
+> The Kevin Durant story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Spencer Jones — 14/100
+
+**Event:** Spencer Jones: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Spencer Jones spencer jones: yankees rookie spencer jones flies out off catwalk in game 2 filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Angel Reese — 15/100
+
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Angel Reese's — 19/100
+
+**Event:** Angel Reese's: NY Liberty Star Sends Clear Warning After Angel Reese's Blunt Postgame Take On Latest Win
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Angel Reese's story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** ARCHIVED
+
+### Kevin Cash — 25/100
+
+**Event:** Kevin Cash: discusses big win over the Yankees
+
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Kevin Cash kevin cash: rays’ kevin cash expects ‘a very competitive’ alds matchup vs. yankees filings actually say — line by line — the other side of the fight
 
 **Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
-
-### Max Fried — 20/100
-
-**Event:** Max Fried: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Max Fried story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Nick Martinez — 19/100
-
-**Event:** Nick Martinez: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 9 · risk 64 · external momentum 16 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Nick Martinez story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Robert Gasser — 22/100
-
-**Event:** Robert Gasser: Pat Murphy Facing Chad Patrick, Robert Gasser Decision After NLDS Loss to Padres
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Robert Gasser story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Justin Verlander — 18/100
-
-**Event:** Justin Verlander: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Justin Verlander story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Spencer Jones — 20/100
-
-**Event:** Spencer Jones: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Spencer Jones spencer jones: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
