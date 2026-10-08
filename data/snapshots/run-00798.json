@@ -1,0 +1,44 @@
+{
+  "runNo": 798,
+  "at": "2026-10-08T20:27:53.184Z",
+  "rows": [
+    {
+      "event": "story-hayden-panettiere",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-hayden-panettiere-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-bakula",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 24,
+      "window": "unknown"
+    },
+    {
+      "event": "story-white-claims-vince",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-oscar-de",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
