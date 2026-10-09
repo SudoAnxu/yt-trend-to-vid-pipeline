@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #820 · Updated: 09/10/2026, 13:46:14 (Asia/Kolkata)
+Run #821 · Updated: 09/10/2026, 14:59:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Bring — 19/100
+### Daniel Altmaier — 21/100
 
-**Event:** Will Bring: Earthquake Simulator Will Bring Magnitude 7.0 Shaking To LA
+**Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Bring will bring: earthquake simulator will bring magnitude 7.0 shaking to la filings actually say — line by line — the other side of the fight
+> The Daniel Altmaier daniel altmaier: atp shanghai day 1 predictions including holger rune vs daniel altmaier story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
