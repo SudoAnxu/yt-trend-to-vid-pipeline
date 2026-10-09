@@ -1,0 +1,16 @@
+{
+  "runNo": 836,
+  "at": "2026-10-09T16:52:20.209Z",
+  "rows": [
+    {
+      "event": "story-william-penn",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
