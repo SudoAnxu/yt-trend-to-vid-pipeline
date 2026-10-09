@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #815 · Updated: 09/10/2026, 08:31:32 (Asia/Kolkata)
+Run #816 · Updated: 09/10/2026, 10:14:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,61 +16,61 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Grant Taylor — 20/100
+### Daniel Altmaier — 21/100
 
-**Event:** Grant Taylor: trending now
+**Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Grant Taylor grant taylor: trending now filings actually say — line by line — the other side of the fight
+> The Daniel Altmaier daniel altmaier: atp shanghai day 1 predictions including holger rune vs daniel altmaier story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
-### Kirk Cousins — 16/100
+### Ben Affleck — 19/100
 
-**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
+**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
 
-**Why now:** 1 source lane(s): news · momentum 24 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Kirk Cousins kirk cousins: raiders qb kirk cousins talks about the offense story is actually a money story — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** BOOSTED
-
-### Amanda Bynes — 22/100
-
-**Event:** Amanda Bynes: Called Out by Fans for Selling Pricey Handmade Purse That Looks Like a ‘Trash Bag’
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+17 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Amanda Bynes amanda bynes: shares details from mystery project 'kendall' that's 'now in production' story is actually a money story — the detail nobody has explained
+> The Ben Affleck ben affleck: explains shared custody arrangement with ex-wife jennifer garner over their 3 kids story is actually a money story — what happens next
 
-**Competition:** 3 videos in last 6h · TTS ≈ 9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
-### Danny Fire — 22/100
+### Jennifer Garner — 21/100
 
-**Event:** Danny Fire: Gorman fire prompts 5 Freeway shut down, evacuation order and warnings
+**Event:** Jennifer Garner: Ben Affleck Explains Shared Custody Arrangement With Ex-Wife Jennifer Garner Over Their 3 Kids
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Danny Fire danny fire: gorman fire prompts 5 freeway shut down, evacuation order and warnings filings actually say — line by line — what happens next
+> The Jennifer Garner jennifer garner: ben affleck explains shared custody arrangement with ex-wife jennifer garner over their 3 kids story is actually a money story — what happens next
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Michael Douglas — 30/100
+
+**Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+7 vs prev run) · spice 28 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Michael Douglas story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.4h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
