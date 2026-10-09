@@ -1,0 +1,16 @@
+{
+  "runNo": 830,
+  "at": "2026-10-09T14:02:25.300Z",
+  "rows": [
+    {
+      "event": "story-josh-brolin",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
