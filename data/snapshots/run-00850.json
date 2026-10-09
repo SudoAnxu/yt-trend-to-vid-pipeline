@@ -1,0 +1,23 @@
+{
+  "runNo": 850,
+  "at": "2026-10-09T21:33:41.414Z",
+  "rows": [
+    {
+      "event": "story-dylan-sprouse",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-ekeler",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

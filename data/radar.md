@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #849 · Updated: 10/10/2026, 02:37:04 (Asia/Kolkata)
+Run #850 · Updated: 10/10/2026, 03:03:41 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(35)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Dylan Sprouse: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Austin Ekeler — 16/100
+### Austin Ekeler — 17/100
 
 **Event:** Austin Ekeler: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,20 +43,6 @@ Sources this run: trends(40)
 **Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Wilson Wins Record — 19/100
-
-**Event:** Wilson Wins Record: Las Vegas Aces’ A'ja Wilson Wins Record Fifth Kia WNBA Most Valuable Player Award
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Wilson Wins Record story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
