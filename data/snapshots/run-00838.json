@@ -1,0 +1,30 @@
+{
+  "runNo": 838,
+  "at": "2026-10-09T17:21:41.688Z",
+  "rows": [
+    {
+      "event": "story-jason-duval",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-james-talarico",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-william-penn",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
