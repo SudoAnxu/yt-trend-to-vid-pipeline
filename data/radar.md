@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #811 · Updated: 09/10/2026, 06:50:25 (Asia/Kolkata)
+Run #812 · Updated: 09/10/2026, 07:13:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,135 +12,107 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (9)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
+
+### Joey Porter — 17/100
+
+**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
+
+**Why now:** 2 source lane(s): news, trends · momentum 6 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Joey Porter joey porter: updates: joey porter jr. ruled out vs. buccaneers filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Sam Antonacci — 23/100
+
+**Event:** Sam Antonacci: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Sam Antonacci sam antonacci: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jerry Jones — 17/100
+
+**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jerry Jones jerry jones: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** RESEARCH
+
+### Tony Romo — 19/100
+
+**Event:** Tony Romo: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Tony Romo tony romo: disqualified from golf tournament the same day he parted ways with cbs after owi arrest filings actually say — line by line — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Tony Romo's — 16/100
+
+**Event:** Tony Romo's: Tony Romo’s latest pro-golf quest ended with curious DQ. Here’s what happened
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tony Romo's tony romo's: tony romo’s latest pro-golf quest ended with curious dq. here’s what happened story is actually a money story — the detail nobody has explained
+
+**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** ARCHIVED
+
+### Micah Parsons — 22/100
+
+**Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
+
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Micah Parsons micah parsons: this intriguing packers’ micah parsons injury update is important for green bay filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Miguel Vargas — 21/100
 
 **Event:** Miguel Vargas: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Miguel Vargas miguel vargas: great interview from miguel vargas filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Mark Zuckerberg — 24/100
-
-**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+5 vs prev run) · spice 11 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mark Zuckerberg mark zuckerberg: has an image problem - so why is meta's business booming? filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Will Venable — 21/100
-
-**Event:** Will Venable: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Venable will venable: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jose Ramirez — 13/100
-
-**Event:** Jose Ramirez: Guardians facing elimination in ALDS, Jose Ramirez still looking for lost offense
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jose Ramirez jose ramirez: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Victor Wembanyama — 16/100
-
-**Event:** Victor Wembanyama: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Victor Wembanyama story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Mike Breen — 24/100
-
-**Event:** Mike Breen: apologizes after LeBron James disputes Embiid story
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 14 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Mike Breen mike breen: apologizes after lebron james disputes embiid story filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Joel Embiid — 21/100
-
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
-
-**Why now:** 1 source lane(s): news · momentum 22 (-2 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Joel Embiid joel embiid: lebron james, nick nurse dispute mike breen’s story about joel embiid - the athletic story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
-
-**Status:** BOOSTED
-
-### Nick Nurse — 25/100
-
-**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Nick Nurse nick nurse: lebron james, nick nurse dispute mike breen’s story about joel embiid - the athletic filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mike Breen's — 26/100
-
-**Event:** Mike Breen's: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid - The Athletic
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 34 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Mike Breen's mike breen's: lebron james, nick nurse dispute mike breen’s story about joel embiid - the athletic filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
