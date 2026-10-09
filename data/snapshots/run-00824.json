@@ -1,0 +1,16 @@
+{
+  "runNo": 824,
+  "at": "2026-10-09T11:00:55.281Z",
+  "rows": [
+    {
+      "event": "story-scott-bakula",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
