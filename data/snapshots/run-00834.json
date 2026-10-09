@@ -1,0 +1,37 @@
+{
+  "runNo": 834,
+  "at": "2026-10-09T15:36:49.681Z",
+  "rows": [
+    {
+      "event": "story-mike-tyson",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-ditka",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-ferentz",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #833 · Updated: 09/10/2026, 21:00:48 (Asia/Kolkata)
+Run #834 · Updated: 09/10/2026, 21:06:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Mike Ditka — 30/100
+### Mike Tyson — 24/100
 
-**Event:** Mike Ditka: Bears vs. Packers most hated list: Aaron Rodgers, Mike Ditka and the 10 rivalry figures fans love to hate
+**Event:** Mike Tyson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 38 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mike Ditka filing that will matter in six months — the other side of the fight
+> What the Mike Tyson mike tyson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Aaron Rodgers' — 20/100
+### Sean — 19/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** Sean: ‘Diddy’ Combs’ release date takes major hit after reports of lavish life behind bars
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Aaron Rodgers' aaron rodgers': bears vs. packers most hated list: aaron rodgers, mike ditka and the 10 rivalry figures fans love to hate filings actually say — line by line — the other side of the fight
+> What the Sean sean: mike tyson says he delivered letter from sean 'diddy' combs to donald trump filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Mike Ditka — 18/100
+
+**Event:** Mike Ditka: Bears vs. Packers most hated list: Aaron Rodgers, Mike Ditka and the 10 rivalry figures fans love to hate
+
+**Why now:** 2 source lane(s): trends, news · momentum 27 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mike Ditka mike ditka: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Kirk Ferentz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -56,7 +70,7 @@ Sources this run: trends(40)
 
 **Competition:** 2 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
 
 </details>
