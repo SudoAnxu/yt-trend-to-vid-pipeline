@@ -1,0 +1,16 @@
+{
+  "runNo": 854,
+  "at": "2026-10-09T22:57:12.852Z",
+  "rows": [
+    {
+      "event": "story-angel-reese",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
