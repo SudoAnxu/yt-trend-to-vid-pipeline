@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #845 · Updated: 10/10/2026, 01:06:05 (Asia/Kolkata)
+Run #846 · Updated: 10/10/2026, 01:28:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(38)
 
@@ -16,25 +16,25 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Amy Acton — 15/100
+### Amy Acton — 19/100
 
 **Event:** Amy Acton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+5 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Amy Acton amy acton: trending now story is actually a money story — the other side of the fight
+> The Amy Acton amy acton: fact check: ramaswamy’s $21 billion claim about amy acton is a lie story is actually a money story — the number behind the headline
 
 **Competition:** 11 videos in last 6h · TTS ≈ 9h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
 ### Ron Desantis — 17/100
 
 **Event:** Ron Desantis: withdraws execution order
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
