@@ -1,0 +1,16 @@
+{
+  "runNo": 820,
+  "at": "2026-10-09T08:16:14.750Z",
+  "rows": [
+    {
+      "event": "story-will-bring",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
