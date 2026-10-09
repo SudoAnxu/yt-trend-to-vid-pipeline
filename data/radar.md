@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #855 · Updated: 10/10/2026, 04:52:30 (Asia/Kolkata)
+Run #856 · Updated: 10/10/2026, 05:23:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tom Welling — 25/100
+### Josh Hartnett — 18/100
 
-**Event:** Tom Welling: Reveals Why He Was in ‘Survival Mode’ on ‘Smallville’
+**Event:** Josh Hartnett: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-10 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tom Welling story is a proxy fight about something bigger — the detail nobody has explained
+> What the Josh Hartnett josh hartnett: below review – a killer snot-berg causes chaos for josh hartnett filings actually say — line by line — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 16 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Bruce Blakeman — 18/100
+
+**Event:** Bruce Blakeman: Actress Debra Messing backs GOP candidate Bruce Blakeman for New York governor
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Bruce Blakeman bruce blakeman: watch live: trump rallies with new york's gop gubernatorial candidate bruce blakeman filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Angel Reese — 13/100
-
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
