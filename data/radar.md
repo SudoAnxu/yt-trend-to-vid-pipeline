@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #850 · Updated: 10/10/2026, 03:03:41 (Asia/Kolkata)
+Run #851 · Updated: 10/10/2026, 03:18:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(35)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,21 @@ Sources this run: trends(35)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Dylan Sprouse — 16/100
+### Dylan Sprouse — 17/100
 
 **Event:** Dylan Sprouse: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Dylan Sprouse dylan sprouse: new parents barbara palvin & dylan sprouse look tired & it’s so relatable filings actually say — line by line — the other side of the fight
 
 **Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Austin Ekeler — 17/100
-
-**Event:** Austin Ekeler: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Austin Ekeler austin ekeler: commanders gm adam peters talks kaytron allen, austin ekeler, nick cross filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 

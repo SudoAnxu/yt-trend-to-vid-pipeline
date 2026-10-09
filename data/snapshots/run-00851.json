@@ -1,0 +1,16 @@
+{
+  "runNo": 851,
+  "at": "2026-10-09T21:48:44.645Z",
+  "rows": [
+    {
+      "event": "story-dylan-sprouse",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
