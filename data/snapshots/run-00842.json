@@ -1,0 +1,16 @@
+{
+  "runNo": 842,
+  "at": "2026-10-09T18:38:33.059Z",
+  "rows": [
+    {
+      "event": "story-jim-farley",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
