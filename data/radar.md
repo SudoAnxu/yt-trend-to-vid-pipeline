@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #822 · Updated: 09/10/2026, 15:17:09 (Asia/Kolkata)
+Run #823 · Updated: 09/10/2026, 16:21:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 18/100
+### Scott Bakula — 24/100
 
-**Event:** Alexander Zverev: trending now
+**Event:** Scott Bakula: after ncis new orleans
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alexander Zverev alexander zverev: atp shanghai day 3 predictions including alexander zverev vs yibing wu story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** KEPT
-
-### Daniel Altmaier — 21/100
-
-**Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Daniel Altmaier daniel altmaier: atp shanghai day 1 predictions including holger rune vs daniel altmaier story is actually a money story — the other side of the fight
+> The Scott Bakula situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
-### Martin Etcheverry — 23/100
+### Michelle Randolph — 21/100
 
-**Event:** Martin Etcheverry: October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market
+**Event:** Michelle Randolph: ‘Chad Powers’ Star Glen Powell and Michelle Randolph Step Out for Rare Public Date Night at Texas-Tennessee Sh
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Martin Etcheverry story is a proxy fight about something bigger — the other side of the fight
+> What the Michelle Randolph michelle randolph: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alexander Bublik — 27/100
+
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Bublik alexander bublik: vs tomas machac prediction & picks - atp shanghai masters story is actually a money story — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
