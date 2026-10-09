@@ -1,0 +1,23 @@
+{
+  "runNo": 817,
+  "at": "2026-10-09T06:23:28.770Z",
+  "rows": [
+    {
+      "event": "story-aaron-sorkin",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
