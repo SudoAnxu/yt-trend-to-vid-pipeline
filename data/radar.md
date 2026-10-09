@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #808 · Updated: 09/10/2026, 05:42:36 (Asia/Kolkata)
+Run #809 · Updated: 09/10/2026, 06:00:21 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Michael Irvin — 27/100
+### Spencer Jones — 15/100
 
-**Event:** Michael Irvin: “Parking Lot of a Strip Club”: Veteran NFL Reporter Opens Up About Wild Michael Irvin Interview
+**Event:** Spencer Jones: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Michael Irvin story is a proxy fight about something bigger — the other side of the fight
+> What the Spencer Jones spencer jones: goes 1 for 2 in loss to rays filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Todd Bowles — 18/100
+
+**Event:** Todd Bowles: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Todd Bowles story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Mike Conley — 28/100
+### Joel Embiid — 17/100
 
-**Event:** Mike Conley: trending now
+**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Mike Conley story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Pedro Martinez — 17/100
-
-**Event:** Pedro Martinez: MLB Legend Pedro Martinez Reveals What Yankees Should Do in Playoffs
-
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Pedro Martinez pedro martinez: trending now filings actually say — line by line — the other side of the fight
+> What the Joel Embiid joel embiid: 76ers' joel embiid: set to play thursday filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** BOOSTED
+
+### Anthony Davis — 21/100
+
+**Event:** Anthony Davis: New Anthony Davis Rumors on Desire for New Contract After Offseason Trade Buzz
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Anthony Davis anthony davis: new anthony davis rumors on desire for new contract after offseason trade buzz filings actually say — line by line — the number behind the headline
+
+**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 

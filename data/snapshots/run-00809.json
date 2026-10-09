@@ -1,0 +1,37 @@
+{
+  "runNo": 809,
+  "at": "2026-10-09T00:30:19.836Z",
+  "rows": [
+    {
+      "event": "story-spencer-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-todd-bowles",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-joel-embiid",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-davis",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
