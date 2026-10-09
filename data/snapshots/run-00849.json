@@ -1,0 +1,30 @@
+{
+  "runNo": 849,
+  "at": "2026-10-09T21:07:04.796Z",
+  "rows": [
+    {
+      "event": "story-dylan-sprouse",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-ekeler",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-wilson-wins-record",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

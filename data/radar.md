@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #848 · Updated: 10/10/2026, 01:54:12 (Asia/Kolkata)
+Run #849 · Updated: 10/10/2026, 02:37:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Amy Acton — 15/100
+### Dylan Sprouse — 16/100
 
-**Event:** Amy Acton: trending now
+**Event:** Dylan Sprouse: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Amy Acton amy acton: trending now story is actually a money story — the other side of the fight
+> What the Dylan Sprouse dylan sprouse: new parents barbara palvin & dylan sprouse look tired & it’s so relatable filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 9h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
-### Ramaswamy Gets Boost — 18/100
+### Austin Ekeler — 16/100
 
-**Event:** Ramaswamy Gets Boost: Vivek Ramaswamy Gets Boost After Five Ohio Polling Blows in a Row Against Amy Acton
+**Event:** Austin Ekeler: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Austin Ekeler austin ekeler: commanders gm adam peters talks kaytron allen, austin ekeler, nick cross filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Wilson Wins Record — 19/100
+
+**Event:** Wilson Wins Record: Las Vegas Aces’ A'ja Wilson Wins Record Fifth Kia WNBA Most Valuable Player Award
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Ramaswamy Gets Boost ramaswamy gets boost: vivek ramaswamy gets boost after five ohio polling blows in a row against amy acton story is actually a money story — the other side of the fight
+> The Wilson Wins Record story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Ron Desantis — 17/100
-
-**Event:** Ron Desantis: withdraws execution order
-
-**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Ron Desantis ron desantis: withdraws execution order filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** KEPT
-
-### John Powell — 19/100
-
-**Event:** John Powell: Line of Scrimmage: Inside look at the Louisville Cardinals with John Powell from Card Chronicle
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the John Powell john powell: line of scrimmage: inside look at the louisville cardinals with john powell from card chronicle filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
