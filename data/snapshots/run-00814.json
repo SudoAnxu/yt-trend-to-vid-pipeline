@@ -1,0 +1,30 @@
+{
+  "runNo": 814,
+  "at": "2026-10-09T02:47:27.623Z",
+  "rows": [
+    {
+      "event": "story-grant-taylor",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-cousins",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-amanda-bynes",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
