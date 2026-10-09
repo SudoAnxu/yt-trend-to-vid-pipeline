@@ -1,0 +1,23 @@
+{
+  "runNo": 845,
+  "at": "2026-10-09T19:36:04.894Z",
+  "rows": [
+    {
+      "event": "story-amy-acton",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ron-desantis",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
