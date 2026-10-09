@@ -1,0 +1,30 @@
+{
+  "runNo": 833,
+  "at": "2026-10-09T15:30:47.871Z",
+  "rows": [
+    {
+      "event": "story-mike-ditka",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 38,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-ferentz",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
