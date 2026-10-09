@@ -1,0 +1,23 @@
+{
+  "runNo": 826,
+  "at": "2026-10-09T11:39:06.424Z",
+  "rows": [
+    {
+      "event": "story-aaron-donald",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-volpe-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

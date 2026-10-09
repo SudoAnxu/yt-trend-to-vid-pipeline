@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #825 · Updated: 09/10/2026, 16:58:46 (Asia/Kolkata)
+Run #826 · Updated: 09/10/2026, 17:09:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Aaron Donald aaron donald: injury updates: 'as long as they progress accordingly,' aaron donald, jaylen watson and colby parkinson will b story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 8h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Anthony Volpe's: Yankees’ Jazz Chisholm will not be happy with Game 1 benching ... and Anthony Volpe’s ‘very much in play’
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
