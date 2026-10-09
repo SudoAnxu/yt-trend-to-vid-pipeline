@@ -1,0 +1,30 @@
+{
+  "runNo": 828,
+  "at": "2026-10-09T12:53:43.733Z",
+  "rows": [
+    {
+      "event": "story-paul-bettany",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 37,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-connelly",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-kearns",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
