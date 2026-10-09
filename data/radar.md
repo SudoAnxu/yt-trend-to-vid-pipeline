@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #818 · Updated: 09/10/2026, 12:43:03 (Asia/Kolkata)
+Run #819 · Updated: 09/10/2026, 13:01:41 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
