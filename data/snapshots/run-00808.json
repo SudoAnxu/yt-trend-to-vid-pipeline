@@ -1,0 +1,30 @@
+{
+  "runNo": 808,
+  "at": "2026-10-09T00:12:36.274Z",
+  "rows": [
+    {
+      "event": "story-michael-irvin",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-conley",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-pedro-martinez",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
