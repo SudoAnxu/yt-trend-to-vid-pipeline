@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #839 · Updated: 09/10/2026, 23:00:04 (Asia/Kolkata)
+Run #840 · Updated: 09/10/2026, 23:11:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,29 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Nathan Gallagher — 21/100
+### Nathan Gallagher — 22/100
 
 **Event:** Nathan Gallagher: What Nathan Gallagher said in final 'Below Deck' episode before arrest
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+6 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Nathan Gallagher story is a proxy fight about something bigger — the other side of the fight
+> The Nathan Gallagher nathan gallagher: what nathan gallagher said in final 'below deck' episode before arrest story is actually a money story — what happens next
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 8h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
 ### Nathan Reflects — 19/100
 
 **Event:** Nathan Reflects: Below Deck’s Nathan Reflects on Overcoming Hardships in Last Episode: ‘Always Come Out the Other Side’
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
 
-**Why now:** 1 source lane(s): news · momentum 10 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,13 +62,27 @@ Sources this run: trends(40)
 
 **Event:** Jason Duval: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Jason Duval jason duval: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Justin Watson — 21/100
+
+**Event:** Justin Watson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Justin Watson filing that will matter in six months — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
 
 **Status:** RESEARCH
 
