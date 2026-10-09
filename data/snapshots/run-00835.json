@@ -1,0 +1,30 @@
+{
+  "runNo": 835,
+  "at": "2026-10-09T16:23:42.943Z",
+  "rows": [
+    {
+      "event": "story-william-penn",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-tyson",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

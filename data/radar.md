@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #834 · Updated: 09/10/2026, 21:06:50 (Asia/Kolkata)
+Run #835 · Updated: 09/10/2026, 21:53:43 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,65 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Mike Tyson — 24/100
+### William Penn — 26/100
 
-**Event:** Mike Tyson: trending now
+**Event:** William Penn: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mike Tyson mike tyson: trending now filings actually say — line by line — the other side of the fight
+> The William Penn filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 14h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Sean — 19/100
+### Mike Tyson — 17/100
+
+**Event:** Mike Tyson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Mike Tyson mike tyson: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Sean — 17/100
 
 **Event:** Sean: ‘Diddy’ Combs’ release date takes major hit after reports of lavish life behind bars
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Sean sean: mike tyson says he delivered letter from sean 'diddy' combs to donald trump filings actually say — line by line — the other side of the fight
+> The Sean sean: mike tyson said he gave trump a letter from sean ‘diddy’ combs: ‘i did what he told me to do’ story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
-
-### Mike Ditka — 18/100
-
-**Event:** Mike Ditka: Bears vs. Packers most hated list: Aaron Rodgers, Mike Ditka and the 10 rivalry figures fans love to hate
-
-**Why now:** 2 source lane(s): trends, news · momentum 27 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mike Ditka mike ditka: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kirk Ferentz — 18/100
-
-**Event:** Kirk Ferentz: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kirk Ferentz kirk ferentz: iowa can't count on hank brown being ready fri. filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
