@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #857 · Updated: 10/10/2026, 05:37:24 (Asia/Kolkata)
+Run #858 · Updated: 10/10/2026, 06:10:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,79 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Angel Reese — 14/100
+### Jose State — 27/100
 
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+**Event:** Jose State: How to watch Wyoming vs San Jose State: Live stream NCAA College Football, TV channel
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
+> The Jose State situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Saban — 16/100
+
+**Event:** Nick Saban: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Nick Saban nick saban: what espn’s new nick saban documentary gets right, wrong and never expected to show filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Emily Blunt — 24/100
-
-**Event:** Emily Blunt: ‘Sicario 3‘: Emily Blunt, Benicio Del Toro, Josh Brolin to Star
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Emily Blunt story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Josh Brolin — 23/100
-
-**Event:** Josh Brolin: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+10 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Josh Brolin story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Mike Norvell — 22/100
-
-**Event:** Mike Norvell: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mike Norvell mike norvell: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Lee Curtis — 22/100
-
-**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Lee Curtis lee curtis: jamie lee curtis remembers mom janet leigh on 22nd anniversary of her death: ‘long time gone this day’ filings actually say — line by line — the part that was not supposed to be public
-
-**Competition:** 11 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
