@@ -1,0 +1,16 @@
+{
+  "runNo": 892,
+  "at": "2026-10-10T18:11:01.552Z",
+  "rows": [
+    {
+      "event": "story-carlos-baleba",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #891 · Updated: 10/10/2026, 23:27:34 (Asia/Kolkata)
+Run #892 · Updated: 10/10/2026, 23:41:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Carlos Baleba — 28/100
+### Carlos Baleba — 21/100
 
 **Event:** Carlos Baleba: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 38 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 30 (-8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Carlos Baleba carlos baleba: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 16 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
