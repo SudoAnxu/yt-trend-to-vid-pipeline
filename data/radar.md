@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #860 · Updated: 10/10/2026, 06:59:48 (Asia/Kolkata)
+Run #861 · Updated: 10/10/2026, 07:22:21 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Danny Trejo — 17/100
+### Ted Lasso — 15/100
 
-**Event:** Danny Trejo: trending now
+**Event:** Ted Lasso: mae ted lasso
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Danny Trejo danny trejo: trending now filings actually say — line by line — the other side of the fight
+> The Ted Lasso story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Ben Shapiro's — 19/100
+### Jason Sudeikis — 28/100
 
-**Event:** Ben Shapiro's: Crew Members on Ben Shapiro’s Pro-ICE Film Were Surprised by the Movie’s MAGA Politics. What Did They Deserve 
+**Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
+
+**Why now:** 2 source lane(s): news, trends · momentum 28 (+17 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jason Sudeikis story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Olivia Rodrigo — 16/100
+
+**Event:** Olivia Rodrigo: tour
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Olivia Rodrigo olivia rodrigo: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Sam Mailbag — 18/100
+
+**Event:** Sam Mailbag: Ask Sam Mailbag: Takeaways from the start of Preseason
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Ben Shapiro's story is a proxy fight about something bigger — the other side of the fight
+> The Sam Mailbag sam mailbag: ask sam mailbag: takeaways from the start of preseason story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### John Cena — 20/100
-
-**Event:** John Cena: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The John Cena situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
