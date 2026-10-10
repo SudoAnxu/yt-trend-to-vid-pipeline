@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #900 · Updated: 11/10/2026, 02:41:09 (Asia/Kolkata)
+Run #901 · Updated: 11/10/2026, 03:27:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,61 +16,61 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Dylan Raiola — 21/100
+### Max Gilbert — 31/100
 
-**Event:** Dylan Raiola: Oregon QB Dante Moore ruled out vs. UCLA; Dylan Raiola to start
+**Event:** Max Gilbert: How Former Tennessee Kicker Max Gilbert Has Performed at Arkansas Ahead of Game vs. Vols
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Dylan Raiola dylan raiola: oregon qb dante moore ruled out vs. ucla; dylan raiola to start story is actually a money story — the other side of the fight
+> What the Max Gilbert max gilbert: how former tennessee kicker max gilbert has performed at arkansas ahead of game vs. vols filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Malik Washington — 29/100
+### Ryan Day — 24/100
 
-**Event:** Malik Washington: trending now
+**Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 34 (+15 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Malik Washington malik washington: trending now filings actually say — line by line — the other side of the fight
+> What the Ryan Day ryan day: puts ohio state rivalry aside for son rj day, wears big ten opponents' colors at his senior night filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Jake Paul — 25/100
+
+**Event:** Jake Paul: cleared to fight; Canelo, Strickland, others on wish list
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jake Paul jake paul: cleared to fight; canelo, strickland, others on wish list story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
-### Robert Lewandowski — 16/100
+### Jason Bard — 27/100
 
-**Event:** Robert Lewandowski: trending now
+**Event:** Jason Bard: katie holmes and jason bard yarmosky
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Robert Lewandowski robert lewandowski: trending now filings actually say — line by line — the other side of the fight
+> What the Jason Bard jason bard: katie holmes and jason bard yarmosky filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Jimmy Kimmel — 15/100
-
-**Event:** Jimmy Kimmel: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jimmy Kimmel jimmy kimmel: live! filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
