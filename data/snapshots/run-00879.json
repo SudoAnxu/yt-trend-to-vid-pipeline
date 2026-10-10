@@ -1,0 +1,16 @@
+{
+  "runNo": 879,
+  "at": "2026-10-10T13:55:45.234Z",
+  "rows": [
+    {
+      "event": "story-tony-reno",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
