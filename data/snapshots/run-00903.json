@@ -1,0 +1,16 @@
+{
+  "runNo": 903,
+  "at": "2026-10-10T22:44:19.617Z",
+  "rows": [
+    {
+      "event": "story-dylan-raiola",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 27,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
