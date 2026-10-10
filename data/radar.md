@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #867 · Updated: 10/10/2026, 12:48:52 (Asia/Kolkata)
+Run #868 · Updated: 10/10/2026, 13:27:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
+
+### Carlos Alcaraz — 16/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Carlos Alcaraz carlos alcaraz: atp shanghai day 4 predictions including carlos alcaraz vs juan manuel cerundolo story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Martin Etcheverry — 17/100
 
 **Event:** Martin Etcheverry: October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,17 +58,31 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Ben Doody's — 19/100
+### Alexandra Daddario — 17/100
 
-**Event:** Ben Doody's: Husker alum Will Compton likes Nebraska's 'vibe' as Indiana looms: Ben Doody's media notes
+**Event:** Alexandra Daddario: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ben Doody's ben doody's: husker alum will compton likes nebraska's 'vibe' as indiana looms: ben doody's media notes filings actually say — line by line — the other side of the fight
+> The Alexandra Daddario alexandra daddario: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Witches' Reveals New — 21/100
+
+**Event:** Witches' Reveals New: Alexandra Daddario (40) Dazzles in Pink Sequins at NYCC as 'Mayfair Witches' Reveals New 'Salem Coven' Title a
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Witches' Reveals New witches' reveals new: alexandra daddario (40) dazzles in pink sequins at nycc as 'mayfair witches' reveals new 'salem coven' title a story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
