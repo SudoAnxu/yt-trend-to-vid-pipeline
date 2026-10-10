@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #886 · Updated: 10/10/2026, 21:37:13 (Asia/Kolkata)
+Run #887 · Updated: 10/10/2026, 21:48:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,107 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Alex Karp — 21/100
+### Alex Karp — 20/100
 
 **Event:** Alex Karp: Palantir CEO Alex Karp buys 15,000 hectares of Swedish forest
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Alex Karp alex karp: , palmer luckey and the pentagon’s new defense-tech order filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Michael Carrick — 19/100
-
-**Event:** Michael Carrick: No timeline for Benjamin Sesko's Man United return
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Michael Carrick michael carrick: no timeline for benjamin sesko's man united return filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Benjamin Sesko's — 19/100
-
-**Event:** Benjamin Sesko's: Michael Carrick: No timeline for Benjamin Sesko's Man United return
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Benjamin Sesko's benjamin sesko's: michael carrick: no timeline for benjamin sesko's man united return filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Harry Kane — 19/100
-
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Harry Kane harry kane: bayern munich chief gives harry kane contract update as german giants move to secure england captain's future  story is actually a money story — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** KEPT
-
-### Michael Wilson — 18/100
-
-**Event:** Michael Wilson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Michael Wilson story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Matthew Stafford — 19/100
-
-**Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Matthew Stafford story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** ARCHIVED
-
-### Dennis Franchione — 17/100
-
-**Event:** Dennis Franchione: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Dennis Franchione dennis franchione: arch manning's future and a farewell to dennis franchione | bohls' 9 things filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>

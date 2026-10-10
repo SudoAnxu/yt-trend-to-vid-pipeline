@@ -1,0 +1,16 @@
+{
+  "runNo": 887,
+  "at": "2026-10-10T16:18:50.592Z",
+  "rows": [
+    {
+      "event": "story-alex-karp",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
