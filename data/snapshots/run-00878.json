@@ -1,0 +1,23 @@
+{
+  "runNo": 878,
+  "at": "2026-10-10T13:11:22.719Z",
+  "rows": [
+    {
+      "event": "story-zach-bryan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-bryan-concert",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
