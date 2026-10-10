@@ -1,0 +1,44 @@
+{
+  "runNo": 857,
+  "at": "2026-10-10T00:07:22.503Z",
+  "rows": [
+    {
+      "event": "story-angel-reese",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-emily-blunt",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-brolin",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-norvell",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-lee-curtis",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
