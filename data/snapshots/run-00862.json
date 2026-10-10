@@ -1,0 +1,23 @@
+{
+  "runNo": 862,
+  "at": "2026-10-10T02:05:11.137Z",
+  "rows": [
+    {
+      "event": "story-olivia-thirlby",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ben-kindel",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
