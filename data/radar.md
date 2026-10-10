@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #858 · Updated: 10/10/2026, 06:10:55 (Asia/Kolkata)
+Run #859 · Updated: 10/10/2026, 06:37:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jose State — 27/100
+### Angel Reese — 26/100
 
-**Event:** Jose State: How to watch Wyoming vs San Jose State: Live stream NCAA College Football, TV channel
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jose State situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: news
-
-**Status:** RESEARCH
-
-### Nick Saban — 16/100
-
-**Event:** Nick Saban: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 24 (+15 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Nick Saban nick saban: what espn’s new nick saban documentary gets right, wrong and never expected to show filings actually say — line by line — the other side of the fight
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### John Cena — 20/100
+
+**Event:** John Cena: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The John Cena situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

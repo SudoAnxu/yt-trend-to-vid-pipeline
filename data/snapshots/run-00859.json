@@ -1,0 +1,23 @@
+{
+  "runNo": 859,
+  "at": "2026-10-10T01:07:28.547Z",
+  "rows": [
+    {
+      "event": "story-angel-reese",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-cena",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
