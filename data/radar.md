@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #863 · Updated: 10/10/2026, 08:03:34 (Asia/Kolkata)
+Run #864 · Updated: 10/10/2026, 10:00:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Amanda Seyfried — 22/100
+### Jason Momoa — 17/100
 
-**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
+**Event:** Jason Momoa: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Amanda Seyfried amanda seyfried: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** KEPT
-
-### Michael Douglas — 13/100
-
-**Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
-
-**Why now:** 2 source lane(s): news, trends · momentum 0 (-23 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Michael Douglas story is a proxy fight about something bigger — the other side of the fight
+> What the Jason Momoa jason momoa: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.4h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### John Wayne — 24/100
+### Jason Momoa's — 19/100
 
-**Event:** John Wayne: turned down movie
+**Event:** Jason Momoa's: Behold! Jason Momoa’s ‘Street Fighter’ Toy Has Been Revealed
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The John Wayne story is a proxy fight about something bigger — the other side of the fight
+> What the Jason Momoa's jason momoa's: behold! jason momoa’s ‘street fighter’ toy has been revealed filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 

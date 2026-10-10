@@ -1,0 +1,23 @@
+{
+  "runNo": 864,
+  "at": "2026-10-10T04:30:06.911Z",
+  "rows": [
+    {
+      "event": "story-jason-momoa",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jason-momoa-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
