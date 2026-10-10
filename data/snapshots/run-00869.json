@@ -1,0 +1,30 @@
+{
+  "runNo": 869,
+  "at": "2026-10-10T08:51:08.848Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-martin-etcheverry",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-altmaier",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #868 · Updated: 10/10/2026, 13:27:53 (Asia/Kolkata)
+Run #869 · Updated: 10/10/2026, 14:21:09 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Martin Etcheverry: October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -42,7 +42,7 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Daniel Altmaier — 21/100
 
@@ -57,34 +57,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** KEPT
-
-### Alexandra Daddario — 17/100
-
-**Event:** Alexandra Daddario: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alexandra Daddario alexandra daddario: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Witches' Reveals New — 21/100
-
-**Event:** Witches' Reveals New: Alexandra Daddario (40) Dazzles in Pink Sequins at NYCC as 'Mayfair Witches' Reveals New 'Salem Coven' Title a
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Witches' Reveals New witches' reveals new: alexandra daddario (40) dazzles in pink sequins at nycc as 'mayfair witches' reveals new 'salem coven' title a story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
