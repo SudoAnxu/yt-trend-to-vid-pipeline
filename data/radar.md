@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #892 · Updated: 10/10/2026, 23:41:02 (Asia/Kolkata)
+Run #893 · Updated: 11/10/2026, 00:13:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Carlos Baleba — 21/100
-
-**Event:** Carlos Baleba: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Carlos Baleba carlos baleba: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
