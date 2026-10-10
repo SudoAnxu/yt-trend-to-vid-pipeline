@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #862 · Updated: 10/10/2026, 07:35:11 (Asia/Kolkata)
+Run #863 · Updated: 10/10/2026, 08:03:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Olivia Thirlby — 19/100
+### Amanda Seyfried — 22/100
 
-**Event:** Olivia Thirlby: Fire Country's New Series Regular Olivia Thirlby Debuts As CJ In Season 5 Premiere (Exclusive Sneak Peek)
+**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Olivia Thirlby olivia thirlby: fire country's new series regular olivia thirlby debuts as cj in season 5 premiere (exclusive sneak peek) filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Ben Kindel — 19/100
-
-**Event:** Ben Kindel: Look at these Penguins numbers: Ben Kindel, Nicholas Robertson and more
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Kindel ben kindel: look at these penguins numbers: ben kindel, nicholas robertson and more filings actually say — line by line — the other side of the fight
+> What the Amanda Seyfried amanda seyfried: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** KEPT
+
+### Michael Douglas — 13/100
+
+**Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
+
+**Why now:** 2 source lane(s): news, trends · momentum 0 (-23 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Michael Douglas story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.4h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### John Wayne — 24/100
+
+**Event:** John Wayne: turned down movie
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The John Wayne story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 

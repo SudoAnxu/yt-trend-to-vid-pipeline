@@ -1,0 +1,30 @@
+{
+  "runNo": 863,
+  "at": "2026-10-10T02:33:33.027Z",
+  "rows": [
+    {
+      "event": "story-amanda-seyfried",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 0,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-wayne",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
