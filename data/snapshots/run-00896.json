@@ -1,0 +1,16 @@
+{
+  "runNo": 896,
+  "at": "2026-10-10T19:38:24.447Z",
+  "rows": [
+    {
+      "event": "story-yamal-launches-his",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
