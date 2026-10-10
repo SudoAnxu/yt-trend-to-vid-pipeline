@@ -1,0 +1,23 @@
+{
+  "runNo": 872,
+  "at": "2026-10-10T10:14:03.891Z",
+  "rows": [
+    {
+      "event": "story-jim-harbaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-lillard",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
