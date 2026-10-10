@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #880 · Updated: 10/10/2026, 19:48:04 (Asia/Kolkata)
+Run #881 · Updated: 10/10/2026, 20:07:40 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Nick Sirianni — 17/100
+### Will Shipley — 20/100
 
-**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
+**Event:** Will Shipley: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nick Sirianni nick sirianni: or jalen hurts: who deserves more blame for eagles’ offensive collapse? filings actually say — line by line — the other side of the fight
+> The Will Shipley story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Jordan Henderson's — 21/100
+
+**Event:** Jordan Henderson's: News | Xabi Alonso explains why Jordan Henderson's experience will benefit Chelsea
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jordan Henderson's jordan henderson's: news | xabi alonso explains why jordan henderson's experience will benefit chelsea story is actually a money story — the detail nobody has explained
+
+**Competition:** 17 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 ### Nick Saban — 21/100
 
 **Event:** Nick Saban: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+14 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Nick Saban nick saban: watch never-before-seen video of nick saban benching jalen hurts for tua in cfp title game filings actually say — line by line — the other side of the fight
+> What the Nick Saban nick saban: espn shares never-before-seen video of nick saban benching jalen hurts for tua in cfp title game filings actually say — line by line — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
 
 **Status:** ARCHIVED
 

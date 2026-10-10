@@ -1,0 +1,30 @@
+{
+  "runNo": 881,
+  "at": "2026-10-10T14:37:39.265Z",
+  "rows": [
+    {
+      "event": "story-will-shipley",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-henderson-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
