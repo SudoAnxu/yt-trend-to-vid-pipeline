@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #876 · Updated: 10/10/2026, 17:41:46 (Asia/Kolkata)
+Run #877 · Updated: 10/10/2026, 18:22:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,29 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Ben Johnson — 22/100
+### Brittany Mahomes — 26/100
 
-**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+**Event:** Brittany Mahomes: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+5 vs prev run) · spice 15 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Johnson ben johnson: after leveling playing field last season, bears' ben johnson has chance to take control of packers rivalry filings actually say — line by line — the other side of the fight
+> The Brittany Mahomes brittany mahomes: vs. randi mahomes? patrick mahomes’ mom eyes chiefs fashion space story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 9.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
+
+### Patrick Mahomes' — 24/100
+
+**Event:** Patrick Mahomes': Wife Brittany Gives Fans a Peek at Life Away From the Chiefs
+
+**Why now:** 1 source lane(s): news · momentum 25 (+15 vs prev run) · spice 19 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Patrick Mahomes' patrick mahomes': wife brittany shares three-word message as her business journey hits a new milestone story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+
+**Status:** ARCHIVED
 
 ### Carlos Alcaraz — 17/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
