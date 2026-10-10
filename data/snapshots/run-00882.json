@@ -1,0 +1,16 @@
+{
+  "runNo": 882,
+  "at": "2026-10-10T14:50:53.870Z",
+  "rows": [
+    {
+      "event": "story-jon-husted",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 34,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
