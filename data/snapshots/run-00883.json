@@ -1,0 +1,16 @@
+{
+  "runNo": 883,
+  "at": "2026-10-10T15:28:52.902Z",
+  "rows": [
+    {
+      "event": "story-matt-rhule",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

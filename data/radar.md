@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #882 · Updated: 10/10/2026, 20:20:54 (Asia/Kolkata)
+Run #883 · Updated: 10/10/2026, 20:58:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jon Husted — 25/100
+### Matt Rhule — 15/100
 
-**Event:** Jon Husted: Trump campaigns for Ohio Sen Jon Husted amid midterm push
+**Event:** Matt Rhule: Nebraska HC Matt Rhule makes cameo in HBO's 'Lanterns' season finale
 
-**Why now:** 2 source lane(s): news, trends · momentum 34 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-25 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jon Husted jon husted: trending now filings actually say — line by line — the other side of the fight
+> What the Matt Rhule matt rhule: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
 
 </details>
