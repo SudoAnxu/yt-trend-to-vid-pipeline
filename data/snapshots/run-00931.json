@@ -1,0 +1,16 @@
+{
+  "runNo": 931,
+  "at": "2026-10-11T15:50:49.268Z",
+  "rows": [
+    {
+      "event": "story-jonathan-greenard",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
