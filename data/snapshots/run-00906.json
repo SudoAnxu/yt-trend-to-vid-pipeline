@@ -1,0 +1,30 @@
+{
+  "runNo": 906,
+  "at": "2026-10-11T00:11:26.685Z",
+  "rows": [
+    {
+      "event": "story-ryan-williams",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean-burke",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
