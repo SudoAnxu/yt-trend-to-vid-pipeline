@@ -1,0 +1,30 @@
+{
+  "runNo": 949,
+  "at": "2026-10-11T22:21:09.766Z",
+  "rows": [
+    {
+      "event": "story-gavin-newsom",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-zach-charbonnet",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-darnold",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
