@@ -1,0 +1,44 @@
+{
+  "runNo": 927,
+  "at": "2026-10-11T14:17:40.588Z",
+  "rows": [
+    {
+      "event": "story-billy-crystal",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-hunter",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-lewis-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-max-verstappen",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-sirianni",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

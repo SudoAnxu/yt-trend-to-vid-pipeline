@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #926 · Updated: 11/10/2026, 19:11:37 (Asia/Kolkata)
+Run #927 · Updated: 11/10/2026, 19:47:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Jason Kelce — 24/100
+### Billy Crystal — 19/100
 
-**Event:** Jason Kelce: trending now
+**Event:** Billy Crystal: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+18 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jason Kelce story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jonathan Owens — 25/100
-
-**Event:** Jonathan Owens: Simone Biles and Jonathan Owens find buyer for Texas home for $1.2 million in almost record time
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jonathan Owens jonathan owens: simone biles and jonathan owens find buyer for texas home for $1.2 million in almost record time filings actually say — line by line — the number behind the headline
+> What the Billy Crystal billy crystal: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Jake Majors — 28/100
+### Travis Hunter — 23/100
 
-**Event:** Jake Majors: trending now
+**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jake Majors jake majors: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Aaron Rodgers' — 14/100
-
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
-
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+13 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 5.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Aaron Rodgers' aaron rodgers': 'i love when he's out there': aaron rodgers has strong praise for roman wilson after string of better outings story is actually a money story — the other side of the fight
+> The Travis Hunter story is a proxy fight about something bigger — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.8h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Lewis Hamilton — 15/100
+
+**Event:** Lewis Hamilton: Kim Kardashian Shares Photo of Steamy Kiss with Lewis Hamilton Under the Eiffel Tower
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Lewis Hamilton lewis hamilton: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Max Verstappen — 17/100
+
+**Event:** Max Verstappen: pips George Russell in closing stages of Azerbaijan GP final practice
+
+**Why now:** 1 source lane(s): news · momentum 26 (+15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Max Verstappen max verstappen: singapore gp: can charles leclerc and lewis hamilton work together to beat max verstappen in sunday's race? story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+
+**Status:** ARCHIVED
+
+### Nick Sirianni — 23/100
+
+**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
+
+**Why now:** 2 source lane(s): news, trends · momentum 25 (+13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Nick Sirianni nick sirianni: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
+
+**Status:** BOOSTED
 
 
 </details>
