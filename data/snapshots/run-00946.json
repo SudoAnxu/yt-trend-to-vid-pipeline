@@ -1,0 +1,23 @@
+{
+  "runNo": 946,
+  "at": "2026-10-11T20:52:38.527Z",
+  "rows": [
+    {
+      "event": "story-brian-burns",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-marvin-harrison",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
