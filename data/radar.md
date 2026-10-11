@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #939 · Updated: 11/10/2026, 23:52:42 (Asia/Kolkata)
+Run #940 · Updated: 12/10/2026, 00:04:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Kyle Monangai — 18/100
+### Terry Bradshaw — 30/100
 
-**Event:** Kyle Monangai: trending now
+**Event:** Terry Bradshaw: NFL Legend Terry Bradshaw Gets Emotional Recalling How People Treated Him During His Depression Battle: ‘Peopl
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Kyle Monangai kyle monangai: week 5 fantasy football rankings risers & fallers: upgrade d'andre swift with kyle monangai out story is actually a money story — the other side of the fight
+> The Terry Bradshaw story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Justin Boone — 19/100
+
+**Event:** Justin Boone: Fantasy Football Rankings: Top running backs for Week 4 from Justin Boone
+
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Justin Boone justin boone: fantasy football rankings: top tight ends for week 5 from justin boone filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Aaron Glenn — 21/100
+
+**Event:** Aaron Glenn: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Glenn aaron glenn: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jacob Rodriguez — 20/100
+
+**Event:** Jacob Rodriguez: is Defensive Rookie of the Year favorite after big game vs. Chiefs
+
+**Why now:** 2 source lane(s): news, trends · momentum 26 (+18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jacob Rodriguez jacob rodriguez: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 7.3h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Dylan Laube — 28/100
-
-**Event:** Dylan Laube: Ex-UNH star Dylan Laube, Raiders visit Patriots Sunday. 'It's been so much fun'
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Dylan Laube dylan laube: ex-unh star dylan laube, raiders visit patriots sunday. 'it's been so much fun' story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### David Montgomery — 30/100
-
-**Event:** David Montgomery: Will David Montgomery bets be refunded after injury during Texans vs. Titans NFL Week 5?
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The David Montgomery story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
