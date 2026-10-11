@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #925 · Updated: 11/10/2026, 18:46:30 (Asia/Kolkata)
+Run #926 · Updated: 11/10/2026, 19:11:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,61 +16,61 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Scott Bessent — 17/100
+### Jason Kelce — 24/100
 
-**Event:** Scott Bessent: trending now
+**Event:** Jason Kelce: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Scott Bessent scott bessent: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Terry Mclaurin — 17/100
-
-**Event:** Terry Mclaurin: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+18 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Terry Mclaurin terry mclaurin: is terry mclaurin playing this week filings actually say — line by line — the other side of the fight
+> The Jason Kelce story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Ben Affleck — 20/100
-
-**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ben Affleck ben affleck: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jennifer Garner — 19/100
+### Jonathan Owens — 25/100
 
-**Event:** Jennifer Garner: Ben Affleck Explains Shared Custody Arrangement With Ex-Wife Jennifer Garner Over Their 3 Kids
+**Event:** Jonathan Owens: Simone Biles and Jonathan Owens find buyer for Texas home for $1.2 million in almost record time
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jennifer Garner jennifer garner: ben affleck opens up about co-parenting with jennifer garner filings actually say — line by line — the other side of the fight
+> What the Jonathan Owens jonathan owens: simone biles and jonathan owens find buyer for texas home for $1.2 million in almost record time filings actually say — line by line — the number behind the headline
 
-**Competition:** 13 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Jake Majors — 28/100
+
+**Event:** Jake Majors: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jake Majors jake majors: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Aaron Rodgers' — 14/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Aaron Rodgers' aaron rodgers': 'i love when he's out there': aaron rodgers has strong praise for roman wilson after string of better outings story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
