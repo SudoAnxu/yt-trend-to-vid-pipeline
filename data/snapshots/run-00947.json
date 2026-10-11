@@ -1,0 +1,51 @@
+{
+  "runNo": 947,
+  "at": "2026-10-11T21:02:05.549Z",
+  "rows": [
+    {
+      "event": "story-nick-sirianni",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-bosa",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-marvin-harrison",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-ferentz",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-hank-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-brian-burns",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
