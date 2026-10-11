@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #919 · Updated: 11/10/2026, 15:46:25 (Asia/Kolkata)
+Run #920 · Updated: 11/10/2026, 15:55:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,25 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jordan Spieth — 21/100
+### Jordan Spieth — 20/100
 
 **Event:** Jordan Spieth: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Jordan Spieth jordan spieth: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 8h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Ben Affleck — 13/100
+### Ben Affleck — 14/100
 
 **Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
