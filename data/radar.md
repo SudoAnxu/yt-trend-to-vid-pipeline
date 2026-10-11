@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #914 · Updated: 11/10/2026, 12:24:25 (Asia/Kolkata)
+Run #915 · Updated: 11/10/2026, 12:52:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(39)
 
@@ -12,23 +12,51 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Alex Molcan — 24/100
+### Alexander Bublik — 18/100
 
-**Event:** Alex Molcan: trending now
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Alex Molcan situation is weirder than the clips suggest — the other side of the fight
+> The Alexander Bublik alexander bublik: vs tomas machac prediction & picks - atp shanghai masters story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
+
+### Adrian Mannarino — 23/100
+
+**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
+
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Adrian Mannarino story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.7h · sources: news, trends
+
+**Status:** KEPT
+
+### Kyle Monangai — 25/100
+
+**Event:** Kyle Monangai: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+10 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kyle Monangai kyle monangai: chicago bears running game looms as huge factor vs. green bay packers — but will kyle monangai play? story is actually a money story — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
