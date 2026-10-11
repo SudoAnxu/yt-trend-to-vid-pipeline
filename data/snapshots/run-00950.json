@@ -1,0 +1,51 @@
+{
+  "runNo": 950,
+  "at": "2026-10-11T22:33:25.881Z",
+  "rows": [
+    {
+      "event": "story-tom-brady",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-shanahan",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-laporta",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-gavin-newsom",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-zach-charbonnet",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-darnold",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
