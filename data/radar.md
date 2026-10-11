@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #947 · Updated: 12/10/2026, 02:32:06 (Asia/Kolkata)
+Run #948 · Updated: 12/10/2026, 02:59:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,43 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Nick Sirianni — 17/100
-
-**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Nick Sirianni nick sirianni: philadelphia eagles head coach nick sirianni is seen against the washington commanders during the first half o story is actually a money story — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 6.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Nick Bosa — 18/100
-
-**Event:** Nick Bosa: injury
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Nick Bosa nick bosa: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Marvin Harrison — 13/100
+### Marvin Harrison — 18/100
 
 **Event:** Marvin Harrison: Where is Marvin Harrison Jr. headed? Inside the mystery surrounding Cardinals' unfinished trade
 
-**Why now:** 1 source lane(s): news · momentum 10 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (+15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -58,47 +30,33 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kirk Ferentz — 18/100
+### Dylan Laube — 18/100
 
-**Event:** Kirk Ferentz: trending now
+**Event:** Dylan Laube: Ex-UNH star Dylan Laube, Raiders visit Patriots Sunday. 'It's been so much fun'
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · external momentum 14 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kirk Ferentz kirk ferentz: iowa can't count on hank brown being ready fri. filings actually say — line by line — the other side of the fight
+> The Dylan Laube story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
-### Hank Brown — 19/100
+### Kyle Shanahan — 19/100
 
-**Event:** Hank Brown: Kirk Ferentz -- Iowa can't count on Hank Brown being ready Fri.
+**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Hank Brown hank brown: kirk ferentz -- iowa can't count on hank brown being ready fri. filings actually say — line by line — the other side of the fight
+> What the Kyle Shanahan kyle shanahan: that one time kyle shanahan forgot about jaxon smith-njigba filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Brian Burns — 14/100
-
-**Event:** Brian Burns: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Brian Burns brian burns: see it: jaxson dart, brian burns react to giants' thrilling week 4 win filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
