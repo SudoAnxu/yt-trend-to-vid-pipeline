@@ -1,0 +1,44 @@
+{
+  "runNo": 907,
+  "at": "2026-10-11T00:21:15.789Z",
+  "rows": [
+    {
+      "event": "story-pedro-martinez",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-luis-su",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-jayden-maiava",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-darnold",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-williams",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
