@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #952 · Updated: 12/10/2026, 05:00:44 (Asia/Kolkata)
+Run #953 · Updated: 12/10/2026, 05:16:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Mike Evans — 18/100
+### Nick Sirianni — 16/100
 
-**Event:** Mike Evans: Injury 49ers
+**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mike Evans mike evans: trending now story is actually a money story — the other side of the fight
+> What the Nick Sirianni nick sirianni: assigns blame for sunday's crushing eagles loss filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Kyle Shanahan — 18/100
+### Jason Myers — 29/100
 
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+**Event:** Jason Myers: Seattle Seahawks kicker Jason Myers is good on third FG of game vs. San Francisco 49ers
 
-**Why now:** 2 source lane(s): news, trends · momentum 27 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Kyle Shanahan kyle shanahan: explains how 49ers' mike evans can ‘stress' tough seahawks defense story is actually a money story — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** KEPT
-
-### Don Francisco — 28/100
-
-**Event:** Don Francisco: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Don Francisco don francisco: trending now filings actually say — line by line — the other side of the fight
+> The Jason Myers story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Will He — 19/100
+### Mark Andrews — 24/100
 
-**Event:** Will He: Cubs Slugger Has Beaten Mason Miller’s Slider. Will He See It Again?
+**Event:** Mark Andrews: trending now
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will He will he: mike macdonald has owned the shanahan 49ers, will he continue to do so? filings actually say — line by line — the other side of the fight
+> What the Mark Andrews mark andrews: touchdown pick for ravens vs. falcons filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Will Play — 18/100
+
+**Event:** Will Play: Chargers-Broncos Week 5 Inactives: Ladd McConkey Will Play Against Denver
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Will Play will play: chargers-broncos week 5 inactives: ladd mcconkey will play against denver story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
+
+### Patrick Mahomes — 17/100
+
+**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+
+**Why now:** 2 source lane(s): news, trends · momentum 24 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Patrick Mahomes patrick mahomes: , tom brady lead top 5 football card sales filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Tom Brady — 13/100
+
+**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-22 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tom Brady tom brady: patrick mahomes, tom brady lead top 5 football card sales filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
