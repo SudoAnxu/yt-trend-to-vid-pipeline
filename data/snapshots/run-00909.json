@@ -1,0 +1,30 @@
+{
+  "runNo": 909,
+  "at": "2026-10-11T01:10:06.562Z",
+  "rows": [
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-venable",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
