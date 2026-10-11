@@ -1,0 +1,23 @@
+{
+  "runNo": 919,
+  "at": "2026-10-11T10:16:25.022Z",
+  "rows": [
+    {
+      "event": "story-jordan-spieth",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-affleck",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

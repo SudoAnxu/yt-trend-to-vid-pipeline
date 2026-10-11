@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #918 · Updated: 11/10/2026, 14:56:51 (Asia/Kolkata)
+Run #919 · Updated: 11/10/2026, 15:46:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Brian Thomas — 24/100
+### Jordan Spieth — 21/100
 
-**Event:** Brian Thomas: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
+**Event:** Jordan Spieth: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Brian Thomas story is a proxy fight about something bigger — the detail nobody has explained
+> The Jordan Spieth jordan spieth: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Thomas Jr. — 24/100
+### Ben Affleck — 13/100
 
-**Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
+**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Thomas Jr. story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** RESEARCH
-
-### Alexander Zverev — 20/100
-
-**Event:** Alexander Zverev: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Alexander Zverev story is a proxy fight about something bigger — the other side of the fight
+> What the Ben Affleck ben affleck: thriller ‘animals’ leads a massive 63-title drop on netflix uk filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>
