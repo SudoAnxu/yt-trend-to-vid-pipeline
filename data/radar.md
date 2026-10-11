@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #943 · Updated: 12/10/2026, 01:09:30 (Asia/Kolkata)
+Run #944 · Updated: 12/10/2026, 01:18:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Adam Vinatieri — 26/100
+### Reggie Gilliam — 21/100
 
-**Event:** Adam Vinatieri: trending now
+**Event:** Reggie Gilliam: Roster Analysis: Patriots place Mack Hollins and Reggie Gilliam on injured reserve in a flurry of roster moves
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Adam Vinatieri adam vinatieri: trending now filings actually say — line by line — the other side of the fight
+> The Reggie Gilliam reggie gilliam: roster analysis: patriots place mack hollins and reggie gilliam on injured reserve in a flurry of roster moves story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Matthew Golden — 18/100
+
+**Event:** Matthew Golden: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Matthew Golden matthew golden: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Tim Patrick — 20/100
+
+**Event:** Tim Patrick: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Tim Patrick tim patrick: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
 
