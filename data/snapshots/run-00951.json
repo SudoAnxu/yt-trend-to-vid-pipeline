@@ -1,0 +1,30 @@
+{
+  "runNo": 951,
+  "at": "2026-10-11T23:00:54.367Z",
+  "rows": [
+    {
+      "event": "story-michael-wilson",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-garand",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
