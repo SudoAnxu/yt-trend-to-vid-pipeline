@@ -1,0 +1,16 @@
+{
+  "runNo": 933,
+  "at": "2026-10-11T16:22:22.718Z",
+  "rows": [
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

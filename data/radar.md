@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #932 · Updated: 11/10/2026, 21:41:29 (Asia/Kolkata)
+Run #933 · Updated: 11/10/2026, 21:52:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Bradley Barcola — 25/100
+### Michael Douglas — 18/100
 
-**Event:** Bradley Barcola: explains why he is “getting cramps” since Liverpool move
+**Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-5 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Bradley Barcola bradley barcola: explains why he is “getting cramps” since liverpool move story is actually a money story — the detail nobody has explained
+> What the Michael Douglas michael douglas: reveals actress who was rudely named the 'biggest c--- in the world' filings actually say — line by line — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
