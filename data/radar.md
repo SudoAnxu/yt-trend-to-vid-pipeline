@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #911 · Updated: 11/10/2026, 07:33:12 (Asia/Kolkata)
+Run #912 · Updated: 11/10/2026, 09:43:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,77 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Miguel Vargas — 14/100
+### Mike Flanagan — 20/100
 
-**Event:** Miguel Vargas: trending now
+**Event:** Mike Flanagan: Breaks Down The Exorcist: Martyrs Trailer and Reveals How the Horror Sequel Draws on The Exorcist III
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Miguel Vargas miguel vargas: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Matt Rife — 12/100
-
-**Event:** Matt Rife: Steve Doocy catches up with viral comedian Matt Rife on tour
-
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Matt Rife matt rife: trending now filings actually say — line by line — the other side of the fight
+> The Mike Flanagan mike flanagan: breaks down the exorcist: martyrs trailer and reveals how the horror sequel draws on the exorcist iii story is actually a money story — the other side of the fight
 
-**Competition:** 20 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Colin Farrell — 26/100
+### Joe Rogan — 24/100
 
-**Event:** Colin Farrell: Taylor Swift Drops New 13-Second ‘Patient Zero’ Music Video Tease Featuring Dakota Johnson and Colin Farrell
+**Event:** Joe Rogan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Colin Farrell colin farrell: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Emily Blunt — 21/100
-
-**Event:** Emily Blunt: ‘Sicario 3‘: Emily Blunt, Benicio Del Toro, Josh Brolin to Star
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Emily Blunt emily blunt: trending now filings actually say — line by line — the other side of the fight
+> What the Joe Rogan joe rogan: exclusive | joe rogan re-ups lucrative spotify deal filings actually say — line by line — the number behind the headline
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Josh Brolin — 24/100
+### Kyle Monangai — 15/100
 
-**Event:** Josh Brolin: trending now
+**Event:** Kyle Monangai: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Brolin josh brolin: 'sicario 3' a go with emily blunt, benicio del toro & josh brolin back filings actually say — line by line — the other side of the fight
+> The Kyle Monangai kyle monangai: fantasy football week 5 inactives: kyle monangai, lamar jackson out story is actually a money story — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
 
 **Status:** ARCHIVED
 

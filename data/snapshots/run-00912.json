@@ -1,0 +1,30 @@
+{
+  "runNo": 912,
+  "at": "2026-10-11T04:13:15.941Z",
+  "rows": [
+    {
+      "event": "story-mike-flanagan",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-joe-rogan",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-monangai",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
