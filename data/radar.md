@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #922 · Updated: 11/10/2026, 16:41:48 (Asia/Kolkata)
+Run #923 · Updated: 11/10/2026, 17:03:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,23 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 21/100
+### Stephen King — 21/100
 
-**Event:** Alexander Zverev: trending now
+**Event:** Stephen King: Asks Why Taylor Sheridan's Hit Western Series Was Snubbed By The Emmys
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Alexander Zverev alexander zverev: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Carlos Alcaraz — 14/100
-
-**Event:** Carlos Alcaraz: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Carlos Alcaraz carlos alcaraz: , novak djokovic, alexander zverev await six kings slam decision after airport warning amid unrest story is actually a money story — the other side of the fight
+> What the Stephen King stephen king: asks why taylor sheridan's hit western series was snubbed by the emmys filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** ARCHIVED
-
-### Kyle Monangai — 17/100
-
-**Event:** Kyle Monangai: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kyle Monangai kyle monangai: fantasy football week 5 inactives: kyle monangai, lamar jackson out story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
-
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
