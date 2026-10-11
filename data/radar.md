@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #910 · Updated: 11/10/2026, 07:03:40 (Asia/Kolkata)
+Run #911 · Updated: 11/10/2026, 07:33:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Steven Kwan — 23/100
+### Miguel Vargas — 14/100
 
-**Event:** Steven Kwan: on Game 2 loss, moving on to Game 3
+**Event:** Miguel Vargas: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 29 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Steven Kwan steven kwan: trending now filings actually say — line by line — the other side of the fight
+> What the Miguel Vargas miguel vargas: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Matt Rife — 12/100
+
+**Event:** Matt Rife: Steve Doocy catches up with viral comedian Matt Rife on tour
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Matt Rife matt rife: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 20 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Colin Farrell — 26/100
+
+**Event:** Colin Farrell: Taylor Swift Drops New 13-Second ‘Patient Zero’ Music Video Tease Featuring Dakota Johnson and Colin Farrell
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Colin Farrell colin farrell: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 16 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** BOOSTED
+
+### Emily Blunt — 21/100
+
+**Event:** Emily Blunt: ‘Sicario 3‘: Emily Blunt, Benicio Del Toro, Josh Brolin to Star
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Emily Blunt emily blunt: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Josh Brolin — 24/100
+
+**Event:** Josh Brolin: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Josh Brolin josh brolin: 'sicario 3' a go with emily blunt, benicio del toro & josh brolin back filings actually say — line by line — the other side of the fight
+
+**Competition:** 15 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
