@@ -1,0 +1,37 @@
+{
+  "runNo": 974,
+  "at": "2026-10-12T16:54:27.359Z",
+  "rows": [
+    {
+      "event": "story-james-milton",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-shapiro",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-danny-trejo",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-trejo-speaks-out",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
