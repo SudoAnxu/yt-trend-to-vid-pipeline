@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #989 · Updated: 13/10/2026, 03:52:16 (Asia/Kolkata)
+Run #990 · Updated: 13/10/2026, 04:03:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### David Hamilton — 28/100
+### Bobby Gould — 29/100
+
+**Event:** Bobby Gould: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Bobby Gould bobby gould: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jake Bauers — 23/100
+
+**Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
+
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jake Bauers jake bauers: why jake bauers is the key to a brewers nlcs win filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 7 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+
+**Status:** KEPT
+
+### David Hamilton — 22/100
 
 **Event:** David Hamilton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -29,34 +57,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Ryan Johnson — 18/100
-
-**Event:** Ryan Johnson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ryan Johnson ryan johnson: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Daniel Laatsch — 19/100
-
-**Event:** Daniel Laatsch: Penguins Acquire Defenseman Ryan Johnson from Buffalo in Exchange for Caleb Jones and Daniel Laatsch
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · external momentum 15 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Daniel Laatsch daniel laatsch: penguins trade caleb jones, daniel laatsch to buffalo for ryan johnson filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
