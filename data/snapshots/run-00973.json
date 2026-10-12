@@ -1,0 +1,30 @@
+{
+  "runNo": 973,
+  "at": "2026-10-12T16:22:31.025Z",
+  "rows": [
+    {
+      "event": "story-james-milton",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-danny-trejo",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-parker",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
