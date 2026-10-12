@@ -1,0 +1,23 @@
+{
+  "runNo": 988,
+  "at": "2026-10-12T22:11:23.897Z",
+  "rows": [
+    {
+      "event": "story-ryan-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-laatsch",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
