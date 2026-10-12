@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #958 · Updated: 12/10/2026, 07:33:51 (Asia/Kolkata)
+Run #959 · Updated: 12/10/2026, 08:04:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429 · youtube: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,29 +12,85 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
+
+### Aaron Ashby — 28/100
+
+**Event:** Aaron Ashby: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Aaron Ashby aaron ashby: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Kevin Stefanski — 15/100
+
+**Event:** Kevin Stefanski: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Kevin Stefanski kevin stefanski: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Kyle Shanahan — 14/100
+
+**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Kyle Shanahan kyle shanahan: provides injury updates, talks mykel williams return filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### John Abraham — 30/100
+
+**Event:** John Abraham: Who is John Abraham? Children, net worth, NFL career and more about Falcons legend | Hindustan Times
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The John Abraham story is a proxy fight about something bigger — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Mike Tomlin — 17/100
 
 **Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Mike Tomlin mike tomlin: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** KEPT
 
-### Aaron Rodgers' — 14/100
+### Aaron Rodgers' — 15/100
 
 **Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,81 +104,11 @@ Sources this run: trends(40)
 
 **Event:** Mike Tomlin's: From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Mike Tomlin's mike tomlin's: mike tomlin’s wife sends strong message on steelers ties after husband’s departure filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Nick Saban's — 19/100
-
-**Event:** Nick Saban's: Where to watch Nick Saban's 'Saban' docuseries
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Nick Saban's nick saban's: where to watch nick saban's 'saban' docuseries filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Nick Saban — 15/100
-
-**Event:** Nick Saban: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Nick Saban nick saban: inside the ‘saban’ premiere: a night with nick saban, miss terry and alabama royalty filings actually say — line by line — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kyle Pitts — 19/100
-
-**Event:** Kyle Pitts: Can Falcons finally get TE Kyle Pitts going on 'Thursday Night Football' vs. Packers?
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kyle Pitts story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 6.2h · sources: trends, news
-
-**Status:** KEPT
-
-### Michael Penix — 14/100
-
-**Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Michael Penix story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Robert Horry — 19/100
-
-**Event:** Robert Horry: Believes Writing Is on the Wall for 2 Lakers Players
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Robert Horry robert horry: believes writing is on the wall for 2 lakers players filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
