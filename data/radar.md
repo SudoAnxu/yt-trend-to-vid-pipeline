@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #957 · Updated: 12/10/2026, 07:04:46 (Asia/Kolkata)
+Run #958 · Updated: 12/10/2026, 07:33:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,21 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### Kyle Pitts — 21/100
+### Mike Tomlin — 17/100
+
+**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Tomlin mike tomlin: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** KEPT
+
+### Aaron Rodgers' — 14/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Rodgers' aaron rodgers': steelers' aaron rodgers honors mike tomlin after win over colts filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Mike Tomlin's — 19/100
+
+**Event:** Mike Tomlin's: From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Tomlin's mike tomlin's: mike tomlin’s wife sends strong message on steelers ties after husband’s departure filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Saban's — 19/100
+
+**Event:** Nick Saban's: Where to watch Nick Saban's 'Saban' docuseries
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Nick Saban's nick saban's: where to watch nick saban's 'saban' docuseries filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Saban — 15/100
+
+**Event:** Nick Saban: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Nick Saban nick saban: inside the ‘saban’ premiere: a night with nick saban, miss terry and alabama royalty filings actually say — line by line — the other side of the fight
+
+**Competition:** 21 videos in last 6h · TTS ≈ 2.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Kyle Pitts — 19/100
 
 **Event:** Kyle Pitts: Can Falcons finally get TE Kyle Pitts going on 'Thursday Night Football' vs. Packers?
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Kyle Pitts story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 5.8h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 6.2h · sources: trends, news
 
 **Status:** KEPT
 
@@ -44,47 +114,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Mike Flanagan's — 21/100
+### Robert Horry — 19/100
 
-**Event:** Mike Flanagan's: ‘Battlestar Galactica’ Stars Officially Reunite in Mike Flanagan’s New Stephen King Series
+**Event:** Robert Horry: Believes Writing Is on the Wall for 2 Lakers Players
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Mike Flanagan's story is a proxy fight about something bigger — the other side of the fight
+> What the Robert Horry robert horry: believes writing is on the wall for 2 lakers players filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Lee Curtis — 12/100
-
-**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Lee Curtis lee curtis: ‘newlyweds’ sneak peek shows jamie lee curtis mistaking tim daly’s girlfriend tea leoni for his maid story is actually a money story — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Angel Reese — 16/100
-
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Angel Reese angel reese: dewanna bonner angel reese sabrina ionescu filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>

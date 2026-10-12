@@ -1,0 +1,65 @@
+{
+  "runNo": 958,
+  "at": "2026-10-12T02:03:50.871Z",
+  "rows": [
+    {
+      "event": "story-mike-tomlin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-tomlin-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-saban-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-pitts",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-penix",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-horry",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
