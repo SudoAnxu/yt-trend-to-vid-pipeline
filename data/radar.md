@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #962 · Updated: 12/10/2026, 12:33:33 (Asia/Kolkata)
+Run #963 · Updated: 12/10/2026, 13:00:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,37 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
-
-### Shane Gillis — 27/100
-
-**Event:** Shane Gillis: ‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Shane Gillis shane gillis: ‘saturday night live’ season 52 recap: shane gillis drops f-bomb in dr. seuss sketch story is actually a money story — the part that was not supposed to be public
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
-
-### Rafael Jodar — 21/100
-
-**Event:** Rafael Jodar: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Rafael Jodar rafael jodar: jiri lehecka vs. rafael jodar prediction, odds, picks for atp shanghai masters 2026 story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
-
-**Status:** BOOSTED
 
 ### Alexander Bublik — 16/100
 
@@ -57,6 +29,48 @@ Sources this run: trends(40)
 **Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Shane Gillis — 28/100
+
+**Event:** Shane Gillis: ‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch
+
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 25 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Shane Gillis shane gillis: apologizes for dropping f-bomb on snl – but that’s not why he’s facing backlash story is actually a money story — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+
+**Status:** RESEARCH
+
+### Carlos Alcaraz — 18/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Carlos Alcaraz carlos alcaraz: atp shanghai day 6 predictions including carlos alcaraz vs zizou bergs story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Kevin Mannix — 21/100
+
+**Event:** Kevin Mannix: sfpd
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Kevin Mannix kevin mannix: sfpd filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

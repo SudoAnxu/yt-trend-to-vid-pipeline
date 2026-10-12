@@ -1,0 +1,37 @@
+{
+  "runNo": 963,
+  "at": "2026-10-12T07:30:46.541Z",
+  "rows": [
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-shane-gillis",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-mannix",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
