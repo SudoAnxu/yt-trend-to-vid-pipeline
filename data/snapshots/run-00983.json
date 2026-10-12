@@ -1,0 +1,23 @@
+{
+  "runNo": 983,
+  "at": "2026-10-12T20:34:46.593Z",
+  "rows": [
+    {
+      "event": "story-bryan-cranston",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tiffany-stratton",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
