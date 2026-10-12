@@ -1,0 +1,16 @@
+{
+  "runNo": 967,
+  "at": "2026-10-12T11:16:00.629Z",
+  "rows": [
+    {
+      "event": "story-kyle-maclachlan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
