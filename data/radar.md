@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #979 · Updated: 13/10/2026, 01:10:42 (Asia/Kolkata)
+Run #980 · Updated: 13/10/2026, 01:23:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Andrew Mountbatten-windsor — 17/100
+### Justin Watson — 17/100
 
-**Event:** Andrew Mountbatten-windsor: trending now
+**Event:** Justin Watson: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Andrew Mountbatten-windsor andrew mountbatten-windsor: trending now filings actually say — line by line — the other side of the fight
+> What the Justin Watson justin watson: chiefs sign wide receiver justin watson to practice squad filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 2 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jeremy Renner — 21/100
+
+**Event:** Jeremy Renner: Hawkeye star Jeremy Renner insists he is not in Avengers: Doomsday, saying "The Avengers will probably lose" w
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jeremy Renner story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
