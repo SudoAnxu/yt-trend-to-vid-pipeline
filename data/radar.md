@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #953 · Updated: 12/10/2026, 05:16:39 (Asia/Kolkata)
+Run #954 · Updated: 12/10/2026, 05:54:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,93 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Nick Sirianni — 16/100
+### Alex Rodriguez — 23/100
 
-**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
+**Event:** Alex Rodriguez: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+19 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nick Sirianni nick sirianni: assigns blame for sunday's crushing eagles loss filings actually say — line by line — the other side of the fight
+> The Alex Rodriguez alex rodriguez: was right about failed new york yankees star story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jason Myers — 29/100
+### John Turturro — 23/100
 
-**Event:** Jason Myers: Seattle Seahawks kicker Jason Myers is good on third FG of game vs. San Francisco 49ers
+**Event:** John Turturro: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Myers story is a proxy fight about something bigger — the other side of the fight
+> What the John Turturro john turturro: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Mark Andrews — 24/100
+### Terry Bradshaw — 21/100
 
-**Event:** Mark Andrews: trending now
+**Event:** Terry Bradshaw: NFL Legend Terry Bradshaw Gets Emotional Recalling How People Treated Him During His Depression Battle: ‘Peopl
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mark Andrews mark andrews: touchdown pick for ravens vs. falcons filings actually say — line by line — the other side of the fight
+> What the Terry Bradshaw terry bradshaw: reveals fox contract status: 'the young guys are coming, but i want to be relevant' filings actually say — line by line — the number behind the headline
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Will Play — 18/100
+### David Ortiz — 21/100
 
-**Event:** Will Play: Chargers-Broncos Week 5 Inactives: Ladd McConkey Will Play Against Denver
+**Event:** David Ortiz: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Will Play will play: chargers-broncos week 5 inactives: ladd mcconkey will play against denver story is actually a money story — the other side of the fight
+> What the David Ortiz david ortiz: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 12 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Patrick Mahomes — 17/100
-
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
-
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Patrick Mahomes patrick mahomes: , tom brady lead top 5 football card sales filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Tom Brady — 13/100
-
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-22 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tom Brady tom brady: patrick mahomes, tom brady lead top 5 football card sales filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
