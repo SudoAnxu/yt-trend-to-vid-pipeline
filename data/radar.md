@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #970 · Updated: 12/10/2026, 18:56:46 (Asia/Kolkata)
+Run #971 · Updated: 12/10/2026, 20:25:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,93 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Alexandra Eala — 12/100
+### Warren Buffett — 20/100
 
-**Event:** Alexandra Eala: trending now
+**Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+19 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
+> The Warren Buffett warren buffett: ai bubble or not, warren buffett would buy this vanguard index fund story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alex Eala — 18/100
+### Warren Buffett's — 19/100
 
-**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+**Event:** Warren Buffett's: classic advice to 99% of investors is still paying off
 
-**Why now:** 1 source lane(s): news · momentum 20 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Alex Eala story is a proxy fight about something bigger — the other side of the fight
+> What the Warren Buffett's warren buffett's: classic advice to 99% of investors is still paying off filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### James Madison — 22/100
+
+**Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+2 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 2.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the James Madison james madison: votes to terminate contract with sun belt conference filings actually say — line by line — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Charles III — 17/100
+### Mark Your — 19/100
 
-**Event:** Charles III: How King Charles III Plans to Bring Prince Harry and Prince William Back Together
+**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Charles III charles iii: trending now filings actually say — line by line — the other side of the fight
+> What the Mark Your mark your: dear unitedhealth stock fans, mark your calendars for october 13 filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Matthew Rhys — 20/100
+### Kate Middleton — 23/100
 
-**Event:** Matthew Rhys: trending now
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Matthew Rhys matthew rhys: keri russell gets x-rated about early days with matthew rhys in candid sex confession filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Billy Crystal — 23/100
-
-**Event:** Billy Crystal: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 27 (+17 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Billy Crystal billy crystal: trending now filings actually say — line by line — the other side of the fight
+> What the Kate Middleton kate middleton: and princess charlotte ditch chauffeurs for ‘normal’ subway ride in new video filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
-**Status:** BOOSTED
-
-### Rob Reiner — 21/100
-
-**Event:** Rob Reiner: Michael Douglas details ‘heartbreaking’ Rob Reiner talks over troubled sons before director’s murder
-
-**Why now:** 1 source lane(s): news · momentum 23 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Rob Reiner rob reiner: billy crystal reveals how rob reiner helped name his one-man show about losing home in l.a. wildfire filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: news
-
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
