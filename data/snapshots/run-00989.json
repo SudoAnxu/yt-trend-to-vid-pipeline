@@ -1,0 +1,30 @@
+{
+  "runNo": 989,
+  "at": "2026-10-12T22:22:16.299Z",
+  "rows": [
+    {
+      "event": "story-david-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ryan-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-laatsch",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
