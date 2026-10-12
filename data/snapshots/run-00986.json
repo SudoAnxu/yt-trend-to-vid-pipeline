@@ -1,0 +1,44 @@
+{
+  "runNo": 986,
+  "at": "2026-10-12T21:50:35.157Z",
+  "rows": [
+    {
+      "event": "story-aaron-paul",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-elko",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-kiser",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 24,
+      "window": "unknown"
+    },
+    {
+      "event": "story-markle-shares-charming",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
