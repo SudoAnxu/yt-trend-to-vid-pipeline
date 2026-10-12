@@ -1,0 +1,23 @@
+{
+  "runNo": 966,
+  "at": "2026-10-12T09:57:30.598Z",
+  "rows": [
+    {
+      "event": "story-shane-gillis",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
