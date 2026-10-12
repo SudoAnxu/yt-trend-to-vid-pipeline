@@ -1,0 +1,30 @@
+{
+  "runNo": 985,
+  "at": "2026-10-12T21:32:25.609Z",
+  "rows": [
+    {
+      "event": "story-mike-elko",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-kiser",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-fully-reveals-lucia",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
