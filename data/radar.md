@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #991 · Updated: 13/10/2026, 04:09:51 (Asia/Kolkata)
+Run #992 · Updated: 13/10/2026, 04:38:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Alex Vesia — 21/100
+### James Talarico — 15/100
 
-**Event:** Alex Vesia: trending now
+**Event:** James Talarico: ken paxton james talarico polls
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Alex Vesia alex vesia: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Bobby Gould — 23/100
-
-**Event:** Bobby Gould: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Bobby Gould bobby gould: trending now filings actually say — line by line — the other side of the fight
+> What the James Talarico james talarico: kacey musgraves skewers kristi noem after choosin' james talarico filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jake Bauers — 22/100
-
-**Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jake Bauers jake bauers: why jake bauers is the key to a brewers nlcs win filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 8 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** KEPT
 
-### David Hamilton — 22/100
+### Zoe Salda — 18/100
 
-**Event:** David Hamilton: trending now
+**Event:** Zoe Salda: ña Says She’s Not Ready to Join Another Taylor Sheridan Show for This Reason (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · external momentum 23 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 10 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The David Hamilton story is a proxy fight about something bigger — the other side of the fight
+> What the Zoe Salda zoe salda: ña and taylor sheridan disagreed over lioness' season 3 finale — and she won filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Paul Bettany — 14/100
+
+**Event:** Paul Bettany: ‘VisionQuest’ star Paul Bettany reacts to wife Jennifer Connelly’s defense of his Marvel character
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-27 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Paul Bettany paul bettany: keeps fans guessing about vision’s avengers: doomsday future filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
