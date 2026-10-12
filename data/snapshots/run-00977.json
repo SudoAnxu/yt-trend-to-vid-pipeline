@@ -1,0 +1,16 @@
+{
+  "runNo": 977,
+  "at": "2026-10-12T18:16:26.396Z",
+  "rows": [
+    {
+      "event": "story-sean-combs",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
