@@ -1,0 +1,37 @@
+{
+  "runNo": 991,
+  "at": "2026-10-12T22:39:50.033Z",
+  "rows": [
+    {
+      "event": "story-alex-vesia",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-bobby-gould",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jake-bauers",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
