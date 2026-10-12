@@ -1,0 +1,16 @@
+{
+  "runNo": 979,
+  "at": "2026-10-12T19:40:42.535Z",
+  "rows": [
+    {
+      "event": "story-andrew-mountbatten-windsor",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
