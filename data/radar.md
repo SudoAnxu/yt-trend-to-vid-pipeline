@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #959 · Updated: 12/10/2026, 08:04:11 (Asia/Kolkata)
+Run #960 · Updated: 12/10/2026, 10:01:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429 · youtube: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,107 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Aaron Ashby — 28/100
+### Alexander Zverev — 17/100
 
-**Event:** Aaron Ashby: trending now
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Aaron Ashby aaron ashby: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Kevin Stefanski — 15/100
-
-**Event:** Kevin Stefanski: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kevin Stefanski kevin stefanski: trending now filings actually say — line by line — the other side of the fight
+> What the Alexander Zverev alexander zverev: jimmy connors says if he thinks alexander zverev deserves to be world number one after ‘criticising’ him in th filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kyle Shanahan — 14/100
+### Carlos Alcaraz — 21/100
 
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kyle Shanahan kyle shanahan: provides injury updates, talks mykel williams return filings actually say — line by line — the other side of the fight
+> The Carlos Alcaraz situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### John Abraham — 30/100
+### Donna Vekic — 24/100
 
-**Event:** John Abraham: Who is John Abraham? Children, net worth, NFL career and more about Falcons legend | Hindustan Times
+**Event:** Donna Vekic: WTA Beijing Day 6 Predictions Including Donna Vekic vs Iga Swiatek
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The John Abraham story is a proxy fight about something bigger — the number behind the headline
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Mike Tomlin — 17/100
-
-**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mike Tomlin mike tomlin: trending now filings actually say — line by line — the other side of the fight
+> What the Donna Vekic donna vekic: maria sakkari vs. donna vekic prediction, odds, picks for wta wuhan open 2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** KEPT
-
-### Aaron Rodgers' — 15/100
-
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Aaron Rodgers' aaron rodgers': steelers' aaron rodgers honors mike tomlin after win over colts filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: news
 
 **Status:** ARCHIVED
 
-### Mike Tomlin's — 19/100
+### Stephen King — 16/100
 
-**Event:** Mike Tomlin's: From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent
+**Event:** Stephen King: Asks Why Taylor Sheridan's Hit Western Series Was Snubbed By The Emmys
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mike Tomlin's mike tomlin's: mike tomlin’s wife sends strong message on steelers ties after husband’s departure filings actually say — line by line — the other side of the fight
+> What the Stephen King stephen king: and mike flanagan on the resurrected ‘carrie’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Mike Flanagan — 19/100
+
+**Event:** Mike Flanagan: Breaks Down The Exorcist: Martyrs Trailer and Reveals How the Horror Sequel Draws on The Exorcist III
+
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Mike Flanagan mike flanagan: stephen king and mike flanagan on the resurrected ‘carrie’ story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** BOOSTED
 
 
 </details>
