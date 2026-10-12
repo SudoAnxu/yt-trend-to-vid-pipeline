@@ -1,0 +1,58 @@
+{
+  "runNo": 987,
+  "at": "2026-10-12T21:57:34.923Z",
+  "rows": [
+    {
+      "event": "story-ryan-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-laatsch",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-paul",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-sells",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-elko",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-kiser",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "unknown"
+    },
+    {
+      "event": "story-markle-shares-charming",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
