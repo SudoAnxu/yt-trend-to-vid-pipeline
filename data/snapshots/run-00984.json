@@ -1,0 +1,51 @@
+{
+  "runNo": 984,
+  "at": "2026-10-12T21:21:31.136Z",
+  "rows": [
+    {
+      "event": "story-jack-kiser",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-oscar-de",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-pettine",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
