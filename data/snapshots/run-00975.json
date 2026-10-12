@@ -1,0 +1,16 @@
+{
+  "runNo": 975,
+  "at": "2026-10-12T17:28:19.597Z",
+  "rows": [
+    {
+      "event": "story-justin-watson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
