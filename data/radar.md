@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #961 · Updated: 12/10/2026, 11:42:51 (Asia/Kolkata)
+Run #962 · Updated: 12/10/2026, 12:33:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tyler Huntley — 23/100
+### Shane Gillis — 27/100
 
-**Event:** Tyler Huntley: Ravens QB Lamar Jackson (ankle) out vs. Falcons; Tyler Huntley to start
+**Event:** Shane Gillis: ‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tyler Huntley story is a proxy fight about something bigger — the other side of the fight
+> The Shane Gillis shane gillis: ‘saturday night live’ season 52 recap: shane gillis drops f-bomb in dr. seuss sketch story is actually a money story — the part that was not supposed to be public
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
-### Hugh Jackman — 23/100
+### Rafael Jodar — 21/100
 
-**Event:** Hugh Jackman: trending now
+**Event:** Rafael Jodar: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Hugh Jackman story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Austin Reaves — 14/100
-
-**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
-
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Austin Reaves austin reaves: is drawing praise from his teammates for his leadership story is actually a money story — the other side of the fight
+> The Rafael Jodar rafael jodar: jiri lehecka vs. rafael jodar prediction, odds, picks for atp shanghai masters 2026 story is actually a money story — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Alexander Bublik — 16/100
+
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alexander Bublik alexander bublik: smashes racket five times and injures himself in wild outburst filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
