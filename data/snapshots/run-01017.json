@@ -1,0 +1,16 @@
+{
+  "runNo": 1017,
+  "at": "2026-10-13T12:27:17.297Z",
+  "rows": [
+    {
+      "event": "story-steve-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
