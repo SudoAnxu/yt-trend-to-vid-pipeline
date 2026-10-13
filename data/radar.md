@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1011 · Updated: 13/10/2026, 14:18:16 (Asia/Kolkata)
+Run #1012 · Updated: 13/10/2026, 15:10:54 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Will Rubio — 19/100
+### Mike Vrabel — 17/100
 
-**Event:** Will Rubio: , Ossoff and Ocasio-Cortez run for president?
+**Event:** Mike Vrabel: offers blunt review of Drake Maye’s fourth interception
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Rubio will rubio: , ossoff and ocasio-cortez run for president? filings actually say — line by line — the other side of the fight
+> The Mike Vrabel mike vrabel: no ordinary blowout: mike vrabel and his patriots’ coaching staff delivered a masterclass against the raiders story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
-### Trump Says He — 23/100
+### Mark Zuckerberg — 18/100
 
-**Event:** Trump Says He: Does Not Believe Russia and China Are Helping Iran
+**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 26 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Trump Says He trump says he: does not believe russia and china are helping iran filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Alexander Bublik — 17/100
-
-**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+6 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexander Bublik alexander bublik: smashes racket five times and injures himself in wild outburst filings actually say — line by line — the other side of the fight
+> The Mark Zuckerberg mark zuckerberg: says meta has reached ai ‘frontier’ story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
 

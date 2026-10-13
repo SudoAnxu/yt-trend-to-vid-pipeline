@@ -1,0 +1,23 @@
+{
+  "runNo": 1012,
+  "at": "2026-10-13T09:40:54.262Z",
+  "rows": [
+    {
+      "event": "story-mike-vrabel",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-zuckerberg",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
