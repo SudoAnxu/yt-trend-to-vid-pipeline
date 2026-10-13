@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1017 · Updated: 13/10/2026, 17:57:17 (Asia/Kolkata)
+Run #1018 · Updated: 13/10/2026, 18:24:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Steve Kerr — 19/100
+### Amanda Seyfried — 24/100
 
-**Event:** Steve Kerr: Says Warriors Have Fastest Player He’s Ever Coached
+**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Steve Kerr steve kerr: shares positive update on absent warriors center kristaps porziņģis filings actually say — line by line — the other side of the fight
+> The Amanda Seyfried story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 7 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>

@@ -1,0 +1,16 @@
+{
+  "runNo": 1018,
+  "at": "2026-10-13T12:54:39.862Z",
+  "rows": [
+    {
+      "event": "story-amanda-seyfried",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
