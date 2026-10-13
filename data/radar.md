@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1046 · Updated: 14/10/2026, 04:50:52 (Asia/Kolkata)
+Run #1047 · Updated: 14/10/2026, 05:09:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### James Harden — 13/100
+### John Boyega — 25/100
 
-**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
+**Event:** John Boyega: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the James Harden james harden: shows no rust in preseason debut, leads cavs to 119-105 win over orlando magic filings actually say — line by line — the other side of the fight
+> What the John Boyega john boyega: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
