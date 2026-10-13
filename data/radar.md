@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #994 · Updated: 13/10/2026, 05:12:50 (Asia/Kolkata)
+Run #995 · Updated: 13/10/2026, 05:39:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,65 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Aaron Donald — 23/100
+### Will Smith — 19/100
 
-**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
+**Event:** Will Smith: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-21 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Donald filing that will matter in six months — the other side of the fight
+> What the Will Smith will smith: addresses his 1-for-19 playoff slump, drops to fifth in lineup filings actually say — line by line — the part that was not supposed to be public
 
-**Competition:** 25 videos in last 6h · TTS ≈ 14.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### William Contreras — 19/100
+### Jon Husted — 16/100
 
-**Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
+**Event:** Jon Husted: Trump campaigns for Ohio Sen Jon Husted amid midterm push
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the William Contreras william contreras: brewers' william contreras hits solo home run, tying game vs dodgers filings actually say — line by line — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### William Contreras' — 21/100
-
-**Event:** William Contreras': MLB playoffs live scores, updates: Brewers retake lead over Dodgers in NLCS Game 2 after William Contreras' go
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-27 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The William Contreras' story is a proxy fight about something bigger — the other side of the fight
+> What the Jon Husted jon husted: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Ken Jennings — 20/100
+
+**Event:** Ken Jennings: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ken Jennings ken jennings: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Josh Hartnett — 20/100
+
+**Event:** Josh Hartnett: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Hartnett story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 16 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
