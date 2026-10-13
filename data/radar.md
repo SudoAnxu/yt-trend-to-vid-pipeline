@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1012 · Updated: 13/10/2026, 15:10:54 (Asia/Kolkata)
+Run #1013 · Updated: 13/10/2026, 15:21:54 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Mike Vrabel — 17/100
+### Mike Vrabel — 18/100
 
 **Event:** Mike Vrabel: offers blunt review of Drake Maye’s fourth interception
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,21 +28,7 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** RESEARCH
-
-### Mark Zuckerberg — 18/100
-
-**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+6 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Mark Zuckerberg mark zuckerberg: says meta has reached ai ‘frontier’ story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>

@@ -1,0 +1,16 @@
+{
+  "runNo": 1013,
+  "at": "2026-10-13T09:51:54.113Z",
+  "rows": [
+    {
+      "event": "story-mike-vrabel",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
