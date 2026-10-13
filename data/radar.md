@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1043 · Updated: 14/10/2026, 03:48:53 (Asia/Kolkata)
+Run #1044 · Updated: 14/10/2026, 04:32:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Will Be — 23/100
+### Jack Hughes — 16/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Jack Hughes: trending now
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 1 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will Be story is a proxy fight about something bigger — the other side of the fight
+> What the Jack Hughes jack hughes: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>
