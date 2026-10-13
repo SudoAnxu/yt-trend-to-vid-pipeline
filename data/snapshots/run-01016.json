@@ -1,0 +1,23 @@
+{
+  "runNo": 1016,
+  "at": "2026-10-13T12:05:13.254Z",
+  "rows": [
+    {
+      "event": "story-steve-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-your",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1015 · Updated: 13/10/2026, 16:46:48 (Asia/Kolkata)
+Run #1016 · Updated: 13/10/2026, 17:35:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(39)
 
@@ -12,23 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jimmy Kimmel — 21/100
+### Steve Kerr — 20/100
 
-**Event:** Jimmy Kimmel: trending now
+**Event:** Steve Kerr: Says Warriors Have Fastest Player He’s Ever Coached
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+6 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-13 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jimmy Kimmel jimmy kimmel: trending now filings actually say — line by line — the other side of the fight
+> What the Steve Kerr steve kerr: shares positive update on absent warriors center kristaps porziņģis filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
+
+### Mark Your — 19/100
+
+**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mark Your mark your: dear johnson & johnson stock fans, mark your calendars for october 13 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
