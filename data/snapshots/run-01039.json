@@ -1,0 +1,30 @@
+{
+  "runNo": 1039,
+  "at": "2026-10-13T20:54:22.091Z",
+  "rows": [
+    {
+      "event": "story-ryan-cohen",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-olise",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-gordon",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
