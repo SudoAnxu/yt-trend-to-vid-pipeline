@@ -1,0 +1,23 @@
+{
+  "runNo": 1000,
+  "at": "2026-10-13T02:08:20.970Z",
+  "rows": [
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
