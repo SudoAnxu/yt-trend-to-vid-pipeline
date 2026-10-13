@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1036 · Updated: 14/10/2026, 01:47:25 (Asia/Kolkata)
+Run #1037 · Updated: 14/10/2026, 01:59:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -20,13 +20,13 @@ Sources this run: trends(38)
 
 **Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Rob Lowe story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(38)
 
 **Event:** Details Revealed For: Daily Wire's 'Confession': Details Revealed For James Franco, Rob Lowe Film
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(38)
 
 **Event:** James Franco: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(38)
 
 **Event:** Jennifer Jason: James Franco, Rob Lowe, Jennifer Jason Leigh, & More Lead Daily Wire’s Confession Movie Trailer
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(38)
 
 **Event:** Nick Nolte: ‘Confession’ Trailer: Ben Shapiro Wrote a Soviet Prison Drama Starring James Franco, Rob Lowe, and Nick Nolte 
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
