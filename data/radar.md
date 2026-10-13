@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1041 · Updated: 14/10/2026, 03:17:27 (Asia/Kolkata)
+Run #1042 · Updated: 14/10/2026, 03:25:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(39)
 
@@ -12,7 +12,7 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Zoe Salda: ña Says She’s Not Ready to Join Another Taylor Sheridan Show for This Reason (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(39)
 
 **Event:** Zoe Saldana: Pushes Taylor Sheridan to Change Lioness Finale
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(39)
 
 **Event:** Jason Momoa: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(39)
 
 **Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -72,17 +72,45 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
+### Noah Centineo — 19/100
+
+**Event:** Noah Centineo: "Street Fighter' red carpet – Jason Momoa, Cody Rhodes, Noah Centineo
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Noah Centineo noah centineo: "street fighter' red carpet – jason momoa, cody rhodes, noah centineo filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
 ### Max Eberl — 19/100
 
 **Event:** Max Eberl: knows Luis Díaz will start scoring again for Bayern Munich
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Max Eberl max eberl: knows luis díaz will start scoring again for bayern munich story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 4.9h · sources: news
+
+**Status:** RESEARCH
+
+### Luis Diaz — 18/100
+
+**Event:** Luis Diaz: 'He will come good again' - Bayern Munich board member Max Eberl backs struggling Luis Diaz amid goal drought
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Luis Diaz luis diaz: 'he will come good again' - bayern munich board member max eberl backs struggling luis diaz amid goal drought story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
