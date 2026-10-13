@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #997 · Updated: 13/10/2026, 06:31:16 (Asia/Kolkata)
+Run #998 · Updated: 13/10/2026, 06:59:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,49 +12,105 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Tyler Huntley — 18/100
+### Dylan Larkin — 18/100
 
-**Event:** Tyler Huntley: Ravens QB Lamar Jackson (ankle) out vs. Falcons; Tyler Huntley to start
+**Event:** Dylan Larkin: to debut for Red Wings despite demanding trade
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (+8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tyler Huntley tyler huntley: qb tyler huntley leads ravens to comeback ot win vs. falcons filings actually say — line by line — the other side of the fight
+> The Dylan Larkin dylan larkin: update: a dylan larkin to minnesota trade could happen as early as this evening story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 9 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** BOOSTED
+
+### John Malkovich — 30/100
+
+**Event:** John Malkovich: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The John Malkovich john malkovich: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Joe Brady — 19/100
+### Tiffany Stratton — 17/100
 
-**Event:** Joe Brady: Bills' Joe Brady has empathetic ear in Rams' Sean McVay, who also got his coaching start in his 30s
+**Event:** Tiffany Stratton: LA Knight, Tiffany Stratton, Real Winners and Losers of WWE Money in the Bank Match Card
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+4 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Joe Brady story is a proxy fight about something bigger — the other side of the fight
+> What the Tiffany Stratton tiffany stratton: wwe’s tiffany stratton shares health update after horrifying ladder fall filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** KEPT
+
+### Brian Austin — 17/100
+
+**Event:** Brian Austin: Green’s comments about Dancing With the Stars ‘stress’ spark backlash
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Brian Austin story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Austin Green — 15/100
+
+**Event:** Austin Green: brian austin green
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Austin Green austin green: brian austin green filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Yellowstone Creator — 21/100
+
+**Event:** Yellowstone Creator: Taylor Sheridan's Acting Debut Was On Walker, Texas Ranger
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Yellowstone Creator situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** RESEARCH
 
-### Andre Drummond — 21/100
+### Creator Taylor — 21/100
 
-**Event:** Andre Drummond: trending now
+**Event:** Creator Taylor: Yellowstone Creator Taylor Sheridan's Acting Debut Was On Walker, Texas Ranger
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Andre Drummond story is a proxy fight about something bigger — the other side of the fight
+> The Creator Taylor situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** RESEARCH
 

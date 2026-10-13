@@ -1,0 +1,58 @@
+{
+  "runNo": 998,
+  "at": "2026-10-13T01:29:53.045Z",
+  "rows": [
+    {
+      "event": "story-dylan-larkin",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-malkovich",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-tiffany-stratton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-austin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-green",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-yellowstone-creator",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-creator-taylor",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
