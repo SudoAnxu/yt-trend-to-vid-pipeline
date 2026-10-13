@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1021 · Updated: 13/10/2026, 20:13:35 (Asia/Kolkata)
+Run #1022 · Updated: 13/10/2026, 20:42:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jack Harvey — 27/100
+### Will Review — 25/100
 
-**Event:** Jack Harvey: 'Let's fight' | IndyCar driver Jack Harvey diagnosed with cancer, still plans to compete in 2027
+**Event:** Will Review: Supreme Court, Taking On Trump Immigration Agenda, Will Review Migrant Detention Policy
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 9 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jack Harvey jack harvey: 'let's fight' | indycar driver jack harvey diagnosed with cancer, still plans to compete in 2027 filings actually say — line by line — the other side of the fight
+> What the Will Review will review: supreme court will review dispute over records from elon musk’s doge filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
