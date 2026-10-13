@@ -1,0 +1,16 @@
+{
+  "runNo": 1033,
+  "at": "2026-10-13T19:44:13.633Z",
+  "rows": [
+    {
+      "event": "story-jerry-jeudy",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
