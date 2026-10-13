@@ -1,0 +1,23 @@
+{
+  "runNo": 1040,
+  "at": "2026-10-13T21:25:38.449Z",
+  "rows": [
+    {
+      "event": "story-zoe-salda",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-max-eberl",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
