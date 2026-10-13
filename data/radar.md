@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1035 · Updated: 14/10/2026, 01:31:25 (Asia/Kolkata)
+Run #1036 · Updated: 14/10/2026, 01:47:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(38)
 
@@ -12,49 +12,77 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### James Franco — 18/100
-
-**Event:** James Franco: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The James Franco story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Rob Lowe — 22/100
+### Rob Lowe — 23/100
 
 **Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Rob Lowe story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 6.2h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Eli Lilly — 17/100
+### Details Revealed For — 21/100
 
-**Event:** Eli Lilly: retatrutide phase iii results
+**Event:** Details Revealed For: Daily Wire's 'Confession': Details Revealed For James Franco, Rob Lowe Film
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Eli Lilly eli lilly: retatrutide phase iii results filings actually say — line by line — the other side of the fight
+> The Details Revealed For details revealed for: daily wire's 'confession': details revealed for james franco, rob lowe film story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### James Franco — 16/100
+
+**Event:** James Franco: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The James Franco story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 21 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jennifer Jason — 18/100
+
+**Event:** Jennifer Jason: James Franco, Rob Lowe, Jennifer Jason Leigh, & More Lead Daily Wire’s Confession Movie Trailer
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jennifer Jason jennifer jason: james franco, rob lowe, jennifer jason leigh, & more lead daily wire’s confession movie trailer story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Nolte — 19/100
+
+**Event:** Nick Nolte: ‘Confession’ Trailer: Ben Shapiro Wrote a Soviet Prison Drama Starring James Franco, Rob Lowe, and Nick Nolte 
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Nick Nolte situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** RESEARCH
 
