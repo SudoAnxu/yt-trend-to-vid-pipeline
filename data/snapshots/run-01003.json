@@ -1,0 +1,51 @@
+{
+  "runNo": 1003,
+  "at": "2026-10-13T02:50:06.046Z",
+  "rows": [
+    {
+      "event": "story-angel-martinez",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-jolly",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-meyer-s",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-meyer",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-patrick-bailey",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-terry-pluto",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
