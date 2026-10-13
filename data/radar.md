@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1031 · Updated: 14/10/2026, 00:09:03 (Asia/Kolkata)
+Run #1032 · Updated: 14/10/2026, 00:56:08 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,57 +16,57 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Carrick — 22/100
+### Jerry Jeudy — 22/100
 
-**Event:** Michael Carrick: No timeline for Benjamin Sesko's Man United return
+**Event:** Jerry Jeudy: has disappeared from Browns offense: Five teams that could trade for WR
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Carrick michael carrick: atlético madrid vs. man united live: champions league updates as michael carrick looks to end barren run filings actually say — line by line — the other side of the fight
+> What the Jerry Jeudy jerry jeudy: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Mark Harmon — 22/100
+### Josh Allen — 13/100
 
-**Event:** Mark Harmon: What To Watch Tuesday: Mark Harmon, Michael Weatherly, And LL COOL J Return To The NCIS Franchise
+**Event:** Josh Allen: injury
 
-**Why now:** 2 source lane(s): news, trends · momentum 27 (+4 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mark Harmon mark harmon: michael weatherly ncis origins filings actually say — line by line — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** KEPT
-
-### Michael Weatherly — 23/100
-
-**Event:** Michael Weatherly: Will Tony & Gibbs Reunite? Michael Weatherly Teases ‘NCIS’ Crossover
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-23 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Weatherly michael weatherly: mark harmon michael weatherly ncis origins filings actually say — line by line — the other side of the fight
+> What the Josh Allen josh allen: buffalo bills trade for former afc pro bowler in proposed idea that would make life easier for josh allen filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Austin Stowell — 19/100
+### Carlos Baleba — 22/100
 
-**Event:** Austin Stowell: 'NCIS: Origins': Could Austin Stowell & Mark Harmon's Versions of Gibbs Share the Screen in Season 3?
+**Event:** Carlos Baleba: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-8 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Austin Stowell austin stowell: mark harmon and austin stowell on playing different eras of "ncis" character leroy jethro gibbs filings actually say — line by line — the other side of the fight
+> The Carlos Baleba carlos baleba: man united desperately need carlos baleba to deliver as panic creeps in story is actually a money story — the other side of the fight
+
+**Competition:** 19 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Will Carlos — 22/100
+
+**Event:** Will Carlos: Baleba fix Manchester United? Three big questions ahead of potential debut
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Will Carlos will carlos: baleba fix manchester united? three big questions ahead of potential debut filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
