@@ -1,0 +1,16 @@
+{
+  "runNo": 1043,
+  "at": "2026-10-13T22:18:53.520Z",
+  "rows": [
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
