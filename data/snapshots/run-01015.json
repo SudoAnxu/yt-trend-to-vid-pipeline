@@ -1,0 +1,16 @@
+{
+  "runNo": 1015,
+  "at": "2026-10-13T11:16:48.392Z",
+  "rows": [
+    {
+      "event": "story-jimmy-kimmel",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
