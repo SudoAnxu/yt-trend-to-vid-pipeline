@@ -1,0 +1,16 @@
+{
+  "runNo": 1030,
+  "at": "2026-10-13T18:24:44.504Z",
+  "rows": [
+    {
+      "event": "story-michael-carrick",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
