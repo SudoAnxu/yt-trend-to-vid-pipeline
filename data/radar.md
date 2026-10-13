@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1019 · Updated: 13/10/2026, 19:23:40 (Asia/Kolkata)
+Run #1020 · Updated: 13/10/2026, 19:58:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Martin Shkreli — 30/100
+### Jack Harvey — 33/100
 
-**Event:** Martin Shkreli: violated lifetime pharma industry ban, FTC and states say in contempt claim
+**Event:** Jack Harvey: 'Let's fight' | IndyCar driver Jack Harvey diagnosed with cancer, still plans to compete in 2027
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Martin Shkreli martin shkreli: violated lifetime pharma industry ban, ftc and states say in contempt claim story is actually a money story — what happens next
+> What the Jack Harvey jack harvey: 'let's fight' | indycar driver jack harvey diagnosed with cancer, still plans to compete in 2027 filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Jon Cryer — 29/100
+### Officially Returns With — 19/100
 
-**Event:** Jon Cryer: 'Two and a Half Men' creator says network feared Jon Cryer would be 'death of comedy'
+**Event:** Officially Returns With: Netflix's 4-Part House Of Cards Replacement Thriller Officially Returns With New Episodes This Week
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jon Cryer situation is weirder than the clips suggest — the other side of the fight
+> What the Officially Returns With officially returns with: netflix's 4-part house of cards replacement thriller officially returns with new episodes this week filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
