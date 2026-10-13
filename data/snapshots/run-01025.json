@@ -1,0 +1,16 @@
+{
+  "runNo": 1025,
+  "at": "2026-10-13T16:29:48.600Z",
+  "rows": [
+    {
+      "event": "story-joe-espada",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
