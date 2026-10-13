@@ -1,0 +1,16 @@
+{
+  "runNo": 1021,
+  "at": "2026-10-13T14:43:34.633Z",
+  "rows": [
+    {
+      "event": "story-jack-harvey",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
