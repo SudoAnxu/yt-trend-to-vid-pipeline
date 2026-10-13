@@ -1,0 +1,23 @@
+{
+  "runNo": 1026,
+  "at": "2026-10-13T17:02:21.178Z",
+  "rows": [
+    {
+      "event": "story-jennifer-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-lawrence-once",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
