@@ -1,0 +1,30 @@
+{
+  "runNo": 1035,
+  "at": "2026-10-13T20:01:24.698Z",
+  "rows": [
+    {
+      "event": "story-james-franco",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-eli-lilly",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
