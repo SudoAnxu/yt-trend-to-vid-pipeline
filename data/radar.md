@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1000 · Updated: 13/10/2026, 07:38:21 (Asia/Kolkata)
+Run #1001 · Updated: 13/10/2026, 08:00:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,65 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Nick Saban — 18/100
+### Jennifer Meyer — 22/100
 
-**Event:** Nick Saban: trending now
+**Event:** Jennifer Meyer: Geoff Ogunlesi: Bayo Ogunlesi son marry American jewelry designer Jennifer Meyer
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Nick Saban nick saban: says ‘the tide will dominate’ against georgia story is actually a money story — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Mike Evans — 13/100
-
-**Event:** Mike Evans: Injury 49ers
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Mike Evans mike evans: should the rams have made a bigger push for mike evans? filings actually say — line by line — the other side of the fight
+> What the Jennifer Meyer jennifer meyer: geoff ogunlesi: bayo ogunlesi son marry american jewelry designer jennifer meyer filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Terry Pluto — 18/100
+
+**Event:** Terry Pluto: No LeBron? Cavs’ big summer move for Peyton Watson might be the right one – Terry Pluto
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Terry Pluto terry pluto: guardians fans, how about some love for patrick bailey! – terry pluto story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
+
+### Lee Jones — 23/100
+
+**Event:** Lee Jones: tommy lee jones
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Lee Jones lee jones: tommy lee jones story is actually a money story — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Fighter Cast — 23/100
+
+**Event:** Fighter Cast: Round One, Fight! The Street Fighter Cast Choose Their Fighters & reveal who would win
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Fighter Cast fighter cast: round one, fight! the street fighter cast choose their fighters & reveal who would win filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
