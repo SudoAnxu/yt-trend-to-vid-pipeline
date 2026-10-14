@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1072 · Updated: 14/10/2026, 19:27:59 (Asia/Kolkata)
+Run #1073 · Updated: 14/10/2026, 19:35:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mark Your — 19/100
+### Ryan Cohen — 19/100
 
-**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
+**Event:** Ryan Cohen: Form 4 GameStop Corp: Ryan Cohen (Director, President, CEO and Chairman) For: 2 October
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mark Your mark your: dear netflix stock fans, mark your calendars for october 20 filings actually say — line by line — the other side of the fight
+> What the Ryan Cohen ryan cohen: gme rises after hours as ryan cohen buys another 844k shares worth near $23m filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
+
+### Justin Gaethje — 18/100
+
+**Event:** Justin Gaethje: ilia topuria ufc
+
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Justin Gaethje justin gaethje: charles oliveira: justin gaethje not getting paid white house money again, needs to decide on retirement story is actually a money story — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
