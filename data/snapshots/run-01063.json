@@ -1,0 +1,30 @@
+{
+  "runNo": 1063,
+  "at": "2026-10-14T09:07:37.365Z",
+  "rows": [
+    {
+      "event": "story-danny-trejo",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-danny-trejo-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ben-shapiro",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1062 · Updated: 14/10/2026, 14:28:51 (Asia/Kolkata)
+Run #1063 · Updated: 14/10/2026, 14:37:37 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,7 +12,7 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Danny Trejo: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +30,25 @@ Sources this run: trends(39)
 
 **Status:** KEPT
 
+### Danny Trejo's — 21/100
+
+**Event:** Danny Trejo's: Danny Trejo’s Son Claims Actor “Never Heard” Of Ben Shapiro Until 2 Weeks Into ICE Film Production: “He’s Hand
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Danny Trejo's story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
 ### Ben Shapiro — 21/100
 
 **Event:** Ben Shapiro: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
