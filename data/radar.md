@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1089 · Updated: 15/10/2026, 02:03:22 (Asia/Kolkata)
+Run #1090 · Updated: 15/10/2026, 02:21:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tom Pelphrey — 22/100
+### Hayden Winks' — 19/100
 
-**Event:** Tom Pelphrey: Kaley Cuoco Welcomes Her Baby Girl, Philomena, with Fiancé Tom Pelphrey and Shares Intimate Hospital Photos
+**Event:** Hayden Winks': Fantasy Football Rankings: Hayden Winks' QB, TE, D/ST, kicker Blueprint for Week 6
 
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Tom Pelphrey tom pelphrey: kaley cuoco welcomes her baby girl, philomena, with fiancé tom pelphrey and shares intimate hospital photos filings actually say — line by line — the other side of the fight
+> What the Hayden Winks' hayden winks': fantasy football rankings: hayden winks' qb, te, d/st, kicker blueprint for week 6 filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 2.6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
