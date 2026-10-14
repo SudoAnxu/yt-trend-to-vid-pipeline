@@ -1,0 +1,23 @@
+{
+  "runNo": 1080,
+  "at": "2026-10-14T17:27:27.088Z",
+  "rows": [
+    {
+      "event": "story-bradley-barcola",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-abrams",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
