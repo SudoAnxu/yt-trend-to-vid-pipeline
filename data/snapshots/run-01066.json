@@ -1,0 +1,16 @@
+{
+  "runNo": 1066,
+  "at": "2026-10-14T10:30:48.844Z",
+  "rows": [
+    {
+      "event": "story-jose-ramirez",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
