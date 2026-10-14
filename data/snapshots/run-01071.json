@@ -1,0 +1,16 @@
+{
+  "runNo": 1071,
+  "at": "2026-10-14T13:23:17.000Z",
+  "rows": [
+    {
+      "event": "story-don-mattingly",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
