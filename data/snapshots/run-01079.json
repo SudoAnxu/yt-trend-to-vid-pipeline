@@ -1,0 +1,51 @@
+{
+  "runNo": 1079,
+  "at": "2026-10-14T16:09:03.784Z",
+  "rows": [
+    {
+      "event": "story-joe-espada",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-don-mattingly",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen-s",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-martin-garrix",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

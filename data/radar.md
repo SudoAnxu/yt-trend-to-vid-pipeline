@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1078 · Updated: 14/10/2026, 21:23:12 (Asia/Kolkata)
+Run #1079 · Updated: 14/10/2026, 21:39:04 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Joe Espada — 24/100
+### Joe Espada — 25/100
 
 **Event:** Joe Espada: Astros Manager Joe Espada to Interview with AL West Rival
 
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (-5 vs prev run) · spice 10 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Joe Espada joe espada: astros will not renew contract of manager joe espada filings actually say — line by line — the number behind the headline
+> The Joe Espada filing that will matter in six months — the number behind the headline
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 16h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Don Mattingly — 17/100
+
+**Event:** Don Mattingly: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Don Mattingly don mattingly: mariners news: joe espada, josé ramírez, and don mattingly filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Sean — 19/100
+
+**Event:** Sean: ‘Diddy’ Combs’ release date takes major hit after reports of lavish life behind bars
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Sean sean: exclusive | cause of sean ‘diddy’ combs’ head injury that sent him to hospital revealed filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
 
 ### Josh Allen — 15/100
 
@@ -58,31 +86,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jason Kelce — 15/100
+### Martin Garrix — 19/100
 
-**Event:** Jason Kelce: trending now
+**Event:** Martin Garrix: , Calvin Harris and More Confirmed for Ultra 2027: See the Phase 1 Lineup
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jason Kelce jason kelce: kylie and jason kelce family routine filings actually say — line by line — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jason Kelce's — 21/100
-
-**Event:** Jason Kelce's: Travis Kelce and Jason Kelce’s $200 million brand announces unusual wedding opportunity as the TE remains
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jason Kelce's jason kelce's: kylie kelce reveals her nanny setup for her and jason kelce’s 4 children filings actually say — line by line — the detail nobody has explained
+> What the Martin Garrix martin garrix: , calvin harris and more confirmed for ultra 2027: see the phase 1 lineup filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
