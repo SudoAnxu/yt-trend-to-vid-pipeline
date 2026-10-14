@@ -1,0 +1,30 @@
+{
+  "runNo": 1088,
+  "at": "2026-10-14T20:17:31.597Z",
+  "rows": [
+    {
+      "event": "story-tom-pelphrey",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-man-city-host",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-city-host",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
