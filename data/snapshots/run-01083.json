@@ -1,0 +1,51 @@
+{
+  "runNo": 1083,
+  "at": "2026-10-14T18:15:48.127Z",
+  "rows": [
+    {
+      "event": "story-jeff-kaplan",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-nantz",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-tony-romo",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-tony-romo-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-michelle-parker",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
