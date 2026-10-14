@@ -1,0 +1,37 @@
+{
+  "runNo": 1056,
+  "at": "2026-10-14T05:06:10.158Z",
+  "rows": [
+    {
+      "event": "story-jessica-pegula",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-horry",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-rafael-jodar",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
