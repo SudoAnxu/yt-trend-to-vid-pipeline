@@ -1,0 +1,30 @@
+{
+  "runNo": 1067,
+  "at": "2026-10-14T11:30:48.939Z",
+  "rows": [
+    {
+      "event": "story-sean",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-hetfield",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-raiola",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
