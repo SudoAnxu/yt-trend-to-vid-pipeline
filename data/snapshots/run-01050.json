@@ -1,0 +1,44 @@
+{
+  "runNo": 1050,
+  "at": "2026-10-14T00:29:42.195Z",
+  "rows": [
+    {
+      "event": "story-luis-francischinelli",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-weatherly",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-harmon",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-buck-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
