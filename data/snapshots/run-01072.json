@@ -1,0 +1,16 @@
+{
+  "runNo": 1072,
+  "at": "2026-10-14T13:57:59.305Z",
+  "rows": [
+    {
+      "event": "story-mark-your",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
