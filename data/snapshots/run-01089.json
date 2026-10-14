@@ -1,0 +1,16 @@
+{
+  "runNo": 1089,
+  "at": "2026-10-14T20:33:21.972Z",
+  "rows": [
+    {
+      "event": "story-tom-pelphrey",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
