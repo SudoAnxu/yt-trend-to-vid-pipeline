@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1054 · Updated: 14/10/2026, 07:34:11 (Asia/Kolkata)
+Run #1055 · Updated: 14/10/2026, 09:11:25 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Jimmy Kimmel — 16/100
-
-**Event:** Jimmy Kimmel: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-13 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jimmy Kimmel story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Dylan Garand — 19/100
-
-**Event:** Dylan Garand: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+11 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Dylan Garand dylan garand: ny rangers' dylan garand faces first major test against lightning story is actually a money story — what happens next
-
-**Competition:** 2 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
