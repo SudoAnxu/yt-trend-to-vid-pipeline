@@ -1,0 +1,44 @@
+{
+  "runNo": 1052,
+  "at": "2026-10-14T01:20:42.009Z",
+  "rows": [
+    {
+      "event": "story-brian-austin",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-green",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-wiseman",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-riley-green",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-levine",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
