@@ -1,0 +1,23 @@
+{
+  "runNo": 1049,
+  "at": "2026-10-14T00:14:23.072Z",
+  "rows": [
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-connor-bedard",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
