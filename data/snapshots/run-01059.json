@@ -1,0 +1,44 @@
+{
+  "runNo": 1059,
+  "at": "2026-10-14T06:57:42.393Z",
+  "rows": [
+    {
+      "event": "story-felix-auger",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    },
+    {
+      "event": "story-hugh-jackman",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-jessica-pegula",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-mean-girls-director",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-girls-director",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
