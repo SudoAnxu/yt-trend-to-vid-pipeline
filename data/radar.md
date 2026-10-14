@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1061 · Updated: 14/10/2026, 13:38:30 (Asia/Kolkata)
+Run #1062 · Updated: 14/10/2026, 14:28:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Danny Trejo: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+1 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Ben Shapiro: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
