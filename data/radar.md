@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1057 · Updated: 14/10/2026, 11:25:26 (Asia/Kolkata)
+Run #1058 · Updated: 14/10/2026, 11:47:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,37 +12,51 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jim Cramer — 22/100
+### Felix Auger — 17/100
 
-**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
+**Event:** Felix Auger: aliassime
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jim Cramer jim cramer: bucks all the stock market negativity with 3 buy recommendations filings actually say — line by line — the other side of the fight
+> What the Felix Auger felix auger: aliassime filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Alexander Bublik — 19/100
+### Hugh Jackman — 19/100
 
-**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
+**Event:** Hugh Jackman: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (-5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Alexander Bublik story is a proxy fight about something bigger — the other side of the fight
+> The Hugh Jackman story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Jessica Pegula — 24/100
+
+**Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
+
+**Why now:** 1 source lane(s): news · momentum 23 (-10 vs prev run) · spice 9 · risk 64 · external momentum 23 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jessica Pegula situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.7h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
