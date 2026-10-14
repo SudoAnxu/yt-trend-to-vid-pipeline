@@ -1,0 +1,37 @@
+{
+  "runNo": 1064,
+  "at": "2026-10-14T09:41:09.584Z",
+  "rows": [
+    {
+      "event": "story-mike-vrabel",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-danny-trejo",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-danny-trejo-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ben-shapiro",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
