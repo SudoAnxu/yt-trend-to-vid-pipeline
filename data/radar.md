@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1073 · Updated: 14/10/2026, 19:35:51 (Asia/Kolkata)
+Run #1074 · Updated: 14/10/2026, 20:05:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Ryan Cohen — 19/100
+### Nicholas Mugalli — 19/100
 
-**Event:** Ryan Cohen: Form 4 GameStop Corp: Ryan Cohen (Director, President, CEO and Chairman) For: 2 October
+**Event:** Nicholas Mugalli: EXCLUSIVE: SanDisk Has ‘More Upside,’ Says Nicholas Mugalli — His $3,000 Target Implies a 102% Rally for SNDK
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Ryan Cohen ryan cohen: gme rises after hours as ryan cohen buys another 844k shares worth near $23m filings actually say — line by line — the other side of the fight
+> What the Nicholas Mugalli nicholas mugalli: exclusive: sandisk has ‘more upside,’ says nicholas mugalli — his $3,000 target implies a 102% rally for sndk filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Justin Gaethje — 18/100
-
-**Event:** Justin Gaethje: ilia topuria ufc
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Gaethje justin gaethje: charles oliveira: justin gaethje not getting paid white house money again, needs to decide on retirement story is actually a money story — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>

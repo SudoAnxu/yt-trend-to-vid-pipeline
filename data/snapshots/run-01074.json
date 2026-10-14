@@ -1,0 +1,16 @@
+{
+  "runNo": 1074,
+  "at": "2026-10-14T14:35:25.718Z",
+  "rows": [
+    {
+      "event": "story-nicholas-mugalli",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
