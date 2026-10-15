@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1127 · Updated: 15/10/2026, 21:27:02 (Asia/Kolkata)
+Run #1128 · Updated: 15/10/2026, 22:44:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kirk Herbstreit — 19/100
+### Michael Vick — 16/100
 
-**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
+**Event:** Michael Vick: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kirk Herbstreit kirk herbstreit: makes stance clear after controversial georgia-alabama game filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Olivia Miles — 16/100
-
-**Event:** Olivia Miles: Live: Lynx can clinch No. 1 playoff seed vs. Caitlin Clark and the Fever. Will Olivia Miles play?
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Olivia Miles story is a proxy fight about something bigger — the other side of the fight
+> The Michael Vick story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Will Shipley — 21/100
+
+**Event:** Will Shipley: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 18.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Will Shipley filing that will matter in six months — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 18.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
