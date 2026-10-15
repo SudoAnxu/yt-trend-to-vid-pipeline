@@ -1,0 +1,16 @@
+{
+  "runNo": 1117,
+  "at": "2026-10-15T12:21:57.867Z",
+  "rows": [
+    {
+      "event": "story-james-talarico",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
