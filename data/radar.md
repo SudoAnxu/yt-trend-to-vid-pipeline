@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1136 · Updated: 16/10/2026, 01:28:49 (Asia/Kolkata)
+Run #1137 · Updated: 16/10/2026, 01:45:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### James Hetfield — 17/100
+### David Prevatte — 17/100
 
-**Event:** James Hetfield: new hairstyle vegas
+**Event:** David Prevatte: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The James Hetfield james hetfield: metallica frontman james hetfield blasts entertainers pushing political agendas at concerts story is actually a money story — the other side of the fight
+> What the David Prevatte david prevatte: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

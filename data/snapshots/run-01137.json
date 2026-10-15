@@ -1,0 +1,16 @@
+{
+  "runNo": 1137,
+  "at": "2026-10-15T20:15:21.929Z",
+  "rows": [
+    {
+      "event": "story-david-prevatte",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
