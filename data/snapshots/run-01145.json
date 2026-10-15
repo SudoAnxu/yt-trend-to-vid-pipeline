@@ -1,0 +1,37 @@
+{
+  "runNo": 1145,
+  "at": "2026-10-15T23:38:21.841Z",
+  "rows": [
+    {
+      "event": "story-louis-blues",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-his-hit-show",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-hayden-panettiere-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-hayden-panettiere",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
