@@ -1,0 +1,23 @@
+{
+  "runNo": 1129,
+  "at": "2026-10-15T17:34:52.404Z",
+  "rows": [
+    {
+      "event": "story-sean-mannion",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-shipley",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
