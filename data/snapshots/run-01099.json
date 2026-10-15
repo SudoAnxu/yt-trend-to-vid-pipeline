@@ -1,0 +1,16 @@
+{
+  "runNo": 1099,
+  "at": "2026-10-15T00:17:16.028Z",
+  "rows": [
+    {
+      "event": "story-tyler-glasnow",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
