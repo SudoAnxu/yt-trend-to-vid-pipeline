@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1108 · Updated: 15/10/2026, 13:10:45 (Asia/Kolkata)
+Run #1109 · Updated: 15/10/2026, 13:19:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Rachel Weisz — 29/100
+### Rachel Weisz — 23/100
 
 **Event:** Rachel Weisz: The Mummy 4 Set Photos Offer First Look at Brendan Fraser & Rachel Weisz Reunion
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Rachel Weisz story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Brandon Aiyuk — 26/100
+### Brandon Aiyuk — 20/100
 
 **Event:** Brandon Aiyuk: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Brandon Aiyuk brandon aiyuk: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Adam Peters: 5 questions with Andrew York of Hogs Haven: How is Adam Peters viewed three years in?
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### James Talarico — 24/100
+### James Talarico — 21/100
 
 **Event:** James Talarico: ken paxton james talarico polls
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+5 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-9 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Mia Pohankova: vs Maria Sakkari LIVE Streaming, Wuhan Open Tennis: Start Time, Prediction, Where to Watch In India, USA And W
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -90,13 +90,13 @@ Sources this run: trends(40)
 
 **Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Alexander Bublik story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -104,7 +104,7 @@ Sources this run: trends(40)
 
 **Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 

@@ -1,0 +1,58 @@
+{
+  "runNo": 1109,
+  "at": "2026-10-15T07:49:37.849Z",
+  "rows": [
+    {
+      "event": "story-rachel-weisz",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-aiyuk",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-peters",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-james-talarico",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-mia-pohankova",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-nakashima",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
