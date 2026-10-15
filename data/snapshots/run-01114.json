@@ -1,0 +1,16 @@
+{
+  "runNo": 1114,
+  "at": "2026-10-15T10:14:31.396Z",
+  "rows": [
+    {
+      "event": "story-billy-crystal",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
