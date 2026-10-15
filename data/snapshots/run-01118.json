@@ -1,0 +1,44 @@
+{
+  "runNo": 1118,
+  "at": "2026-10-15T12:46:19.097Z",
+  "rows": [
+    {
+      "event": "story-bradley-whitford",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-sorkin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-blyth",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-his-hit-show",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-lorre-says-his",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
