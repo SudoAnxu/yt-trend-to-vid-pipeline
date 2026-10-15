@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1114 · Updated: 15/10/2026, 15:44:31 (Asia/Kolkata)
+Run #1115 · Updated: 15/10/2026, 16:38:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Billy Crystal — 18/100
+### Gavin Williams — 23/100
 
-**Event:** Billy Crystal: trending now
+**Event:** Gavin Williams: on starting ALCS Game 3
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Billy Crystal billy crystal: doesn’t trust god after pacific palisades fire and rob reiner’s death story is actually a money story — the other side of the fight
+> The Gavin Williams story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 8.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>
