@@ -1,0 +1,16 @@
+{
+  "runNo": 1135,
+  "at": "2026-10-15T19:34:28.225Z",
+  "rows": [
+    {
+      "event": "story-james-hetfield",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
