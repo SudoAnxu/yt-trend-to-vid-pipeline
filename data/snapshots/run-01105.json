@@ -1,0 +1,30 @@
+{
+  "runNo": 1105,
+  "at": "2026-10-15T05:39:52.636Z",
+  "rows": [
+    {
+      "event": "story-kevin-durant",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jon-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-mia-pohankova",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
