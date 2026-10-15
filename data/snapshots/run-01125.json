@@ -1,0 +1,51 @@
+{
+  "runNo": 1125,
+  "at": "2026-10-15T15:31:08.012Z",
+  "rows": [
+    {
+      "event": "story-olivia-miles",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-victor-wembanyama",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-gierke-passes-away",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-carlos-mendoza",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-long",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-bobby-dickerson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
