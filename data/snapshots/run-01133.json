@@ -1,0 +1,37 @@
+{
+  "runNo": 1133,
+  "at": "2026-10-15T18:51:08.624Z",
+  "rows": [
+    {
+      "event": "story-angel-martinez",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jessica-simpson",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-lachey",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-diego-county",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
