@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1125 · Updated: 15/10/2026, 21:01:08 (Asia/Kolkata)
+Run #1126 · Updated: 15/10/2026, 21:10:27 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Olivia Miles: Live: Lynx can clinch No. 1 playoff seed vs. Caitlin Clark and the Fever. Will Olivia Miles play?
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +30,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Victor Wembanyama — 13/100
+### James Sends Message — 23/100
+
+**Event:** James Sends Message: "They Be Cheating": LeBron James Sends Message to Chet Holmgren Over Victor Wembanyama Rivalry
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the James Sends Message james sends message: "they be cheating": lebron james sends message to chet holmgren over victor wembanyama rivalry filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Victor Wembanyama — 14/100
 
 **Event:** Victor Wembanyama: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Gierke Passes Away: Women's Physique IFBB Pro Marianne von Gierke Passes Away Weeks After 13th-Place Finish at 2026 Mr. Olympia
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Carlos Mendoza — 21/100
+### Carlos Mendoza — 20/100
 
 **Event:** Carlos Mendoza: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -76,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Kevin Long: Phillies moving on from hitting coach Kevin Long
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -90,11 +104,25 @@ Sources this run: trends(40)
 
 **Event:** Bobby Dickerson: Phillies fire hitting coach Kevin Long, infield coach Bobby Dickerson: Sources
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Bobby Dickerson bobby dickerson: phillies fire hitting coach kevin long, infield coach bobby dickerson: sources filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Don Mattingly's — 19/100
+
+**Event:** Don Mattingly's: Phillies Hire Former Mets Manager Carlos Mendoza to Don Mattingly's Coaching Staff After Firings
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Don Mattingly's don mattingly's: phillies hire former mets manager carlos mendoza to don mattingly's coaching staff after firings filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
