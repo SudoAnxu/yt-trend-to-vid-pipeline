@@ -1,0 +1,16 @@
+{
+  "runNo": 1101,
+  "at": "2026-10-15T01:13:14.089Z",
+  "rows": [
+    {
+      "event": "story-kevin-long",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

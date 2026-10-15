@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1100 · Updated: 15/10/2026, 06:14:40 (Asia/Kolkata)
+Run #1101 · Updated: 15/10/2026, 06:43:14 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(36)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Robert Gasser — 20/100
+### Kevin Long — 19/100
 
-**Event:** Robert Gasser: Pat Murphy Facing Chad Patrick, Robert Gasser Decision After NLDS Loss to Padres
+**Event:** Kevin Long: Phillies moving on from hitting coach Kevin Long
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Robert Gasser story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### James Talarico — 18/100
-
-**Event:** James Talarico: ken paxton james talarico polls
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the James Talarico james talarico: trending now filings actually say — line by line — the other side of the fight
+> What the Kevin Long kevin long: phillies moving on from hitting coach kevin long filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** BOOSTED
+**Status:** RESEARCH
 
 
 </details>
