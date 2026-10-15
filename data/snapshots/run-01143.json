@@ -1,0 +1,16 @@
+{
+  "runNo": 1143,
+  "at": "2026-10-15T22:56:47.247Z",
+  "rows": [
+    {
+      "event": "story-steven-soderbergh",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
