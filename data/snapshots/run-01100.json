@@ -1,0 +1,23 @@
+{
+  "runNo": 1100,
+  "at": "2026-10-15T00:44:39.579Z",
+  "rows": [
+    {
+      "event": "story-robert-gasser",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-talarico",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

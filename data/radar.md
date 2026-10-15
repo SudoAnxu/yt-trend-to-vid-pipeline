@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1099 · Updated: 15/10/2026, 05:47:16 (Asia/Kolkata)
+Run #1100 · Updated: 15/10/2026, 06:14:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Tyler Glasnow — 14/100
+### Robert Gasser — 20/100
 
-**Event:** Tyler Glasnow: Braves vs. Dodgers NLDS Game 4 Chat and Discussion: Tyler Mahle vs. Tyler Glasnow
+**Event:** Robert Gasser: Pat Murphy Facing Chad Patrick, Robert Gasser Decision After NLDS Loss to Padres
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Tyler Glasnow tyler glasnow: commentary: dodgers send sos to blake snell and tyler glasnow: save our season filings actually say — line by line — the other side of the fight
+> The Robert Gasser story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### James Talarico — 18/100
+
+**Event:** James Talarico: ken paxton james talarico polls
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the James Talarico james talarico: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+
+**Status:** BOOSTED
 
 
 </details>
