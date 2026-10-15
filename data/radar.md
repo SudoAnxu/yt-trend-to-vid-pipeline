@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1131 · Updated: 15/10/2026, 23:27:49 (Asia/Kolkata)
+Run #1132 · Updated: 15/10/2026, 23:55:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Dylan Dreyer — 20/100
+### Diego County — 19/100
 
-**Event:** Dylan Dreyer: Jenna Bush Hager and Sheinelle Jones Call Out Dylan Dreyer on Today for Crashing Their Live Show to Eat a Sala
+**Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
 
-**Why now:** 2 source lane(s): news, trends · momentum 34 (+15 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 31 (+14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Dylan Dreyer dylan dreyer: ‘today’s dylan dreyer appears to confirm divorce finalization from brian fichera story is actually a money story — what happens next
+> What the Diego County diego county: high wind warning issued in san diego county | what residents should know filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 22 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** BOOSTED
 
-### Austin Butler — 17/100
+### Shane Drohan — 30/100
 
-**Event:** Austin Butler: See Michael B. Jordan, Austin Butler in 1st look at 'Miami Vice '85'
+**Event:** Shane Drohan: Source: Brewers Plan to Start Rookie Shane Drohan in Game 4 vs. Dodgers
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Austin Butler austin butler: see michael b. jordan, austin butler in 1st look at 'miami vice '85' filings actually say — line by line — the other side of the fight
+> The Shane Drohan story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
