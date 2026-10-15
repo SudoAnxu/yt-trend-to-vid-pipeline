@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1141 · Updated: 16/10/2026, 03:22:03 (Asia/Kolkata)
+Run #1142 · Updated: 16/10/2026, 04:01:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,79 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Justin Boone's — 19/100
+### Patrick Surtain — 18/100
 
-**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+**Event:** Patrick Surtain: II injury update: Latest news on Broncos CB's non-contact issue vs. 49ers
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Justin Boone's justin boone's: 2026 trade value charts — justin boone's fantasy football running back breakdown for week 6 filings actually say — line by line — the other side of the fight
+> The Patrick Surtain patrick surtain: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
+**Competition:** 12 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Malik Nabers — 14/100
+### Joe Buck — 28/100
 
-**Event:** Malik Nabers: Giants vs. Commanders live updates: Malik Nabers TD forces overtime
+**Event:** Joe Buck: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Malik Nabers malik nabers: dave richard's week 6 trade chart and rest of season rankings: malik nabers re-enters the top-12 wr discussion filings actually say — line by line — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Karl Rove — 22/100
-
-**Event:** Karl Rove: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+9 vs prev run) · spice 25 · risk 64 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Karl Rove filing that will matter in six months — the other side of the fight
+> The Joe Buck situation is weirder than the clips suggest — the number behind the headline
 
-**Competition:** 2 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 23 videos in last 6h · TTS ≈ 4.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ken Paxton — 19/100
+### Jimmy Kimmel — 22/100
 
-**Event:** Ken Paxton: trending now
+**Event:** Jimmy Kimmel: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-10 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ken Paxton filing that will matter in six months — the other side of the fight
+> The Jimmy Kimmel story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Anthony Joshua — 19/100
+### Josh Hartnett — 18/100
 
-**Event:** Anthony Joshua: Lennox Lewis has made his Tyson Fury vs Anthony Joshua prediction: "He's leading the way"
+**Event:** Josh Hartnett: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Anthony Joshua anthony joshua: lennox lewis has made his tyson fury vs anthony joshua prediction: "he's leading the way" filings actually say — line by line — the other side of the fight
+> The Josh Hartnett story is a proxy fight about something bigger — the part that was not supposed to be public
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 16 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
