@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1106 · Updated: 15/10/2026, 11:29:10 (Asia/Kolkata)
+Run #1107 · Updated: 15/10/2026, 12:19:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,31 +16,31 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Kevin Durant — 17/100
+### Alexander Bublik — 24/100
 
-**Event:** Kevin Durant: trending now
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+9 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kevin Durant story is a proxy fight about something bigger — the other side of the fight
+> The Alexander Bublik story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jon Jones — 18/100
+### Brandon Nakashima — 19/100
 
-**Event:** Jon Jones: Compares Gable Steveson’s 12-Second Knockout Loss to Georges St-Pierre’s Shocking Upset Against Matt Serra
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jon Jones jon jones: compares gable steveson’s 12-second knockout loss to georges st-pierre’s shocking upset against matt serra story is actually a money story — the part that was not supposed to be public
+> What the Brandon Nakashima brandon nakashima: alexander bublik brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
