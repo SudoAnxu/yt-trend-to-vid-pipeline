@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1119 · Updated: 15/10/2026, 18:39:13 (Asia/Kolkata)
+Run #1120 · Updated: 15/10/2026, 19:08:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Alexander Bublik — 23/100
+
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Alexander Bublik story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Brandon Nakashima — 19/100
+
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
+
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Brandon Nakashima brandon nakashima: alexander bublik brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
 ### Shane Gillis — 23/100
 
 **Event:** Shane Gillis: ‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (+7 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (-1 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Bradley Whitford — 20/100
+### Bradley Whitford — 17/100
 
 **Event:** Bradley Whitford: The West Wing Revival TV Show Gets Exciting Tease From Star Bradley Whitford
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,34 +71,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.2h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Aaron Sorkin — 17/100
-
-**Event:** Aaron Sorkin: Officially Confirms ‘The Social Reckoning’ Was Changed Over Legal Concerns
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Aaron Sorkin aaron sorkin: watch: aaron sorkin, bradley whitford, and the cast of a few good men talk new broadway revival filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 4.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Tom Blyth — 18/100
-
-**Event:** Tom Blyth: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tom Blyth tom blyth: makes broadway debut, takes first bow in ‘a few good men’ play filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
