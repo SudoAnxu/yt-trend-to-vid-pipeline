@@ -1,0 +1,30 @@
+{
+  "runNo": 1121,
+  "at": "2026-10-15T13:44:38.956Z",
+  "rows": [
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-nakashima",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-michelle-tafoya",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

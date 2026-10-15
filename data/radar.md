@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1120 · Updated: 15/10/2026, 19:08:04 (Asia/Kolkata)
+Run #1121 · Updated: 15/10/2026, 19:14:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Alexander Bublik story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 7h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -42,35 +42,21 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
+**Status:** KEPT
+
+### Michelle Tafoya — 17/100
+
+**Event:** Michelle Tafoya: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Michelle Tafoya michelle tafoya: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
 **Status:** RESEARCH
-
-### Shane Gillis — 23/100
-
-**Event:** Shane Gillis: ‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch
-
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-1 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Shane Gillis shane gillis: faces backlash over ‘s.n.l.’ monologue filings actually say — line by line — what happens next
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Bradley Whitford — 17/100
-
-**Event:** Bradley Whitford: The West Wing Revival TV Show Gets Exciting Tease From Star Bradley Whitford
-
-**Why now:** 2 source lane(s): news, trends · momentum 5 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Bradley Whitford bradley whitford: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.2h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
