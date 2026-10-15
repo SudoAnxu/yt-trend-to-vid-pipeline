@@ -1,0 +1,44 @@
+{
+  "runNo": 1102,
+  "at": "2026-10-15T01:39:07.031Z",
+  "rows": [
+    {
+      "event": "story-miguel-rojas",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 34,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-altman",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-tyson",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-jake-paul",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
