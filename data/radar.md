@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1145 · Updated: 16/10/2026, 05:08:22 (Asia/Kolkata)
+Run #1146 · Updated: 16/10/2026, 05:15:39 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Louis Blues — 19/100
+### Sam Darnold — 16/100
 
-**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
+**Event:** Sam Darnold: seahawks sam darnold
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Louis Blues louis blues: projected lineup: oct. 15 at minnesota | st. louis blues filings actually say — line by line — the other side of the fight
+> What the Sam Darnold sam darnold: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Sam Darnold's — 18/100
+
+**Event:** Sam Darnold's: Sam Darnold’s Wife Revealed Personal News Before 2026 Season
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Sam Darnold's sam darnold's: sam darnold’s wife revealed personal news before 2026 season filings actually say — line by line — the other side of the fight
+
+**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** His Hit Show: TV Legend Torches Sitcom Star for Quitting His Hit Show
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,33 +58,19 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Hayden Panettiere's — 15/100
+### Louis Blues — 19/100
 
-**Event:** Hayden Panettiere's: ex-fiance files petition over daughter's estate
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 1 source lane(s): news · momentum 17 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Hayden Panettiere's hayden panettiere's: 911 audio: frantic scene details hayden panettiere's death in s.c. apartment story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news
-
-**Status:** BOOSTED
-
-### Hayden Panettiere — 13/100
-
-**Event:** Hayden Panettiere: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Hayden Panettiere hayden panettiere: 911 call reveals frantic response at address where hayden panettiere was found unresponsive filings actually say — line by line — the other side of the fight
+> What the Louis Blues louis blues: projected lineup: oct. 15 at minnesota | st. louis blues filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>
