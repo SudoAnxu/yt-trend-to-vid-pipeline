@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1115 · Updated: 15/10/2026, 16:38:10 (Asia/Kolkata)
+Run #1116 · Updated: 15/10/2026, 17:24:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Gavin Williams — 23/100
+### James Talarico — 15/100
 
-**Event:** Gavin Williams: on starting ALCS Game 3
+**Event:** James Talarico: ken paxton james talarico polls
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Gavin Williams story is a proxy fight about something bigger — the other side of the fight
+> What the James Talarico james talarico: jd vance’s gay joke about james talarico draws sharp criticism filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
