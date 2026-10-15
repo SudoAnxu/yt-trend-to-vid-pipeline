@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1110 · Updated: 15/10/2026, 14:02:43 (Asia/Kolkata)
+Run #1111 · Updated: 15/10/2026, 14:11:25 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -20,7 +20,7 @@ Sources this run: trends(38)
 
 **Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
 
-**Why now:** 1 source lane(s): news · momentum 11 (-10 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 11 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,13 +28,13 @@ Sources this run: trends(38)
 
 **Competition:** 3 videos in last 6h · TTS ≈ 3.7h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Jill Strandberg — 19/100
 
 **Event:** Jill Strandberg: Fitness specialist Jill Strandberg helps seniors ‘move and feel strong’ at Elmhurst retirement community
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(38)
 
 **Event:** Brandon Aiyuk: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 0 · risk 64 · external momentum 27 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 0 · risk 64 · external momentum 23 below 45 — watching, not striking
 
 **Recommended angle**
 
