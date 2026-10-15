@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1129 · Updated: 15/10/2026, 23:04:53 (Asia/Kolkata)
+Run #1130 · Updated: 15/10/2026, 23:21:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Sean Mannion — 22/100
+### Austin Butler — 24/100
 
-**Event:** Sean Mannion: is still having a blast despite Eagles’ struggles
+**Event:** Austin Butler: See Michael B. Jordan, Austin Butler in 1st look at 'Miami Vice '85'
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Sean Mannion sean mannion: is still having a blast despite eagles’ struggles filings actually say — line by line — the other side of the fight
+> The Austin Butler story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** RESEARCH
+
+### Thomas Reis'ten — 19/100
+
+**Event:** Thomas Reis'ten: Trabzonspor'da Thomas Reis'ten flaş Muhammed Salah açıklaması!
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Thomas Reis'ten thomas reis'ten: trabzonspor'da thomas reis'ten flaş muhammed salah açıklaması! filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,13 +48,13 @@ Sources this run: trends(40)
 
 **Event:** Will Shipley: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 18.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 18.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Will Shipley filing that will matter in six months — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 18.6h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 18.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
