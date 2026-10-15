@@ -1,0 +1,30 @@
+{
+  "runNo": 1110,
+  "at": "2026-10-15T08:32:42.993Z",
+  "rows": [
+    {
+      "event": "story-jessica-pegula",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-jill-strandberg",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-brandon-aiyuk",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 27,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
