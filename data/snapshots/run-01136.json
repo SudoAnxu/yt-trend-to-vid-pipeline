@@ -1,0 +1,16 @@
+{
+  "runNo": 1136,
+  "at": "2026-10-15T19:58:48.770Z",
+  "rows": [
+    {
+      "event": "story-james-hetfield",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
