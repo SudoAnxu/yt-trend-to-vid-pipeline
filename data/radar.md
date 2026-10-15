@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1137 · Updated: 16/10/2026, 01:45:22 (Asia/Kolkata)
+Run #1138 · Updated: 16/10/2026, 01:57:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### David Prevatte — 17/100
+### David Prevatte — 16/100
 
 **Event:** David Prevatte: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the David Prevatte david prevatte: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 23 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
