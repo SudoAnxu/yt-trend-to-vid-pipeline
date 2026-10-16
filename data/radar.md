@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1173 · Updated: 16/10/2026, 20:45:00 (Asia/Kolkata)
+Run #1174 · Updated: 16/10/2026, 20:55:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Rob Delaney — 28/100
+### Joe Milton — 22/100
+
+**Event:** Joe Milton: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 32 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Joe Milton filing that will matter in six months — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 14h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rob Delaney — 27/100
 
 **Event:** Rob Delaney: and Bel Powley star in new BBC Radio 4 comedy Sober Companion
 
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 5 · risk 34 · external momentum 28 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 5 · risk 34 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,25 +44,25 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Alex Murdaugh — 17/100
+### Alex Murdaugh — 21/100
 
 **Event:** Alex Murdaugh: due back in court amid defense questions about police handling of missing murder weapons
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+6 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alex Murdaugh alex murdaugh: back in court amid defense questions about police handling of missing murder weapons filings actually say — line by line — the detail nobody has explained
+> The Alex Murdaugh filing that will matter in six months — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alex Murdaugh's — 21/100
+### Alex Murdaugh's — 17/100
 
 **Event:** Alex Murdaugh's: defense and prosecutors expect to clash over evidence during pretrial hearing
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -56,7 +70,7 @@ Sources this run: trends(40)
 
 **Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
