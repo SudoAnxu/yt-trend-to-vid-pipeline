@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1174 · Updated: 16/10/2026, 20:55:39 (Asia/Kolkata)
+Run #1175 · Updated: 16/10/2026, 21:15:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,39 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Joe Milton — 22/100
+### Joe Milton — 18/100
 
 **Event:** Joe Milton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 32 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Joe Milton filing that will matter in six months — the other side of the fight
+> What the Joe Milton joe milton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Rob Delaney — 27/100
+### Rob Delaney — 20/100
 
 **Event:** Rob Delaney: and Bel Powley star in new BBC Radio 4 comedy Sober Companion
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 5 · risk 34 · external momentum 25 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 8 (-17 vs prev run) · spice 0 · risk 34 · external momentum 8 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Rob Delaney situation is weirder than the clips suggest — the other side of the fight
+> What the Rob Delaney rob delaney: 'sober companion': bel powley & rob delaney leading bbc sounds podcast filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Alex Murdaugh — 21/100
+### Alex Murdaugh — 20/100
 
 **Event:** Alex Murdaugh: due back in court amid defense questions about police handling of missing murder weapons
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+6 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -58,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Alex Murdaugh's — 17/100
+### Alex Murdaugh's — 18/100
 
 **Event:** Alex Murdaugh's: defense and prosecutors expect to clash over evidence during pretrial hearing
 
-**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+1 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 

@@ -1,0 +1,37 @@
+{
+  "runNo": 1175,
+  "at": "2026-10-16T15:45:15.400Z",
+  "rows": [
+    {
+      "event": "story-joe-milton",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-delaney",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 8,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alex-murdaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-murdaugh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
