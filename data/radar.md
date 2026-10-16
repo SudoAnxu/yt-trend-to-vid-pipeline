@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1179 · Updated: 16/10/2026, 23:17:17 (Asia/Kolkata)
+Run #1180 · Updated: 16/10/2026, 23:43:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Marcus Freeman — 20/100
+### Marcus Freeman — 16/100
 
 **Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -56,21 +56,7 @@ Sources this run: trends(40)
 
 **Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** BOOSTED
-
-### Zach Bryan — 16/100
-
-**Event:** Zach Bryan: sparks debate after wearing 'Free Palestine' shirt at venue that barred Macklemore
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Zach Bryan zach bryan: 2027 goldensky festival lineup includes zach bryan, megan moroney, treaty oak revival filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
-
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
