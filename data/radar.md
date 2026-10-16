@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1180 · Updated: 16/10/2026, 23:43:03 (Asia/Kolkata)
+Run #1181 · Updated: 17/10/2026, 00:05:27 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Matthew Stafford — 14/100
+### Angel Reese's — 19/100
 
-**Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
+**Event:** Angel Reese's: NY Liberty Star Sends Clear Warning After Angel Reese's Blunt Postgame Take On Latest Win
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Matthew Stafford matthew stafford: from the podium: sean mcvay, matthew stafford, davante adams, puka nacua and aaron donald talk turning the pag filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Aaron Donald — 15/100
-
-**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Aaron Donald aaron donald: from the podium: sean mcvay, matthew stafford, davante adams, puka nacua and aaron donald talk turning the pag filings actually say — line by line — the other side of the fight
+> The Angel Reese's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** ARCHIVED
 
-### Marcus Freeman — 16/100
+### Angel Reese — 21/100
 
-**Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Marcus Freeman marcus freeman: trending now filings actually say — line by line — the other side of the fight
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### James Talarico — 20/100
+
+**Event:** James Talarico: ken paxton james talarico polls
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The James Talarico filing that will matter in six months — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
