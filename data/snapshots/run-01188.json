@@ -1,0 +1,16 @@
+{
+  "runNo": 1188,
+  "at": "2026-10-16T21:36:04.525Z",
+  "rows": [
+    {
+      "event": "story-jessica-tarlov",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

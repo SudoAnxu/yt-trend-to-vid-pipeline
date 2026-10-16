@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1187 · Updated: 17/10/2026, 02:01:29 (Asia/Kolkata)
+Run #1188 · Updated: 17/10/2026, 03:06:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jeremy Renner — 22/100
+### Jessica Tarlov — 30/100
 
-**Event:** Jeremy Renner: Hawkeye star Jeremy Renner insists he is not in Avengers: Doomsday, saying "The Avengers will probably lose" w
+**Event:** Jessica Tarlov: Why does the internet hate Jessica Tarlov so much?
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (-4 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jeremy Renner jeremy renner: will hawkeye return to the mcu? jeremy renner just dropped a major hint filings actually say — line by line — the part that was not supposed to be public
+> What the Jessica Tarlov jessica tarlov: why does the internet hate jessica tarlov so much? filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>
