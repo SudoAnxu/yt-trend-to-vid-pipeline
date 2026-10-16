@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1152 · Updated: 16/10/2026, 10:15:52 (Asia/Kolkata)
+Run #1153 · Updated: 16/10/2026, 11:06:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Miguel Rojas — 16/100
+### Dennis Rodman — 24/100
 
-**Event:** Miguel Rojas: is in for Max Muncy in the Game 2 lineup
+**Event:** Dennis Rodman: NBA legend, former Spurs star Dennis Rodman returning to San Antonio for fan meet-and-greet
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Miguel Rojas miguel rojas: trending now filings actually say — line by line — the other side of the fight
+> The Dennis Rodman story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Alexander Zverev — 17/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-6 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Zverev alexander zverev: wuhan open: sonay kartal stuns jasmine paolini to set up quarter-final against elina svitolina while alexander story is actually a money story — the part that was not supposed to be public
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Amanda Seyfried — 24/100
+### Zach Bryan — 17/100
 
-**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
+**Event:** Zach Bryan: sparks debate after wearing 'Free Palestine' shirt at venue that barred Macklemore
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Amanda Seyfried amanda seyfried: trending now filings actually say — line by line — the other side of the fight
+> What the Zach Bryan zach bryan: book filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
 
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>
