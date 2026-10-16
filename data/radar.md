@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1147 · Updated: 16/10/2026, 05:33:44 (Asia/Kolkata)
+Run #1148 · Updated: 16/10/2026, 06:06:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Sam Darnold — 16/100
+### Sean Payton's — 20/100
 
-**Event:** Sam Darnold: seahawks sam darnold
+**Event:** Sean Payton's: After terrorizing old team, 49ers’ Dre Greenlaw said he was fueled by Sean Payton’s ‘disrespect’
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (+8 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Sam Darnold sam darnold: trending now filings actually say — line by line — the other side of the fight
+> The Sean Payton's sean payton's: best decision vs. chargers could have lasting impact story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** BOOSTED
 
-### Sam Darnold's — 14/100
+### Sean Payton — 15/100
 
-**Event:** Sam Darnold's: Sam Darnold’s Wife Revealed Personal News Before 2026 Season
+**Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Sam Darnold's sam darnold's: sam darnold’s wife revealed personal news before 2026 season filings actually say — line by line — the other side of the fight
+> The Sean Payton sean payton: as sean payton reclaims play calling, an existential question arises story is actually a money story — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 23 videos in last 6h · TTS ≈ 5h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
