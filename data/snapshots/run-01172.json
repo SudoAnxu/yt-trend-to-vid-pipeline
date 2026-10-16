@@ -1,0 +1,30 @@
+{
+  "runNo": 1172,
+  "at": "2026-10-16T14:56:26.734Z",
+  "rows": [
+    {
+      "event": "story-rob-delaney",
+      "alert": "ARCHIVE",
+      "opportunity": 33,
+      "momentum": 33,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alex-murdaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-murdaugh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

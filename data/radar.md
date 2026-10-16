@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1171 · Updated: 16/10/2026, 20:08:53 (Asia/Kolkata)
+Run #1172 · Updated: 16/10/2026, 20:26:27 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Alex Murdaugh — 25/100
+### Rob Delaney — 33/100
 
-**Event:** Alex Murdaugh: due back in court amid defense questions about police handling of missing murder weapons
+**Event:** Rob Delaney: and Bel Powley star in new BBC Radio 4 comedy Sober Companion
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 5 · risk 34 · external momentum 33 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Alex Murdaugh alex murdaugh: due back in court amid defense questions about police handling of missing murder weapons story is actually a money story — the detail nobody has explained
+> The Rob Delaney situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+
+**Status:** RESEARCH
+
+### Alex Murdaugh — 17/100
+
+**Event:** Alex Murdaugh: due back in court amid defense questions about police handling of missing murder weapons
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alex Murdaugh alex murdaugh: back in court amid defense questions about police handling of missing murder weapons filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alex Murdaugh's — 22/100
+
+**Event:** Alex Murdaugh's: defense and prosecutors expect to clash over evidence during pretrial hearing
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alex Murdaugh's filing that will matter in six months — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 14h · sources: news
 
 **Status:** RESEARCH
 
