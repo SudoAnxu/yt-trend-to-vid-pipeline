@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1158 · Updated: 16/10/2026, 13:57:28 (Asia/Kolkata)
+Run #1159 · Updated: 16/10/2026, 14:06:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Sean Payton — 22/100
+### Sean Payton — 23/100
 
 **Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-2 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-1 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Paul Bettany: ‘VisionQuest’ star Paul Bettany reacts to wife Jennifer Connelly’s defense of his Marvel character
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** James Spader: Marvel Television’s VisionQuest: Paul Bettany and James Spader on Vision’s Journey of Self-Discovery
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -70,7 +70,7 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
