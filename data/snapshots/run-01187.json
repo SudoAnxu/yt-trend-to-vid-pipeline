@@ -1,0 +1,16 @@
+{
+  "runNo": 1187,
+  "at": "2026-10-16T20:31:29.114Z",
+  "rows": [
+    {
+      "event": "story-jeremy-renner",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
