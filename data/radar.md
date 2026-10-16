@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1151 · Updated: 16/10/2026, 08:47:48 (Asia/Kolkata)
+Run #1152 · Updated: 16/10/2026, 10:15:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Megan Fox — 23/100
+### Miguel Rojas — 16/100
 
-**Event:** Megan Fox: Stars in Cheeky Ad for Erectile Dysfunction Drug: ‘Maybe I Was Born for This’ (Exclusive)
+**Event:** Miguel Rojas: is in for Max Muncy in the Game 2 lineup
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+1 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 4.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 17 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Megan Fox situation is weirder than the clips suggest — the other side of the fight
+> What the Miguel Rojas miguel rojas: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.7h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Amanda Seyfried — 24/100
+
+**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
+
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Amanda Seyfried amanda seyfried: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** KEPT
-
-### Anthony Rizzo's — 19/100
-
-**Event:** Anthony Rizzo's: Anthony Rizzo’s Pat Murphy NLCS admission will intrigue Brewers fans
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Anthony Rizzo's anthony rizzo's: anthony rizzo’s pat murphy nlcs admission will intrigue brewers fans filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
