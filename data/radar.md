@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1170 · Updated: 16/10/2026, 19:35:10 (Asia/Kolkata)
+Run #1171 · Updated: 16/10/2026, 20:08:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Bradley Whitford — 23/100
+### Alex Murdaugh — 25/100
 
-**Event:** Bradley Whitford: The West Wing Revival TV Show Gets Exciting Tease From Star Bradley Whitford
+**Event:** Alex Murdaugh: due back in court amid defense questions about police handling of missing murder weapons
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Bradley Whitford bradley whitford: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Aaron Sorkin — 17/100
-
-**Event:** Aaron Sorkin: Officially Confirms ‘The Social Reckoning’ Was Changed Over Legal Concerns
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Sorkin aaron sorkin: watch: aaron sorkin, bradley whitford, and the cast of a few good men talk new broadway revival filings actually say — line by line — the other side of the fight
+> The Alex Murdaugh alex murdaugh: due back in court amid defense questions about police handling of missing murder weapons story is actually a money story — the detail nobody has explained
 
-**Competition:** 8 videos in last 6h · TTS ≈ 4.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
-
-### Tom Blyth — 18/100
-
-**Event:** Tom Blyth: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tom Blyth tom blyth: is your all-american british boy filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>
