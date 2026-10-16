@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1185 · Updated: 17/10/2026, 01:21:32 (Asia/Kolkata)
+Run #1186 · Updated: 17/10/2026, 01:30:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(39)
 
@@ -12,21 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Ethan Hawke — 23/100
+### Josh Jacobs — 22/100
+
+**Event:** Josh Jacobs: news
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+8 vs prev run) · spice 14 · risk 86 · forecast window elapsed (TTS 4.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Josh Jacobs josh jacobs: packers rb josh jacobs files lawsuit against wisconsin police department to block release of video filings actually say — line by line — what happens next
+
+**Competition:** 17 videos in last 6h · TTS ≈ 4.3h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Ethan Hawke — 22/100
 
 **Event:** Ethan Hawke: Explains Why It’s Important to ‘Have a Backbone’ If ‘You’re Going to Be in the Public Sphere’ (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+5 vs prev run) · spice 15 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 15 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Ethan Hawke ethan hawke: blasts hollywood's 'greedy b-----ds,' predicts massive rebellion against powerful elites story is actually a money story — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +48,7 @@ Sources this run: trends(39)
 
 **Event:** Ethan Hawke's: Ethan Hawke’s 109-Minute Horror Hit That Set A Major Genre Record Secures Massive Streaming Achievement
 
-**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,13 +62,13 @@ Sources this run: trends(39)
 
 **Event:** Julie Chrisley: Todd and Julie Chrisley hit with $1.5 million federal tax lien after presidential pardon
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Julie Chrisley julie chrisley: todd and julie chrisley hit with $1.5 million federal tax lien after presidential pardon filings actually say — line by line — the number behind the headline
 
-**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
