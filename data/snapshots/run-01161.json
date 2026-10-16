@@ -1,0 +1,16 @@
+{
+  "runNo": 1161,
+  "at": "2026-10-16T09:29:19.748Z",
+  "rows": [
+    {
+      "event": "story-chestnut-reveals-shocking",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
