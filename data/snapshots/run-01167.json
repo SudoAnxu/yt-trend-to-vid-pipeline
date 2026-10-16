@@ -1,0 +1,30 @@
+{
+  "runNo": 1167,
+  "at": "2026-10-16T13:04:07.766Z",
+  "rows": [
+    {
+      "event": "story-ryan-gosling-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jay-clayton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    },
+    {
+      "event": "story-brandon-aiyuk",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
