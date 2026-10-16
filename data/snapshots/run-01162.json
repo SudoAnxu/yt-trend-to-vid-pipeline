@@ -1,0 +1,16 @@
+{
+  "runNo": 1162,
+  "at": "2026-10-16T10:04:12.745Z",
+  "rows": [
+    {
+      "event": "story-julia-grabher",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
