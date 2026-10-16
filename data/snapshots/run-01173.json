@@ -1,0 +1,30 @@
+{
+  "runNo": 1173,
+  "at": "2026-10-16T15:14:59.863Z",
+  "rows": [
+    {
+      "event": "story-rob-delaney",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alex-murdaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-murdaugh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
