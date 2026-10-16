@@ -1,0 +1,16 @@
+{
+  "runNo": 1163,
+  "at": "2026-10-16T11:03:10.233Z",
+  "rows": [
+    {
+      "event": "story-joe-manganiello",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

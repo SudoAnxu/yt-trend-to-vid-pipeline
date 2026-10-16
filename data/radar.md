@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1162 · Updated: 16/10/2026, 15:34:12 (Asia/Kolkata)
+Run #1163 · Updated: 16/10/2026, 16:33:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Julia Grabher — 17/100
+### Joe Manganiello — 22/100
 
-**Event:** Julia Grabher: trending now
+**Event:** Joe Manganiello: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Julia Grabher julia grabher: trending now filings actually say — line by line — the other side of the fight
+> The Joe Manganiello situation is weirder than the clips suggest — the part that was not supposed to be public
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 10 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
 
 **Status:** RESEARCH
 
