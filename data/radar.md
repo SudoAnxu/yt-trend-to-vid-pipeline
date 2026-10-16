@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1159 · Updated: 16/10/2026, 14:06:13 (Asia/Kolkata)
+Run #1160 · Updated: 16/10/2026, 14:43:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,63 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mark Zuckerberg — 14/100
+### Chestnut Reveals Shocking — 23/100
 
-**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
+**Event:** Chestnut Reveals Shocking: Morris Chestnut Reveals Shocking Amount of Money He Was Paid for Early Role on “A Different World” That Was Cu
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 16 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Mark Zuckerberg mark zuckerberg: years after telling meta employees to inflict pain on apple, mark zuckerberg sends 'thanks note' to apple story is actually a money story — the other side of the fight
+> The Chestnut Reveals Shocking chestnut reveals shocking: morris chestnut reveals shocking amount of money he was paid for early role on “a different world” that was cu story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Sean Payton — 23/100
+### Sean Payton — 22/100
 
 **Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-1 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Sean Payton sean payton: awkwardly kisses charissa thompson as amazon viewers left in shock filings actually say — line by line — the part that was not supposed to be public
 
 **Competition:** 23 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** KEPT
-
-### Paul Bettany — 15/100
-
-**Event:** Paul Bettany: ‘VisionQuest’ star Paul Bettany reacts to wife Jennifer Connelly’s defense of his Marvel character
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Paul Bettany paul bettany: marvel television’s visionquest: paul bettany and james spader on vision’s journey of self-discovery filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### James Spader — 19/100
-
-**Event:** James Spader: Marvel Television’s VisionQuest: Paul Bettany and James Spader on Vision’s Journey of Self-Discovery
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the James Spader james spader: marvel television’s visionquest: paul bettany and james spader on vision’s journey of self-discovery filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
 

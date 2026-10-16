@@ -1,0 +1,23 @@
+{
+  "runNo": 1160,
+  "at": "2026-10-16T09:13:34.297Z",
+  "rows": [
+    {
+      "event": "story-chestnut-reveals-shocking",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-sean-payton",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
