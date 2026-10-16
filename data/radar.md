@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1178 · Updated: 16/10/2026, 23:09:04 (Asia/Kolkata)
+Run #1179 · Updated: 16/10/2026, 23:17:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Sean Combs — 14/100
+### Matthew Stafford — 14/100
 
-**Event:** Sean Combs: trending now
+**Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Sean Combs sean combs: transferred to pennsylvania prison after contraband bust filings actually say — line by line — the other side of the fight
+> What the Matthew Stafford matthew stafford: from the podium: sean mcvay, matthew stafford, davante adams, puka nacua and aaron donald talk turning the pag filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Kate Middleton — 17/100
+### Aaron Donald — 15/100
 
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
+**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-8 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kate Middleton kate middleton: unveils new portrait taken during a secret trip with prince william for an important cause story is actually a money story — the detail nobody has explained
+> What the Aaron Donald aaron donald: from the podium: sean mcvay, matthew stafford, davante adams, puka nacua and aaron donald talk turning the pag filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ryan Smith — 17/100
+### Marcus Freeman — 20/100
 
-**Event:** Ryan Smith: trending now
+**Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ryan Smith ryan smith: trending now filings actually say — line by line — the other side of the fight
+> What the Marcus Freeman marcus freeman: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Zach Bryan — 16/100
+
+**Event:** Zach Bryan: sparks debate after wearing 'Free Palestine' shirt at venue that barred Macklemore
+
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Zach Bryan zach bryan: 2027 goldensky festival lineup includes zach bryan, megan moroney, treaty oak revival filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
 
 **Status:** RESEARCH
 
