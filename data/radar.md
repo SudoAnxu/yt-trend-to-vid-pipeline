@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1175 · Updated: 16/10/2026, 21:15:16 (Asia/Kolkata)
+Run #1176 · Updated: 16/10/2026, 22:21:13 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,57 +20,29 @@ Sources this run: trends(40)
 
 **Event:** Joe Milton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Joe Milton joe milton: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Rob Delaney — 20/100
-
-**Event:** Rob Delaney: and Bel Powley star in new BBC Radio 4 comedy Sober Companion
-
-**Why now:** 1 source lane(s): news · momentum 8 (-17 vs prev run) · spice 0 · risk 34 · external momentum 8 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Rob Delaney rob delaney: 'sober companion': bel powley & rob delaney leading bbc sounds podcast filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Alex Murdaugh — 20/100
-
-**Event:** Alex Murdaugh: due back in court amid defense questions about police handling of missing murder weapons
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alex Murdaugh filing that will matter in six months — the detail nobody has explained
+> The Joe Milton filing that will matter in six months — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alex Murdaugh's — 18/100
+### Horgan Joins Jenna — 22/100
 
-**Event:** Alex Murdaugh's: defense and prosecutors expect to clash over evidence during pretrial hearing
+**Event:** Horgan Joins Jenna: Sharon Horgan Joins Jenna and Sheinelle in Ireland
 
-**Why now:** 1 source lane(s): news · momentum 14 (+1 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Alex Murdaugh's filing that will matter in six months — the other side of the fight
+> What the Horgan Joins Jenna horgan joins jenna: sharon horgan joins jenna and sheinelle in ireland filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
