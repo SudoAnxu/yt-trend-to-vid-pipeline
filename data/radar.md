@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1192 · Updated: 17/10/2026, 04:25:28 (Asia/Kolkata)
+Run #1193 · Updated: 17/10/2026, 04:55:46 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Kevin Bacon — 29/100
+### Billy Joel — 29/100
 
-**Event:** Kevin Bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video
+**Event:** Billy Joel: Offers Health Update in Rare Interview as He Prepares to Sell Prized Motorcycle Collection
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 8 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kevin Bacon kevin bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video filings actually say — line by line — the other side of the fight
+> The Billy Joel billy joel: offers health update in rare interview as he prepares to sell prized motorcycle collection story is actually a money story — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Scott Caan — 19/100
+### Ted Lasso — 13/100
 
-**Event:** Scott Caan: trending now
+**Event:** Ted Lasso: mae ted lasso
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Scott Caan scott caan: ll cool j and scott caan welcome newcomer to ncis universe filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Ashley Hinson — 17/100
-
-**Event:** Ashley Hinson: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ashley Hinson ashley hinson: trending now filings actually say — line by line — the other side of the fight
+> What the Ted Lasso ted lasso: a24's ted lasso meets the crown replacement casts oscar nominee for lead role filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Josh Turek — 19/100
-
-**Event:** Josh Turek: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Josh Turek josh turek: is winning over iowa trump voters, poll finds filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
 
 </details>

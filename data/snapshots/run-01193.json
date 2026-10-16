@@ -1,0 +1,23 @@
+{
+  "runNo": 1193,
+  "at": "2026-10-16T23:25:45.660Z",
+  "rows": [
+    {
+      "event": "story-billy-joel",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-ted-lasso",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
