@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1150 · Updated: 16/10/2026, 07:04:50 (Asia/Kolkata)
+Run #1151 · Updated: 16/10/2026, 08:47:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Ryan Phillippe — 24/100
+### Megan Fox — 23/100
 
-**Event:** Ryan Phillippe: trending now
+**Event:** Megan Fox: Stars in Cheeky Ad for Erectile Dysfunction Drug: ‘Maybe I Was Born for This’ (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+1 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 4.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Phillippe ryan phillippe: trending now story is actually a money story — the other side of the fight
+> The Megan Fox situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.7h · sources: trends, news
+
+**Status:** KEPT
+
+### Anthony Rizzo's — 19/100
+
+**Event:** Anthony Rizzo's: Anthony Rizzo’s Pat Murphy NLCS admission will intrigue Brewers fans
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Anthony Rizzo's anthony rizzo's: anthony rizzo’s pat murphy nlcs admission will intrigue brewers fans filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Russell Wilson — 22/100
-
-**Event:** Russell Wilson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+22 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Russell Wilson russell wilson: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Kristen Bell — 16/100
-
-**Event:** Kristen Bell: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kristen Bell kristen bell: , jackie tohn, adam brody and timothy simons tease 'nobody wants this' season 3 at 'housewarming' party filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Adam Brody — 17/100
-
-**Event:** Adam Brody: Nobody Wants This star Adam Brody is for a free Palestine, now that you ask
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Adam Brody adam brody: kristen bell, jackie tohn, adam brody and timothy simons tease 'nobody wants this' season 3 at 'housewarming'  filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
