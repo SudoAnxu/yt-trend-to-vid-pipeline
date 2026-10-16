@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1193 · Updated: 17/10/2026, 04:55:46 (Asia/Kolkata)
+Run #1194 · Updated: 17/10/2026, 05:16:17 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,51 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Billy Joel — 29/100
+### Nick Martinez — 19/100
 
-**Event:** Billy Joel: Offers Health Update in Rare Interview as He Prepares to Sell Prized Motorcycle Collection
+**Event:** Nick Martinez: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 8 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Billy Joel billy joel: offers health update in rare interview as he prepares to sell prized motorcycle collection story is actually a money story — the other side of the fight
+> The Nick Martinez story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Ted Lasso — 13/100
+### Benjamin Satterley — 19/100
 
-**Event:** Ted Lasso: mae ted lasso
+**Event:** Benjamin Satterley: (PAC) Passed Away From Bronchial Asthma
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Ted Lasso ted lasso: a24's ted lasso meets the crown replacement casts oscar nominee for lead role filings actually say — line by line — the other side of the fight
+> What the Benjamin Satterley benjamin satterley: (pac) passed away from bronchial asthma filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Michael Beasley — 21/100
+
+**Event:** Michael Beasley: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Michael Beasley story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
