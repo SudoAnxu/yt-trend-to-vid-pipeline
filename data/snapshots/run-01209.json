@@ -1,0 +1,58 @@
+{
+  "runNo": 1209,
+  "at": "2026-10-17T09:00:07.433Z",
+  "rows": [
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-kerr",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-connelly",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-bettany-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-paul-bettany",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-bettany-shares-rare",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-kardashian-reveals-panic",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
