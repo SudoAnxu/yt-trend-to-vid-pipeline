@@ -1,0 +1,16 @@
+{
+  "runNo": 1216,
+  "at": "2026-10-17T12:20:23.773Z",
+  "rows": [
+    {
+      "event": "story-austin-weather",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
