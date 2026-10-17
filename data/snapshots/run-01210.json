@@ -1,0 +1,37 @@
+{
+  "runNo": 1210,
+  "at": "2026-10-17T09:37:26.272Z",
+  "rows": [
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-nakashima",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1209 · Updated: 17/10/2026, 14:30:08 (Asia/Kolkata)
+Run #1210 · Updated: 17/10/2026, 15:07:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,107 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Tom Cruise — 20/100
+### Alexander Bublik — 21/100
 
-**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tom Cruise tom cruise: digger star tom cruise gets a bts look at jujutsu kaisen, learns it takes 'about 2–3 months' to make an episod story is actually a money story — the other side of the fight
+> What the Alexander Bublik alexander bublik: brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Steve Kerr — 19/100
+### Brandon Nakashima — 20/100
 
-**Event:** Steve Kerr: Says Warriors Have Fastest Player He’s Ever Coached
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Steve Kerr steve kerr: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jennifer Connelly — 18/100
-
-**Event:** Jennifer Connelly: VisionQuest's Paul Bettany Shares Rare Glimpse Into Family Life With Wife Jennifer Connelly
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jennifer Connelly jennifer connelly: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 4.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Paul Bettany's — 21/100
-
-**Event:** Paul Bettany's: Inside Paul Bettany's 23-year marriage to very famous wife
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Paul Bettany's paul bettany's: inside paul bettany's 23-year marriage to very famous wife filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Paul Bettany — 19/100
-
-**Event:** Paul Bettany: ‘VisionQuest’ star Paul Bettany reacts to wife Jennifer Connelly’s defense of his Marvel character
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Paul Bettany story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Bettany Shares Rare — 19/100
-
-**Event:** Bettany Shares Rare: Paul Bettany Shares Rare Insight into His Life with Wife Jennifer Connelly and Their 2 Kids
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Bettany Shares Rare bettany shares rare: paul bettany shares rare insight into his life with wife jennifer connelly and their 2 kids filings actually say — line by line — the other side of the fight
+> What the Brandon Nakashima brandon nakashima: alexander bublik brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
 
-### Kardashian Reveals Panic — 21/100
+### Alexander Bublik's — 21/100
 
-**Event:** Kardashian Reveals Panic: Kim Kardashian Reveals Panic After Snooping Through OJ Simpson’s Luggage During Murder Trial
+**Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kardashian Reveals Panic kardashian reveals panic: kim kardashian reveals panic after snooping through oj simpson’s luggage during murder trial filings actually say — line by line — the other side of the fight
+> What the Alexander Bublik's alexander bublik's: andy roddick’s unfiltered take on frances tiafoe and alexander bublik’s angry meltdowns filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
+
+### Alexander Zverev — 15/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alexander Zverev alexander zverev: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
