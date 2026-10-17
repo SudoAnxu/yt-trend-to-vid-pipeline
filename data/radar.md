@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1234 · Updated: 18/10/2026, 01:06:32 (Asia/Kolkata)
+Run #1235 · Updated: 18/10/2026, 01:38:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Colin Simmons — 26/100
+### Louis City — 26/100
 
-**Event:** Colin Simmons: gets penalty for 'simulating using restroom' vs Tennessee football
+**Event:** Louis City: Minnesota United vs St. Louis City: Major League Soccer stats & head-to-head
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-10 vs prev run) · spice 18 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Colin Simmons colin simmons: injury update: texas football star pass rusher leaves game story is actually a money story — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Nick Marsh — 32/100
-
-**Event:** Nick Marsh: Inside the Film Room: Nick Marsh and his encapsulation of the ‘Ceiling vs. Floor’ discussion point
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Nick Marsh story is a proxy fight about something bigger — the other side of the fight
+> The Louis City story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
+
+### Steve Sarkisian — 17/100
+
+**Event:** Steve Sarkisian: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Steve Sarkisian steve sarkisian: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Alexander Zverev — 18/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Zverev alexander zverev: 'overachieved' with shanghai semi-final run story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
