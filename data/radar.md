@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1235 · Updated: 18/10/2026, 01:38:33 (Asia/Kolkata)
+Run #1236 · Updated: 18/10/2026, 02:22:24 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Louis City — 26/100
+### Angel Reese — 19/100
 
-**Event:** Louis City: Minnesota United vs St. Louis City: Major League Soccer stats & head-to-head
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Louis City story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** RESEARCH
-
-### Steve Sarkisian — 17/100
-
-**Event:** Steve Sarkisian: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Steve Sarkisian steve sarkisian: trending now filings actually say — line by line — the other side of the fight
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Alexander Zverev — 18/100
-
-**Event:** Alexander Zverev: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alexander Zverev alexander zverev: 'overachieved' with shanghai semi-final run story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Josh Heupel — 14/100
+
+**Event:** Josh Heupel: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Josh Heupel josh heupel: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** BOOSTED
 
 
 </details>
