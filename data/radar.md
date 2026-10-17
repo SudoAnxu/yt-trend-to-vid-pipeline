@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1225 · Updated: 17/10/2026, 21:37:03 (Asia/Kolkata)
+Run #1226 · Updated: 17/10/2026, 22:07:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Luis Enrique — 19/100
+### Alex Palou — 26/100
 
-**Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
+**Event:** Alex Palou: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Luis Enrique luis enrique: psg: problème confirmé pour un cadre de luis enrique filings actually say — line by line — the other side of the fight
+> What the Alex Palou alex palou: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
