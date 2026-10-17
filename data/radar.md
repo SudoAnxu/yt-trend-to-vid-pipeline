@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1200 · Updated: 17/10/2026, 10:13:08 (Asia/Kolkata)
+Run #1201 · Updated: 17/10/2026, 10:54:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Will Be — 19/100
+### Alexander Bublik — 20/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alexander Bublik alexander bublik: brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Brandon Nakashima — 19/100
+
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
 **Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Be will be: these 4 signs will be extra lucky when pluto finally turns direct on october 15 filings actually say — line by line — the other side of the fight
+> What the Brandon Nakashima brandon nakashima: alexander bublik brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
 
-### Josh Brolin — 19/100
+### Austin Reaves — 15/100
 
-**Event:** Josh Brolin: trending now
+**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Brolin josh brolin: trending now filings actually say — line by line — the other side of the fight
+> What the Austin Reaves austin reaves: lakers news: sandro mamukelashvili looks up to austin reaves filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 15 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
 
