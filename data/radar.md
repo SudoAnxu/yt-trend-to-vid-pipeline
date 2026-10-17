@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1195 · Updated: 17/10/2026, 05:38:26 (Asia/Kolkata)
+Run #1196 · Updated: 17/10/2026, 06:11:44 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Paul George — 13/100
+### Pedro Martinez — 22/100
 
-**Event:** Paul George: trending now
+**Event:** Pedro Martinez: MLB Legend Pedro Martinez Reveals What Yankees Should Do in Playoffs
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 29 (+19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Paul George paul george: news: sitting out preseason finale filings actually say — line by line — the other side of the fight
+> What the Pedro Martinez pedro martinez: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Gavin Williams — 19/100
+
+**Event:** Gavin Williams: on starting ALCS Game 3
+
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Gavin Williams gavin williams: pedro martinez’s gavin williams ‘deceiving’ truth bomb will catch guardians fans’ attention filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Victor Wembanyama — 14/100
+
+**Event:** Victor Wembanyama: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Victor Wembanyama story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### James Mcavoy — 17/100
+
+**Event:** James Mcavoy: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the James Mcavoy james mcavoy: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 
 </details>
