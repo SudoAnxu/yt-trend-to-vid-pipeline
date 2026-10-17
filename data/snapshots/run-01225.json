@@ -1,0 +1,16 @@
+{
+  "runNo": 1225,
+  "at": "2026-10-17T16:07:03.377Z",
+  "rows": [
+    {
+      "event": "story-luis-enrique",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
