@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1196 · Updated: 17/10/2026, 06:11:44 (Asia/Kolkata)
+Run #1197 · Updated: 17/10/2026, 06:33:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Pedro Martinez — 22/100
+### James Harden — 12/100
 
-**Event:** Pedro Martinez: MLB Legend Pedro Martinez Reveals What Yankees Should Do in Playoffs
+**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
 
-**Why now:** 2 source lane(s): news, trends · momentum 29 (+19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Pedro Martinez pedro martinez: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Gavin Williams — 19/100
-
-**Event:** Gavin Williams: on starting ALCS Game 3
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Gavin Williams gavin williams: pedro martinez’s gavin williams ‘deceiving’ truth bomb will catch guardians fans’ attention filings actually say — line by line — the other side of the fight
+> The James Harden james harden: "golden state was his first call" - bill simmons said sam presti wanted klay thompson from the warriors in exc story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Victor Wembanyama — 14/100
-
-**Event:** Victor Wembanyama: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Victor Wembanyama story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### James Mcavoy — 17/100
+### Joel Embiid — 18/100
 
-**Event:** James Mcavoy: trending now
+**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 28 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the James Mcavoy james mcavoy: trending now filings actually say — line by line — the other side of the fight
+> The Joel Embiid joel embiid: lebron, jaylen brown, joel embiid and tyrese maxey are … story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
 
 </details>

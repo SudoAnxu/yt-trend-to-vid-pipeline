@@ -1,0 +1,23 @@
+{
+  "runNo": 1197,
+  "at": "2026-10-17T01:03:58.272Z",
+  "rows": [
+    {
+      "event": "story-james-harden",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-joel-embiid",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
