@@ -1,0 +1,23 @@
+{
+  "runNo": 1204,
+  "at": "2026-10-17T07:08:53.544Z",
+  "rows": [
+    {
+      "event": "story-david-rubenstein",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-benjamin-satterley",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
