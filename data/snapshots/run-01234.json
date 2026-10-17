@@ -1,0 +1,23 @@
+{
+  "runNo": 1234,
+  "at": "2026-10-17T19:36:31.479Z",
+  "rows": [
+    {
+      "event": "story-colin-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-marsh",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
