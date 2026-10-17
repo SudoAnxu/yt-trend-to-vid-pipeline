@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1211 · Updated: 17/10/2026, 15:54:06 (Asia/Kolkata)
+Run #1212 · Updated: 17/10/2026, 16:33:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
