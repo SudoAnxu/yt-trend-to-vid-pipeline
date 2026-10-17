@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1228 · Updated: 17/10/2026, 22:52:35 (Asia/Kolkata)
+Run #1229 · Updated: 17/10/2026, 23:13:06 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Harry Kane — 23/100
+### Mike Shanahan — 28/100
 
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+**Event:** Mike Shanahan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+2 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Harry Kane harry kane: two more years! harry kane reaches verbal agreement over new bayern munich deal despite contract length disput story is actually a money story — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** KEPT
-
-### Angel Reese — 20/100
-
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
-
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
+> The Mike Shanahan story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Peter King — 21/100
+
+**Event:** Peter King: says it’s ‘ridiculous’ Mike Shanahan isn’t in Hall of Fame
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Peter King story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** RESEARCH
+
+### Ryan Day — 17/100
+
+**Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
+
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-21 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ryan Day ryan day: dropped a pointed update on ohio state freshman rb legend bey that feels like a sigh of relief filings actually say — line by line — the part that was not supposed to be public
+
+**Competition:** 13 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
