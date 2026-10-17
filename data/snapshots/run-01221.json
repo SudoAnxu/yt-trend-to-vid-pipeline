@@ -1,0 +1,16 @@
+{
+  "runNo": 1221,
+  "at": "2026-10-17T14:04:38.158Z",
+  "rows": [
+    {
+      "event": "story-moyes-reveals-everton",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

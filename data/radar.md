@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1220 · Updated: 17/10/2026, 19:19:13 (Asia/Kolkata)
+Run #1221 · Updated: 17/10/2026, 19:34:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Win — 21/100
+### Moyes Reveals Everton — 21/100
 
-**Event:** Will Win: Experts Predict: Who Will Win Laver Cup London 2026?
+**Event:** Moyes Reveals Everton: Triple Fitness Update As Moyes Reveals Everton Team News For Chelsea Test
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Will Win will win: aus-ch vs wi-ch winner and toss prediction: who will win today’s world championship of legends match between a story is actually a money story — the other side of the fight
+> What the Moyes Reveals Everton moyes reveals everton: triple fitness update as moyes reveals everton team news for chelsea test filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
