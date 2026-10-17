@@ -1,0 +1,30 @@
+{
+  "runNo": 1237,
+  "at": "2026-10-17T21:05:55.621Z",
+  "rows": [
+    {
+      "event": "story-bruce-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-james-wiseman",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-christopher-walken",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
