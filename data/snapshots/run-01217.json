@@ -1,0 +1,16 @@
+{
+  "runNo": 1217,
+  "at": "2026-10-17T12:30:59.515Z",
+  "rows": [
+    {
+      "event": "story-lee-kang-in",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

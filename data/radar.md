@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1216 · Updated: 17/10/2026, 17:50:23 (Asia/Kolkata)
+Run #1217 · Updated: 17/10/2026, 18:00:59 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Austin Weather — 17/100
+### Lee Kang-in — 19/100
 
-**Event:** Austin Weather: trending now
+**Event:** Lee Kang-in: drives Atletico to move kickoff to benefit Korean fans - CHOSUNBIZ
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Austin Weather austin weather: trending now filings actually say — line by line — the other side of the fight
+> What the Lee Kang-in lee kang-in: drives atletico to move kickoff to benefit korean fans - chosunbiz filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
