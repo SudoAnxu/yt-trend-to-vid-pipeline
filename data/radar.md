@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1201 · Updated: 17/10/2026, 10:54:01 (Asia/Kolkata)
+Run #1202 · Updated: 17/10/2026, 11:13:59 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,7 +30,7 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Brandon Nakashima — 19/100
+### Brandon Nakashima — 20/100
 
 **Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
@@ -44,19 +44,19 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Austin Reaves — 15/100
+### Alexander Bublik's — 21/100
 
-**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
+**Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Austin Reaves austin reaves: lakers news: sandro mamukelashvili looks up to austin reaves filings actually say — line by line — the other side of the fight
+> What the Alexander Bublik's alexander bublik's: andy roddick’s unfiltered take on frances tiafoe and alexander bublik’s angry meltdowns filings actually say — line by line — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
