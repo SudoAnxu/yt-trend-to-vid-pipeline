@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1230 · Updated: 17/10/2026, 23:24:50 (Asia/Kolkata)
+Run #1231 · Updated: 17/10/2026, 23:32:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Jon Sumrall: responds to question about being ‘reined in’ by UF admin: ‘Are you sh—ing me?
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,31 +30,31 @@ Sources this run: trends(39)
 
 **Status:** RESEARCH
 
-### Mike Shanahan — 20/100
+### Mike Shanahan — 22/100
 
 **Event:** Mike Shanahan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+5 vs prev run) · spice 0 · risk 64 · external momentum 24 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Mike Shanahan mike shanahan: trending now filings actually say — line by line — the other side of the fight
+> The Mike Shanahan story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Peter King — 21/100
+### Peter King — 19/100
 
 **Event:** Peter King: says it’s ‘ridiculous’ Mike Shanahan isn’t in Hall of Fame
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Peter King story is a proxy fight about something bigger — the other side of the fight
+> The Peter King peter king: says it’s ‘ridiculous’ mike shanahan isn’t in hall of fame story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 4.5h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** RESEARCH
 

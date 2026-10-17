@@ -1,0 +1,30 @@
+{
+  "runNo": 1231,
+  "at": "2026-10-17T18:02:46.705Z",
+  "rows": [
+    {
+      "event": "story-jon-sumrall",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-shanahan",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 24,
+      "window": "unknown"
+    },
+    {
+      "event": "story-peter-king",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
