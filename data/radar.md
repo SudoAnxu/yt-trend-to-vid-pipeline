@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1217 · Updated: 17/10/2026, 18:00:59 (Asia/Kolkata)
+Run #1218 · Updated: 17/10/2026, 18:34:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Lee Kang-in — 19/100
+### Nick Swardson — 26/100
 
-**Event:** Lee Kang-in: drives Atletico to move kickoff to benefit Korean fans - CHOSUNBIZ
+**Event:** Nick Swardson: Horror Comedy Film ‘Remain Calm’ Stars Pauly Shore, Nick Swardson, Doug Jones – Trailer and Release Date
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 5 · risk 64 · external momentum 33 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Lee Kang-in lee kang-in: drives atletico to move kickoff to benefit korean fans - chosunbiz filings actually say — line by line — the other side of the fight
+> The Nick Swardson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 

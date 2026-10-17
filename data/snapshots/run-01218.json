@@ -1,0 +1,16 @@
+{
+  "runNo": 1218,
+  "at": "2026-10-17T13:04:11.244Z",
+  "rows": [
+    {
+      "event": "story-nick-swardson",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 33,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
