@@ -1,0 +1,16 @@
+{
+  "runNo": 1227,
+  "at": "2026-10-17T16:47:53.430Z",
+  "rows": [
+    {
+      "event": "story-alex-palou",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
