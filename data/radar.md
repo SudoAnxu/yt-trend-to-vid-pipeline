@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1237 · Updated: 18/10/2026, 02:35:56 (Asia/Kolkata)
+Run #1238 · Updated: 18/10/2026, 03:03:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Bruce Brown — 30/100
+### Steve Sarkisian — 23/100
 
-**Event:** Bruce Brown: New Knicks Rumors Reveal Trade Candidates with Bruce Brown Pushing for Roster Spot
+**Event:** Steve Sarkisian: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Bruce Brown bruce brown: new knicks rumors reveal trade candidates with bruce brown pushing for roster spot filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### James Wiseman — 19/100
-
-**Event:** James Wiseman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 29 (+18 vs prev run) · spice 17 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the James Wiseman james wiseman: the knicks don’t have to trade anyone to keep james wiseman and bruce brown filings actually say — line by line — the other side of the fight
+> The Steve Sarkisian steve sarkisian: buyout, contract details: how much it would cost texas to move on amid sudden slide story is actually a money story — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
 
 **Status:** BOOSTED
 
-### Christopher Walken — 19/100
+### To Host — 19/100
 
-**Event:** Christopher Walken: trending now
+**Event:** To Host: Oregon State Stays Home To Host WSU Saturday At Reser
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Christopher Walken story is a proxy fight about something bigger — the other side of the fight
+> What the To Host to host: oregon state stays home to host wsu saturday at reser filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Jon Gosselin — 17/100
+
+**Event:** Jon Gosselin: Speaks Out and Shows Support for Son Collin Following Kate’s Comments on Mental Illness
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jon Gosselin jon gosselin: speaks out and shows support for son collin following kate’s comments on mental illness story is actually a money story — the other side of the fight
+
+**Competition:** 13 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
+
+### Gosselin Speaks Out — 22/100
+
+**Event:** Gosselin Speaks Out: Jon Gosselin Speaks Out and Shows Support for Son Collin Following Kate’s Comments on Mental Illness
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Gosselin Speaks Out gosselin speaks out: jon gosselin speaks out and shows support for son collin following kate’s comments on mental illness filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 

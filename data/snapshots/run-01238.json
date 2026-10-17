@@ -1,0 +1,37 @@
+{
+  "runNo": 1238,
+  "at": "2026-10-17T21:33:56.066Z",
+  "rows": [
+    {
+      "event": "story-steve-sarkisian",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-to-host",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jon-gosselin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-gosselin-speaks-out",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
