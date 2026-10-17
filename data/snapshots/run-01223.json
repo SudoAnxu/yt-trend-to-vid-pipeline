@@ -1,0 +1,37 @@
+{
+  "runNo": 1223,
+  "at": "2026-10-17T14:37:07.075Z",
+  "rows": [
+    {
+      "event": "story-marcus-freeman",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-redner",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jon-gruden",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-keith-abney",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
