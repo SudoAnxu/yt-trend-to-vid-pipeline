@@ -1,0 +1,16 @@
+{
+  "runNo": 1245,
+  "at": "2026-10-18T00:39:16.938Z",
+  "rows": [
+    {
+      "event": "story-jose-state",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
