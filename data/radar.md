@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1249 · Updated: 18/10/2026, 11:02:02 (Asia/Kolkata)
+Run #1250 · Updated: 18/10/2026, 11:36:39 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,61 +16,61 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Noah Centineo — 17/100
+### Sofia Kenin — 17/100
 
-**Event:** Noah Centineo: "Street Fighter' red carpet – Jason Momoa, Cody Rhodes, Noah Centineo
+**Event:** Sofia Kenin: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Noah Centineo noah centineo: trending now filings actually say — line by line — the other side of the fight
+> What the Sofia Kenin sofia kenin: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Nathan Fielder's — 22/100
+### Alexander Bublik — 21/100
 
-**Event:** Nathan Fielder's: Nathan Fielder’s Elizabeth Holmes Doc Drops Full Trailer — and You Will Want to See Everything
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 16h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Nathan Fielder's filing that will matter in six months — the other side of the fight
+> What the Alexander Bublik alexander bublik: brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Anthropic — 22/100
+### Brandon Nakashima — 20/100
 
-**Event:** Anthropic: CEO Says Culture Takes Up to 40% of His Time as Company Grows
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Anthropic anthropic: ceo says culture takes up to 40% of his time as company grows filings actually say — line by line — the other side of the fight
+> What the Brandon Nakashima brandon nakashima: alexander bublik brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
-### Louis City — 16/100
+### Alexander Bublik's — 21/100
 
-**Event:** Louis City: Minnesota United vs St. Louis City: Major League Soccer stats & head-to-head
+**Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Louis City louis city: st. louis city sc at minnesota united - mls game summary - oct 17, 2026 filings actually say — line by line — the other side of the fight
+> What the Alexander Bublik's alexander bublik's: andy roddick’s unfiltered take on frances tiafoe and alexander bublik’s angry meltdowns filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>
