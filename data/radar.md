@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1273 · Updated: 18/10/2026, 21:50:12 (Asia/Kolkata)
+Run #1274 · Updated: 18/10/2026, 22:16:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,77 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Mason Graham — 16/100
+### Travis Kelce — 21/100
 
-**Event:** Mason Graham: How Mason Graham, Quincy Williams, and the rest of the Browns defense graded vs. the Panthers
+**Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+16 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mason Graham mason graham: browns' mason graham: unlikely to suit up sunday filings actually say — line by line — the other side of the fight
+> The Travis Kelce travis kelce: chiefs news: travis kelce may cause a broadcasting bidding war story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Marvin Harrison — 17/100
+### Travis Hunter — 17/100
 
-**Event:** Marvin Harrison: Where is Marvin Harrison Jr. headed? Inside the mystery surrounding Cardinals' unfinished trade
+**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Marvin Harrison story is a proxy fight about something bigger — the other side of the fight
+> What the Travis Hunter travis hunter: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Sean Payton's — 15/100
+### Will Campbell — 23/100
 
-**Event:** Sean Payton's: After terrorizing old team, 49ers’ Dre Greenlaw said he was fueled by Sean Payton’s ‘disrespect’
+**Event:** Will Campbell: Inactives Analysis: A.J. Brown, Will Campbell, TreVeyon Henderson officially active for Week 6 matchup vs. the
 
-**Why now:** 1 source lane(s): news · momentum 14 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Sean Payton's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** ARCHIVED
-
-### Sean Payton — 14/100
-
-**Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
-
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Sean Payton sean payton: broncos coach sean payton caught in awkward kiss with charissa thompson as their history draws fresh atte filings actually say — line by line — the other side of the fight
+> What the Will Campbell will campbell: inactives analysis: a.j. brown, will campbell, treveyon henderson officially active for week 6 matchup vs. the filings actually say — line by line — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Timothy Olyphant — 21/100
-
-**Event:** Timothy Olyphant: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Timothy Olyphant timothy olyphant: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
