@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1264 · Updated: 18/10/2026, 18:15:55 (Asia/Kolkata)
+Run #1265 · Updated: 18/10/2026, 18:19:34 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -20,21 +20,21 @@ Sources this run: trends(40)
 
 **Event:** Mike Evans: Injury 49ers
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (+17 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Mike Evans mike evans: nick bosa out, mike evans questionable for 49ers' week 6 matchup vs. commanders filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Nick Bosa — 21/100
+### Nick Bosa — 22/100
 
 **Event:** Nick Bosa: injury
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-7 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 2 source lane(s): news, trends · momentum 27 (+14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 24 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
