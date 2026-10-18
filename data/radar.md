@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1282 · Updated: 19/10/2026, 01:01:33 (Asia/Kolkata)
+Run #1283 · Updated: 19/10/2026, 01:37:09 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,51 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Dylan Sprouse — 18/100
+### Justin Boone's — 20/100
 
-**Event:** Dylan Sprouse: trending now
+**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Dylan Sprouse dylan sprouse: praises wife barbara palvin for ‘jumping right into’ victoria’s secret fashion show less than 2 months after g story is actually a money story — the detail nobody has explained
+> The Justin Boone's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
 
-### Michael Penix — 21/100
+### Jonathan Taylor — 12/100
 
-**Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Michael Penix michael penix: falcons' michael penix jr. (ribs) cleared to play vs. bears story is actually a money story — the other side of the fight
+> The Jonathan Taylor jonathan taylor: sought out jaylen warren after his big game. here’s what he said. story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 5.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### David Surkamp — 23/100
+### Will Campbell — 22/100
 
-**Event:** David Surkamp: , lead singer of Pavlov’s Dog, dies at 74
+**Event:** Will Campbell: Inactives Analysis: A.J. Brown, Will Campbell, TreVeyon Henderson officially active for Week 6 matchup vs. the
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The David Surkamp story is a proxy fight about something bigger — the other side of the fight
+> What the Will Campbell will campbell: patriots make final treveyon henderson, will campbell injury decisions for week 6 filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: news
+
+**Status:** BOOSTED
+
+### Andre Szmyt — 31/100
+
+**Event:** Andre Szmyt: Browns score vs. Ravens. Cleveland scores on Andre Szmyt field goal
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 15 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Andre Szmyt andre szmyt: browns score vs. ravens. cleveland scores on andre szmyt field goal filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Tom Arnold — 34/100
+
+**Event:** Tom Arnold: slams Chuck Lorre over claim Roseanne writers were forced to put Arnold’s name on scripts (exclusive)
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 14 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tom Arnold tom arnold: slams chuck lorre over claim roseanne writers were forced to put arnold’s name on scripts (exclusive) story is actually a money story — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### John Harbaugh — 19/100
+
+**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the John Harbaugh john harbaugh: we’d be negligent if we didn’t see if j.j. mccarthy can help us filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
