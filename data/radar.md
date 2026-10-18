@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1265 · Updated: 18/10/2026, 18:19:34 (Asia/Kolkata)
+Run #1266 · Updated: 18/10/2026, 18:53:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Mike Evans: Injury 49ers
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Nick Bosa: injury
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,45 +44,59 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Amanda Seyfried — 21/100
+### Kyle Shanahan — 15/100
 
-**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
+**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Amanda Seyfried amanda seyfried: what's going on with amanda seyfried story is actually a money story — the detail nobody has explained
-
-**Competition:** 9 videos in last 6h · TTS ≈ 8h · sources: trends, news
-
-**Status:** KEPT
-
-### Patrick Mahomes — 19/100
-
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
-
-**Why now:** 2 source lane(s): news, trends · momentum 24 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Patrick Mahomes story is a proxy fight about something bigger — the other side of the fight
+> What the Kyle Shanahan kyle shanahan: had ominous injury news on wr mike evans filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Travis Kelce — 14/100
+### Ashley Hinson — 20/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Ashley Hinson: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Travis Kelce story is a proxy fight about something bigger — the other side of the fight
+> The Ashley Hinson ashley hinson: asks for gas money in iowa senate race against josh turek story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Josh Turek — 20/100
+
+**Event:** Josh Turek: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+5 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Turek josh turek: ashley hinson asks for gas money in iowa senate race against josh turek story is actually a money story — the number behind the headline
+
+**Competition:** 4 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+
+**Status:** KEPT
+
+### Kevin Bacon — 22/100
+
+**Event:** Kevin Bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Kevin Bacon kevin bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
