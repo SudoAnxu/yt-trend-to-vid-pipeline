@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1260 · Updated: 18/10/2026, 17:03:50 (Asia/Kolkata)
+Run #1261 · Updated: 18/10/2026, 17:23:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Bruce Willis — 19/100
+### Luke Grimes — 14/100
 
-**Event:** Bruce Willis: Smiles in Rare New Photo Amid His Dementia Battle
+**Event:** Luke Grimes: 'Marshals' Season 2 premiere ends in shocking death, star Luke Grimes explains | Exclusive
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 2 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Bruce Willis bruce willis: trending now story is actually a money story — the other side of the fight
+> What the Luke Grimes luke grimes: on the “dutton family curse” & kayce’s guilt | marshals season 2 filings actually say — line by line — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 6.3h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Ben Affleck — 17/100
+### Will He — 19/100
 
-**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
+**Event:** Will He: Cubs Slugger Has Beaten Mason Miller’s Slider. Will He See It Again?
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ben Affleck ben affleck: shares the 2 pieces of career advice bruce willis gave him, but admits he ‘was wrong about’ one of them story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Tyler Warren — 30/100
-
-**Event:** Tyler Warren: Will Colts TE Tyler Warren play vs. Titans in Week 6?
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tyler Warren filing that will matter in six months — the other side of the fight
+> What the Will He will he: marshals' kayce is still 'wrestling' with john dutton's ghost in season 2, episode 2 — will he ever tell tate  filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
