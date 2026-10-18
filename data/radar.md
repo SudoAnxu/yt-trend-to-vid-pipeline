@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1246 · Updated: 18/10/2026, 06:52:20 (Asia/Kolkata)
+Run #1247 · Updated: 18/10/2026, 08:41:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Cena — 12/100
+### Mike Norvell — 18/100
 
-**Event:** John Cena: trending now
+**Event:** Mike Norvell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Cena john cena: says dwayne johnson rarely gets time to himself filings actually say — line by line — the other side of the fight
+> What the Mike Norvell mike norvell: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Chris Jericho — 27/100
+### Diego State — 24/100
 
-**Event:** Chris Jericho: Results of Chris Jericho vs. Nick Wayne at AEW WrestleDream 2026
+**Event:** Diego State: San Diego State vs. Fresno State live stream, where to watch online, CBS Sports Network channel finder, odds
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Chris Jericho chris jericho: results of chris jericho vs. nick wayne at aew wrestledream 2026 filings actually say — line by line — the other side of the fight
+> The Diego State situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 15 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** RESEARCH
 
