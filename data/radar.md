@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1271 · Updated: 18/10/2026, 20:34:11 (Asia/Kolkata)
+Run #1272 · Updated: 18/10/2026, 21:33:07 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Steve Sarkisian — 15/100
+### Trevor Lawrence — 15/100
 
-**Event:** Steve Sarkisian: trending now
+**Event:** Trevor Lawrence: WATCH: Trevor Lawrence connects with Josh Cameron for TD vs Patriots
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Steve Sarkisian steve sarkisian: vows to 'evaluate everything,' won’t rule out benching arch manning amid texas' two-game skid filings actually say — line by line — the other side of the fight
+> The Trevor Lawrence story is a proxy fight about something bigger — the part that was not supposed to be public
 
-**Competition:** 22 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
