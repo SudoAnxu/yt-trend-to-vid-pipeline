@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1254 · Updated: 18/10/2026, 13:47:51 (Asia/Kolkata)
+Run #1255 · Updated: 18/10/2026, 13:54:56 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Todd Monken: has jokes before facing T.J. Watt: 'I think it's about time he retires'
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -72,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Justin Bieber — 15/100
+### Justin Bieber — 14/100
 
 **Event:** Justin Bieber: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -85,6 +85,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Justin Bieber's — 19/100
+
+**Event:** Justin Bieber's: Golf, cigars and helicopters: Justin Bieber's ultimate NZ boys' trip
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Justin Bieber's justin bieber's: golf, cigars and helicopters: justin bieber's ultimate nz boys' trip filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
