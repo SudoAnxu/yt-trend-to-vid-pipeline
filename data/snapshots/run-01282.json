@@ -1,0 +1,30 @@
+{
+  "runNo": 1282,
+  "at": "2026-10-18T19:31:32.244Z",
+  "rows": [
+    {
+      "event": "story-dylan-sprouse",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-penix",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-surkamp",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
