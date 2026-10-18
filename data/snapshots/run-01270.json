@@ -1,0 +1,30 @@
+{
+  "runNo": 1270,
+  "at": "2026-10-18T14:42:39.190Z",
+  "rows": [
+    {
+      "event": "story-brian-thomas",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-jr-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-rodriguez",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

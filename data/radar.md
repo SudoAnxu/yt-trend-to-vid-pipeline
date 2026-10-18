@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1269 · Updated: 18/10/2026, 19:50:07 (Asia/Kolkata)
+Run #1270 · Updated: 18/10/2026, 20:12:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,79 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Mike Tomlin — 18/100
+### Brian Thomas — 17/100
 
-**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
+**Event:** Brian Thomas: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-19 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Tomlin mike tomlin: agrees with nick sirianni’s kickoff decision and thinks jason kelce should be biased in the broadcast booth filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jason Kelce — 20/100
-
-**Event:** Jason Kelce: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-9 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jason Kelce jason kelce: mike tomlin agrees with nick sirianni’s kickoff decision and thinks jason kelce should be biased in the broadc filings actually say — line by line — the other side of the fight
+> The Brian Thomas filing that will matter in six months — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Joe Keery — 21/100
-
-**Event:** Joe Keery: See photos of Julia Louis-Dreyfus, Ed Harris, Allison Janney, Joe Keery, Lily Rabe in 'Other Desert Cities' on
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Joe Keery joe keery: see photos of julia louis-dreyfus, ed harris, allison janney, joe keery, lily rabe in 'other desert cities' on filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 10.9h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Marvin Harrison — 21/100
+### Thomas Jr. — 18/100
 
-**Event:** Marvin Harrison: Where is Marvin Harrison Jr. headed? Inside the mystery surrounding Cardinals' unfinished trade
+**Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Marvin Harrison story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Aaron Judge — 22/100
-
-**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
-
-**Why now:** 2 source lane(s): news, trends · momentum 17 (+14 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-7 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Judge aaron judge: why yankees bosses are a little upset with aaron judge filings actually say — line by line — the detail nobody has explained
+> The Thomas Jr. filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 12.2h · sources: news, trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Chris Rodriguez — 25/100
+
+**Event:** Chris Rodriguez: Why Chris Rodriguez Jr. is Getting Carries Over Bhayshul Tuten for Jaguars
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Chris Rodriguez chris rodriguez: why chris rodriguez jr. is getting carries over bhayshul tuten for jaguars filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
