@@ -1,0 +1,58 @@
+{
+  "runNo": 1256,
+  "at": "2026-10-18T09:00:55.966Z",
+  "rows": [
+    {
+      "event": "story-diego-county",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-goodman",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-de",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-nakashima",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-todd-monken",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1255 · Updated: 18/10/2026, 13:54:56 (Asia/Kolkata)
+Run #1256 · Updated: 18/10/2026, 14:30:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,9 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
+
+### Diego County — 13/100
+
+**Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
+
+**Why now:** 1 source lane(s): news · momentum 9 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Diego County diego county: beach hazards statement affecting orange county coast and san diego county coastal areas until tuesday morning filings actually say — line by line — the other side of the fight
+
+**Competition:** 22 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### John Goodman — 18/100
+
+**Event:** John Goodman: , the co-star who carried four decades of other people’s films
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The John Goodman john goodman: explains why robin williams had to ‘remain to himself’ when they worked together story is actually a money story — the detail nobody has explained
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Robert De — 13/100
+
+**Event:** Robert De: Niro and partner Tiffany host Anupam Kher for lunch in the US, gift him a cap: ‘Fortunate to call you my frien
+
+**Why now:** 1 source lane(s): news · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Robert De robert de: 1990, robin williams broke robert de niro’s nose. somehow, they only grew closer filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
+
+**Status:** RESEARCH
 
 ### Alexander Bublik — 21/100
 
@@ -48,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +104,7 @@ Sources this run: trends(40)
 
 **Event:** Todd Monken: has jokes before facing T.J. Watt: 'I think it's about time he retires'
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -71,34 +113,6 @@ Sources this run: trends(40)
 **Competition:** 11 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Justin Bieber — 14/100
-
-**Event:** Justin Bieber: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Justin Bieber justin bieber: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Justin Bieber's — 19/100
-
-**Event:** Justin Bieber's: Golf, cigars and helicopters: Justin Bieber's ultimate NZ boys' trip
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Justin Bieber's justin bieber's: golf, cigars and helicopters: justin bieber's ultimate nz boys' trip filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
