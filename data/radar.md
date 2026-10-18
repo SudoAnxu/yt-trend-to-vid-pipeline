@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1285 · Updated: 19/10/2026, 02:37:38 (Asia/Kolkata)
+Run #1286 · Updated: 19/10/2026, 03:08:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Tony Romo — 17/100
+### Justin Herbert — 18/100
 
-**Event:** Tony Romo: trending now
+**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tony Romo tony romo: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Joe Buck — 26/100
-
-**Event:** Joe Buck: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-7 vs prev run) · spice 6 · risk 34 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 28 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Joe Buck story is a proxy fight about something bigger — the number behind the headline
+> The Justin Herbert justin herbert: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
 
-### Eric Bieniemy — 23/100
+### Greg Olsen — 19/100
 
-**Event:** Eric Bieniemy: trending now
+**Event:** Greg Olsen: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Eric Bieniemy eric bieniemy: trending now filings actually say — line by line — the other side of the fight
+> What the Greg Olsen greg olsen: ‘you’ve gotta carry us’ — greg olsen challenges popular narrative around justin herbert amid chargers’ struggl filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Mike Mcdaniel — 17/100
+
+**Event:** Mike Mcdaniel: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Mcdaniel mike mcdaniel: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Patrick Mahomes — 14/100
+### Jennifer Garner — 13/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Jennifer Garner: Ben Affleck Explains Shared Custody Arrangement With Ex-Wife Jennifer Garner Over Their 3 Kids
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Patrick Mahomes patrick mahomes: eric bieniemy on heated sideline discussion with patrick mahomes filings actually say — line by line — the other side of the fight
+> What the Jennifer Garner jennifer garner: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 13 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Travis Kelce's — 21/100
+### Ben Affleck — 18/100
 
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
+**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Travis Kelce's story is a proxy fight about something bigger — the other side of the fight
+> What the Ben Affleck ben affleck: makes surprising jennifer lopez confession two years after their divorce filings actually say — line by line — what happens next
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Jennifer Lopez — 21/100
+
+**Event:** Jennifer Lopez: Ben Affleck makes surprising Jennifer Lopez confession two years after their divorce
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jennifer Lopez jennifer lopez: ben affleck makes surprising jennifer lopez confession two years after their divorce filings actually say — line by line — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
