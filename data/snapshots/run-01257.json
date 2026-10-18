@@ -1,0 +1,30 @@
+{
+  "runNo": 1257,
+  "at": "2026-10-18T09:19:40.782Z",
+  "rows": [
+    {
+      "event": "story-rafael-jodar",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-diego-county",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-goodman",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
