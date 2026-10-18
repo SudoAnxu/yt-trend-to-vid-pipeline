@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1267 · Updated: 18/10/2026, 19:19:39 (Asia/Kolkata)
+Run #1268 · Updated: 18/10/2026, 19:34:58 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Turturro — 19/100
+### Marvin Harrison — 21/100
 
-**Event:** John Turturro: trending now
+**Event:** Marvin Harrison: Where is Marvin Harrison Jr. headed? Inside the mystery surrounding Cardinals' unfinished trade
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The John Turturro story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Patrick Mahomes — 24/100
-
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
-
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-4 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Patrick Mahomes story is a proxy fight about something bigger — the other side of the fight
+> The Marvin Harrison story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Chris Olave — 18/100
+
+**Event:** Chris Olave: (illness) remains sidelined Thursday
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Chris Olave chris olave: (illness) remains sidelined thursday story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
