@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1266 · Updated: 18/10/2026, 18:53:44 (Asia/Kolkata)
+Run #1267 · Updated: 18/10/2026, 19:19:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,91 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mike Evans — 26/100
+### John Turturro — 19/100
 
-**Event:** Mike Evans: Injury 49ers
+**Event:** John Turturro: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Evans mike evans: nick bosa out, mike evans questionable for 49ers' week 6 matchup vs. commanders filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Nick Bosa — 22/100
-
-**Event:** Nick Bosa: injury
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nick Bosa nick bosa: out, mike evans questionable for 49ers' week 6 matchup vs. commanders filings actually say — line by line — the other side of the fight
+> The John Turturro story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Kyle Shanahan — 15/100
+### Patrick Mahomes — 24/100
 
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kyle Shanahan kyle shanahan: had ominous injury news on wr mike evans filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ashley Hinson — 20/100
-
-**Event:** Ashley Hinson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 24 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ashley Hinson ashley hinson: asks for gas money in iowa senate race against josh turek story is actually a money story — the number behind the headline
+> The Patrick Mahomes story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Josh Turek — 20/100
-
-**Event:** Josh Turek: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+5 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Josh Turek josh turek: ashley hinson asks for gas money in iowa senate race against josh turek story is actually a money story — the number behind the headline
-
-**Competition:** 4 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
-
-**Status:** KEPT
-
-### Kevin Bacon — 22/100
-
-**Event:** Kevin Bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kevin Bacon kevin bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** ARCHIVED
 
