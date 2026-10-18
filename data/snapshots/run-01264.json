@@ -1,0 +1,44 @@
+{
+  "runNo": 1264,
+  "at": "2026-10-18T12:45:54.972Z",
+  "rows": [
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-bosa",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-amanda-seyfried",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
