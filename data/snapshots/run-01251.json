@@ -1,0 +1,51 @@
+{
+  "runNo": 1251,
+  "at": "2026-10-18T06:51:25.672Z",
+  "rows": [
+    {
+      "event": "story-rose-blanchard",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-urker",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-sofia-kenin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-nakashima",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

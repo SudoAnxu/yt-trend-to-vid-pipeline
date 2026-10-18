@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1250 · Updated: 18/10/2026, 11:36:39 (Asia/Kolkata)
+Run #1251 · Updated: 18/10/2026, 12:21:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
+
+### Rose Blanchard — 22/100
+
+**Event:** Rose Blanchard: Ken Urker, Partner of Gypsy Rose Blanchard, Is Found Dead in Louisiana
+
+**Why now:** 2 source lane(s): news, trends · momentum 30 (+5 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rose Blanchard rose blanchard: gypsy rose blanchard said she ‘hoped’ ken urker would overdose nearly 6 years before his death in leaked priso filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Ken Urker — 17/100
+
+**Event:** Ken Urker: cause of death update: How did Gypsy Rose Blanchard's fiance die? Latest details after demise at 33 | Hindusta
+
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Ken Urker ken urker: gypsy rose blanchard said she ‘hoped’ ken urker would overdose nearly 6 years before his death in leaked priso filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
 
 ### Sofia Kenin — 17/100
 
 **Event:** Sofia Kenin: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
