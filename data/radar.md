@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1278 · Updated: 18/10/2026, 23:45:42 (Asia/Kolkata)
+Run #1279 · Updated: 18/10/2026, 23:52:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jeff Ulbrich — 26/100
+### Jeff Ulbrich — 21/100
 
 **Event:** Jeff Ulbrich: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,7 +44,7 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Mike Vrabel — 19/100
+### Mike Vrabel — 20/100
 
 **Event:** Mike Vrabel: offers blunt review of Drake Maye’s fourth interception
 
