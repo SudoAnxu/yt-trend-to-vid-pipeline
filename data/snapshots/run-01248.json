@@ -1,0 +1,44 @@
+{
+  "runNo": 1248,
+  "at": "2026-10-18T04:49:17.320Z",
+  "rows": [
+    {
+      "event": "story-justin-timberlake",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-jessica-biel",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-sudeikis",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-aniston",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-to-host",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
