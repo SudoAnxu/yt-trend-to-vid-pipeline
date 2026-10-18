@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1287 · Updated: 19/10/2026, 03:48:18 (Asia/Kolkata)
+Run #1288 · Updated: 19/10/2026, 04:00:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jim Harbaugh — 21/100
+### Jim Harbaugh — 20/100
 
 **Event:** Jim Harbaugh: gave brother J.J. McCarthy scouting report before Giants trade
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Jim Harbaugh jim harbaugh: path back to college football is blocked: massive ncaa penalties stand in chargers coach's way filings actually say — line by line — what happens next
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** KEPT
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Justin Herbert's: Younger Brother Added To Chargers Roster For Week 3
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Justin Herbert — 16/100
+### Justin Herbert — 17/100
 
 **Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-21 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+2 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -58,19 +58,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kevin Kisner — 29/100
+### Kevin Kisner — 24/100
 
 **Event:** Kevin Kisner: Rory McIlroy explains why he played in India after PGA Tour player Kevin Kisner accused him of chasing re
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 20 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Kevin Kisner kevin kisner: rory mcilroy explains why he played in india after pga tour player kevin kisner accused him of chasing re story is actually a money story — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 ### Michael Wilson — 17/100
 
