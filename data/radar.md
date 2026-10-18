@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1274 · Updated: 18/10/2026, 22:16:07 (Asia/Kolkata)
+Run #1275 · Updated: 18/10/2026, 22:33:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Greg Olsen — 17/100
+
+**Event:** Greg Olsen: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Greg Olsen greg olsen: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 ### Travis Kelce — 21/100
 
 **Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+16 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Travis Hunter — 17/100
+### Travis Hunter — 15/100
 
 **Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,15 +58,15 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Will Campbell — 23/100
+### Travis Hunter's — 19/100
 
-**Event:** Will Campbell: Inactives Analysis: A.J. Brown, Will Campbell, TreVeyon Henderson officially active for Week 6 matchup vs. the
+**Event:** Travis Hunter's: first TD of 2026 season trims Texans' lead to 31-27 in London
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Will Campbell will campbell: inactives analysis: a.j. brown, will campbell, treveyon henderson officially active for week 6 matchup vs. the filings actually say — line by line — the other side of the fight
+> What the Travis Hunter's travis hunter's: first td of 2026 season trims texans' lead to 31-27 in london filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
