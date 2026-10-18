@@ -1,0 +1,30 @@
+{
+  "runNo": 1263,
+  "at": "2026-10-18T12:29:24.236Z",
+  "rows": [
+    {
+      "event": "story-oscar-piastri",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-dylan-larkin",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-hughes",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
