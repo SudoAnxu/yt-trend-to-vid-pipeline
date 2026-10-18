@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1280 · Updated: 19/10/2026, 00:16:44 (Asia/Kolkata)
+Run #1281 · Updated: 19/10/2026, 00:51:30 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mike Tomlin — 17/100
+### Michael Penix — 22/100
 
-**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
+**Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Tomlin mike tomlin: u mad, bro?: steelers’ defense taking heat, shots at mike tomlin and joey porter jr. continue filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Joey Porter — 15/100
-
-**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+15 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Joey Porter joey porter: u mad, bro?: steelers’ defense taking heat, shots at mike tomlin and joey porter jr. continue filings actually say — line by line — the other side of the fight
+> The Michael Penix michael penix: falcons' michael penix jr. (ribs) cleared to play vs. bears story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tyler Shough — 18/100
+### David Surkamp — 29/100
 
-**Event:** Tyler Shough: Watch Jeff Brohm breaks down transfer quarterbacks Tyler Shough and Lincoln Kienholz - Wake Up Barstool
+**Event:** David Surkamp: , lead singer of Pavlov’s Dog, dies at 74
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tyler Shough tyler shough: trending now story is actually a money story — the other side of the fight
+> The David Surkamp story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 6.8h · sources: news, trends
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
