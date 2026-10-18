@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1253 · Updated: 18/10/2026, 13:01:18 (Asia/Kolkata)
+Run #1254 · Updated: 18/10/2026, 13:47:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,91 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Jesse Minter — 18/100
+### Alexander Bublik — 21/100
 
-**Event:** Jesse Minter: Ravens HC Jesse Minter Says Team is Still Searching for Defensive Identity
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jesse Minter jesse minter: late for work: how jesse minter ‘flipped the script on overtime’ filings actually say — line by line — the other side of the fight
+> What the Alexander Bublik alexander bublik: brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Larry David — 20/100
+### Brandon Nakashima — 21/100
 
-**Event:** Larry David: trending now
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Larry David larry david: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Connor Storrie — 22/100
-
-**Event:** Connor Storrie: ‘Heated Rivalry’ star Connor Storrie has arrived at the Academy Museum Gala
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Connor Storrie story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Rose Blanchard — 21/100
-
-**Event:** Rose Blanchard: Ken Urker, Partner of Gypsy Rose Blanchard, Is Found Dead in Louisiana
-
-**Why now:** 2 source lane(s): news, trends · momentum 22 (-3 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Rose Blanchard rose blanchard: gypsy rose blanchard said she ‘hoped’ ken urker would overdose nearly 6 years before his death in leaked priso filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ken Urker's — 19/100
-
-**Event:** Ken Urker's: Gypsy Rose Blanchard Addresses Relationship With Ken Urker’s Sister
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Ken Urker's ken urker's: gypsy rose blanchard addresses relationship with ken urker’s sister filings actually say — line by line — the other side of the fight
+> What the Brandon Nakashima brandon nakashima: alexander bublik brandon nakashima live score and h2h results filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
-### Ken Urker — 17/100
+### Alexander Bublik's — 21/100
 
-**Event:** Ken Urker: cause of death update: How did Gypsy Rose Blanchard's fiance die? Latest details after demise at 33 | Hindusta
+**Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ken Urker ken urker: gypsy rose blanchard said she ‘hoped’ ken urker would overdose nearly 6 years before his death in leaked priso filings actually say — line by line — the detail nobody has explained
+> What the Alexander Bublik's alexander bublik's: andy roddick’s unfiltered take on frances tiafoe and alexander bublik’s angry meltdowns filings actually say — line by line — the other side of the fight
 
-**Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Todd Monken — 13/100
+
+**Event:** Todd Monken: has jokes before facing T.J. Watt: 'I think it's about time he retires'
+
+**Why now:** 2 source lane(s): news, trends · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Todd Monken todd monken: ravens believe browns' todd monken wants 'to kick our tail' story is actually a money story — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Justin Bieber — 15/100
+
+**Event:** Justin Bieber: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Justin Bieber justin bieber: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
