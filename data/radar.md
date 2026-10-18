@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1270 · Updated: 18/10/2026, 20:12:40 (Asia/Kolkata)
+Run #1271 · Updated: 18/10/2026, 20:34:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Brian Thomas — 17/100
+### Steve Sarkisian — 15/100
 
-**Event:** Brian Thomas: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
+**Event:** Steve Sarkisian: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Brian Thomas filing that will matter in six months — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 10.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Thomas Jr. — 18/100
-
-**Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-7 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Thomas Jr. filing that will matter in six months — the other side of the fight
+> What the Steve Sarkisian steve sarkisian: vows to 'evaluate everything,' won’t rule out benching arch manning amid texas' two-game skid filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 12.2h · sources: news, trends
+**Competition:** 22 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Chris Rodriguez — 25/100
-
-**Event:** Chris Rodriguez: Why Chris Rodriguez Jr. is Getting Carries Over Bhayshul Tuten for Jaguars
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Chris Rodriguez chris rodriguez: why chris rodriguez jr. is getting carries over bhayshul tuten for jaguars filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

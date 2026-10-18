@@ -1,0 +1,16 @@
+{
+  "runNo": 1271,
+  "at": "2026-10-18T15:04:10.530Z",
+  "rows": [
+    {
+      "event": "story-steve-sarkisian",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
