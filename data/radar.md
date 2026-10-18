@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1248 · Updated: 18/10/2026, 10:19:18 (Asia/Kolkata)
+Run #1249 · Updated: 18/10/2026, 11:02:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,79 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Justin Timberlake — 26/100
+### Noah Centineo — 17/100
 
-**Event:** Justin Timberlake: , Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
+**Event:** Noah Centineo: "Street Fighter' red carpet – Jason Momoa, Cody Rhodes, Noah Centineo
 
-**Why now:** 2 source lane(s): news, trends · momentum 27 (-1 vs prev run) · spice 11 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Justin Timberlake story is a proxy fight about something bigger — the other side of the fight
+> What the Noah Centineo noah centineo: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** RESEARCH
 
-### Jessica Biel — 23/100
+### Nathan Fielder's — 22/100
 
-**Event:** Jessica Biel: Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
+**Event:** Nathan Fielder's: Nathan Fielder’s Elizabeth Holmes Doc Drops Full Trailer — and You Will Want to See Everything
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-11 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jessica Biel story is a proxy fight about something bigger — the other side of the fight
+> The Nathan Fielder's filing that will matter in six months — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
 
 **Status:** ARCHIVED
 
-### Jason Sudeikis — 17/100
+### Anthropic — 22/100
 
-**Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
+**Event:** Anthropic: CEO Says Culture Takes Up to 40% of His Time as Company Grows
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jason Sudeikis jason sudeikis: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jennifer Aniston — 13/100
-
-**Event:** Jennifer Aniston: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jennifer Aniston situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 18 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### To Host — 19/100
-
-**Event:** To Host: Oregon State Stays Home To Host WSU Saturday At Reser
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the To Host to host: cal to host no. 21 wake forest in berkeley filings actually say — line by line — the other side of the fight
+> What the Anthropic anthropic: ceo says culture takes up to 40% of his time as company grows filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
+
+### Louis City — 16/100
+
+**Event:** Louis City: Minnesota United vs St. Louis City: Major League Soccer stats & head-to-head
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Louis City louis city: st. louis city sc at minnesota united - mls game summary - oct 17, 2026 filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
