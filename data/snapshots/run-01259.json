@@ -1,0 +1,16 @@
+{
+  "runNo": 1259,
+  "at": "2026-10-18T10:41:31.923Z",
+  "rows": [
+    {
+      "event": "story-jacob-elordi",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
