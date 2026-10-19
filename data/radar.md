@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1309 · Updated: 19/10/2026, 19:43:20 (Asia/Kolkata)
+Run #1310 · Updated: 19/10/2026, 20:21:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Jordan's — 14/100
+### Dwight Powell — 23/100
 
-**Event:** Michael Jordan's: Ferrari 550 Maranello Sets Auction Record At $2.7 Million
+**Event:** Dwight Powell: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Michael Jordan's michael jordan's: "mj's the guy that everybody talks about" - caleb wilson reveals how michael jordan's legacy shaped his journe filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Chris Ballard — 24/100
-
-**Event:** Chris Ballard: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 38 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Chris Ballard chris ballard: trending now story is actually a money story — the other side of the fight
+> The Dwight Powell dwight powell: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Daniel Jones — 15/100
+### Steve Sarkisian — 16/100
 
-**Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
+**Event:** Steve Sarkisian: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Daniel Jones daniel jones: shane steichen says daniel jones won't be benched but coach and general manager chris ballard are in trouble filings actually say — line by line — the other side of the fight
+> What the Steve Sarkisian steve sarkisian: may need to consider kj lacey — and that says plenty about him filings actually say — line by line — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 22 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Amy Adams — 26/100
+
+**Event:** Amy Adams: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Amy Adams amy adams: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

@@ -1,0 +1,30 @@
+{
+  "runNo": 1310,
+  "at": "2026-10-19T14:51:48.426Z",
+  "rows": [
+    {
+      "event": "story-dwight-powell",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-sarkisian",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-amy-adams",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
