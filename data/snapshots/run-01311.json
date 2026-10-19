@@ -1,0 +1,30 @@
+{
+  "runNo": 1311,
+  "at": "2026-10-19T15:20:30.216Z",
+  "rows": [
+    {
+      "event": "story-jason-segel",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-jayden-maiava",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-dwight-powell",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
