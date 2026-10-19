@@ -1,0 +1,51 @@
+{
+  "runNo": 1323,
+  "at": "2026-10-19T19:36:56.195Z",
+  "rows": [
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-louis-vuitton",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-hugh-jackman",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-hugh-jackman-s",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-larson",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-meghan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
