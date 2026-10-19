@@ -1,0 +1,44 @@
+{
+  "runNo": 1298,
+  "at": "2026-10-19T06:21:46.055Z",
+  "rows": [
+    {
+      "event": "story-evan-stewart",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-volkanovski",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-trump-defends-plans",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tyler-ulrich",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
