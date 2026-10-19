@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1334 · Updated: 20/10/2026, 04:27:07 (Asia/Kolkata)
+Run #1335 · Updated: 20/10/2026, 04:56:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,121 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### John Harbaugh — 19/100
+### Terry Mclaurin — 17/100
 
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+**Event:** Terry Mclaurin: trending now
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Harbaugh john harbaugh: on giants qb situation filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Jonathan Owens — 17/100
-
-**Event:** Jonathan Owens: Simone Biles and Jonathan Owens find buyer for Texas home for $1.2 million in almost record time
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jonathan Owens jonathan owens: simone biles shows off cheeky game day look featuring special detail to watch husband jonathan owens play story is actually a money story — the other side of the fight
+> What the Terry Mclaurin terry mclaurin: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Mike Evans — 13/100
-
-**Event:** Mike Evans: Injury 49ers
-
-**Why now:** 2 source lane(s): trends, news · momentum 2 (-13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Mike Evans mike evans: commanders-49ers injury report: stefon diggs and mike evans remain key questions story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 8h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kate Middleton — 14/100
-
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
-
-**Why now:** 2 source lane(s): news, trends · momentum 3 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kate Middleton kate middleton: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Tracy Wolfson — 30/100
-
-**Event:** Tracy Wolfson: Josh Allen’s Postgame Exchange With CBS Reporter Tracy Wolfson Sparks Backside-Slap Speculation
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 12 · risk 64 · external momentum 36 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Tracy Wolfson filing that will matter in six months — the detail nobody has explained
-
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Josh Allen — 21/100
+### Kristen Bell — 16/100
 
-**Event:** Josh Allen: injury
+**Event:** Kristen Bell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+16 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Josh Allen filing that will matter in six months — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Josh Allen's — 17/100
-
-**Event:** Josh Allen's: Wife, Hailee Steinfield, Announces Difficult Personal News Before Chargers-Bills
-
-**Why now:** 1 source lane(s): news · momentum 10 (-9 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Josh Allen's filing that will matter in six months — the detail nobody has explained
+> What the Kristen Bell kristen bell: nobody wants this season 3 release: when and where to watch kristen bell and adam brody’s romantic comedy filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Aaron Boone — 22/100
+### Jennifer Lopez — 20/100
 
-**Event:** Aaron Boone: Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone
+**Event:** Jennifer Lopez: Ben Affleck makes surprising Jennifer Lopez confession two years after their divorce
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (-3 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 32 (+13 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Boone aaron boone: trending now filings actually say — line by line — the other side of the fight
+> The Jennifer Lopez jennifer lopez: & brett goldstein fuel dating rumors after latest sighting — report story is actually a money story — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
+
+### Josh Duhamel — 31/100
+
+**Event:** Josh Duhamel: Breaks Silence on Ransom Canyon's Surprise Cancellation After 2 Seasons
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Duhamel situation is weirder than the clips suggest — the detail nobody has explained
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
