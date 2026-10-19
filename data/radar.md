@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1332 · Updated: 20/10/2026, 04:05:03 (Asia/Kolkata)
+Run #1333 · Updated: 20/10/2026, 04:10:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Aaron Boone — 21/100
+### Aaron Boone — 22/100
 
 **Event:** Aaron Boone: Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone
 
-**Why now:** 2 source lane(s): news, trends · momentum 32 (+16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 26 (-6 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Aaron Boone filing that will matter in six months — the other side of the fight
+> What the Aaron Boone aaron boone: to return as yankees manager in 2027: why new york is sticking with skipper for 10th season filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 17 videos in last 6h · TTS ≈ 14h · sources: news, trends
+**Competition:** 18 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** David Jolly: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+6 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Roger Marshall: Trump stumping for Sen. Roger Marshall in Kansas with midterms 15 days away
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Will Be — 19/100
+### Will Be — 20/100
 
 **Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
