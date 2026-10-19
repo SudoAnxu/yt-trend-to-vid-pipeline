@@ -1,0 +1,51 @@
+{
+  "runNo": 1302,
+  "at": "2026-10-19T09:15:04.155Z",
+  "rows": [
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-bad-actor",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-paul",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-maya-joint",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 2,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-bacon",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
