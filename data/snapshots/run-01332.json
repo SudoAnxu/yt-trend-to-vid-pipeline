@@ -1,0 +1,37 @@
+{
+  "runNo": 1332,
+  "at": "2026-10-19T22:35:02.789Z",
+  "rows": [
+    {
+      "event": "story-aaron-boone",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-jolly",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-roger-marshall",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
