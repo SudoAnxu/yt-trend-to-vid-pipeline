@@ -1,0 +1,30 @@
+{
+  "runNo": 1328,
+  "at": "2026-10-19T21:11:55.721Z",
+  "rows": [
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-ekeler",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-peters",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

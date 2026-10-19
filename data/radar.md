@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1327 · Updated: 20/10/2026, 02:18:16 (Asia/Kolkata)
+Run #1328 · Updated: 20/10/2026, 02:41:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Mike Evans — 22/100
+
+**Event:** Mike Evans: Injury 49ers
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Evans mike evans: is mike evans playing on 'monday night football?' a look at the 49ers wr's status vs. commanders filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Austin Ekeler — 21/100
 
 **Event:** Austin Ekeler: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Austin Ekeler austin ekeler: commanders rb austin ekeler explains why dan quinn is the right leader story is actually a money story — the detail nobody has explained
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.8h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Adam Peters — 22/100
+### Adam Peters — 19/100
 
 **Event:** Adam Peters: 5 questions with Andrew York of Hogs Haven: How is Adam Peters viewed three years in?
 
-**Why now:** 1 source lane(s): news · momentum 23 (-3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Adam Peters adam peters: what commanders gm adam peters said about dan quinn, nfc east, trade deadline story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 9h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 9.6h · sources: news
 
 **Status:** BOOSTED
 
