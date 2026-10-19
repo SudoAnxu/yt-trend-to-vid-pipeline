@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1328 · Updated: 20/10/2026, 02:41:56 (Asia/Kolkata)
+Run #1329 · Updated: 20/10/2026, 02:54:23 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,37 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mike Evans — 22/100
+### Brandon Miller — 30/100
 
-**Event:** Mike Evans: Injury 49ers
+**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Evans mike evans: is mike evans playing on 'monday night football?' a look at the 49ers wr's status vs. commanders filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Austin Ekeler — 21/100
-
-**Event:** Austin Ekeler: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Austin Ekeler austin ekeler: commanders rb austin ekeler explains why dan quinn is the right leader story is actually a money story — the detail nobody has explained
+> The Brandon Miller story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 4 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Adam Peters — 19/100
+### Kevin Porter — 25/100
 
-**Event:** Adam Peters: 5 questions with Andrew York of Hogs Haven: How is Adam Peters viewed three years in?
+**Event:** Kevin Porter: trending now
 
-**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Adam Peters adam peters: what commanders gm adam peters said about dan quinn, nfc east, trade deadline story is actually a money story — the other side of the fight
+> What the Kevin Porter kevin porter: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 9.6h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** RESEARCH
 
 
 </details>
