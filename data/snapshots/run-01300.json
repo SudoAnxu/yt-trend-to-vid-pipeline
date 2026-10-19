@@ -1,0 +1,23 @@
+{
+  "runNo": 1300,
+  "at": "2026-10-19T08:02:14.527Z",
+  "rows": [
+    {
+      "event": "story-kevin-bacon",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-raiola",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

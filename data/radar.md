@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1299 · Updated: 19/10/2026, 12:41:06 (Asia/Kolkata)
+Run #1300 · Updated: 19/10/2026, 13:32:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Patrick Fabian — 24/100
+### Kevin Bacon — 28/100
 
-**Event:** Patrick Fabian: Fans line up in Old Town Albuquerque to meet Patrick Fabian from ‘Better Call Saul’
+**Event:** Kevin Bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Patrick Fabian story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** RESEARCH
-
-### Evan Stewart — 18/100
-
-**Event:** Evan Stewart: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+10 vs prev run) · spice 25 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Evan Stewart evan stewart: trending now story is actually a money story — the other side of the fight
+> What the Kevin Bacon kevin bacon: pleads for help after suffering heartbreaking personal loss — watch emotional new video filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Dylan Raiola — 17/100
+
+**Event:** Dylan Raiola: Oregon QB Dante Moore ruled out vs. UCLA; Dylan Raiola to start
+
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Dylan Raiola dylan raiola: , one week after benching, rallies oregon past former team nebraska story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
