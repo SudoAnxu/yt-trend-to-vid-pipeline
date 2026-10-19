@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1317 · Updated: 19/10/2026, 22:51:28 (Asia/Kolkata)
+Run #1318 · Updated: 19/10/2026, 23:07:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Will Face — 21/100
+### Sean Combs — 12/100
+
+**Event:** Sean Combs: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Sean Combs sean combs: fci allenwood move filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Joey Porter — 22/100
+
+**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
+
+**Why now:** 2 source lane(s): news, trends · momentum 16 (-6 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Joey Porter situation is weirder than the clips suggest — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Will Face — 20/100
 
 **Event:** Will Face: ‘GTA 6’ Will Face Something It Couldn’t Have Prepared For At Launch
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,19 +58,19 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Noah Wyle — 24/100
+### James Talarico — 25/100
 
-**Event:** Noah Wyle: ‘The Pitt’ Star Noah Wyle Mourns Heartbreaking Family Loss: ‘Devastated’
+**Event:** James Talarico: ken paxton james talarico polls
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+5 vs prev run) · spice 12 · risk 56 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Noah Wyle story is a proxy fight about something bigger — the other side of the fight
+> What the James Talarico james talarico: faces maga lawsuit over slogan to woo conservatives filings actually say — line by line — what happens next
 
-**Competition:** 4 videos in last 6h · TTS ≈ 4.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
