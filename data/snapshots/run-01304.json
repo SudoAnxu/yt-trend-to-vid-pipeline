@@ -1,0 +1,16 @@
+{
+  "runNo": 1304,
+  "at": "2026-10-19T10:11:36.043Z",
+  "rows": [
+    {
+      "event": "story-jim-nantz",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
