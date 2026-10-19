@@ -1,0 +1,23 @@
+{
+  "runNo": 1299,
+  "at": "2026-10-19T07:11:06.133Z",
+  "rows": [
+    {
+      "event": "story-patrick-fabian",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-evan-stewart",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
