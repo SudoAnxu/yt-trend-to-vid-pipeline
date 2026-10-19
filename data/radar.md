@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1295 · Updated: 19/10/2026, 08:55:07 (Asia/Kolkata)
+Run #1296 · Updated: 19/10/2026, 10:27:23 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,89 +12,47 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Ben Simmons — 12/100
+### Alex Eala — 18/100
 
-**Event:** Ben Simmons: Sacramento Kings guard Ben Simmons addresses critics in expletive clip
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ben Simmons ben simmons: "bro, what's up with your pops?" - shareef o’neal says only ben simmons confronted him over shaq's criticism filings actually say — line by line — the other side of the fight
+> What the Alex Eala alex eala: looks for asian swing reset at ningbo open filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
 
 **Status:** ARCHIVED
 
-### Nick Sirianni — 16/100
+### Nathan Fielder's — 22/100
 
-**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
+**Event:** Nathan Fielder's: Nathan Fielder’s Elizabeth Holmes Doc Drops Full Trailer — and You Will Want to See Everything
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nick Sirianni nick sirianni: nfc notes: von miller, nick sirianni, cowboys, eagles, giants filings actually say — line by line — the other side of the fight
+> The Nathan Fielder's filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
 
 **Status:** ARCHIVED
 
-### John Malkovich — 18/100
+### Alexander Bublik's — 22/100
 
-**Event:** John Malkovich: trending now
+**Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Malkovich john malkovich: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Sam Rockwell — 21/100
-
-**Event:** Sam Rockwell: Watch Parker Posey and Sam Rockwell Joust Over the Phone in Funny Wild Horse Nine Clip (Exclusive)
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Sam Rockwell sam rockwell: watch parker posey and sam rockwell joust over the phone in funny wild horse nine clip (exclusive) filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mike Tomlin — 20/100
-
-**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Tomlin mike tomlin: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Mike Tomlin's — 19/100
-
-**Event:** Mike Tomlin's: From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Tomlin's mike tomlin's: mike tomlin’s minecraft world is the talk of the internet, but how good is it really? filings actually say — line by line — the other side of the fight
+> What the Alexander Bublik's alexander bublik's: andy roddick’s unfiltered take on frances tiafoe and alexander bublik’s angry meltdowns filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
