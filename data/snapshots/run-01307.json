@@ -1,0 +1,23 @@
+{
+  "runNo": 1307,
+  "at": "2026-10-19T12:39:24.886Z",
+  "rows": [
+    {
+      "event": "story-alexandra-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
