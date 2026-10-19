@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1294 · Updated: 19/10/2026, 07:00:46 (Asia/Kolkata)
+Run #1295 · Updated: 19/10/2026, 08:55:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,89 +16,89 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Paul Bettany — 23/100
+### Ben Simmons — 12/100
 
-**Event:** Paul Bettany: ‘VisionQuest’ star Paul Bettany reacts to wife Jennifer Connelly’s defense of his Marvel character
+**Event:** Ben Simmons: Sacramento Kings guard Ben Simmons addresses critics in expletive clip
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Paul Bettany paul bettany: says he and johnny depp ‘hadn’t spoken’ in years when their texts were read during libel trial: ‘i was being p story is actually a money story — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kevin Hart — 16/100
-
-**Event:** Kevin Hart: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kevin Hart kevin hart: trending now filings actually say — line by line — the other side of the fight
+> What the Ben Simmons ben simmons: "bro, what's up with your pops?" - shareef o’neal says only ben simmons confronted him over shaq's criticism filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Thomas Jr. — 18/100
+### Nick Sirianni — 16/100
 
-**Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
+**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Thomas Jr. story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 5.9h · sources: news, trends
-
-**Status:** RESEARCH
-
-### Micah Parsons — 14/100
-
-**Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Micah Parsons micah parsons: nfc notes: grady jarrett, micah parsons, bears, packers, vikings filings actually say — line by line — the other side of the fight
+> What the Nick Sirianni nick sirianni: nfc notes: von miller, nick sirianni, cowboys, eagles, giants filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Will Be — 18/100
+### John Malkovich — 18/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** John Malkovich: trending now
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Be will be: cowboys again indicate breakout rookie will be demoted story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** KEPT
-
-### Brian Schottenheimer — 19/100
-
-**Event:** Brian Schottenheimer: OK with Cowboys' players-only meeting panned by Mike Tomlin
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Brian Schottenheimer brian schottenheimer: admits cowboys haven't used caleb downs as planned filings actually say — line by line — the other side of the fight
+> What the John Malkovich john malkovich: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Sam Rockwell — 21/100
+
+**Event:** Sam Rockwell: Watch Parker Posey and Sam Rockwell Joust Over the Phone in Funny Wild Horse Nine Clip (Exclusive)
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Sam Rockwell sam rockwell: watch parker posey and sam rockwell joust over the phone in funny wild horse nine clip (exclusive) filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
+
+### Mike Tomlin — 20/100
+
+**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Tomlin mike tomlin: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mike Tomlin's — 19/100
+
+**Event:** Mike Tomlin's: From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Tomlin's mike tomlin's: mike tomlin’s minecraft world is the talk of the internet, but how good is it really? filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
 
 
 </details>
