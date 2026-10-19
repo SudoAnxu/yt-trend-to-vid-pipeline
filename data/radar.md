@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1325 · Updated: 20/10/2026, 01:50:20 (Asia/Kolkata)
+Run #1326 · Updated: 20/10/2026, 02:11:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,93 +12,37 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Travis Kelce — 14/100
+### Austin Ekeler — 21/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Austin Ekeler: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+6 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: taylor swift travis kelce marriage filings actually say — line by line — the other side of the fight
+> The Austin Ekeler austin ekeler: commanders rb austin ekeler explains why dan quinn is the right leader story is actually a money story — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 6.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Louis Vuitton — 14/100
+### Adam Peters — 23/100
 
-**Event:** Louis Vuitton: Taylor Swift watches Chiefs defeat Chargers in cozy red Louis Vuitton bodysuit
+**Event:** Adam Peters: 5 questions with Andrew York of Hogs Haven: How is Adam Peters viewed three years in?
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Louis Vuitton louis vuitton: taylor swift watches chiefs defeat chargers in cozy red louis vuitton bodysuit filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
-
-**Status:** RESEARCH
-
-### Hugh Jackman — 13/100
-
-**Event:** Hugh Jackman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 26 (+8 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Hugh Jackman hugh jackman: trending now filings actually say — line by line — the other side of the fight
+> The Adam Peters adam peters: what commanders gm adam peters said about dan quinn, nfc east, trade deadline story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 8.3h · sources: news
 
-**Status:** ARCHIVED
-
-### Hugh Jackman's — 16/100
-
-**Event:** Hugh Jackman's: Gritty 126-Minute Thriller Is Officially HBO Max's Biggest Streaming Hit
-
-**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Hugh Jackman's situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: news
-
-**Status:** RESEARCH
-
-### Scott Meets — 19/100
-
-**Event:** Scott Meets: Hugh Jackman's New "Ridley Scott Meets Logan" R-Rated Action Thriller Is Already the #1 Movie on Streaming
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Scott Meets situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
-
-### Max Review — 21/100
-
-**Event:** Max Review: ‘The Death of Robin Hood’ HBO Max Review: Stream It or Skip It?
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Max Review situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
+**Status:** BOOSTED
 
 
 </details>
