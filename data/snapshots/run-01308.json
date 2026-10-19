@@ -1,0 +1,16 @@
+{
+  "runNo": 1308,
+  "at": "2026-10-19T13:47:48.689Z",
+  "rows": [
+    {
+      "event": "story-steve-doocy",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

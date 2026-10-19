@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1307 · Updated: 19/10/2026, 18:09:25 (Asia/Kolkata)
+Run #1308 · Updated: 19/10/2026, 19:17:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,21 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Alexandra Eala — 12/100
+### Steve Doocy — 17/100
 
-**Event:** Alexandra Eala: trending now
+**Event:** Steve Doocy: catches up with viral comedian Matt Rife on tour
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Alex Eala — 22/100
-
-**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
-
-**Why now:** 1 source lane(s): news · momentum 17 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alex Eala alex eala: live: alex eala vs diane parry – ningbo open first round filings actually say — line by line — the other side of the fight
+> What the Steve Doocy steve doocy: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
