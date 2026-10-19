@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1313 · Updated: 19/10/2026, 21:24:56 (Asia/Kolkata)
+Run #1314 · Updated: 19/10/2026, 22:03:34 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### David Ellison — 16/100
+### James Talarico — 15/100
 
-**Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
+**Event:** James Talarico: ken paxton james talarico polls
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the David Ellison david ellison: breaking: christiane amanpour announces her cnn exit — amid takeover of network by david ellison filings actually say — line by line — the other side of the fight
+> What the James Talarico james talarico: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 2.4h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+
+**Status:** KEPT
+
+### Ken Paxton — 19/100
+
+**Event:** Ken Paxton: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Ken Paxton ken paxton: has tried to overturn tight elections. he’s in one of his own. filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Scott Jennings — 18/100
+### Noah Wyle — 30/100
 
-**Event:** Scott Jennings: trending now
+**Event:** Noah Wyle: ‘The Pitt’ Star Noah Wyle Mourns Heartbreaking Family Loss: ‘Devastated’
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Scott Jennings scott jennings: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jason Segel — 22/100
-
-**Event:** Jason Segel: marries girlfriend Kayla Radomski: See the stunning wedding photos
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Segel story is a proxy fight about something bigger — the other side of the fight
+> The Noah Wyle story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
+
+### David Fincher — 19/100
+
+**Event:** David Fincher: Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
+
+**Recommended angle**
+
+> The David Fincher filing that will matter in six months — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
