@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1365 · Updated: 20/10/2026, 21:04:27 (Asia/Kolkata)
+Run #1366 · Updated: 20/10/2026, 21:13:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
+
+### Jim Freeman — 25/100
+
+**Event:** Jim Freeman: Ticketmaster Names Former Amazon Executive Jim Freeman CTO as It Expands AI Push
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jim Freeman jim freeman: ticketmaster names former amazon executive jim freeman cto as it expands ai push story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 ### John Harbaugh — 16/100
 
@@ -30,17 +44,31 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jordan Elliott — 25/100
+### Skattebo Says He — 18/100
+
+**Event:** Skattebo Says He: Cam Skattebo Says He Was 'Punished' for Fumbles, Giants' John Harbaugh Explains RB's 0 Carries
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Skattebo Says He skattebo says he: cam skattebo says he was 'punished' for fumbles, giants' john harbaugh explains rb's 0 carries story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Jordan Elliott — 24/100
 
 **Event:** Jordan Elliott: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Jordan Elliott jordan elliott: titans abruptly release dt jordan elliott for undisclosed reasons filings actually say — line by line — the part that was not supposed to be public
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -48,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Harry Sums: Prince Harry Sums Up Why He and Meghan Markle Moved to the U.K. in One Simple Word
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,25 +86,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Harry Opens — 22/100
-
-**Event:** Harry Opens: Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince Wil
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Harry Opens harry opens: prince harry opens up about move back to england and wanting to ‘work it out’ with king charles and prince wil filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Kyle Kennedy — 22/100
+### Kyle Kennedy — 20/100
 
 **Event:** Kyle Kennedy: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
