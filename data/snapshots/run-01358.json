@@ -1,0 +1,16 @@
+{
+  "runNo": 1358,
+  "at": "2026-10-20T12:51:45.384Z",
+  "rows": [
+    {
+      "event": "story-david-sabatini",
+      "alert": "ARCHIVE",
+      "opportunity": 35,
+      "momentum": 36,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
