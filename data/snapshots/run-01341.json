@@ -1,0 +1,16 @@
+{
+  "runNo": 1341,
+  "at": "2026-10-20T01:35:29.817Z",
+  "rows": [
+    {
+      "event": "story-angel-reese-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
