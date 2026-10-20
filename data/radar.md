@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1374 · Updated: 21/10/2026, 00:59:41 (Asia/Kolkata)
+Run #1375 · Updated: 21/10/2026, 01:14:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Tobias Harris — 31/100
-
-**Event:** Tobias Harris: (calf) out Tuesday vs. Oklahoma City
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tobias Harris tobias harris: (calf) out tuesday vs. oklahoma city filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
