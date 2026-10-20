@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1346 · Updated: 20/10/2026, 11:39:48 (Asia/Kolkata)
+Run #1347 · Updated: 20/10/2026, 12:27:38 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,6 +43,20 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
+
+### Paul Vanderwal — 19/100
+
+**Event:** Paul Vanderwal: Obituary - Wayne, new jersey
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Paul Vanderwal paul vanderwal: obituary - wayne, new jersey filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
