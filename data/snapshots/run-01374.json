@@ -1,0 +1,16 @@
+{
+  "runNo": 1374,
+  "at": "2026-10-20T19:29:41.225Z",
+  "rows": [
+    {
+      "event": "story-tobias-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
