@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1350 · Updated: 20/10/2026, 14:19:52 (Asia/Kolkata)
+Run #1351 · Updated: 20/10/2026, 14:29:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -44,25 +44,25 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Emma Watson — 26/100
+### Emma Watson — 19/100
 
 **Event:** Emma Watson: ‘Beauty and the Beast’ Star Emma Watson Resurfaces at Armani’s Star-Packed Chateau Marmont Bash
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Emma Watson emma watson: ‘beauty and the beast’ star emma watson resurfaces at armani’s star-packed chateau marmont bash story is actually a money story — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Maya Joint — 17/100
+### Maya Joint — 18/100
 
 **Event:** Maya Joint: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 2 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 3 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
