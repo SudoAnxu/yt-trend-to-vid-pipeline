@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1367 · Updated: 20/10/2026, 21:30:19 (Asia/Kolkata)
+Run #1368 · Updated: 20/10/2026, 22:55:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,25 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jim Freeman — 24/100
-
-**Event:** Jim Freeman: Ticketmaster Names Former Amazon Executive Jim Freeman CTO as It Expands AI Push
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jim Freeman jim freeman: ticketmaster names former amazon executive jim freeman cto as it expands ai push story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.7h · sources: news
-
-**Status:** RESEARCH
-
 ### Harry Sums — 21/100
 
 **Event:** Harry Sums: Prince Harry Sums Up Why He and Meghan Markle Moved to the U.K. in One Simple Word
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 7 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,33 +30,47 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jordan Elliott — 24/100
+### Justin Bieber — 18/100
 
-**Event:** Jordan Elliott: trending now
+**Event:** Justin Bieber: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jordan Elliott jordan elliott: titans abruptly release dt jordan elliott for undisclosed reasons filings actually say — line by line — the part that was not supposed to be public
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Kyle Kennedy — 19/100
-
-**Event:** Kyle Kennedy: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kyle Kennedy kyle kennedy: trending now filings actually say — line by line — the other side of the fight
+> What the Justin Bieber justin bieber: muere la modelo sahara ray, vinculada a justin bieber, a los 34 años filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Marcus Freeman — 20/100
+
+**Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
+
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Marcus Freeman marcus freeman: notre dame record analysis filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Kirk Herbstreit — 19/100
+
+**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
+
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-18 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kirk Herbstreit kirk herbstreit: calls notre dame’s schedule ‘an embarrassment and incredibly unfair’ story is actually a money story — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
