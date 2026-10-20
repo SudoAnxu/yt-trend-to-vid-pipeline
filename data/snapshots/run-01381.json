@@ -1,0 +1,16 @@
+{
+  "runNo": 1381,
+  "at": "2026-10-20T21:57:51.666Z",
+  "rows": [
+    {
+      "event": "story-ron-holland",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

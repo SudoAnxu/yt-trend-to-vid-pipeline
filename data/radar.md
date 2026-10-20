@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1380 · Updated: 21/10/2026, 03:18:53 (Asia/Kolkata)
+Run #1381 · Updated: 21/10/2026, 03:27:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Ron Holland — 19/100
+
+**Event:** Ron Holland: Pistons Exercise 2027/28 Option On Ron Holland
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Ron Holland ron holland: pistons exercise 2027/28 option on ron holland filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
