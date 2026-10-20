@@ -1,0 +1,23 @@
+{
+  "runNo": 1371,
+  "at": "2026-10-20T18:14:55.162Z",
+  "rows": [
+    {
+      "event": "story-jonathan-taylor",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
