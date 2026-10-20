@@ -1,0 +1,58 @@
+{
+  "runNo": 1363,
+  "at": "2026-10-20T14:48:13.819Z",
+  "rows": [
+    {
+      "event": "story-jordan-elliott",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-cooper",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-matt-kaplan",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-rachel-zegler",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-leo-butz",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-neil-patrick",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

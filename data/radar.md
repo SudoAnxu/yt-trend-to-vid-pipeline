@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1362 · Updated: 20/10/2026, 19:53:56 (Asia/Kolkata)
+Run #1363 · Updated: 20/10/2026, 20:18:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,45 +16,73 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Jordan Elliott — 29/100
+
+**Event:** Jordan Elliott: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jordan Elliott jordan elliott: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Alex Cooper — 20/100
 
 **Event:** Alex Cooper: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Alex Cooper alex cooper: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Matt Kaplan — 22/100
+### Matt Kaplan — 21/100
 
 **Event:** Matt Kaplan: Alex Cooper Welcomes Her First Baby with Husband Matt Kaplan
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Matt Kaplan matt kaplan: alex cooper welcomes her first baby with husband matt kaplan filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: news
 
 **Status:** RESEARCH
 
-### Rachel Zegler — 21/100
+### Rachel Zegler — 20/100
 
 **Event:** Rachel Zegler: , Taye Diggs, Norbert Leo Butz, More Join Rent Broadway Anniversary Concert
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Rachel Zegler rachel zegler: , taye diggs, norbert leo butz, more join rent broadway anniversary concert filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: news
+
+**Status:** RESEARCH
+
+### Leo Butz — 19/100
+
+**Event:** Leo Butz: Rachel Zegler, Taye Diggs, Norbert Leo Butz, More Join Rent Broadway Anniversary Concert
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Leo Butz leo butz: rachel zegler, taye diggs, norbert leo butz, more join rent broadway anniversary concert filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
@@ -62,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Neil Patrick: Harris to Star in ‘Damn Yankees’ Revival on Broadway
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -76,7 +104,7 @@ Sources this run: trends(40)
 
 **Event:** Patrick Harris: Neil Patrick Harris to Star in ‘Damn Yankees’ Revival on Broadway
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -85,34 +113,6 @@ Sources this run: trends(40)
 **Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Jon Son — 17/100
-
-**Event:** Jon Son: lil jon son
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jon Son jon son: lil jon son filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Jon Recently — 18/100
-
-**Event:** Jon Recently: Lil Jon Recently Learned That the Man Who Raised Him Isn’t His Biological Father: ‘Hard to Process’ (Exclusive
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Jon Recently jon recently: lil jon recently learned that the man who raised him isn’t his biological father: ‘hard to process’ (exclusive story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
