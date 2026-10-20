@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1372 · Updated: 21/10/2026, 00:04:12 (Asia/Kolkata)
+Run #1373 · Updated: 21/10/2026, 00:23:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jose Mourinho: Finally Changes His Tune on Vinicius Junior With Brutal Warning
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Rick Ross — 14/100
+### Rick Ross — 15/100
 
 **Event:** Rick Ross: Rapper Rick Ross arrested in Miami Beach on felony battery by strangulation charge
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-4 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,27 +48,27 @@ Sources this run: trends(40)
 
 **Event:** Rick Ross': Police: Man shouted 'I don't care who your daddy is' before attacking Rick Ross' son
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Rick Ross' rick ross': police: man shouted 'i don't care who your daddy is' before attacking rick ross' son filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
 
 **Status:** RESEARCH
 
-### Lee Kang-in — 18/100
+### Luis Enrique — 14/100
 
-**Event:** Lee Kang-in: drives Atletico to move kickoff to benefit Korean fans - CHOSUNBIZ
+**Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Lee Kang-in lee kang-in: "alvarez's front-line partner is lee kang-in": spanish media preview, again "likely to start in ucl"... stuttg story is actually a money story — the other side of the fight
+> What the Luis Enrique luis enrique: ‘it’s very simple’ – luis enrique talks trying to stop lamine yamal and barcelona filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
