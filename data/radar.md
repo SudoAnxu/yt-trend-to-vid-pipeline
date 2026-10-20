@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1336 · Updated: 20/10/2026, 05:19:36 (Asia/Kolkata)
+Run #1337 · Updated: 20/10/2026, 05:42:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,63 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Kyle Juszczyk — 29/100
+### Peter King — 23/100
 
-**Event:** Kyle Juszczyk: Names the Real Culprits Behind the Viral ‘Juice’ Celebration on Travis Kelce’s Podcast
+**Event:** Peter King: says it’s ‘ridiculous’ Mike Shanahan isn’t in Hall of Fame
 
-**Why now:** 2 source lane(s): trends, news · momentum 35 (+10 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kyle Juszczyk kyle juszczyk: available, deebo ruled out vs. commanders in week 6 #wasvssf story is actually a money story — the other side of the fight
+> The Peter King story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5h · sources: news
+
+**Status:** RESEARCH
+
+### Bradley Cooper — 22/100
+
+**Event:** Bradley Cooper: To Star As Duke In Paramount’s New ‘G.I. Joe’ Movie From Director Danny McBride
+
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Bradley Cooper bradley cooper: and gigi hadid’s marriage rumors continue with ring-spotting filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Mike Evans — 17/100
+### Jonathan Taylor — 18/100
 
-**Event:** Mike Evans: Injury 49ers
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mike Evans mike evans: 49ers week 6 roster moves are good news for injured wr mike evans filings actually say — line by line — the other side of the fight
+> The Jonathan Taylor story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 22 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kyle Shanahan — 29/100
+### Kirk Cousins — 15/100
 
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+9 vs prev run) · spice 27 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kyle Shanahan kyle shanahan: why 49ers hc kyle shanahan has struggled vs. commanders hc dan quinn filings actually say — line by line — the other side of the fight
+> The Kirk Cousins story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 13 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
