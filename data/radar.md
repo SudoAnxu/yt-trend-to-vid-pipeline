@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1342 · Updated: 20/10/2026, 07:29:27 (Asia/Kolkata)
+Run #1343 · Updated: 20/10/2026, 09:04:17 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,47 +16,47 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Angel Reese — 24/100
+### Alexander Bublik — 23/100
 
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Angel Reese story is a proxy fight about something bigger — the part that was not supposed to be public
+> The Alexander Bublik story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Chris Berman — 27/100
+### Alexander Bublik's — 22/100
 
-**Event:** Chris Berman: trending now
+**Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Chris Berman story is a proxy fight about something bigger — the other side of the fight
+> What the Alexander Bublik's alexander bublik's: andy roddick’s unfiltered take on frances tiafoe and alexander bublik’s angry meltdowns filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Russell Loves — 19/100
+
+**Event:** Russell Loves: Keri Russell Loves Being Dressed Down by Allison Janney on The Diplomat Season 4
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Russell Loves russell loves: keri russell loves being dressed down by allison janney on the diplomat season 4 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Oliver Bjorkstrand — 16/100
-
-**Event:** Oliver Bjorkstrand: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Oliver Bjorkstrand oliver bjorkstrand: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
