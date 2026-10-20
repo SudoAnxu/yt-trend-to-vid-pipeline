@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1351 · Updated: 20/10/2026, 14:29:51 (Asia/Kolkata)
+Run #1352 · Updated: 20/10/2026, 15:05:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -30,7 +30,7 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Alexander Bublik's — 23/100
+### Alexander Bublik's — 24/100
 
 **Event:** Alexander Bublik's: Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns
 
@@ -43,34 +43,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
-
-### Emma Watson — 19/100
-
-**Event:** Emma Watson: ‘Beauty and the Beast’ Star Emma Watson Resurfaces at Armani’s Star-Packed Chateau Marmont Bash
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Emma Watson emma watson: ‘beauty and the beast’ star emma watson resurfaces at armani’s star-packed chateau marmont bash story is actually a money story — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Maya Joint — 18/100
-
-**Event:** Maya Joint: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 3 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Maya Joint maya joint: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
