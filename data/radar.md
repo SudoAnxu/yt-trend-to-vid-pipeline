@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1341 · Updated: 20/10/2026, 07:05:30 (Asia/Kolkata)
+Run #1342 · Updated: 20/10/2026, 07:29:27 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Angel Reese's — 21/100
+### Angel Reese — 24/100
 
-**Event:** Angel Reese's: NY Liberty Star Sends Clear Warning After Angel Reese's Blunt Postgame Take On Latest Win
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Angel Reese's angel reese's: “really inefficient”: angel reese’s teammate faces blunt reality check after dream’s game 1 loss to valkyries filings actually say — line by line — what happens next
+> The Angel Reese story is a proxy fight about something bigger — the part that was not supposed to be public
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Chris Berman — 27/100
+
+**Event:** Chris Berman: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Chris Berman story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Oliver Bjorkstrand — 16/100
+
+**Event:** Oliver Bjorkstrand: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Oliver Bjorkstrand oliver bjorkstrand: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
