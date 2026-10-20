@@ -1,0 +1,44 @@
+{
+  "runNo": 1338,
+  "at": "2026-10-20T00:31:36.727Z",
+  "rows": [
+    {
+      "event": "story-rick-ross",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-montana",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-king",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
