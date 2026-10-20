@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1381 · Updated: 21/10/2026, 03:27:51 (Asia/Kolkata)
+Run #1382 · Updated: 21/10/2026, 03:57:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ron Holland — 19/100
+### Joel Embiid — 17/100
 
-**Event:** Ron Holland: Pistons Exercise 2027/28 Option On Ron Holland
+**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ron Holland ron holland: pistons exercise 2027/28 option on ron holland filings actually say — line by line — the other side of the fight
+> What the Joel Embiid joel embiid: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

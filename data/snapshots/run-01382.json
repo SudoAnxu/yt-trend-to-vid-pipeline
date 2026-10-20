@@ -1,0 +1,16 @@
+{
+  "runNo": 1382,
+  "at": "2026-10-20T22:27:02.633Z",
+  "rows": [
+    {
+      "event": "story-joel-embiid",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
