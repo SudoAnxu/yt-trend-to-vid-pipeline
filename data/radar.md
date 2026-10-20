@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1338 · Updated: 20/10/2026, 06:01:38 (Asia/Kolkata)
+Run #1339 · Updated: 20/10/2026, 06:24:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,51 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Rick Ross — 19/100
+### Jesse Minter — 19/100
 
-**Event:** Rick Ross: Rapper Rick Ross arrested in Miami Beach on felony battery by strangulation charge
+**Event:** Jesse Minter: Ravens HC Jesse Minter Says Team is Still Searching for Defensive Identity
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-11 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 24 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Rick Ross rick ross: enjoys time with mystery woman at club following dv arrest & abu$e allegations from ex filings actually say — line by line — what happens next
+> What the Jesse Minter jesse minter: ravens’ jesse minter puts tyler loop on notice for critical misses that are ‘almost like turnovers’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: news
 
 **Status:** ARCHIVED
 
-### Josh Jacobs — 17/100
+### Tyler Loop — 20/100
 
-**Event:** Josh Jacobs: news
+**Event:** Tyler Loop: Ravens’ Jesse Minter puts Tyler Loop on notice for critical misses that are ‘almost like turnovers’
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Josh Jacobs story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Joe Buck — 25/100
-
-**Event:** Joe Buck: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 15 · risk 64 · forecast window elapsed (TTS 4.8h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Joe Buck situation is weirder than the clips suggest — the other side of the fight
+> What the Tyler Loop tyler loop: ravens’ jesse minter puts tyler loop on notice for critical misses that are ‘almost like turnovers’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 4.8h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
+### Kyle Shanahan — 26/100
+
+**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+
+**Why now:** 2 source lane(s): news, trends · momentum 30 (+9 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kyle Shanahan story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 8 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Joe Montana — 20/100
-
-**Event:** Joe Montana: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joe Montana joe montana: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Peter King — 17/100
-
-**Event:** Peter King: says it’s ‘ridiculous’ Mike Shanahan isn’t in Hall of Fame
-
-**Why now:** 1 source lane(s): news · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Peter King peter king: from joe montana to joe williams, peter king had a front-row seat to 49ers history filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 2.8h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
