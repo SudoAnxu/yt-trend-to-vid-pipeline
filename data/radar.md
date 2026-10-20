@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1358 · Updated: 20/10/2026, 18:21:45 (Asia/Kolkata)
+Run #1359 · Updated: 20/10/2026, 18:53:52 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### David Sabatini — 35/100
+### Leon Black — 33/100
 
-**Event:** David Sabatini: , an M.I.T. Scientist, Wins $6 Million in Sexual Harassment Defamation Suit
+**Event:** Leon Black: Susan Estrich of Estrich Goldin LLP Issues Statement on Dismissal With Prejudice of Jane Doe Lawsuit Against L
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 6 · risk 34 · external momentum 36 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 10 · risk 56 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The David Sabatini story is a proxy fight about something bigger — the number behind the headline
+> What the Leon Black leon black: susan estrich of estrich goldin llp issues statement on dismissal with prejudice of jane doe lawsuit against l filings actually say — line by line — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 

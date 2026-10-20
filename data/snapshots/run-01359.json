@@ -1,0 +1,16 @@
+{
+  "runNo": 1359,
+  "at": "2026-10-20T13:23:52.417Z",
+  "rows": [
+    {
+      "event": "story-leon-black",
+      "alert": "ARCHIVE",
+      "opportunity": 33,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
