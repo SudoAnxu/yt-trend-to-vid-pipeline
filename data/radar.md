@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1382 · Updated: 21/10/2026, 03:57:03 (Asia/Kolkata)
+Run #1383 · Updated: 21/10/2026, 04:31:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Joel Embiid — 17/100
+### Andre Drummond — 13/100
 
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
+**Event:** Andre Drummond: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Joel Embiid joel embiid: trending now filings actually say — line by line — the other side of the fight
+> What the Andre Drummond andre drummond: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
