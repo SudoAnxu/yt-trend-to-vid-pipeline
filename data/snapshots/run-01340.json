@@ -1,0 +1,65 @@
+{
+  "runNo": 1340,
+  "at": "2026-10-20T01:09:59.823Z",
+  "rows": [
+    {
+      "event": "story-brandon-aiyuk",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-aiyuk-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jayden-daniels",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-steven-kwan",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-victor-mesa",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jake-moody",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-jesse-minter",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-loop",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
