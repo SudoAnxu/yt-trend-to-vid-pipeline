@@ -1,0 +1,16 @@
+{
+  "runNo": 1357,
+  "at": "2026-10-20T12:27:11.124Z",
+  "rows": [
+    {
+      "event": "story-tyler-perry",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
