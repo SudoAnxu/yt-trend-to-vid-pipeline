@@ -1,0 +1,23 @@
+{
+  "runNo": 1353,
+  "at": "2026-10-20T09:48:07.184Z",
+  "rows": [
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-bublik-s",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
