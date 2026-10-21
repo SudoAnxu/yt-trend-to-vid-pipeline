@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1385 · Updated: 21/10/2026, 05:15:47 (Asia/Kolkata)
+Run #1386 · Updated: 21/10/2026, 05:32:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(39)
 
@@ -16,11 +16,39 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Roger Goodell — 21/100
+### Zoe Saldana — 17/100
+
+**Event:** Zoe Saldana: Pushes Taylor Sheridan to Change Lioness Finale
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Zoe Saldana zoe saldana: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** RESEARCH
+
+### Zoe Salda — 22/100
+
+**Event:** Zoe Salda: ña Says She’s Not Ready to Join Another Taylor Sheridan Show for This Reason (Exclusive)
+
+**Why now:** 1 source lane(s): news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Zoe Salda zoe salda: ña and taylor sheridan disagreed over lioness' season 3 finale — and she won filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Roger Goodell — 20/100
 
 **Event:** Roger Goodell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · external momentum 21 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +62,7 @@ Sources this run: trends(39)
 
 **Event:** Mike Tirico: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +76,7 @@ Sources this run: trends(39)
 
 **Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -57,34 +85,6 @@ Sources this run: trends(39)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Nick Nurse — 23/100
-
-**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
-
-**Why now:** 2 source lane(s): news, trends · momentum 28 (+12 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Nick Nurse nick nurse: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Kyle Kennedy — 17/100
-
-**Event:** Kyle Kennedy: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kyle Kennedy kyle kennedy: murió a los 42 años kyle kennedy, sobrina nieta de john fitzgerald kennedy filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
