@@ -1,0 +1,23 @@
+{
+  "runNo": 1402,
+  "at": "2026-10-21T10:30:42.555Z",
+  "rows": [
+    {
+      "event": "story-john-husted",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-kevin-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

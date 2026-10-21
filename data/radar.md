@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1401 · Updated: 21/10/2026, 15:19:05 (Asia/Kolkata)
+Run #1402 · Updated: 21/10/2026, 16:00:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Sam Darnold — 16/100
+### John Husted — 17/100
 
-**Event:** Sam Darnold: seahawks sam darnold
+**Event:** John Husted: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Sam Darnold sam darnold: seahawks trade pitch sends $41 million rb to seattle to help sam darnold filings actually say — line by line — the number behind the headline
+> What the John Husted john husted: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** BOOSTED
+**Status:** RESEARCH
+
+### Kevin Porter — 23/100
+
+**Event:** Kevin Porter: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-3 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kevin Porter kevin porter: jr. waived by bucks in new nba rumors, top landing spots for guard story is actually a money story — the detail nobody has explained
+
+**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
