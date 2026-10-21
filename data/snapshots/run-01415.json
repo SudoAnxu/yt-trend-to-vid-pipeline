@@ -1,0 +1,16 @@
+{
+  "runNo": 1415,
+  "at": "2026-10-21T16:17:15.850Z",
+  "rows": [
+    {
+      "event": "story-victor-osimhen",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
