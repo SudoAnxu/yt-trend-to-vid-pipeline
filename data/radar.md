@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1425 · Updated: 22/10/2026, 02:00:45 (Asia/Kolkata)
+Run #1426 · Updated: 22/10/2026, 02:16:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -29,20 +29,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
-
-### Floyd Mayweather — 32/100
-
-**Event:** Floyd Mayweather: finally announces his next two fights including 100 million blockbuster
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 22 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Floyd Mayweather situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
