@@ -1,0 +1,37 @@
+{
+  "runNo": 1413,
+  "at": "2026-10-21T15:50:52.457Z",
+  "rows": [
+    {
+      "event": "story-mike-locksley",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-cashman",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-napier",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-james-madison",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
