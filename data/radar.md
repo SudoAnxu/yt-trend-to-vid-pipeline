@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1405 · Updated: 21/10/2026, 18:07:16 (Asia/Kolkata)
+Run #1406 · Updated: 21/10/2026, 18:34:31 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,21 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Jon Son — 17/100
+### Colin Cowherd — 20/100
 
-**Event:** Jon Son: lil jon son
+**Event:** Colin Cowherd: Watch Urban Meyer explains why Ohio State is the best team in the Big Ten - The Herd with Colin Cowherd
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jon Son jon son: lil jon son filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Ron Gant — 21/100
-
-**Event:** Ron Gant: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Ron Gant ron gant: trending now filings actually say — line by line — the other side of the fight
+> The Colin Cowherd colin cowherd: watch urban meyer explains why ohio state is the best team in the big ten - the herd with colin cowherd story is actually a money story — the detail nobody has explained
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
