@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1413 · Updated: 21/10/2026, 21:20:54 (Asia/Kolkata)
+Run #1414 · Updated: 21/10/2026, 21:31:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,21 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Mike Locksley — 24/100
+### Mike Locksley — 22/100
 
 **Event:** Mike Locksley: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Mike Locksley story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -34,13 +34,27 @@ Sources this run: trends(40)
 
 **Event:** Brian Cashman: Yankees, GM Brian Cashman agree on new contract: ‘We’re locked and loaded’
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Brian Cashman story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 12 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Bachchan Shares Health — 21/100
+
+**Event:** Bachchan Shares Health: 'I Beg Your Forgiveness': 84-Year-Old Amitabh Bachchan Shares Health Update, Says He's Been Advised To Rest
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Bachchan Shares Health bachchan shares health: 'i beg your forgiveness': 84-year-old amitabh bachchan shares health update, says he's been advised to rest filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Billy Napier: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,17 +72,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### James Madison — 17/100
+### James Madison — 18/100
 
 **Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the James Madison james madison: football lost another coach. its winning machine never blinked filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
