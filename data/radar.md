@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1396 · Updated: 21/10/2026, 13:26:08 (Asia/Kolkata)
+Run #1397 · Updated: 21/10/2026, 13:35:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Zach Charbonnet — 18/100
+### Zach Charbonnet — 15/100
 
 **Event:** Zach Charbonnet: injury update: Seahawks running back set to return to practice
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### James Duckworth — 15/100
+### James Duckworth — 16/100
 
 **Event:** James Duckworth: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jordan Mason — 21/100
+### Jordan Mason — 20/100
 
 **Event:** Jordan Mason: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
