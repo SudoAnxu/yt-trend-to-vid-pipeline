@@ -1,0 +1,23 @@
+{
+  "runNo": 1387,
+  "at": "2026-10-21T00:22:27.943Z",
+  "rows": [
+    {
+      "event": "story-robert-herjavec",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-de",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
