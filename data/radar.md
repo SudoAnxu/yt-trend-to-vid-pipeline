@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1426 · Updated: 22/10/2026, 02:16:39 (Asia/Kolkata)
+Run #1427 · Updated: 22/10/2026, 02:46:04 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Mark Your — 19/100
+### Walter Clayton — 27/100
 
-**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
+**Event:** Walter Clayton: Grizzlies waive former Florida star Walter Clayton Jr. before NBA roster deadline
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mark Your mark your: dear lam research stock fans, mark your calendars for october 21 filings actually say — line by line — the other side of the fight
+> The Walter Clayton story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Harry Kane — 21/100
+
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-4 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Harry Kane harry kane: isn't the world's best footballer - but bayern munich and england star is most deserving of the ballon d'or in story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** KEPT
+
+### Will Stein — 21/100
+
+**Event:** Will Stein: kentucky wildcats football
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Will Stein will stein: kentucky wildcats football filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### David Tennant's — 22/100
+
+**Event:** David Tennant's: Addictive 24-Episode Crime Thriller Is the Perfect Binge Before It's Cut From Netflix
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the David Tennant's david tennant's: addictive 24-episode crime thriller is the perfect binge before it's cut from netflix filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
