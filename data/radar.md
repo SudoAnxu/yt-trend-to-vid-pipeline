@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1404 · Updated: 21/10/2026, 17:41:10 (Asia/Kolkata)
+Run #1405 · Updated: 21/10/2026, 18:07:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,7 +12,7 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(38)
 
 **Event:** Jon Son: lil jon son
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,47 +30,19 @@ Sources this run: trends(38)
 
 **Status:** RESEARCH
 
-### Ron Gant — 28/100
+### Ron Gant — 21/100
 
 **Event:** Ron Gant: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Ron Gant ron gant: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Alex Cooper — 20/100
-
-**Event:** Alex Cooper: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-7 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alex Cooper alex cooper: welcomes first baby after revealing nursery plans inside $11 million los angeles mansion filings actually say — line by line — the number behind the headline
-
-**Competition:** 8 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Change — 19/100
-
-**Event:** Will Change: SNAP and Medicaid Will Change Dramatically in October: What to Know
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Change will change: young & restless jaw-dropper: the jill twist that will change *everything* filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
