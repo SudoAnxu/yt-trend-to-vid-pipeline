@@ -1,0 +1,16 @@
+{
+  "runNo": 1424,
+  "at": "2026-10-21T20:18:01.383Z",
+  "rows": [
+    {
+      "event": "story-john-goodman",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

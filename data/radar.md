@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1423 · Updated: 22/10/2026, 01:16:43 (Asia/Kolkata)
+Run #1424 · Updated: 22/10/2026, 01:48:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Harry Kane — 22/100
+### John Goodman — 17/100
 
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+**Event:** John Goodman: , the co-star who carried four decades of other people’s films
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+2 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Harry Kane harry kane: isn't the world's best footballer - but bayern munich and england star is most deserving of the ballon d'or in story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** KEPT
-
-### John Harbaugh — 18/100
-
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Harbaugh john harbaugh: on rb timeshare: someone has to "do something" to earn job filings actually say — line by line — the other side of the fight
+> What the John Goodman john goodman: roseanne barr, john goodman relationship filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
