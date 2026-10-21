@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1428 · Updated: 22/10/2026, 03:25:33 (Asia/Kolkata)
+Run #1429 · Updated: 22/10/2026, 03:32:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Michael Penix — 14/100
+### Lloyd Wright's — 24/100
+
+**Event:** Lloyd Wright's: Visitor Killed by Roof Debris at Frank Lloyd Wright’s Taliesin West
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Lloyd Wright's lloyd wright's: visitor killed by roof debris at frank lloyd wright’s taliesin west filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
+### Michael Penix — 15/100
 
 **Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
