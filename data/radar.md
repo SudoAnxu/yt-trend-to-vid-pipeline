@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1430 · Updated: 22/10/2026, 04:02:35 (Asia/Kolkata)
+Run #1431 · Updated: 22/10/2026, 04:34:06 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Sean Sweeney — 24/100
+### Anthony Edwards' — 12/100
 
-**Event:** Sean Sweeney: Magic launch Sean Sweeney era in season opener vs. Hawks
+**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 13 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Sean Sweeney sean sweeney: magic launch sean sweeney era in season opener vs. hawks filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Travis Kelce — 20/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-22 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: what did travis kelce say about jason kelce waking up taylor swift early filings actually say — line by line — the other side of the fight
+> What the Anthony Edwards' anthony edwards': anthony edwards filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jason Kelce — 16/100
+### Louis Oosthuizen — 19/100
 
-**Event:** Jason Kelce: trending now
+**Event:** Louis Oosthuizen: leaving LIV Golf to return to European tour
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jason Kelce jason kelce: what did travis kelce say about jason kelce waking up taylor swift early filings actually say — line by line — the other side of the fight
+> What the Louis Oosthuizen louis oosthuizen: leaving liv golf to return to european tour filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
