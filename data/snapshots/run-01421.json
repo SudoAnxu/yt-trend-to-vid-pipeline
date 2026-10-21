@@ -1,0 +1,16 @@
+{
+  "runNo": 1421,
+  "at": "2026-10-21T19:05:27.446Z",
+  "rows": [
+    {
+      "event": "story-steve-wilks",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
