@@ -1,0 +1,23 @@
+{
+  "runNo": 1388,
+  "at": "2026-10-21T00:47:47.232Z",
+  "rows": [
+    {
+      "event": "story-stanley-cup",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-jordan",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
