@@ -1,0 +1,37 @@
+{
+  "runNo": 1407,
+  "at": "2026-10-21T13:32:08.022Z",
+  "rows": [
+    {
+      "event": "story-andrew-shue",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-zach-bryan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-bryan-announces",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-colin-cowherd",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
