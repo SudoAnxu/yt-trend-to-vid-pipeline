@@ -1,0 +1,16 @@
+{
+  "runNo": 1389,
+  "at": "2026-10-21T01:17:26.210Z",
+  "rows": [
+    {
+      "event": "story-will-smith-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
