@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1392 · Updated: 21/10/2026, 10:33:46 (Asia/Kolkata)
+Run #1393 · Updated: 21/10/2026, 11:18:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Louis Blues — 23/100
+### Michael Carrick — 19/100
 
-**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
+**Event:** Michael Carrick: No timeline for Benjamin Sesko's Man United return
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Louis Blues louis blues: vegas golden knights vs. st. louis blues filings actually say — line by line — the other side of the fight
+> What the Michael Carrick michael carrick: cesc fàbregas calls suggestions he could replace michael carrick at man united disrespectful filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
 
-### Jack Reacher — 16/100
+### Andrew Luster — 23/100
 
-**Event:** Jack Reacher: chain reaction excerpt
+**Event:** Andrew Luster: Early release of convicted rapist Max Factor heir Andrew Luster sparks outrage in Glendora
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jack Reacher jack reacher: chain reaction jack reacher release story is actually a money story — the other side of the fight
+> The Andrew Luster story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Max Factor — 24/100
+
+**Event:** Max Factor: Early release of convicted rapist Max Factor heir Andrew Luster sparks outrage in Glendora
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Max Factor story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
