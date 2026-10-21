@@ -1,0 +1,16 @@
+{
+  "runNo": 1411,
+  "at": "2026-10-21T14:56:07.024Z",
+  "rows": [
+    {
+      "event": "story-david-hearn",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
