@@ -1,0 +1,37 @@
+{
+  "runNo": 1404,
+  "at": "2026-10-21T12:11:09.711Z",
+  "rows": [
+    {
+      "event": "story-jon-son",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-ron-gant",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alex-cooper",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-change",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
