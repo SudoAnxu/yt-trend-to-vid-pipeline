@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1419 · Updated: 21/10/2026, 23:50:26 (Asia/Kolkata)
+Run #1420 · Updated: 22/10/2026, 00:17:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,43 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Josh Jacobs — 15/100
-
-**Event:** Josh Jacobs: news
-
-**Why now:** 2 source lane(s): trends, news · momentum 3 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Josh Jacobs josh jacobs: fantasy football week 7 rb preview: here come josh jacobs and zach charbonnet filings actually say — line by line — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** KEPT
-
-### Zach Charbonnet — 17/100
-
-**Event:** Zach Charbonnet: injury update: Seahawks running back set to return to practice
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Zach Charbonnet zach charbonnet: fantasy football week 7 rb preview: here come josh jacobs and zach charbonnet filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Michael Carrick — 20/100
+### Michael Carrick — 19/100
 
 **Event:** Michael Carrick: No timeline for Benjamin Sesko's Man United return
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -57,6 +29,20 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
+
+### John Harbaugh — 18/100
+
+**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the John Harbaugh john harbaugh: on rb timeshare: someone has to "do something" to earn job filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
