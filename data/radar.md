@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1416 · Updated: 21/10/2026, 23:00:16 (Asia/Kolkata)
+Run #1417 · Updated: 21/10/2026, 23:22:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Sam Laporta: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,17 +44,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Mark Consuelos — 21/100
+### Mark Consuelos — 20/100
 
 **Event:** Mark Consuelos: Announces ‘Major Surgery’ in ‘Live’ Health Update
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Mark Consuelos mark consuelos: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Consuelos Reveal Their: Kelly Ripa and Mark Consuelos Reveal Their New Rescue Dog Has a Parasite, Delaying His Arrival Home (Exclusive
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
