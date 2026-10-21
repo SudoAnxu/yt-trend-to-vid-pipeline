@@ -1,0 +1,30 @@
+{
+  "runNo": 1419,
+  "at": "2026-10-21T18:20:25.991Z",
+  "rows": [
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-zach-charbonnet",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-carrick",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
