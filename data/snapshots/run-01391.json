@@ -1,0 +1,44 @@
+{
+  "runNo": 1391,
+  "at": "2026-10-21T03:27:47.134Z",
+  "rows": [
+    {
+      "event": "story-david-jolly",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-joseph",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-there",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-lewis-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-connor-mcdavid",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

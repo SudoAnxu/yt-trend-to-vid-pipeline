@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1390 · Updated: 21/10/2026, 07:20:14 (Asia/Kolkata)
+Run #1391 · Updated: 21/10/2026, 08:57:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,63 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Tyler Cameron — 17/100
+### David Jolly — 17/100
 
-**Event:** Tyler Cameron: Exclusive | Dylan Efron reacts to Derek Hough's hilarious Tyler Cameron flub on 'DWTS' — and all the viral Tik
+**Event:** David Jolly: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tyler Cameron tyler cameron: trending now filings actually say — line by line — the other side of the fight
+> The David Jolly david jolly: bill clinton swing for david jolly drives fox news ratings change story is actually a money story — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Adam Joseph — 28/100
+
+**Event:** Adam Joseph: 6abc promotes Adam Joseph to Chief Meteorologist for Action News
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · external momentum 33 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Adam Joseph adam joseph: 6abc promotes adam joseph to chief meteorologist for action news filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Will There — 19/100
+
+**Event:** Will There: ‘The Diplomat’: Will There Be a Season 5?
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Will There will there: ‘the diplomat’: will there be a season 5? filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Lewis Hamilton — 14/100
+
+**Event:** Lewis Hamilton: Kim Kardashian Shares Photo of Steamy Kiss with Lewis Hamilton Under the Eiffel Tower
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Lewis Hamilton lewis hamilton: united states gp: lewis hamilton and lando norris moving on from singapore woes among talking points for austi filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Andrew Scott — 15/100
+### Connor Mcdavid — 17/100
 
-**Event:** Andrew Scott: Welcomes ‘Heated Rivalry,’ But Feels “Troubled” by Those Who “Don’t Want to See” Painful Queer History
+**Event:** Connor Mcdavid: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Andrew Scott story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** ARCHIVED
-
-### James Hagens — 13/100
-
-**Event:** James Hagens: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the James Hagens james hagens: trending now filings actually say — line by line — the other side of the fight
+> What the Connor Mcdavid connor mcdavid: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Harry Shum — 25/100
-
-**Event:** Harry Shum: Who Is Harry Shum Jr.’s Wife? Inside the ‘Glee’ Actor’s Romance With Shelby Rabara
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Harry Shum story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
