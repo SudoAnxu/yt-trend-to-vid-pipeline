@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1469 · Updated: 23/10/2026, 00:32:07 (Asia/Kolkata)
+Run #1470 · Updated: 23/10/2026, 00:52:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,21 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### James Webb — 17/100
+### Tom Skerritt — 35/100
 
-**Event:** James Webb: telescope pinpoints the most distant 'fast radio burst' ever seen, more than 10 billion light-years away
+**Event:** Tom Skerritt: , Star of ‘Picket Fences’ and ‘Alien,’ Dies at 93
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the James Webb james webb: space telescope filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** RESEARCH
-
-### Kate Middleton — 15/100
-
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 34 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Kate Middleton kate middleton: trending now story is actually a money story — the other side of the fight
+> The Tom Skerritt story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Kate Reveals Her — 19/100
-
-**Event:** Kate Reveals Her: Princess Kate Reveals Her School Break Plans With Prince George
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Kate Reveals Her kate reveals her: princess kate reveals her school break plans with prince george filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** RESEARCH
 

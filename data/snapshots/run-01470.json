@@ -1,0 +1,16 @@
+{
+  "runNo": 1470,
+  "at": "2026-10-22T19:22:02.765Z",
+  "rows": [
+    {
+      "event": "story-tom-skerritt",
+      "alert": "ARCHIVE",
+      "opportunity": 35,
+      "momentum": 36,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
