@@ -1,0 +1,16 @@
+{
+  "runNo": 1462,
+  "at": "2026-10-22T15:56:51.762Z",
+  "rows": [
+    {
+      "event": "story-tony-romo",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
