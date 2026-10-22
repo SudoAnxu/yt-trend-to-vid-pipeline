@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1479 · Updated: 23/10/2026, 04:33:06 (Asia/Kolkata)
+Run #1480 · Updated: 23/10/2026, 04:58:28 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Michael Wilson — 20/100
+### Louis Blues — 23/100
 
-**Event:** Michael Wilson: trending now
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Michael Wilson story is a proxy fight about something bigger — the other side of the fight
+> What the Louis Blues louis blues: projected lineup: oct. 22 vs. vegas | st. louis blues filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
 
-### Jason Kidd — 23/100
+### Michael Gray — 32/100
 
-**Event:** Jason Kidd: trending now
+**Event:** Michael Gray: Dies: ‘Shazam!’ Star Was 75
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jason Kidd jason kidd: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Chris Olave — 19/100
-
-**Event:** Chris Olave: (illness) remains sidelined Thursday
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Chris Olave chris olave: wr rankings downgrades for week 7 fantasy football: chris olave & more filings actually say — line by line — the other side of the fight
+> The Michael Gray story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
