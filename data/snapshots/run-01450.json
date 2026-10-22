@@ -1,0 +1,16 @@
+{
+  "runNo": 1450,
+  "at": "2026-10-22T10:31:25.026Z",
+  "rows": [
+    {
+      "event": "story-anthony-joshua",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
