@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1442 · Updated: 22/10/2026, 11:41:47 (Asia/Kolkata)
+Run #1443 · Updated: 22/10/2026, 12:25:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Chris Webber's — 24/100
+### Officially Returns With — 19/100
 
-**Event:** Chris Webber's: The Cards That Showcase Chris Webber's Unique Game
+**Event:** Officially Returns With: Netflix's 4-Part House Of Cards Replacement Thriller Officially Returns With New Episodes This Week
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Chris Webber's story is a proxy fight about something bigger — the other side of the fight
+> What the Officially Returns With officially returns with: nbc’s cancelled cult sci-fi series officially returns with new netflix spin-off in 2027 filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
+
+### Tom Cotton — 19/100
+
+**Event:** Tom Cotton: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tom Cotton tom cotton: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>

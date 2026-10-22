@@ -1,0 +1,23 @@
+{
+  "runNo": 1443,
+  "at": "2026-10-22T06:55:38.088Z",
+  "rows": [
+    {
+      "event": "story-officially-returns-with",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cotton",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
