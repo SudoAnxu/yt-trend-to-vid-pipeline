@@ -1,0 +1,16 @@
+{
+  "runNo": 1475,
+  "at": "2026-10-22T21:12:53.251Z",
+  "rows": [
+    {
+      "event": "story-josh-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
