@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1463 · Updated: 22/10/2026, 21:45:47 (Asia/Kolkata)
+Run #1464 · Updated: 22/10/2026, 22:57:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Miguel Salguero — 20/100
+### Nathan Fillion — 25/100
 
-**Event:** Miguel Salguero: Faith Hedgepeth trial: Miguel Salguero Olivares breaks down in tears as jury watches his jail call with late f
+**Event:** Nathan Fillion: ‘The Rookie’ Star Nathan Fillion Finally Speaks Out About Jenna Dewan’s ‘DWTS’ Run
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Miguel Salguero miguel salguero: faith hedgepeth trial: miguel salguero olivares breaks down in tears as jury watches his jail call with late f story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Todd Benzinger — 27/100
-
-**Event:** Todd Benzinger: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Todd Benzinger todd benzinger: trending now filings actually say — line by line — the other side of the fight
+> The Nathan Fillion story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Will Be — 21/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Will Be will be: not lilly. not johnson & johnson. this stock will be the biggest healthcare winner of 2026 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
 
 
 </details>
