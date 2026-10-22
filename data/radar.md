@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1453 · Updated: 22/10/2026, 18:11:46 (Asia/Kolkata)
+Run #1454 · Updated: 22/10/2026, 18:36:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,79 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Kyle Whittingham — 16/100
+### Rick Ross — 19/100
 
-**Event:** Kyle Whittingham: trending now
+**Event:** Rick Ross: Rapper Rick Ross arrested in Miami Beach on felony battery by strangulation charge
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kyle Whittingham kyle whittingham: trending now filings actually say — line by line — the other side of the fight
+> What the Rick Ross rick ross: 50 cent trolls rick ross after his son's alleged attack: 'this was a street fight' filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kirk Herbstreit — 22/100
+### Will Be — 21/100
 
-**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kirk Herbstreit kirk herbstreit: “probably get fired”: espn's kirk herbstreit reveals the ugly reality behind kyle whittingham's $12m bryce und filings actually say — line by line — what happens next
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Eric Dane — 17/100
-
-**Event:** Eric Dane: Reveals Why He Was Let Go From ‘Grey’s Anatomy’ in Posthumous Memoir
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Eric Dane eric dane: trending now filings actually say — line by line — the other side of the fight
+> What the Will Be will be: 50 cent says he’s going to bail out suspect who was arrested for assaulting rick ross’ son: ‘he will be out to filings actually say — line by line — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Rick Ross' — 21/100
+
+**Event:** Rick Ross': Police: Man shouted 'I don't care who your daddy is' before attacking Rick Ross' son
+
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rick Ross' rick ross': 50 cent says he’s going to bail out suspect who was arrested for assaulting rick ross’ son: ‘he will be out to filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
 
 **Status:** RESEARCH
 
-### Eric Dane's — 21/100
+### Aaron Rodgers' — 24/100
 
-**Event:** Eric Dane's: Eric Dane’s ‘Euphoria’ costar is narrating audiobook for his posthumous memoir
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Eric Dane's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** RESEARCH
-
-### Jacob Elordi — 16/100
-
-**Event:** Jacob Elordi: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 28 (+9 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jacob Elordi jacob elordi: set to narrate ‘euphoria’ dad eric dane’s memoir published 9 months after his death filings actually say — line by line — the other side of the fight
+> The Aaron Rodgers' filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Daniel Altmaier — 17/100
+
+**Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Daniel Altmaier daniel altmaier: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
+
+**Status:** KEPT
+
+### Oscar Winner — 19/100
+
+**Event:** Oscar Winner: , 81, Goes Brunette and Makeup-Free for New Role
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Oscar Winner oscar winner: , 81, goes brunette and makeup-free for new role filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
