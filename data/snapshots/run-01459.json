@@ -1,0 +1,16 @@
+{
+  "runNo": 1459,
+  "at": "2026-10-22T14:55:53.163Z",
+  "rows": [
+    {
+      "event": "story-charles-iii",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
