@@ -1,0 +1,30 @@
+{
+  "runNo": 1438,
+  "at": "2026-10-22T01:41:36.081Z",
+  "rows": [
+    {
+      "event": "story-stephen-curry",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-marcus-smart",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-reed-sheppard",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
