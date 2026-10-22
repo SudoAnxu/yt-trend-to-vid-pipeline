@@ -1,0 +1,44 @@
+{
+  "runNo": 1473,
+  "at": "2026-10-22T20:28:25.091Z",
+  "rows": [
+    {
+      "event": "story-mark-your",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-pedro-pascal-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-evan-neal",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-maignan",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-adams",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
