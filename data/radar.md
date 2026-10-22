@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1438 · Updated: 22/10/2026, 07:11:36 (Asia/Kolkata)
+Run #1439 · Updated: 22/10/2026, 08:57:01 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,49 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Stephen Curry — 15/100
+### Amy Acton — 16/100
 
-**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
+**Event:** Amy Acton: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Stephen Curry stephen curry: (ankle) available wednesday vs. lal story is actually a money story — the other side of the fight
+> The Amy Acton amy acton: mom ad story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 8h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Scott Jennings — 17/100
+
+**Event:** Scott Jennings: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Scott Jennings scott jennings: 'warning, not whining': scott jennings calls out jd vance's response on ramaswamy's ad filings actually say — line by line — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Marcus Smart — 23/100
+### Maya Joint — 20/100
 
-**Event:** Marcus Smart: Rockets' Marcus Smart gets real on reason why Lakers moved on from him after productive season
+**Event:** Maya Joint: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+4 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Marcus Smart marcus smart: trending now filings actually say — line by line — the other side of the fight
+> What the Maya Joint maya joint: video : zeynep sönmez defeats maya joint at osaka 2026 – round 1 filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Micah Potter — 28/100
+
+**Event:** Micah Potter: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Micah Potter micah potter: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Reed Sheppard — 16/100
+### Ben Simmons — 13/100
 
-**Event:** Reed Sheppard: Why Reed Sheppard Could Win Sixth Man of the Year
+**Event:** Ben Simmons: Sacramento Kings guard Ben Simmons addresses critics in expletive clip
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Reed Sheppard reed sheppard: trending now filings actually say — line by line — the other side of the fight
+> What the Ben Simmons ben simmons: kings guard ben simmons has torn achilles tendon, will undergo surgery filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
