@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1476 · Updated: 23/10/2026, 03:22:24 (Asia/Kolkata)
+Run #1477 · Updated: 23/10/2026, 03:27:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Will Do: Jack Haven Needs Work ASAP to Qualify for Health Insurance: “I Will Do Pretty Much Any Job”
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,13 +34,13 @@ Sources this run: trends(40)
 
 **Event:** Louis Oosthuizen: leaving LIV Golf to return to European tour
 
-**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 24 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Louis Oosthuizen louis oosthuizen: leaving liv golf, will return to dp world tour in 2027 filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** BOOSTED
 
