@@ -1,0 +1,51 @@
+{
+  "runNo": 1455,
+  "at": "2026-10-22T13:33:26.535Z",
+  "rows": [
+    {
+      "event": "story-lee-curtis",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-tim-daly",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-rick-ross",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-rick-ross-",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
