@@ -1,0 +1,44 @@
+{
+  "runNo": 1451,
+  "at": "2026-10-22T11:28:06.596Z",
+  "rows": [
+    {
+      "event": "story-mike-tomlin",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-joey-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-george",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-george-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-burrow",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
