@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1435 · Updated: 22/10/2026, 05:55:28 (Asia/Kolkata)
+Run #1436 · Updated: 22/10/2026, 06:20:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Jordan's — 14/100
+### Michael Porter — 27/100
 
-**Event:** Michael Jordan's: Ferrari 550 Maranello Sets Auction Record At $2.7 Million
+**Event:** Michael Porter: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Jordan's michael jordan's: "mj's the guy that everybody talks about" - caleb wilson reveals how michael jordan's legacy shaped his journe filings actually say — line by line — the other side of the fight
+> The Michael Porter story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
