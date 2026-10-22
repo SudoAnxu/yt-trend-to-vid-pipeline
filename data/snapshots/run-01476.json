@@ -1,0 +1,23 @@
+{
+  "runNo": 1476,
+  "at": "2026-10-22T21:52:24.275Z",
+  "rows": [
+    {
+      "event": "story-will-do",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-louis-oosthuizen",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

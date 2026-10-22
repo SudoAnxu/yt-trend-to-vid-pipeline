@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1475 · Updated: 23/10/2026, 02:42:53 (Asia/Kolkata)
+Run #1476 · Updated: 23/10/2026, 03:22:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Josh Simmons — 14/100
+### Will Do — 19/100
 
-**Event:** Josh Simmons: trending now
+**Event:** Will Do: Jack Haven Needs Work ASAP to Qualify for Health Insurance: “I Will Do Pretty Much Any Job”
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Simmons josh simmons: chiefs place lt josh simmons on ir as rehab process stalls filings actually say — line by line — the other side of the fight
+> What the Will Do will do: the stock market sounds an alarm for the first time in nearly 27 years. here is what history says the s&p 500  filings actually say — line by line — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
+
+### Louis Oosthuizen — 21/100
+
+**Event:** Louis Oosthuizen: leaving LIV Golf to return to European tour
+
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Louis Oosthuizen louis oosthuizen: leaving liv golf, will return to dp world tour in 2027 filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: news
+
+**Status:** BOOSTED
 
 
 </details>
