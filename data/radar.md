@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1462 · Updated: 22/10/2026, 21:26:52 (Asia/Kolkata)
+Run #1463 · Updated: 22/10/2026, 21:45:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Tony Romo — 22/100
+### Miguel Salguero — 20/100
 
-**Event:** Tony Romo: trending now
+**Event:** Miguel Salguero: Faith Hedgepeth trial: Miguel Salguero Olivares breaks down in tears as jury watches his jail call with late f
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-8 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Tony Romo tony romo: jj watt lands new deal as full-time cbs lead analyst replacement for tony romo filings actually say — line by line — the number behind the headline
+> The Miguel Salguero miguel salguero: faith hedgepeth trial: miguel salguero olivares breaks down in tears as jury watches his jail call with late f story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Todd Benzinger — 27/100
+
+**Event:** Todd Benzinger: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Todd Benzinger todd benzinger: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

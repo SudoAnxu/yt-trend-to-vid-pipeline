@@ -1,0 +1,23 @@
+{
+  "runNo": 1463,
+  "at": "2026-10-22T16:15:47.349Z",
+  "rows": [
+    {
+      "event": "story-miguel-salguero",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-todd-benzinger",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
