@@ -1,0 +1,30 @@
+{
+  "runNo": 1469,
+  "at": "2026-10-22T19:02:07.307Z",
+  "rows": [
+    {
+      "event": "story-james-webb",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-reveals-her",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
