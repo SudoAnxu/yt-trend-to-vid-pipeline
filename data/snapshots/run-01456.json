@@ -1,0 +1,44 @@
+{
+  "runNo": 1456,
+  "at": "2026-10-22T14:01:34.465Z",
+  "rows": [
+    {
+      "event": "story-david-hyde",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 33,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-lee-curtis",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-tim-daly",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mark-carney",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

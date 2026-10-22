@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1455 · Updated: 22/10/2026, 19:03:27 (Asia/Kolkata)
+Run #1456 · Updated: 22/10/2026, 19:31:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Lee Curtis — 14/100
+### David Hyde — 31/100
+
+**Event:** David Hyde: ‘Frasier’ Star Jane Leeves Recalls Meeting ‘Devastatingly Sexy’ Costar David Hyde Pierce for the First Time
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 64 · external momentum 33 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The David Hyde story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Will Be — 25/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Will Be story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** KEPT
+
+### Lee Curtis — 15/100
 
 **Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Tim Daly: Téa Leoni and Tim Daly are ‘Newlyweds’ in life and on screen
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,59 +72,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Aaron Rodgers' — 22/100
+### Mark Carney — 19/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** Mark Carney: seeks closer Turkey ties. Will Trump object? Should Canada?
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (-4 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Aaron Rodgers' filing that will matter in six months — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Rick Ross — 19/100
-
-**Event:** Rick Ross: Rapper Rick Ross arrested in Miami Beach on felony battery by strangulation charge
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Rick Ross rick ross: 50 cent trolls rick ross after his son's alleged attack: 'this was a street fight' filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Will Be — 22/100
-
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Be will be: 50 cent says he’s going to bail out suspect who was arrested for assaulting rick ross’ son: ‘he will be out to filings actually say — line by line — what happens next
+> What the Mark Carney mark carney: seeks closer turkey ties. will trump object? should canada? filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Rick Ross' — 21/100
-
-**Event:** Rick Ross': Police: Man shouted 'I don't care who your daddy is' before attacking Rick Ross' son
-
-**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Rick Ross' rick ross': 50 cent says he’s going to bail out suspect who was arrested for assaulting rick ross’ son: ‘he will be out to filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
 
 **Status:** RESEARCH
 
