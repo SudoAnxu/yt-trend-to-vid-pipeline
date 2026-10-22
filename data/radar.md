@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1433 · Updated: 22/10/2026, 05:27:48 (Asia/Kolkata)
+Run #1434 · Updated: 22/10/2026, 05:36:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Stephen Curry — 21/100
-
-**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Stephen Curry stephen curry: gets emotional about klay thompson's move to miami heat filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
-
-### Walter Clayton — 26/100
+### Walter Clayton — 25/100
 
 **Event:** Walter Clayton: Grizzlies waive former Florida star Walter Clayton Jr. before NBA roster deadline
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-10 vs prev run) · spice 14 · risk 64 · external momentum 26 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 14 · risk 64 · external momentum 23 below 45 — watching, not striking
 
 **Recommended angle**
 
 > The Walter Clayton story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 4 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Aaron Wiggins — 17/100
+### Jonathan Kuminga — 26/100
 
-**Event:** Aaron Wiggins: trending now
+**Event:** Jonathan Kuminga: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Wiggins aaron wiggins: trending now filings actually say — line by line — the other side of the fight
+> What the Jonathan Kuminga jonathan kuminga: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Brandon Miller — 20/100
+
+**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-9 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Brandon Miller filing that will matter in six months — the number behind the headline
+
+**Competition:** 10 videos in last 6h · TTS ≈ 10.6h · sources: trends, news
 
 **Status:** RESEARCH
 
