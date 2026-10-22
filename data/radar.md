@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1443 · Updated: 22/10/2026, 12:25:38 (Asia/Kolkata)
+Run #1444 · Updated: 22/10/2026, 13:22:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Officially Returns With — 19/100
+### Alex Eala — 20/100
 
-**Event:** Officially Returns With: Netflix's 4-Part House Of Cards Replacement Thriller Officially Returns With New Episodes This Week
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Officially Returns With officially returns with: nbc’s cancelled cult sci-fi series officially returns with new netflix spin-off in 2027 filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Tom Cotton — 19/100
-
-**Event:** Tom Cotton: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tom Cotton tom cotton: trending now story is actually a money story — the other side of the fight
+> The Alex Eala alex eala: live: alex eala vs diana shnaider – ningbo open round of 16 story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** ARCHIVED
+
+### Tom Arnold — 25/100
+
+**Event:** Tom Arnold: slams Chuck Lorre over claim Roseanne writers were forced to put Arnold’s name on scripts (exclusive)
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tom Arnold tom arnold: slams chuck lorre over claim roseanne writers were forced to put arnold’s name on scripts (exclusive) story is actually a money story — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
