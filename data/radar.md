@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1459 · Updated: 22/10/2026, 20:25:53 (Asia/Kolkata)
+Run #1460 · Updated: 22/10/2026, 20:55:09 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Charles III — 17/100
+### Tony Romo — 23/100
 
-**Event:** Charles III: How King Charles III Plans to Bring Prince Harry and Prince William Back Together
+**Event:** Tony Romo: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+8 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Charles III charles iii: trending now filings actually say — line by line — the other side of the fight
+> What the Tony Romo tony romo: jj watt lands new deal as full-time cbs lead analyst replacement for tony romo filings actually say — line by line — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>

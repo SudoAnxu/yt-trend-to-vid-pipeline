@@ -1,0 +1,16 @@
+{
+  "runNo": 1460,
+  "at": "2026-10-22T15:25:09.269Z",
+  "rows": [
+    {
+      "event": "story-tony-romo",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
