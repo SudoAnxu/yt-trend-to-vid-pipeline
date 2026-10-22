@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1477 · Updated: 23/10/2026, 03:27:56 (Asia/Kolkata)
+Run #1478 · Updated: 23/10/2026, 04:02:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Do — 19/100
+### James Madison — 24/100
 
-**Event:** Will Do: Jack Haven Needs Work ASAP to Qualify for Health Insurance: “I Will Do Pretty Much Any Job”
+**Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 18 · risk 64 · forecast window elapsed (TTS 4.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Do will do: the stock market sounds an alarm for the first time in nearly 27 years. here is what history says the s&p 500  filings actually say — line by line — the other side of the fight
+> The James Madison situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Louis Oosthuizen — 21/100
+### Justin Boone's — 20/100
 
-**Event:** Louis Oosthuizen: leaving LIV Golf to return to European tour
+**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
 
-**Why now:** 1 source lane(s): news · momentum 24 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Louis Oosthuizen louis oosthuizen: leaving liv golf, will return to dp world tour in 2027 filings actually say — line by line — the other side of the fight
+> What the Justin Boone's justin boone's: 2026 trade value charts — justin boone's fantasy football running back breakdown for week 7 filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
 
 </details>

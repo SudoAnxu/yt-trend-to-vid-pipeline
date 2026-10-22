@@ -1,0 +1,23 @@
+{
+  "runNo": 1478,
+  "at": "2026-10-22T22:32:11.033Z",
+  "rows": [
+    {
+      "event": "story-james-madison",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-boone-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
