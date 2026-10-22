@@ -1,0 +1,16 @@
+{
+  "runNo": 1437,
+  "at": "2026-10-22T01:13:34.380Z",
+  "rows": [
+    {
+      "event": "story-kevin-durant",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1436 · Updated: 22/10/2026, 06:20:03 (Asia/Kolkata)
+Run #1437 · Updated: 22/10/2026, 06:43:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Porter — 27/100
+### Kevin Durant — 21/100
 
-**Event:** Michael Porter: trending now
+**Event:** Kevin Durant: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Michael Porter story is a proxy fight about something bigger — the other side of the fight
+> What the Kevin Durant kevin durant: why kevin durant completely missed mat ishbia's point about his suns tenure, building a championship culture filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
