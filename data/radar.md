@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1465 · Updated: 22/10/2026, 23:20:59 (Asia/Kolkata)
+Run #1466 · Updated: 22/10/2026, 23:38:12 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,79 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Kate Middleton — 16/100
+### Jonathan Wilson — 22/100
 
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
+**Event:** Jonathan Wilson: Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Kate Middleton kate middleton: returns to where her royal journey began 14 years ago for special visit story is actually a money story — the other side of the fight
+> What the Jonathan Wilson jonathan wilson: brighton are the apex b club – their next target should be a champions league place | jonathan wilson filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Jonathan Owens — 29/100
+
+**Event:** Jonathan Owens: Simone Biles and Jonathan Owens find buyer for Texas home for $1.2 million in almost record time
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+14 vs prev run) · spice 17 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jonathan Owens jonathan owens: simone biles breaks down in tears as she sells home with husband jonathan owens filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Nathan Fillion — 21/100
+### Jeff Goldblum — 24/100
 
-**Event:** Nathan Fillion: ‘The Rookie’ Star Nathan Fillion Finally Speaks Out About Jenna Dewan’s ‘DWTS’ Run
+**Event:** Jeff Goldblum: Happy Birthday, Jeff Goldblum! See the Actor’s Cutest Family Photos with Emilie Livingston and Their 2 Kids
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Nathan Fillion story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### John Mulaney — 24/100
-
-**Event:** John Mulaney: Druski, Inde Navarrette & John Mulaney Set As ‘SNL’ Hosts For Season 52
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the John Mulaney john mulaney: druski, inde navarrette & john mulaney set as ‘snl’ hosts for season 52 filings actually say — line by line — the other side of the fight
+> The Jeff Goldblum story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Josh Simmons — 19/100
+### Martin Landaluce — 23/100
 
-**Event:** Josh Simmons: trending now
+**Event:** Martin Landaluce: ATP Lyon Day 3 Predictions Including Stan Wawrinka vs Martin Landaluce
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Josh Simmons josh simmons: trending now filings actually say — line by line — the other side of the fight
+> What the Martin Landaluce martin landaluce: atp lyon day 3 predictions including stan wawrinka vs martin landaluce filings actually say — line by line — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
+
+### Kate Middleton — 14/100
+
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
+
+**Why now:** 2 source lane(s): news, trends · momentum 6 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Kate Middleton kate middleton: speaks for the first time about prince george being away at boarding school filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
