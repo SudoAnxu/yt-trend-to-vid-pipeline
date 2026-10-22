@@ -1,0 +1,23 @@
+{
+  "runNo": 1445,
+  "at": "2026-10-22T08:05:24.723Z",
+  "rows": [
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-arnold",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
