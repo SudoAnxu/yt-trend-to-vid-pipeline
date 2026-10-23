@@ -1,0 +1,16 @@
+{
+  "runNo": 1516,
+  "at": "2026-10-23T18:31:57.794Z",
+  "rows": [
+    {
+      "event": "story-has-passed-away",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
