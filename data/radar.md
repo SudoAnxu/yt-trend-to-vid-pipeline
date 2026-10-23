@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1504 · Updated: 23/10/2026, 19:13:54 (Asia/Kolkata)
+Run #1505 · Updated: 23/10/2026, 19:22:10 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
+
+### Tim Daly — 28/100
+
+**Event:** Tim Daly: Téa Leoni and Tim Daly are ‘Newlyweds’ in life and on screen
+
+**Why now:** 1 source lane(s): news · momentum 31 (+13 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tim Daly situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 4.6h · sources: news
+
+**Status:** BOOSTED
 
 ### Chris Pratt's — 23/100
 
 **Event:** Chris Pratt's: Inside Chris Pratt's 'Terminal List' fight with real Navy SEAL Jack Carr
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,15 +44,15 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Anthony Richardson — 18/100
+### Anthony Richardson — 20/100
 
 **Event:** Anthony Richardson: Injury Latest Colts
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-9 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+10 vs prev run) · spice 5 · risk 86 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Anthony Richardson anthony richardson: colts’ anthony richardson sr. faces marijuana charge after carmel traffic stop filings actually say — line by line — what happens next
+> What the Anthony Richardson anthony richardson: colts qb anthony richardson sr. reportedly charged with marijuana possession filings actually say — line by line — what happens next
 
 **Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Pedro Pascal's: Bella Ramsey Is ‘The General’ on The Last of Us Season 3 After Pedro Pascal’s Exit
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Netflix Scores Big: With Ridley Scott's Long-Awaited 148-Minute Action Epic
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -72,11 +86,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Daniel Altmaier — 20/100
+### Daniel Altmaier — 21/100
 
 **Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (-11 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -85,34 +99,6 @@ Sources this run: trends(40)
 **Competition:** 3 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Tran Reveals His — 19/100
-
-**Event:** Tran Reveals His: Deion Sanders’ Girlfriend Karrueche Tran Reveals His Boob Job Ultimatum If He Pays for Her Procedure
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Tran Reveals His tran reveals his: deion sanders’ girlfriend karrueche tran reveals his boob job ultimatum if he pays for her procedure filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Tran Reveals Adorable — 19/100
-
-**Event:** Tran Reveals Adorable: Karrueche Tran Reveals Adorable Nickname for Deion Sanders Relationship on New Podcast
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Tran Reveals Adorable tran reveals adorable: karrueche tran reveals adorable nickname for deion sanders relationship on new podcast filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
