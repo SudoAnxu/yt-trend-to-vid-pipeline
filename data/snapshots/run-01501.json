@@ -1,0 +1,30 @@
+{
+  "runNo": 1501,
+  "at": "2026-10-23T12:19:43.737Z",
+  "rows": [
+    {
+      "event": "story-chris-nolan",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-weatherly",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-harmon",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
