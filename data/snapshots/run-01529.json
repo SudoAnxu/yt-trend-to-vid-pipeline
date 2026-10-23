@@ -1,0 +1,16 @@
+{
+  "runNo": 1529,
+  "at": "2026-10-23T23:48:44.725Z",
+  "rows": [
+    {
+      "event": "story-olivia-wilde",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
