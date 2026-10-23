@@ -1,0 +1,37 @@
+{
+  "runNo": 1491,
+  "at": "2026-10-23T06:49:01.747Z",
+  "rows": [
+    {
+      "event": "story-julia-roberts",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-skerritt",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-barker",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-majors",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

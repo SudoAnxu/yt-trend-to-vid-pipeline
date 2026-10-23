@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1490 · Updated: 23/10/2026, 11:37:20 (Asia/Kolkata)
+Run #1491 · Updated: 23/10/2026, 12:19:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(38)
 
@@ -20,35 +20,35 @@ Sources this run: trends(38)
 
 **Event:** Julia Roberts: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Julia Roberts julia roberts: trending now story is actually a money story — the other side of the fight
+> What the Julia Roberts julia roberts: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Ryan Gosling — 17/100
+### Tom Skerritt — 16/100
 
-**Event:** Ryan Gosling: star wars: starfighter
+**Event:** Tom Skerritt: , Star of ‘Picket Fences’ and ‘Alien,’ Dies at 93
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Gosling ryan gosling: turned obstacles into opportunities on ‘project hail mary’ — with a little help from julia roberts story is actually a money story — the other side of the fight
+> What the Tom Skerritt tom skerritt: , who had key roles in ‘picket fences’ and ‘top gun,’ dies at 93 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
 ### Travis Barker — 14/100
 
 **Event:** Travis Barker: Shares Photo from the Hospital, Says ‘Beautiful Wife’ Kourtney Kardashian Is ‘by My Side’
 
-**Why now:** 1 source lane(s): news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(38)
 
 **Event:** Jonathan Majors: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
