@@ -1,0 +1,23 @@
+{
+  "runNo": 1493,
+  "at": "2026-10-23T08:03:56.323Z",
+  "rows": [
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-adrian-mannarino",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
