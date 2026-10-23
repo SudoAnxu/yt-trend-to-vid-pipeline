@@ -1,0 +1,58 @@
+{
+  "runNo": 1504,
+  "at": "2026-10-23T13:43:54.006Z",
+  "rows": [
+    {
+      "event": "story-chris-pratt-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-anthony-richardson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-pedro-pascal-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-netflix-scores-big",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-daniel-altmaier",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-tran-reveals-his",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tran-reveals-adorable",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
