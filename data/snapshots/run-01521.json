@@ -1,0 +1,16 @@
+{
+  "runNo": 1521,
+  "at": "2026-10-23T20:17:10.713Z",
+  "rows": [
+    {
+      "event": "story-tyler-reddick",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 36,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

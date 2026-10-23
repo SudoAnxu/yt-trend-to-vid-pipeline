@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1520 · Updated: 24/10/2026, 01:31:59 (Asia/Kolkata)
+Run #1521 · Updated: 24/10/2026, 01:47:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jesse Legree — 21/100
+### Tyler Reddick — 25/100
 
-**Event:** Jesse Legree: trending now
+**Event:** Tyler Reddick: NASCAR’s Tyler Reddick Faces a Painful Family Struggle as Racing Takes Its Toll
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jesse Legree jesse legree: trending now filings actually say — line by line — the other side of the fight
+> The Tyler Reddick tyler reddick: nascar’s tyler reddick faces a painful family struggle as racing takes its toll story is actually a money story — what happens next
 
-**Competition:** 16 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
