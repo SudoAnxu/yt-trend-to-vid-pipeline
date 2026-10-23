@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1486 · Updated: 23/10/2026, 07:14:38 (Asia/Kolkata)
+Run #1487 · Updated: 23/10/2026, 09:01:50 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,75 +16,75 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Nick Nurse — 15/100
+### Connor Mcdavid — 17/100
 
-**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
+**Event:** Connor Mcdavid: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Nick Nurse nick nurse: three questions for nick nurse to answer in sixers' season opener against knicks story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Gavin Newsom — 20/100
-
-**Event:** Gavin Newsom: backs measure to kill the billionaire tax and ban future wealth taxes
-
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Gavin Newsom gavin newsom: furious cops plead with gavin newsom to halt death penalty commutation: ‘worst of the worst’ filings actually say — line by line — what happens next
+> What the Connor Mcdavid connor mcdavid: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** KEPT
-
-### Jayden Daniels — 14/100
-
-**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
-
-**Why now:** 2 source lane(s): news, trends · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jayden Daniels jayden daniels: is 2nd in rooster's 2024 qb rankings behind drake maye, but ahead of caleb williams filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Malik Nabers — 14/100
-
-**Event:** Malik Nabers: Giants vs. Commanders live updates: Malik Nabers TD forces overtime
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Malik Nabers story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Dylan Larkin — 18/100
+### Jake Moody — 21/100
 
-**Event:** Dylan Larkin: to debut for Red Wings despite demanding trade
+**Event:** Jake Moody: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Dylan Larkin dylan larkin: vancouver canucks gameday preview #12: a duel with dylan larkin and the detroit red wings filings actually say — line by line — the other side of the fight
+> What the Jake Moody jake moody: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Tyler Loop — 23/100
+
+**Event:** Tyler Loop: Ravens’ Jesse Minter puts Tyler Loop on notice for critical misses that are ‘almost like turnovers’
+
+**Why now:** 1 source lane(s): news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Tyler Loop tyler loop: ravens sign jake moody to practice squad as competition for tyler loop filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3h · sources: news
+
+**Status:** KEPT
+
+### Michael Lewis — 14/100
+
+**Event:** Michael Lewis: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Michael Lewis michael lewis: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Bruce Blakeman — 16/100
+
+**Event:** Bruce Blakeman: Actress Debra Messing backs GOP candidate Bruce Blakeman for New York governor
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Bruce Blakeman bruce blakeman: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
