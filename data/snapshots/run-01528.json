@@ -1,0 +1,30 @@
+{
+  "runNo": 1528,
+  "at": "2026-10-23T23:16:02.731Z",
+  "rows": [
+    {
+      "event": "story-steve-nash",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-charles-leclerc",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-max-verstappen",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
