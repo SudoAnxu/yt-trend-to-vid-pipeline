@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1499 · Updated: 23/10/2026, 16:47:41 (Asia/Kolkata)
+Run #1500 · Updated: 23/10/2026, 17:25:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Amy Acton — 14/100
+### Chris Nolan — 23/100
 
-**Event:** Amy Acton: trending now
+**Event:** Chris Nolan: Prince William Says He’s A Christopher Nolan & ‘The Celebrity Traitors’ Super Fan
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Amy Acton amy acton: mom ad filings actually say — line by line — the other side of the fight
+> The Chris Nolan chris nolan: prince william says he’s a christopher nolan & ‘the celebrity traitors’ super fan story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

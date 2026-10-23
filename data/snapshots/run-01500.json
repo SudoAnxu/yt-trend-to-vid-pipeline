@@ -1,0 +1,16 @@
+{
+  "runNo": 1500,
+  "at": "2026-10-23T11:55:03.584Z",
+  "rows": [
+    {
+      "event": "story-chris-nolan",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
