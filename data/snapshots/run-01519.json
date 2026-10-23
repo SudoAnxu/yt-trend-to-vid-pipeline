@@ -1,0 +1,16 @@
+{
+  "runNo": 1519,
+  "at": "2026-10-23T19:38:17.717Z",
+  "rows": [
+    {
+      "event": "story-jesse-legree",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
