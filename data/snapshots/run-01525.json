@@ -1,0 +1,30 @@
+{
+  "runNo": 1525,
+  "at": "2026-10-23T21:45:08.759Z",
+  "rows": [
+    {
+      "event": "story-leonard-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-dylan-harper",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-micah-peavy",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
