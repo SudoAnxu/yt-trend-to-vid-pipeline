@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1510 · Updated: 23/10/2026, 21:18:47 (Asia/Kolkata)
+Run #1511 · Updated: 23/10/2026, 21:35:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,47 +16,47 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Alexander Bublik — 20/100
+### Vincent Kompany — 17/100
 
-**Event:** Alexander Bublik: vs Tomas Machac Prediction & Picks - ATP Shanghai Masters
+**Event:** Vincent Kompany: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alexander Bublik alexander bublik: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Rodney Hinton — 18/100
-
-**Event:** Rodney Hinton: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Rodney Hinton rodney hinton: trending now filings actually say — line by line — the other side of the fight
+> The Vincent Kompany vincent kompany: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Karl Rove — 19/100
+### Hannah Gosselin — 17/100
 
-**Event:** Karl Rove: trending now
+**Event:** Hannah Gosselin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Karl Rove karl rove: trending now filings actually say — line by line — the other side of the fight
+> What the Hannah Gosselin hannah gosselin: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Hannah Distancing — 23/100
+
+**Event:** Hannah Distancing: Collin Gosselin Responds to Sister Hannah Distancing Herself from His Book and Allegations Against Mom Kate
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Hannah Distancing hannah distancing: collin gosselin responds to sister hannah distancing herself from his book and allegations against mom kate filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

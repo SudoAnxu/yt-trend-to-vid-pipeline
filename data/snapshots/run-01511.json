@@ -1,0 +1,30 @@
+{
+  "runNo": 1511,
+  "at": "2026-10-23T16:05:34.410Z",
+  "rows": [
+    {
+      "event": "story-vincent-kompany",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-hannah-gosselin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-hannah-distancing",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
