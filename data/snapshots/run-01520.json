@@ -1,0 +1,16 @@
+{
+  "runNo": 1520,
+  "at": "2026-10-23T20:01:58.615Z",
+  "rows": [
+    {
+      "event": "story-jesse-legree",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1519 · Updated: 24/10/2026, 01:08:18 (Asia/Kolkata)
+Run #1520 · Updated: 24/10/2026, 01:31:59 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jesse Legree — 19/100
+### Jesse Legree — 21/100
 
 **Event:** Jesse Legree: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Jesse Legree jesse legree: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 16 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
