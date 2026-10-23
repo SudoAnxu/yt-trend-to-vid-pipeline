@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1493 · Updated: 23/10/2026, 13:33:57 (Asia/Kolkata)
+Run #1494 · Updated: 23/10/2026, 14:17:52 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,9 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Jason Kelce — 14/100
+
+**Event:** Jason Kelce: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jason Kelce jason kelce: scared travis kelce, taylor swift with early-morning call filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Travis Kelce — 20/100
+
+**Event:** Travis Kelce: Taylor Swift Ponzi
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Travis Kelce travis kelce: jason kelce scared travis kelce, taylor swift with early-morning call filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
 
 ### Alex Eala — 20/100
 
@@ -29,20 +57,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** ARCHIVED
-
-### Adrian Mannarino — 23/100
-
-**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
-
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Adrian Mannarino adrian mannarino: vs. aleksandar vukic prediction, odds, picks for atp almaty open 2026 filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** KEPT
 
 
 </details>

@@ -1,0 +1,30 @@
+{
+  "runNo": 1494,
+  "at": "2026-10-23T08:47:51.613Z",
+  "rows": [
+    {
+      "event": "story-jason-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
