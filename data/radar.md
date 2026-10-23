@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1494 · Updated: 23/10/2026, 14:17:52 (Asia/Kolkata)
+Run #1495 · Updated: 23/10/2026, 14:26:13 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Jason Kelce — 14/100
+### Jason Kelce — 15/100
 
 **Event:** Jason Kelce: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Travis Kelce — 20/100
+### Travis Kelce — 19/100
 
 **Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -57,6 +57,34 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** ARCHIVED
+
+### Scott Disick — 22/100
+
+**Event:** Scott Disick: Khloe Kardashian Shuts Down Scott Disick Dating Rumors Again: ‘Not Going to Happen Here’
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Scott Disick scott disick: khloe kardashian shuts down scott disick dating rumors again: ‘not going to happen here’ story is actually a money story — the detail nobody has explained
+
+**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
+
+### Kardashian Says She — 22/100
+
+**Event:** Kardashian Says She: Khloé Kardashian Says She Has ‘No Idea’ Where Scott Disick Dating Rumors Originated
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Kardashian Says She kardashian says she: khloé kardashian says she has ‘no idea’ where scott disick dating rumors originated filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
