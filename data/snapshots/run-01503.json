@@ -1,0 +1,16 @@
+{
+  "runNo": 1503,
+  "at": "2026-10-23T13:08:46.135Z",
+  "rows": [
+    {
+      "event": "story-daniel-altmaier",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

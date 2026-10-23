@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1502 · Updated: 23/10/2026, 18:15:12 (Asia/Kolkata)
+Run #1503 · Updated: 23/10/2026, 18:38:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Ryan Reynolds — 16/100
+### Daniel Altmaier — 24/100
 
-**Event:** Ryan Reynolds: trending now
+**Event:** Daniel Altmaier: Holger Rune v Daniel Altmaier Odds
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ryan Reynolds ryan reynolds: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Ryan Reynolds' — 19/100
-
-**Event:** Ryan Reynolds': 106-Minute Sci-Fi Action Film Is Officially One of the Biggest Streaming Hits in History
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+14 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Reynolds' situation is weirder than the clips suggest — the other side of the fight
+> The Daniel Altmaier daniel altmaier: atp lyon quarterfinal predictions including taylor fritz vs daniel altmaier story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
 
 </details>
