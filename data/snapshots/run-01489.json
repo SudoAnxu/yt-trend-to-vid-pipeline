@@ -1,0 +1,30 @@
+{
+  "runNo": 1489,
+  "at": "2026-10-23T05:49:55.749Z",
+  "rows": [
+    {
+      "event": "story-julia-roberts",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-gosling",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-barker",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
