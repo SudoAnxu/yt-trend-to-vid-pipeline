@@ -1,0 +1,30 @@
+{
+  "runNo": 1510,
+  "at": "2026-10-23T15:48:46.167Z",
+  "rows": [
+    {
+      "event": "story-alexander-bublik",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-rodney-hinton",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-karl-rove",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
