@@ -1,0 +1,16 @@
+{
+  "runNo": 1561,
+  "at": "2026-10-24T16:25:47.697Z",
+  "rows": [
+    {
+      "event": "story-john-stamos",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
