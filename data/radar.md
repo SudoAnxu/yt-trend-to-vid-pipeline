@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1561 · Updated: 24/10/2026, 21:55:48 (Asia/Kolkata)
+Run #1562 · Updated: 24/10/2026, 22:22:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(36)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(36)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### John Stamos — 21/100
-
-**Event:** John Stamos: Says Bob Saget Offered Support at His Lowest Point Following DUI Arrest: ‘He Showed Up and He Loved Me’
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Stamos john stamos: lori loughlin full house filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.2h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
