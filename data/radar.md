@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1558 · Updated: 24/10/2026, 20:12:44 (Asia/Kolkata)
+Run #1559 · Updated: 24/10/2026, 20:32:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Travis Kelce — 19/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-6 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Travis Kelce travis kelce: apparently, prince william tried to nudge travis kelce out of his now-famous photo with taylor swift story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
