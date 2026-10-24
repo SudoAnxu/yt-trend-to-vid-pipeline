@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1537 · Updated: 24/10/2026, 11:01:36 (Asia/Kolkata)
+Run #1538 · Updated: 24/10/2026, 11:32:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,21 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Stephen Curry — 12/100
+### Walter Clayton — 20/100
 
-**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
+**Event:** Walter Clayton: Grizzlies waive former Florida star Walter Clayton Jr. before NBA roster deadline
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Stephen Curry stephen curry: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Donna Mills — 29/100
-
-**Event:** Donna Mills: , 85, Shares the Most Unusual Requests She Gets on OnlyFans (Exclusive Clip)
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Donna Mills donna mills: , 85, shares the most unusual requests she gets on onlyfans (exclusive clip) filings actually say — line by line — the other side of the fight
+> The Walter Clayton walter clayton: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** RESEARCH
 

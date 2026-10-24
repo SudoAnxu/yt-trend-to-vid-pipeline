@@ -1,0 +1,16 @@
+{
+  "runNo": 1538,
+  "at": "2026-10-24T06:02:25.535Z",
+  "rows": [
+    {
+      "event": "story-walter-clayton",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
