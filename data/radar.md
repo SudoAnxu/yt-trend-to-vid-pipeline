@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1538 · Updated: 24/10/2026, 11:32:26 (Asia/Kolkata)
+Run #1539 · Updated: 24/10/2026, 12:14:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Walter Clayton — 20/100
+### Grant Dawson — 30/100
 
-**Event:** Walter Clayton: Grizzlies waive former Florida star Walter Clayton Jr. before NBA roster deadline
+**Event:** Grant Dawson: vs. Nurullo Aliev prediction, odds, pick for UFC 333
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Walter Clayton walter clayton: trending now story is actually a money story — the other side of the fight
+> The Grant Dawson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 

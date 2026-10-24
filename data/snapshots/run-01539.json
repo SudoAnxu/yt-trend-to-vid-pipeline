@@ -1,0 +1,16 @@
+{
+  "runNo": 1539,
+  "at": "2026-10-24T06:44:34.111Z",
+  "rows": [
+    {
+      "event": "story-grant-dawson",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
