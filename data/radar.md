@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1547 · Updated: 24/10/2026, 16:07:32 (Asia/Kolkata)
+Run #1548 · Updated: 24/10/2026, 16:54:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Nathan Fielder — 13/100
+### Nathan Fillion — 27/100
 
-**Event:** Nathan Fielder: ‘You Can See Everything’ Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates H
+**Event:** Nathan Fillion: ‘The Rookie’ Star Nathan Fillion Finally Speaks Out About Jenna Dewan’s ‘DWTS’ Run
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Nathan Fielder story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jon Gosselin — 13/100
-
-**Event:** Jon Gosselin: Speaks Out and Shows Support for Son Collin Following Kate’s Comments on Mental Illness
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 26 (+5 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jon Gosselin jon gosselin: trending now filings actually say — line by line — the other side of the fight
+> The Nathan Fillion story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 13 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
-### Jon Gosselin's — 22/100
+### Finally Speaks Out — 21/100
 
-**Event:** Jon Gosselin's: Jon Gosselin’s Ex Colleen Conrad Says Collin’s Memoir Tribute Brought Her to Tears: ‘I Will Always Be Your Mom
+**Event:** Finally Speaks Out: ‘The Rookie’ Star Nathan Fillion Finally Speaks Out About Jenna Dewan’s ‘DWTS’ Run
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jon Gosselin's jon gosselin's: jon gosselin’s ex colleen conrad says collin’s memoir tribute brought her to tears: ‘i will always be your mom filings actually say — line by line — the other side of the fight
+> The Finally Speaks Out story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
-
-### Will Always — 21/100
-
-**Event:** Will Always: Sydney Sweeney’s Vacation Pics Prove That a Classic Red One-Piece Will Always Be in Style
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Always will always: jon gosselin’s ex colleen conrad says collin’s memoir tribute brought her to tears: ‘i will always be your mom filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>

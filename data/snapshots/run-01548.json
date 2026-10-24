@@ -1,0 +1,23 @@
+{
+  "runNo": 1548,
+  "at": "2026-10-24T11:24:44.605Z",
+  "rows": [
+    {
+      "event": "story-nathan-fillion",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-finally-speaks-out",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
