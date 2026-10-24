@@ -1,0 +1,23 @@
+{
+  "runNo": 1541,
+  "at": "2026-10-24T07:42:49.612Z",
+  "rows": [
+    {
+      "event": "story-scott-disick",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-kardashian-says-she",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
