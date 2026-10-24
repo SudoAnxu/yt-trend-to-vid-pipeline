@@ -1,0 +1,16 @@
+{
+  "runNo": 1574,
+  "at": "2026-10-24T21:42:11.422Z",
+  "rows": [
+    {
+      "event": "story-connor-hellebuyck",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
