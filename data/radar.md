@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1543 · Updated: 24/10/2026, 13:59:53 (Asia/Kolkata)
+Run #1544 · Updated: 24/10/2026, 14:33:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alexander Volkanovski — 22/100
+### Jason Arday — 26/100
 
-**Event:** Alexander Volkanovski: Movsar Evloev thinks UFC 333 fight with Alexander Volkanovski could be 1st UFC finish: ‘Why not?’
+**Event:** Jason Arday: Scholars Launch Their Own Review Into Jason Arday Appointment
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Alexander Volkanovski story is a proxy fight about something bigger — the other side of the fight
+> The Jason Arday jason arday: scholars launch their own review into jason arday appointment story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 

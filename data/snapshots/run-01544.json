@@ -1,0 +1,16 @@
+{
+  "runNo": 1544,
+  "at": "2026-10-24T09:03:48.425Z",
+  "rows": [
+    {
+      "event": "story-jason-arday",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
