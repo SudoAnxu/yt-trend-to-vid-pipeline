@@ -1,0 +1,37 @@
+{
+  "runNo": 1551,
+  "at": "2026-10-24T12:29:17.104Z",
+  "rows": [
+    {
+      "event": "story-larry-david",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-biography",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-joe-amabile",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 33,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ryan-day",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
