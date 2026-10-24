@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1536 · Updated: 24/10/2026, 10:20:17 (Asia/Kolkata)
+Run #1537 · Updated: 24/10/2026, 11:01:36 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jessica Biel — 17/100
+### Stephen Curry — 12/100
 
-**Event:** Jessica Biel: Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
+**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jessica Biel jessica biel: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Brandon Ingram — 26/100
-
-**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brandon Ingram story is a proxy fight about something bigger — the detail nobody has explained
+> What the Stephen Curry stephen curry: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Anthony Edwards' — 14/100
+### Donna Mills — 29/100
 
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+**Event:** Donna Mills: , 85, Shares the Most Unusual Requests She Gets on OnlyFans (Exclusive Clip)
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Anthony Edwards' anthony edwards': recap: anthony edwards highlights wednesday's action filings actually say — line by line — the other side of the fight
+> What the Donna Mills donna mills: , 85, shares the most unusual requests she gets on onlyfans (exclusive clip) filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** ARCHIVED
-
-### Victor Wembanyama — 12/100
-
-**Event:** Victor Wembanyama: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Victor Wembanyama victor wembanyama: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
