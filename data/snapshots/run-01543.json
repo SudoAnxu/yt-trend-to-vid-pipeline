@@ -1,0 +1,16 @@
+{
+  "runNo": 1543,
+  "at": "2026-10-24T08:29:53.417Z",
+  "rows": [
+    {
+      "event": "story-alexander-volkanovski",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
