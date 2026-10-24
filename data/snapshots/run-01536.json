@@ -1,0 +1,37 @@
+{
+  "runNo": 1536,
+  "at": "2026-10-24T04:50:17.153Z",
+  "rows": [
+    {
+      "event": "story-jessica-biel",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-ingram",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-victor-wembanyama",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

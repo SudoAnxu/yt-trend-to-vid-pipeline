@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1535 · Updated: 24/10/2026, 08:56:31 (Asia/Kolkata)
+Run #1536 · Updated: 24/10/2026, 10:20:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Jordan Burroughs — 27/100
+### Jessica Biel — 17/100
 
-**Event:** Jordan Burroughs: on RAF 14, UFC regrets, wrestling vs. MMA paydays
+**Event:** Jessica Biel: Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jordan Burroughs story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Gary Sanchez — 29/100
-
-**Event:** Gary Sanchez: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Gary Sanchez gary sanchez: trending now filings actually say — line by line — the other side of the fight
+> What the Jessica Biel jessica biel: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Kevin Durant — 16/100
+### Brandon Ingram — 26/100
 
-**Event:** Kevin Durant: trending now
+**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kevin Durant kevin durant: , fred vanvleet flash as rockets show off new, fast-paced identity filings actually say — line by line — the other side of the fight
+> The Brandon Ingram story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Anthony Edwards' — 14/100
+
+**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Anthony Edwards' anthony edwards': recap: anthony edwards highlights wednesday's action filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Victor Wembanyama — 12/100
+
+**Event:** Victor Wembanyama: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Victor Wembanyama victor wembanyama: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
