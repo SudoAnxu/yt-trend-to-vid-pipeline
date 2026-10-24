@@ -1,0 +1,16 @@
+{
+  "runNo": 1549,
+  "at": "2026-10-24T11:45:37.216Z",
+  "rows": [
+    {
+      "event": "story-james-harden",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
