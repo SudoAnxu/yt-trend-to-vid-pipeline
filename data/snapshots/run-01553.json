@@ -1,0 +1,16 @@
+{
+  "runNo": 1553,
+  "at": "2026-10-24T12:58:07.212Z",
+  "rows": [
+    {
+      "event": "story-tyler-robinson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

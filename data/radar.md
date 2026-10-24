@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1552 · Updated: 24/10/2026, 18:23:00 (Asia/Kolkata)
+Run #1553 · Updated: 24/10/2026, 18:28:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Tyler Robinson — 19/100
+
+**Event:** Tyler Robinson: Trial dates for Tyler Robinson may be included in November scheduling order
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Tyler Robinson tyler robinson: trial dates for tyler robinson may be included in november scheduling order filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
