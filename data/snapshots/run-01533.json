@@ -1,0 +1,16 @@
+{
+  "runNo": 1533,
+  "at": "2026-10-24T01:21:40.693Z",
+  "rows": [
+    {
+      "event": "story-cody-rhodes",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
