@@ -1,0 +1,51 @@
+{
+  "runNo": 1575,
+  "at": "2026-10-24T22:18:25.122Z",
+  "rows": [
+    {
+      "event": "story-connor-hellebuyck",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-stewart",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-stewart-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-paul-bettany",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-kimmel",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-griffin",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
