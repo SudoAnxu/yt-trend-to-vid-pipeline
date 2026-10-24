@@ -1,0 +1,30 @@
+{
+  "runNo": 1550,
+  "at": "2026-10-24T12:09:33.515Z",
+  "rows": [
+    {
+      "event": "story-james-duckworth",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-harden",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-styles",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
