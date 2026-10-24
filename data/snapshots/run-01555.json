@@ -1,0 +1,16 @@
+{
+  "runNo": 1555,
+  "at": "2026-10-24T13:53:19.098Z",
+  "rows": [
+    {
+      "event": "story-ryan-reynolds",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 32,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
