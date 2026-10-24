@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1546 · Updated: 24/10/2026, 15:14:47 (Asia/Kolkata)
+Run #1547 · Updated: 24/10/2026, 16:07:32 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,65 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Jessica Pegula — 18/100
+### Nathan Fielder — 13/100
 
-**Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
+**Event:** Nathan Fielder: ‘You Can See Everything’ Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates H
 
-**Why now:** 1 source lane(s): news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jessica Pegula jessica pegula: leylah fernandez surpasses mirra andreeva and jessica pegula and sets new 2026 wta record after latest victory filings actually say — line by line — the other side of the fight
+> The Nathan Fielder story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 19 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Jon Gosselin — 13/100
+
+**Event:** Jon Gosselin: Speaks Out and Shows Support for Son Collin Following Kate’s Comments on Mental Illness
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jon Gosselin jon gosselin: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 13 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jon Gosselin's — 22/100
+
+**Event:** Jon Gosselin's: Jon Gosselin’s Ex Colleen Conrad Says Collin’s Memoir Tribute Brought Her to Tears: ‘I Will Always Be Your Mom
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jon Gosselin's jon gosselin's: jon gosselin’s ex colleen conrad says collin’s memoir tribute brought her to tears: ‘i will always be your mom filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
+### Will Always — 21/100
+
+**Event:** Will Always: Sydney Sweeney’s Vacation Pics Prove That a Classic Red One-Piece Will Always Be in Style
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Will Always will always: jon gosselin’s ex colleen conrad says collin’s memoir tribute brought her to tears: ‘i will always be your mom filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
