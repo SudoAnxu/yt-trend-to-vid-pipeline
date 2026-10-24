@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1534 · Updated: 24/10/2026, 07:17:44 (Asia/Kolkata)
+Run #1535 · Updated: 24/10/2026, 08:56:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Liam Hicks — 20/100
+### Jordan Burroughs — 27/100
 
-**Event:** Liam Hicks: trending now
+**Event:** Jordan Burroughs: on RAF 14, UFC regrets, wrestling vs. MMA paydays
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Liam Hicks liam hicks: trending now filings actually say — line by line — the other side of the fight
+> The Jordan Burroughs story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Mitchell Robinson — 21/100
+### Gary Sanchez — 29/100
 
-**Event:** Mitchell Robinson: trending now
+**Event:** Gary Sanchez: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mitchell Robinson story is a proxy fight about something bigger — the other side of the fight
+> What the Gary Sanchez gary sanchez: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Kevin Durant — 16/100
+
+**Event:** Kevin Durant: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Kevin Durant kevin durant: , fred vanvleet flash as rockets show off new, fast-paced identity filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>

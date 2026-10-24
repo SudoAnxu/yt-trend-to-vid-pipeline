@@ -1,0 +1,30 @@
+{
+  "runNo": 1535,
+  "at": "2026-10-24T03:26:30.434Z",
+  "rows": [
+    {
+      "event": "story-jordan-burroughs",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-gary-sanchez",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-durant",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
