@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1569 · Updated: 25/10/2026, 00:52:57 (Asia/Kolkata)
+Run #1570 · Updated: 25/10/2026, 01:08:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alex Michelsen — 19/100
+### Benjamin Netanyahu — 23/100
 
-**Event:** Alex Michelsen: "J'ai été voir le petit garçon qui fait pipi" : éliminé de l'European Open, Alex Michelsen a logé chez Kristof
+**Event:** Benjamin Netanyahu: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Alex Michelsen alex michelsen: "j'ai été voir le petit garçon qui fait pipi" : éliminé de l'european open, alex michelsen a logé chez kristof story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Alex Pereira's — 27/100
-
-**Event:** Alex Pereira's: Rizvan Kuniev blasts rankings for Alex Pereira’s ‘very strange’ spot, wants him next after Alexander Volkov at
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Alex Pereira's story is a proxy fight about something bigger — the other side of the fight
+> What the Benjamin Netanyahu benjamin netanyahu: ofer winter vs benjamin netanyahu filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Josh Hoover — 16/100
+
+**Event:** Josh Hoover: Indiana's Curt Cignetti blasts 'unfair scrutiny' of QB Josh Hoover
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Josh Hoover josh hoover: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
