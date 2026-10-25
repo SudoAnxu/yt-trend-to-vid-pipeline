@@ -1,0 +1,16 @@
+{
+  "runNo": 1584,
+  "at": "2026-10-25T04:59:32.590Z",
+  "rows": [
+    {
+      "event": "story-brandon-williams",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
