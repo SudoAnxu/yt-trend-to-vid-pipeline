@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1603 · Updated: 25/10/2026, 19:40:18 (Asia/Kolkata)
+Run #1604 · Updated: 25/10/2026, 19:58:12 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,29 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
-
-### Aaron Rodgers' — 26/100
-
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-3 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Aaron Rodgers' story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.4h · sources: news, trends
-
-**Status:** ARCHIVED
 
 ### Bradley Barcola — 14/100
 
 **Event:** Bradley Barcola: explains why he is “getting cramps” since Liverpool move
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-15 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,45 +30,101 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### United States Grand — 21/100
+### Billy Crystal — 18/100
 
-**Event:** United States Grand: How to Watch F1 United States Grand Prix Today: Live Stream, Start Time
+**Event:** Billy Crystal: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-15 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The United States Grand situation is weirder than the clips suggest — the other side of the fight
+> What the Billy Crystal billy crystal: ‘860’ review: billy crystal is back on broadway, after the palisades fire filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Billy Crystal's — 17/100
+
+**Event:** Billy Crystal's: How to See Billy Crystal's New Solo Show 860 for $59
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Billy Crystal's billy crystal's: review: 860 , billy crystal's grief-stricken broadway tribute to his family home filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Jimmy Fallon — 14/100
+
+**Event:** Jimmy Fallon: Late-night host Jimmy Fallon releasing 2 baseball children's books
+
+**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jimmy Fallon jimmy fallon: photos: jimmy fallon, martin short, mandy patinkin, robert de niro, more attend opening night of billy crystal filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Robert De — 15/100
+
+**Event:** Robert De: Niro and partner Tiffany host Anupam Kher for lunch in the US, gift him a cap: ‘Fortunate to call you my frien
+
+**Why now:** 1 source lane(s): news · momentum 10 (-10 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Robert De robert de: photos: jimmy fallon, martin short, mandy patinkin, robert de niro, more attend opening night of billy crystal filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
+
+**Status:** BOOSTED
+
+### Peter Berg's — 26/100
+
+**Event:** Peter Berg's: 'The Mosquito Bowl' Review: Peter Berg's Netflix Football War Drama
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Peter Berg's situation is weirder than the clips suggest — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** RESEARCH
 
-### Will He — 23/100
+### Nicholas Galitzine — 21/100
 
-**Event:** Will He: Cubs Slugger Has Beaten Mason Miller’s Slider. Will He See It Again?
+**Event:** Nicholas Galitzine: ‘The Mosquito Bowl’ AFI Fest Red Carpet: Bill Skarsgård, Nicholas Galitzine, Ray Nicholson & More
 
-**Why now:** 1 source lane(s): news · momentum 24 (+8 vs prev run) · spice 19 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Will He will he: what happened to jordyn tyson and when will he return? latest on saints wr’s injury and why he’s out for week  story is actually a money story — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** BOOSTED
-
-### Travis Etienne — 31/100
-
-**Event:** Travis Etienne: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+7 vs prev run) · spice 23 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Travis Etienne travis etienne: what happened to travis etienne jr. and when will he return? latest on saints rb’s injury and why he’s out for story is actually a money story — the detail nobody has explained
+> What the Nicholas Galitzine nicholas galitzine: ‘the mosquito bowl’ afi fest red carpet: bill skarsgård, nicholas galitzine, ray nicholson & more filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: news
+
+**Status:** ARCHIVED
+
+### Ray Nicholson — 19/100
+
+**Event:** Ray Nicholson: ‘The Mosquito Bowl’ AFI Fest Red Carpet: Bill Skarsgård, Nicholas Galitzine, Ray Nicholson & More
+
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ray Nicholson ray nicholson: ‘the mosquito bowl’ afi fest red carpet: bill skarsgård, nicholas galitzine, ray nicholson & more filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: news
 
 **Status:** ARCHIVED
 

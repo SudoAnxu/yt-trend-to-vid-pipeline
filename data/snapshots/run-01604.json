@@ -1,0 +1,65 @@
+{
+  "runNo": 1604,
+  "at": "2026-10-25T14:28:11.830Z",
+  "rows": [
+    {
+      "event": "story-bradley-barcola",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-crystal",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-crystal-s",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-fallon",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-de",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-berg-s",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-nicholas-galitzine",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-ray-nicholson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
