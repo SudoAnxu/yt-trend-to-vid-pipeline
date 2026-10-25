@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1610 · Updated: 25/10/2026, 22:41:37 (Asia/Kolkata)
+Run #1611 · Updated: 25/10/2026, 22:52:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Greg Olsen: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,19 +28,19 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
-### Tony Romo — 20/100
+### Joe Buck — 30/100
 
-**Event:** Tony Romo: trending now
+**Event:** Joe Buck: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-5 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+10 vs prev run) · spice 16 · risk 34 · forecast window elapsed (TTS 5.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Tony Romo tony romo: jj watt lands new deal as full-time cbs lead analyst replacement for tony romo filings actually say — line by line — the number behind the headline
+> The Joe Buck situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 23 videos in last 6h · TTS ≈ 5.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Tom Fornelli's: CFP Vibe Check: Good night, Oregon -- your dream season never had a chance
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Dylan Raiola: Oregon QB Dante Moore ruled out vs. UCLA; Dylan Raiola to start
 
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -71,6 +71,20 @@ Sources this run: trends(40)
 **Competition:** 1 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
+
+### Will Kittle — 19/100
+
+**Event:** Will Kittle: FanDuel Primetime: Will Kittle tear up the Falcons on National Tight Ends Day?
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Will Kittle will kittle: fanduel primetime: will kittle tear up the falcons on national tight ends day? filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
