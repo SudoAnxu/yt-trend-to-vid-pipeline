@@ -1,0 +1,65 @@
+{
+  "runNo": 1581,
+  "at": "2026-10-25T00:50:04.686Z",
+  "rows": [
+    {
+      "event": "story-tyler-herro",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-angel-city",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-rollins",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-liam-hicks",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-victor-wembanyama",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-wilde",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-wilde-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-oscar-buzz",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
