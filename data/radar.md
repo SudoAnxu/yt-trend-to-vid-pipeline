@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1615 · Updated: 26/10/2026, 00:07:29 (Asia/Kolkata)
+Run #1616 · Updated: 26/10/2026, 00:41:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Josh Allen — 15/100
+### Jonathan Taylor — 21/100
 
-**Event:** Josh Allen: injury
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 11 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Josh Allen story is a proxy fight about something bigger — the other side of the fight
+> The Jonathan Taylor filing that will matter in six months — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Luke Kuechly — 25/100
+### Kyle Pitts — 22/100
 
-**Event:** Luke Kuechly: trending now
+**Event:** Kyle Pitts: Can Falcons finally get TE Kyle Pitts going on 'Thursday Night Football' vs. Packers?
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Luke Kuechly story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Joe Burrow — 12/100
-
-**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Joe Burrow joe burrow: trending now filings actually say — line by line — the other side of the fight
+> The Kyle Pitts story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** KEPT
+
+### Michael Penix — 20/100
+
+**Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Michael Penix story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Joe Burrow's — 21/100
+### Mike Gesicki — 17/100
 
-**Event:** Joe Burrow's: “I’ve Barely Been Sleeping”: Bengals QB Joe Burrow’s Girlfriend Olivia Ponton Opens Up on Physical Toll Amid H
+**Event:** Mike Gesicki: trending now
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joe Burrow's joe burrow's: “i’ve barely been sleeping”: bengals qb joe burrow’s girlfriend olivia ponton opens up on physical toll amid h filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 12 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
-
-### Thomas Fidone — 19/100
-
-**Event:** Thomas Fidone: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Thomas Fidone thomas fidone: trending now story is actually a money story — the other side of the fight
+> What the Mike Gesicki mike gesicki: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
+
+### Michael Olise — 15/100
+
+**Event:** Michael Olise: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Michael Olise michael olise: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Harry Kane — 13/100
+
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Harry Kane harry kane: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
