@@ -1,0 +1,23 @@
+{
+  "runNo": 1602,
+  "at": "2026-10-25T13:48:06.721Z",
+  "rows": [
+    {
+      "event": "story-ben-kindel",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-turek",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
