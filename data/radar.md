@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1585 · Updated: 25/10/2026, 11:18:28 (Asia/Kolkata)
+Run #1586 · Updated: 25/10/2026, 11:49:44 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Martin Scorsese's — 22/100
+
+**Event:** Martin Scorsese's: Charli xcx Joins Martin Scorsese's 'What Happens at Night'
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Martin Scorsese's martin scorsese's: charli xcx joins martin scorsese's 'what happens at night' story is actually a money story — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 ### Jennifer Lawrence — 14/100
 
 **Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,45 +44,17 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Will Be — 21/100
-
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Be will be: elizabeth holmes will be transferred out of prison and into a halfway house in 2027 filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Gary Payton — 17/100
+### Gary Payton — 16/100
 
 **Event:** Gary Payton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Gary Payton gary payton: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Luke Kennard — 22/100
-
-**Event:** Luke Kennard: Suns’ Luke Kennard questionable ahead of season-opener vs. Trail Blazers
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Luke Kennard luke kennard: suns’ luke kennard questionable ahead of season-opener vs. trail blazers story is actually a money story — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
