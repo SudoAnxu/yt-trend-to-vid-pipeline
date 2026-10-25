@@ -1,0 +1,30 @@
+{
+  "runNo": 1614,
+  "at": "2026-10-25T18:31:54.500Z",
+  "rows": [
+    {
+      "event": "story-joe-burrow",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-reichard",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-united-states-grand",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

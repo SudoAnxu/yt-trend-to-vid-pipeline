@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1613 · Updated: 25/10/2026, 23:33:04 (Asia/Kolkata)
+Run #1614 · Updated: 26/10/2026, 00:01:54 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,91 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Brian Robinson — 25/100
+### Joe Burrow — 11/100
 
-**Event:** Brian Robinson: trending now
+**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+9 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Brian Robinson brian robinson: falcons rb brian robinson ruled out vs. 49ers; aj terrell questionable filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Josh Allen — 21/100
-
-**Event:** Josh Allen: injury
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Josh Allen filing that will matter in six months — the other side of the fight
+> What the Joe Burrow joe burrow: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Patrick Mahomes — 15/100
+### Will Reichard — 15/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Will Reichard: Why Will Reichard, Vikings’ ‘automatic’ kicker, may be the MVP of team’s 4-0 start - The Athletic
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Patrick Mahomes story is a proxy fight about something bigger — the other side of the fight
+> What the Will Reichard will reichard: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Aaron Rodgers' — 15/100
+### United States Grand — 19/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** United States Grand: How to Watch F1 United States Grand Prix Today: Live Stream, Start Time
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Aaron Rodgers' aaron rodgers': aaron rodgers steelers paris outfit filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jordan Elliott — 20/100
-
-**Event:** Jordan Elliott: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jordan Elliott jordan elliott: incident filings actually say — line by line — the other side of the fight
+> The United States Grand story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Robert Saleh — 22/100
-
-**Event:** Robert Saleh: Jordan Elliott released by Titans after pulling out gun in parking lot, Robert Saleh says
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Robert Saleh robert saleh: jordan elliott released by titans after pulling out gun in parking lot, robert saleh says filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
