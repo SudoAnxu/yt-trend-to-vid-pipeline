@@ -1,0 +1,37 @@
+{
+  "runNo": 1618,
+  "at": "2026-10-25T19:50:11.945Z",
+  "rows": [
+    {
+      "event": "story-aaron-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-mason",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-tony-pollard",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jordan-watkins",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
