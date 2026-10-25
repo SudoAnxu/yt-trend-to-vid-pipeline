@@ -1,0 +1,16 @@
+{
+  "runNo": 1591,
+  "at": "2026-10-25T08:48:56.748Z",
+  "rows": [
+    {
+      "event": "story-connor-hellebuyck",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
