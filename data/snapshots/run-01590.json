@@ -1,0 +1,30 @@
+{
+  "runNo": 1590,
+  "at": "2026-10-25T08:40:49.306Z",
+  "rows": [
+    {
+      "event": "story-connor-hellebuyck",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-sanderson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-steven-bartlett",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1589 · Updated: 25/10/2026, 13:24:28 (Asia/Kolkata)
+Run #1590 · Updated: 25/10/2026, 14:10:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Connor Hellebuyck — 19/100
+
+**Event:** Connor Hellebuyck: 3-Way Trade Ideas for Connor Hellebuyck and Alexander Nikishin Amid NHL Rumors
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Connor Hellebuyck connor hellebuyck: glad to join devils after jets standoff forced trade filings actually say — line by line — the other side of the fight
+
+**Competition:** 12 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Brandon Sanderson — 19/100
+
+**Event:** Brandon Sanderson: Wants to Know Who Really Wrote the Mr. Beast Book
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Brandon Sanderson brandon sanderson: wants to know who really wrote the mr. beast book filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Steven Bartlett — 18/100
 
 **Event:** Steven Bartlett: How 'The Diary of a CEO' star Steven Bartlett avoids burnout
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -29,76 +57,6 @@ Sources this run: trends(40)
 **Competition:** 9 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Louis Vuitton — 14/100
-
-**Event:** Louis Vuitton: Taylor Swift watches Chiefs defeat Chargers in cozy red Louis Vuitton bodysuit
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Louis Vuitton louis vuitton: ana de armas buckles up in daring louis vuitton mini dress filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news
-
-**Status:** KEPT
-
-### Oscar Campaign — 22/100
-
-**Event:** Oscar Campaign: Zendaya Sets ‘Dune 3’ Oscar Campaign for Best Actress in Category Shake-Up (EXCLUSIVE)
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 34 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Oscar Campaign oscar campaign: zendaya sets ‘dune 3’ oscar campaign for best actress in category shake-up (exclusive) story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Best Actress — 24/100
-
-**Event:** Best Actress: Why Zendaya Is Campaigning as Best Actress for Dune: Part 3 in the Upcoming Oscars Race
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Best Actress best actress: why zendaya is campaigning as best actress for dune: part 3 in the upcoming oscars race story is actually a money story — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
-
-**Status:** RESEARCH
-
-### Land Best Actress — 20/100
-
-**Event:** Land Best Actress: Zendaya Aiming for 'Dune: Part Three' to Land Best Actress Nom
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Land Best Actress land best actress: zendaya aiming for 'dune: part three' to land best actress nom story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Actress Nom — 20/100
-
-**Event:** Actress Nom: Zendaya Aiming for 'Dune: Part Three' to Land Best Actress Nom
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Actress Nom actress nom: zendaya aiming for 'dune: part three' to land best actress nom story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
