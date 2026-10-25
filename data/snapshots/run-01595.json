@@ -1,0 +1,16 @@
+{
+  "runNo": 1595,
+  "at": "2026-10-25T11:01:57.512Z",
+  "rows": [
+    {
+      "event": "story-sean-hannity",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
