@@ -1,0 +1,44 @@
+{
+  "runNo": 1624,
+  "at": "2026-10-25T22:41:14.212Z",
+  "rows": [
+    {
+      "event": "story-david-moulton",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-mayer",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-linderbaum",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jennifer-garner",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-affleck-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
