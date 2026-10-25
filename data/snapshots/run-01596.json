@@ -1,0 +1,30 @@
+{
+  "runNo": 1596,
+  "at": "2026-10-25T11:54:40.779Z",
+  "rows": [
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
