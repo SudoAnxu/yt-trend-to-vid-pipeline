@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1586 · Updated: 25/10/2026, 11:49:44 (Asia/Kolkata)
+Run #1587 · Updated: 25/10/2026, 12:40:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,49 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Martin Scorsese's — 22/100
+### Best Actress — 25/100
 
-**Event:** Martin Scorsese's: Charli xcx Joins Martin Scorsese's 'What Happens at Night'
+**Event:** Best Actress: Why Zendaya Is Campaigning as Best Actress for Dune: Part 3 in the Upcoming Oscars Race
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Martin Scorsese's martin scorsese's: charli xcx joins martin scorsese's 'what happens at night' story is actually a money story — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
-
-### Jennifer Lawrence — 14/100
-
-**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jennifer Lawrence story is a proxy fight about something bigger — the other side of the fight
+> The Best Actress best actress: why zendaya is campaigning as best actress for dune: part 3 in the upcoming oscars race story is actually a money story — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** ARCHIVED
-
-### Gary Payton — 16/100
-
-**Event:** Gary Payton: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Gary Payton gary payton: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 

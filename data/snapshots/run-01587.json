@@ -1,0 +1,16 @@
+{
+  "runNo": 1587,
+  "at": "2026-10-25T07:10:08.078Z",
+  "rows": [
+    {
+      "event": "story-best-actress",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
