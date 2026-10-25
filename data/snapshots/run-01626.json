@@ -1,0 +1,23 @@
+{
+  "runNo": 1626,
+  "at": "2026-10-25T23:27:51.156Z",
+  "rows": [
+    {
+      "event": "story-michael-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-sorensen",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
