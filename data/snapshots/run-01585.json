@@ -1,0 +1,37 @@
+{
+  "runNo": 1585,
+  "at": "2026-10-25T05:48:27.122Z",
+  "rows": [
+    {
+      "event": "story-jennifer-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-be",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-gary-payton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-luke-kennard",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
