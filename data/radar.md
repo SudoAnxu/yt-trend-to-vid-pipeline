@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1596 · Updated: 25/10/2026, 17:24:41 (Asia/Kolkata)
+Run #1597 · Updated: 25/10/2026, 17:45:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Josh Jacobs — 25/100
+### Alex Karp — 19/100
 
-**Event:** Josh Jacobs: news
+**Event:** Alex Karp: Palantir CEO Alex Karp buys 15,000 hectares of Swedish forest
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Josh Jacobs josh jacobs: says he's 'remorseful' as he returns to packers following arrest, ongoing nfl investigation filings actually say — line by line — what happens next
-
-**Competition:** 21 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Josh Simmons — 28/100
-
-**Event:** Josh Simmons: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (+16 vs prev run) · spice 10 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Simmons josh simmons: the josh simmons saga is a really big deal for the chiefs filings actually say — line by line — the number behind the headline
+> The Alex Karp alex karp: palantir ceo alex karp says neurodivergent workers will thrive in the ai era. an autistic psychologist says he story is actually a money story — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Patrick Mahomes — 15/100
+### Jonathan Frakes — 30/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Jonathan Frakes: Daytime Emmys: ‘Star Trek: The Next Generation’ Icon Jonathan Frakes To Present Lifetime Achievement Honor To 
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Patrick Mahomes patrick mahomes: sources: josh simmons told to leave chiefs meeting by andy reid, patrick mahomes filings actually say — line by line — the other side of the fight
+> The Jonathan Frakes story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

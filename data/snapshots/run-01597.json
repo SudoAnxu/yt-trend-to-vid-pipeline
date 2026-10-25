@@ -1,0 +1,23 @@
+{
+  "runNo": 1597,
+  "at": "2026-10-25T12:15:11.679Z",
+  "rows": [
+    {
+      "event": "story-alex-karp",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-frakes",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
