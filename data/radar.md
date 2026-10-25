@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1591 · Updated: 25/10/2026, 14:18:57 (Asia/Kolkata)
+Run #1592 · Updated: 25/10/2026, 14:49:28 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,15 +20,29 @@ Sources this run: trends(40)
 
 **Event:** Connor Hellebuyck: 3-Way Trade Ideas for Connor Hellebuyck and Alexander Nikishin Amid NHL Rumors
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Connor Hellebuyck story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 7.1h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Netanyahu Says Israel — 24/100
+
+**Event:** Netanyahu Says Israel: Mulls Crypto Ahead of Possible Sanctions
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 26 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Netanyahu Says Israel netanyahu says israel: mulls crypto ahead of possible sanctions filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

@@ -1,0 +1,23 @@
+{
+  "runNo": 1592,
+  "at": "2026-10-25T09:19:27.527Z",
+  "rows": [
+    {
+      "event": "story-connor-hellebuyck",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-netanyahu-says-israel",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
