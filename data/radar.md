@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1612 · Updated: 25/10/2026, 23:13:07 (Asia/Kolkata)
+Run #1613 · Updated: 25/10/2026, 23:33:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,105 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### John Harbaugh — 20/100
+### Brian Robinson — 25/100
 
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+**Event:** Brian Robinson: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+9 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The John Harbaugh john harbaugh: giants' john harbaugh details j.j. mccarthy decision with convincing explanation: 'heck of a skill set' story is actually a money story — the other side of the fight
+> What the Brian Robinson brian robinson: falcons rb brian robinson ruled out vs. 49ers; aj terrell questionable filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 9h · sources: news, trends
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Josh Allen — 21/100
+
+**Event:** Josh Allen: injury
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Allen filing that will matter in six months — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Justin Boone — 19/100
+### Patrick Mahomes — 15/100
 
-**Event:** Justin Boone: Fantasy Football Rankings: Top running backs for Week 4 from Justin Boone
+**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Justin Boone justin boone: week 7 fantasy football wr rankings: top wide receivers from justin boone filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Tracy Jr. — 25/100
-
-**Event:** Tracy Jr.: tyrone tracy jr.
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tracy Jr. tracy jr.: tyrone tracy jr. story is actually a money story — the other side of the fight
+> The Patrick Mahomes story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Aaron Rodgers' — 15/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Rodgers' aaron rodgers': aaron rodgers steelers paris outfit filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jordan Elliott — 20/100
+
+**Event:** Jordan Elliott: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jordan Elliott jordan elliott: incident filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Kirk Cousins — 19/100
+### Robert Saleh — 22/100
 
-**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
+**Event:** Robert Saleh: Jordan Elliott released by Titans after pulling out gun in parking lot, Robert Saleh says
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kirk Cousins kirk cousins: former coach urges vikings to blow up kyler murray experiment; trade for… kirk cousins? filings actually say — line by line — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jon Gruden — 16/100
-
-**Event:** Jon Gruden: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jon Gruden jon gruden: has a wild kirk cousins trade proposal for the 5-0 vikings filings actually say — line by line — the other side of the fight
+> What the Robert Saleh robert saleh: jordan elliott released by titans after pulling out gun in parking lot, robert saleh says filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jonathan Taylor — 21/100
-
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+6 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jonathan Taylor story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Josh Furlong's — 19/100
-
-**Event:** Josh Furlong's: AP Top 25: UCLA, Utah make their move after another upset-laden weekend
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Josh Furlong's josh furlong's: ap top 25: ucla, utah make their move after another upset-laden weekend filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
