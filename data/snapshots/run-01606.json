@@ -1,0 +1,30 @@
+{
+  "runNo": 1606,
+  "at": "2026-10-25T14:59:36.736Z",
+  "rows": [
+    {
+      "event": "story-leon-dore",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-schlereth",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-thomas-incoom",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
