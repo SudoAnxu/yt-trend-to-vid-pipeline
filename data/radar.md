@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1664 · Updated: 27/10/2026, 03:02:04 (Asia/Kolkata)
+Run #1665 · Updated: 27/10/2026, 03:14:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,73 +16,73 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Lawrence Jones — 30/100
+### Chad Lowe — 21/100
 
-**Event:** Lawrence Jones: ‘Fox & Friends’ Lawrence Jones Has Gone Back to College – Here’s Why
+**Event:** Chad Lowe: fiona lowe daughter of chad lowe
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Lawrence Jones lawrence jones: ‘fox & friends’ lawrence jones has gone back to college – here’s why story is actually a money story — the detail nobody has explained
-
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Mike Garafolo — 24/100
-
-**Event:** Mike Garafolo: gets rise out of Eagles fans with Saquon Barkley injury update vs. Cowboys
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 13 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mike Garafolo mike garafolo: gets rise out of eagles fans with saquon barkley injury update vs. cowboys filings actually say — line by line — the other side of the fight
+> The Chad Lowe chad lowe: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Joe Buck — 26/100
-
-**Event:** Joe Buck: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Joe Buck situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 23 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Charles Barkley — 14/100
+### Chad Lowe's — 14/100
 
-**Event:** Charles Barkley: trending now
+**Event:** Chad Lowe's: New details released after death of Chad Lowe's teenage daughter
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Charles Barkley charles barkley: weighs in on the friction in the 'monday night football' broadcast booth filings actually say — line by line — the other side of the fight
+> What the Chad Lowe's chad lowe's: ‘9-1-1 nashville’ honors chad lowe’s daughter fiona after her death at age 13 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
 
-### Malik Scott — 20/100
+### From Director — 21/100
 
-**Event:** Malik Scott: trending now
+**Event:** From Director: Keanu Reeves to Star in Netflix’s ‘Maelstrom’ From Director Jaume Collet-Serra
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Malik Scott malik scott: trending now filings actually say — line by line — the other side of the fight
+> The From Director story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Director Francis — 24/100
+
+**Event:** Director Francis: BioShock Movie Director Francis Lawrence Explains Why It's Taken Hollywood So Long to Adapt the Game
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Director Francis director francis: bioshock movie director francis lawrence explains why it's taken hollywood so long to adapt the game story is actually a money story — the detail nobody has explained
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
+
+### James Comey — 17/100
+
+**Event:** James Comey: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the James Comey james comey: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
