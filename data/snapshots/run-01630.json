@@ -1,0 +1,37 @@
+{
+  "runNo": 1630,
+  "at": "2026-10-26T01:29:03.625Z",
+  "rows": [
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-harbaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-watson",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-andrew-armstrong",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
