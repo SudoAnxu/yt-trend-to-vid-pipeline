@@ -1,0 +1,16 @@
+{
+  "runNo": 1668,
+  "at": "2026-10-26T22:55:17.808Z",
+  "rows": [
+    {
+      "event": "story-chris-hemsworth",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

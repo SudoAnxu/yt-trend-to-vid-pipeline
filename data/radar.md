@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1667 · Updated: 27/10/2026, 04:20:03 (Asia/Kolkata)
+Run #1668 · Updated: 27/10/2026, 04:25:18 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alan Ritchson — 24/100
+### Chris Hemsworth — 24/100
 
-**Event:** Alan Ritchson: Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out
+**Event:** Chris Hemsworth: ‘Thor’ Meets ‘The Iron Man’: Chris Hemsworth Gets Surprise Visit From Rodtang While Filming In Thailand
 
-**Why now:** 1 source lane(s): news · momentum 24 (+8 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Alan Ritchson story is a proxy fight about something bigger — the part that was not supposed to be public
+> The Chris Hemsworth chris hemsworth: ‘thor’ meets ‘the iron man’: chris hemsworth gets surprise visit from rodtang while filming in thailand story is actually a money story — the part that was not supposed to be public
 
-**Competition:** 23 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
