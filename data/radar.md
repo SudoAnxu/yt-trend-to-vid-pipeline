@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1663 · Updated: 27/10/2026, 02:37:51 (Asia/Kolkata)
+Run #1664 · Updated: 27/10/2026, 03:02:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,19 +12,33 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Brian Schottenheimer — 23/100
+### Lawrence Jones — 30/100
 
-**Event:** Brian Schottenheimer: OK with Cowboys' players-only meeting panned by Mike Tomlin
+**Event:** Lawrence Jones: ‘Fox & Friends’ Lawrence Jones Has Gone Back to College – Here’s Why
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Brian Schottenheimer brian schottenheimer: cowboys key matchup: brian schottenheimer vs vic fangio filings actually say — line by line — the other side of the fight
+> The Lawrence Jones lawrence jones: ‘fox & friends’ lawrence jones has gone back to college – here’s why story is actually a money story — the detail nobody has explained
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Mike Garafolo — 24/100
+
+**Event:** Mike Garafolo: gets rise out of Eagles fans with Saquon Barkley injury update vs. Cowboys
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 13 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Mike Garafolo mike garafolo: gets rise out of eagles fans with saquon barkley injury update vs. cowboys filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Joe Buck: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-3 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Charles Barkley: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-13 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -58,75 +72,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kevin Zeitler — 15/100
+### Malik Scott — 20/100
 
-**Event:** Kevin Zeitler: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kevin Zeitler kevin zeitler: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Eli Stowers — 21/100
-
-**Event:** Eli Stowers: trending now
+**Event:** Malik Scott: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Eli Stowers eli stowers: trending now filings actually say — line by line — the other side of the fight
+> What the Malik Scott malik scott: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Landon Dickerson — 21/100
-
-**Event:** Landon Dickerson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Landon Dickerson landon dickerson: eagles activate landon dickerson, grant calcaterra, eli stowers filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### David Raya — 30/100
-
-**Event:** David Raya: drops Arsenal transfer update hours before Bayern Munich clash as dream move revealed
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 20 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the David Raya david raya: drops arsenal transfer update hours before bayern munich clash as dream move revealed filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** KEPT
-
-### David Raya's — 18/100
-
-**Event:** David Raya's: Arsenal's response to David Raya's transfer confession revealed
-
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The David Raya's situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 3.7h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
