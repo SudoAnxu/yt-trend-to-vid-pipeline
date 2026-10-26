@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1628 · Updated: 26/10/2026, 06:05:31 (Asia/Kolkata)
+Run #1629 · Updated: 26/10/2026, 06:29:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,29 +12,43 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### Will He — 22/100
+### Justin Watson — 16/100
 
-**Event:** Will He: Cubs Slugger Has Beaten Mason Miller’s Slider. Will He See It Again?
+**Event:** Justin Watson: trending now
 
-**Why now:** 1 source lane(s): news · momentum 22 (-2 vs prev run) · spice 19 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will He will he: what happened to rashee rice and when will he return? latest on chiefs wr’s injury and why he’s out for week 7 story is actually a money story — the detail nobody has explained
+> What the Justin Watson justin watson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
-### Zach Charbonnet — 28/100
+### Travis Kelce — 22/100
+
+**Event:** Travis Kelce: Taylor Swift Ponzi
+
+**Why now:** 2 source lane(s): news, trends · momentum 24 (+10 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Travis Kelce story is a proxy fight about something bigger — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Zach Charbonnet — 29/100
 
 **Event:** Zach Charbonnet: injury update: Seahawks running back set to return to practice
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+0 vs prev run) · spice 19 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+1 vs prev run) · spice 19 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(39)
 
 **Event:** Nick Emmanwori: Seahawks RB Zach Charbonnet won't return vs. Chiefs, Walker; Nick Emmanwori has new injury
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,47 +72,61 @@ Sources this run: trends(39)
 
 **Status:** RESEARCH
 
-### Anthony Edwards' — 14/100
+### Will He — 19/100
 
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+**Event:** Will He: Cubs Slugger Has Beaten Mason Miller’s Slider. Will He See It Again?
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Anthony Edwards' anthony edwards': lamelo ball made shot & anthony edwards celebration filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Travis Kelce's — 22/100
-
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 12 (-10 vs prev run) · spice 19 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Kelce's travis kelce's: taylor swift traveled from l.a. to travis kelce’s chiefs-chargers game—and brought 2 famous friends filings actually say — line by line — the other side of the fight
+> The Will He will he: what happened to zach charbonnet and when will he return? latest on seahawks rb’s injury and why he’s out for  story is actually a money story — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+
+**Status:** BOOSTED
+
+### Mike Macdonald — 19/100
+
+**Event:** Mike Macdonald: Zach Charbonnet Ruled Out & Other Seahawks Injury Updates From Mike Macdonald
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Mike Macdonald mike macdonald: zach charbonnet ruled out & other seahawks injury updates from mike macdonald filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
-### Nate Ament — 19/100
+### Kristen Bell — 15/100
 
-**Event:** Nate Ament: Kyle Kuzma's bleak game should already have Bucks plotting a Nate Ament pivot
+**Event:** Kristen Bell: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Nate Ament story is a proxy fight about something bigger — the other side of the fight
+> What the Kristen Bell kristen bell: nobody wants this cast: kristen bell and adam brody welcome fresh new faces filings actually say — line by line — what happens next
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Adam Brody — 19/100
+
+**Event:** Adam Brody: Nobody Wants This star Adam Brody is for a free Palestine, now that you ask
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Adam Brody adam brody: nobody wants this cast: kristen bell and adam brody welcome fresh new faces filings actually say — line by line — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
