@@ -1,0 +1,16 @@
+{
+  "runNo": 1650,
+  "at": "2026-10-26T16:38:12.092Z",
+  "rows": [
+    {
+      "event": "story-sam-raimi-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
