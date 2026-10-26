@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1646 · Updated: 26/10/2026, 20:25:20 (Asia/Kolkata)
+Run #1647 · Updated: 26/10/2026, 20:53:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Jonathan Taylor — 25/100
+
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+13 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jonathan Taylor story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rick Devens — 24/100
+
+**Event:** Rick Devens: ‘Big Brother’ Winner Rick Devens & Wife Becca Share Family Update
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 4 · risk 64 · external momentum 28 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Rick Devens rick devens: ‘big brother’ winner rick devens & wife becca share family update filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Kristen Bell — 18/100
 
 **Event:** Kristen Bell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kristen Bell kristen bell: dax shepard sneaks around when wife kristen bell is away. the results are hilarious filings actually say — line by line — the other side of the fight
+> What the Kristen Bell kristen bell: says she uses daughters to spy on husband dax shepard after candid marriage confession filings actually say — line by line — the other side of the fight
 
 **Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kirk Cousins — 28/100
-
-**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
-
-**Why now:** 2 source lane(s): news, trends · momentum 26 (+4 vs prev run) · spice 25 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Kirk Cousins kirk cousins: and maxx crosby clash again over panda fight debate story is actually a money story — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
