@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1641 · Updated: 26/10/2026, 16:15:16 (Asia/Kolkata)
+Run #1642 · Updated: 26/10/2026, 16:57:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Don Mattingly — 18/100
-
-**Event:** Don Mattingly: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Don Mattingly don mattingly: phillies season review: where the braves series was lost and what don mattingly inherits filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
