@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1659 · Updated: 27/10/2026, 01:31:52 (Asia/Kolkata)
+Run #1660 · Updated: 27/10/2026, 01:46:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Cleese — 27/100
+### Jonathan Taylor — 21/100
 
-**Event:** John Cleese: trending now
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The John Cleese john cleese: trending now story is actually a money story — the other side of the fight
+> The Jonathan Taylor story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
