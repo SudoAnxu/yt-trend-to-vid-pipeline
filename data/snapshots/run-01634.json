@@ -1,0 +1,16 @@
+{
+  "runNo": 1634,
+  "at": "2026-10-26T06:29:03.826Z",
+  "rows": [
+    {
+      "event": "story-travis-knight",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
