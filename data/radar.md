@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1660 · Updated: 27/10/2026, 01:46:33 (Asia/Kolkata)
+Run #1661 · Updated: 27/10/2026, 02:11:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jonathan Taylor — 21/100
+### John Harbaugh — 17/100
 
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jonathan Taylor story is a proxy fight about something bigger — the detail nobody has explained
+> The John Harbaugh story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### John Harbaugh's — 19/100
+
+**Event:** John Harbaugh's: Cam Skattebo Reacts to Najee Harris Being Released by John Harbaugh's Giants, 'Nobody Is Safe'
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the John Harbaugh's john harbaugh's: cam skattebo reacts to najee harris being released by john harbaugh's giants, 'nobody is safe' filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
