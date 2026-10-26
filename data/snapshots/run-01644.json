@@ -1,0 +1,44 @@
+{
+  "runNo": 1644,
+  "at": "2026-10-26T13:26:20.456Z",
+  "rows": [
+    {
+      "event": "story-zoe-saldana",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-zoe-salda",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-shelton",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-rafael-jodar",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-smotherman",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

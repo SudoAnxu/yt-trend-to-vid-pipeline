@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1643 · Updated: 26/10/2026, 18:03:50 (Asia/Kolkata)
+Run #1644 · Updated: 26/10/2026, 18:56:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,77 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Donna Mills — 26/100
+### Zoe Saldana — 17/100
 
-**Event:** Donna Mills: , 85, Shares the Most Unusual Requests She Gets on OnlyFans (Exclusive Clip)
+**Event:** Zoe Saldana: Pushes Taylor Sheridan to Change Lioness Finale
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Donna Mills story is a proxy fight about something bigger — the part that was not supposed to be public
+> What the Zoe Saldana zoe saldana: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** KEPT
+
+### Zoe Salda — 26/100
+
+**Event:** Zoe Salda: ña Says She’s Not Ready to Join Another Taylor Sheridan Show for This Reason (Exclusive)
+
+**Why now:** 1 source lane(s): news · momentum 22 (+4 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Zoe Salda situation is weirder than the clips suggest — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 5.4h · sources: news
+
+**Status:** ARCHIVED
+
+### Ben Shelton — 23/100
+
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Ben Shelton story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Rafael Jodar — 18/100
+
+**Event:** Rafael Jodar: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-6 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Rafael Jodar story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Austin Smotherman — 20/100
+
+**Event:** Austin Smotherman: Seamus Power, Austin Smotherman head to Monday playoff as Butterfield Bermuda Championship shortened to 54 hol
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Austin Smotherman austin smotherman: seamus power, austin smotherman head to monday playoff as butterfield bermuda championship shortened to 54 hol story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
