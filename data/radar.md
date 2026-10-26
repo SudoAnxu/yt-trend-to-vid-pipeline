@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1658 · Updated: 27/10/2026, 01:11:59 (Asia/Kolkata)
+Run #1659 · Updated: 27/10/2026, 01:31:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Always — 20/100
+### John Cleese — 27/100
 
-**Event:** Will Always: Sydney Sweeney’s Vacation Pics Prove That a Classic Red One-Piece Will Always Be in Style
+**Event:** John Cleese: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Will Always will always: chrishell stause reveals she and g flip have split after 4 years together in tearful video: ‘i will always lov filings actually say — line by line — the other side of the fight
+> The John Cleese john cleese: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
