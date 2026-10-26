@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1652 · Updated: 26/10/2026, 22:38:49 (Asia/Kolkata)
+Run #1653 · Updated: 26/10/2026, 23:00:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Thomas Reis — 19/100
+### Alan Ritchson — 26/100
 
-**Event:** Thomas Reis: "Bu onları daha tehlikeli hale getiriyor"
+**Event:** Alan Ritchson: Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Thomas Reis thomas reis: "bu onları daha tehlikeli hale getiriyor" filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Walter Koenig — 25/100
-
-**Event:** Walter Koenig: ‘Star Trek’ actor Walter Koenig dies: Reports
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Walter Koenig story is a proxy fight about something bigger — the other side of the fight
+> The Alan Ritchson story is a proxy fight about something bigger — the part that was not supposed to be public
 
-**Competition:** 11 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 15 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
+
+### Kyle Larson — 15/100
+
+**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
+
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Kyle Larson kyle larson: earns 1st nascar cup series win at talladega after last-lap scramble filings actually say — line by line — the other side of the fight
+
+**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>

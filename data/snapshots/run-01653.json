@@ -1,0 +1,23 @@
+{
+  "runNo": 1653,
+  "at": "2026-10-26T17:30:19.796Z",
+  "rows": [
+    {
+      "event": "story-alan-ritchson",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-larson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
