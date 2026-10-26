@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1651 · Updated: 26/10/2026, 22:21:05 (Asia/Kolkata)
+Run #1652 · Updated: 26/10/2026, 22:38:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Thomas Reis: "Bu onları daha tehlikeli hale getiriyor"
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Walter Koenig — 33/100
+### Walter Koenig — 25/100
 
 **Event:** Walter Koenig: ‘Star Trek’ actor Walter Koenig dies: Reports
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Walter Koenig story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 

@@ -1,0 +1,23 @@
+{
+  "runNo": 1652,
+  "at": "2026-10-26T17:08:48.517Z",
+  "rows": [
+    {
+      "event": "story-thomas-reis",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-walter-koenig",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
