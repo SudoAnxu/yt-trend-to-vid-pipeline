@@ -1,0 +1,16 @@
+{
+  "runNo": 1637,
+  "at": "2026-10-26T08:15:18.459Z",
+  "rows": [
+    {
+      "event": "story-jerry-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
