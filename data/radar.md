@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1656 · Updated: 27/10/2026, 00:30:44 (Asia/Kolkata)
+Run #1657 · Updated: 27/10/2026, 01:01:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Travis Kelce — 17/100
+### Louis Blues — 16/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 20 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Travis Kelce story is a proxy fight about something bigger — the other side of the fight
+> The Louis Blues louis blues: st. louis blues story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>
