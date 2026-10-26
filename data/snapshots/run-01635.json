@@ -1,0 +1,16 @@
+{
+  "runNo": 1635,
+  "at": "2026-10-26T07:17:12.964Z",
+  "rows": [
+    {
+      "event": "story-travis-knight",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

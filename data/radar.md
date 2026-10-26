@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1634 · Updated: 26/10/2026, 11:59:04 (Asia/Kolkata)
+Run #1635 · Updated: 26/10/2026, 12:47:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Travis Knight: ‘Wildwood’ Director Travis Knight on Spending 16 Years to Create His Stop-Motion “Masterpiece”
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
