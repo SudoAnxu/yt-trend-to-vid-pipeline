@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1650 · Updated: 26/10/2026, 22:08:12 (Asia/Kolkata)
+Run #1651 · Updated: 26/10/2026, 22:21:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Sam Raimi's — 20/100
+### Thomas Reis — 19/100
 
-**Event:** Sam Raimi's: Sam Raimi’s R-Rated Horror Nightmare Is Officially Back From the Dead on HBO Max
+**Event:** Thomas Reis: "Bu onları daha tehlikeli hale getiriyor"
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Sam Raimi's situation is weirder than the clips suggest — the other side of the fight
+> What the Thomas Reis thomas reis: "bu onları daha tehlikeli hale getiriyor" filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Walter Koenig — 33/100
+
+**Event:** Walter Koenig: ‘Star Trek’ actor Walter Koenig dies: Reports
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Walter Koenig story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
 
