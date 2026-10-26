@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1653 · Updated: 26/10/2026, 23:00:20 (Asia/Kolkata)
+Run #1654 · Updated: 26/10/2026, 23:21:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alan Ritchson — 26/100
+### Alan Ritchson — 22/100
 
 **Event:** Alan Ritchson: Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -28,21 +28,21 @@ Sources this run: trends(40)
 
 **Competition:** 15 videos in last 6h · TTS ≈ 5.3h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Kyle Larson — 15/100
+### From Director — 21/100
 
-**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
+**Event:** From Director: Keanu Reeves to Star in Netflix’s ‘Maelstrom’ From Director Jaume Collet-Serra
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kyle Larson kyle larson: earns 1st nascar cup series win at talladega after last-lap scramble filings actually say — line by line — the other side of the fight
+> The From Director story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
