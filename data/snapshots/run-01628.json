@@ -1,0 +1,51 @@
+{
+  "runNo": 1628,
+  "at": "2026-10-26T00:35:29.927Z",
+  "rows": [
+    {
+      "event": "story-will-he",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-zach-charbonnet",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-emmanwori",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-nate-ament",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
