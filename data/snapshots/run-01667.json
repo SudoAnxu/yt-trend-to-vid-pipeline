@@ -1,0 +1,16 @@
+{
+  "runNo": 1667,
+  "at": "2026-10-26T22:50:02.755Z",
+  "rows": [
+    {
+      "event": "story-alan-ritchson",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
