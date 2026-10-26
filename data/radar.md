@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1645 · Updated: 26/10/2026, 19:16:38 (Asia/Kolkata)
+Run #1646 · Updated: 26/10/2026, 20:25:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Rafael Jodar — 18/100
+### Kristen Bell — 18/100
 
-**Event:** Rafael Jodar: trending now
+**Event:** Kristen Bell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Rafael Jodar story is a proxy fight about something bigger — the other side of the fight
+> What the Kristen Bell kristen bell: dax shepard sneaks around when wife kristen bell is away. the results are hilarious filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Zoe Saldana — 17/100
+### Kirk Cousins — 28/100
 
-**Event:** Zoe Saldana: Pushes Taylor Sheridan to Change Lioness Finale
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Zoe Saldana zoe saldana: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** KEPT
-
-### Zoe Salda — 27/100
-
-**Event:** Zoe Salda: ña Says She’s Not Ready to Join Another Taylor Sheridan Show for This Reason (Exclusive)
-
-**Why now:** 1 source lane(s): news · momentum 21 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 26 (+4 vs prev run) · spice 25 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Zoe Salda situation is weirder than the clips suggest — the detail nobody has explained
+> The Kirk Cousins kirk cousins: and maxx crosby clash again over panda fight debate story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 5.4h · sources: news
+**Competition:** 13 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Austin Smotherman — 23/100
-
-**Event:** Austin Smotherman: Seamus Power, Austin Smotherman head to Monday playoff as Butterfield Bermuda Championship shortened to 54 hol
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Austin Smotherman austin smotherman: ousts seamus power in bermuda playoff for second straight win story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>

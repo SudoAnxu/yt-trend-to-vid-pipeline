@@ -1,0 +1,23 @@
+{
+  "runNo": 1646,
+  "at": "2026-10-26T14:55:19.682Z",
+  "rows": [
+    {
+      "event": "story-kristen-bell",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-cousins",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
