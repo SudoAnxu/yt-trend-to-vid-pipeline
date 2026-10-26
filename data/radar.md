@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1638 · Updated: 26/10/2026, 14:48:17 (Asia/Kolkata)
+Run #1639 · Updated: 26/10/2026, 14:58:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Justin Bieber: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-5 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Chris Brown: Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Alexandra Eala: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+6 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
