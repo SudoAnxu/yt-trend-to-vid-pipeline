@@ -1,0 +1,16 @@
+{
+  "runNo": 1656,
+  "at": "2026-10-26T19:00:43.916Z",
+  "rows": [
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
