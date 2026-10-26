@@ -1,0 +1,23 @@
+{
+  "runNo": 1669,
+  "at": "2026-10-26T23:12:44.785Z",
+  "rows": [
+    {
+      "event": "story-emily-blunt",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-hemsworth",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
