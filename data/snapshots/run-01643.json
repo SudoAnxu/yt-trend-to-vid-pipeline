@@ -1,0 +1,16 @@
+{
+  "runNo": 1643,
+  "at": "2026-10-26T12:33:49.995Z",
+  "rows": [
+    {
+      "event": "story-donna-mills",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
