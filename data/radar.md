@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1714 · Updated: 28/10/2026, 03:20:04 (Asia/Kolkata)
+Run #1715 · Updated: 28/10/2026, 04:01:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Victor Julian — 17/100
+### Connor Storrie — 24/100
 
-**Event:** Victor Julian: duque fbi most wanted
+**Event:** Connor Storrie: ‘Heated Rivalry’ star Connor Storrie has arrived at the Academy Museum Gala
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Victor Julian victor julian: duque fbi most wanted filings actually say — line by line — the other side of the fight
+> What the Connor Storrie connor storrie: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Danny Masterson — 21/100
+### Ryan Gosling — 19/100
 
-**Event:** Danny Masterson: trending now
+**Event:** Ryan Gosling: star wars: starfighter
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Danny Masterson danny masterson: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Aaron Glenn — 16/100
-
-**Event:** Aaron Glenn: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Glenn aaron glenn: says garrett wilson's outburst 'overblown,' defends jets' offense filings actually say — line by line — the other side of the fight
+> What the Ryan Gosling ryan gosling: connor storrie in talks to join ryan gosling in marvel’s ‘ghost rider’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
 
 
 </details>

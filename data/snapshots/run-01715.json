@@ -1,0 +1,23 @@
+{
+  "runNo": 1715,
+  "at": "2026-10-27T22:31:39.559Z",
+  "rows": [
+    {
+      "event": "story-connor-storrie",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-gosling",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
