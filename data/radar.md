@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1674 · Updated: 27/10/2026, 06:34:55 (Asia/Kolkata)
+Run #1675 · Updated: 27/10/2026, 07:05:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Michael Irvin — 22/100
+### William Contreras — 16/100
 
-**Event:** Michael Irvin: “Parking Lot of a Strip Club”: Veteran NFL Reporter Opens Up About Wild Michael Irvin Interview
+**Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Irvin michael irvin: adds fuel to cowboys fire in rivalry with eagles filings actually say — line by line — the other side of the fight
+> What the William Contreras william contreras: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Brandon Miller — 13/100
+### Alex Caruso — 34/100
 
-**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
+**Event:** Alex Caruso: What happened to Alex Caruso? Live injury updates for Thunder vs. Suns on Monday 10/26/26
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Brandon Miller brandon miller: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Nick Sirianni — 22/100
-
-**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
-
-**Why now:** 2 source lane(s): news, trends · momentum 26 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 20 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Nick Sirianni story is a proxy fight about something bigger — the other side of the fight
+> The Alex Caruso alex caruso: what happened to alex caruso? live injury updates for thunder vs. suns on monday 10/26/26 story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.7h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Joey Porter — 18/100
+### Anthony Edwards' — 17/100
 
-**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
+**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
 
-**Why now:** 2 source lane(s): news, trends · momentum 3 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Joey Porter joey porter: wr george pickens, cb joey porter jr. have no injury designation filings actually say — line by line — the other side of the fight
+> The Anthony Edwards' story is a proxy fight about something bigger — the part that was not supposed to be public
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** ARCHIVED
 
