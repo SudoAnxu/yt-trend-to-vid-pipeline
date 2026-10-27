@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1704 · Updated: 28/10/2026, 00:02:38 (Asia/Kolkata)
+Run #1705 · Updated: 28/10/2026, 00:22:45 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,71 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Tracy Jr. — 21/100
+### Alan Ritchson — 23/100
+
+**Event:** Alan Ritchson: Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out
+
+**Why now:** 1 source lane(s): news · momentum 27 (+3 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alan Ritchson story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** ARCHIVED
+
+### Rob Reiner — 22/100
+
+**Event:** Rob Reiner: Michael Douglas details ‘heartbreaking’ Rob Reiner talks over troubled sons before director’s murder
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Rob Reiner story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 6.7h · sources: news, trends
+
+**Status:** KEPT
+
+### Noah Wyle — 16/100
+
+**Event:** Noah Wyle: ‘The Pitt’ Star Noah Wyle Mourns Heartbreaking Family Loss: ‘Devastated’
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Noah Wyle noah wyle: reveals lesson he learned from late rob reiner when working on a few good men filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### From Director — 21/100
+
+**Event:** From Director: Keanu Reeves to Star in Netflix’s ‘Maelstrom’ From Director Jaume Collet-Serra
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The From Director story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Tracy Jr. — 17/100
 
 **Event:** Tracy Jr.: tyrone tracy jr.
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,35 +84,7 @@ Sources this run: trends(40)
 
 **Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Peter Berg — 17/100
-
-**Event:** Peter Berg: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Peter Berg story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Be — 29/100
-
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Be story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>
