@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1716 · Updated: 28/10/2026, 04:11:35 (Asia/Kolkata)
+Run #1717 · Updated: 28/10/2026, 04:32:28 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Anthony Edwards' — 24/100
+
+**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+
+**Why now:** 2 source lane(s): news, trends · momentum 26 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Anthony Edwards' anthony edwards': anthony edwards injury filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>

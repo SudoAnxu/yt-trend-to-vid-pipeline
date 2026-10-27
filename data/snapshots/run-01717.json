@@ -1,0 +1,16 @@
+{
+  "runNo": 1717,
+  "at": "2026-10-27T23:02:27.870Z",
+  "rows": [
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
