@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1710 · Updated: 28/10/2026, 01:48:45 (Asia/Kolkata)
+Run #1711 · Updated: 28/10/2026, 02:20:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,79 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Mike Waltz — 16/100
+### Nathan Fielder — 15/100
 
-**Event:** Mike Waltz: trending now
+**Event:** Nathan Fielder: ‘You Can See Everything’ Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates H
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mike Waltz mike waltz: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jason Statham — 23/100
-
-**Event:** Jason Statham: scott eastwood action movie
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jason Statham situation is weirder than the clips suggest — the other side of the fight
+> What the Nathan Fielder nathan fielder: 'you can see everything': nathan fielder, lance oppenheim deemed ineligible for dga's top prize filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Malik Beasley — 28/100
-
-**Event:** Malik Beasley: Ex-Pistons star Malik Beasley negotiating plea deal over sports betting charges, lawyer says
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 6 · risk 34 · external momentum 28 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Malik Beasley story is a proxy fight about something bigger — the number behind the headline
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Michael Weatherly — 23/100
-
-**Event:** Michael Weatherly: Will Tony & Gibbs Reunite? Michael Weatherly Teases ‘NCIS’ Crossover
-
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Michael Weatherly michael weatherly: why michael weatherly left ‘ncis’: star’s departure & return explained story is actually a money story — the detail nobody has explained
-
-**Competition:** 11 videos in last 6h · TTS ≈ 9.6h · sources: news, trends
+**Competition:** 19 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Mark Harmon — 19/100
-
-**Event:** Mark Harmon: What To Watch Tuesday: Mark Harmon, Michael Weatherly, And LL COOL J Return To The NCIS Franchise
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Mark Harmon mark harmon: appears clean-shaven in on-set photo reuniting with ncis co-stars story is actually a money story — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 7.3h · sources: news, trends
-
-**Status:** KEPT
 
 
 </details>
