@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1675 · Updated: 27/10/2026, 07:05:26 (Asia/Kolkata)
+Run #1676 · Updated: 27/10/2026, 07:19:11 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### William Contreras — 16/100
+### Ashley Moody — 17/100
 
-**Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
+**Event:** Ashley Moody: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the William Contreras william contreras: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Alex Caruso — 34/100
-
-**Event:** Alex Caruso: What happened to Alex Caruso? Live injury updates for Thunder vs. Suns on Monday 10/26/26
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 20 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Alex Caruso alex caruso: what happened to alex caruso? live injury updates for thunder vs. suns on monday 10/26/26 story is actually a money story — the other side of the fight
+> What the Ashley Moody ashley moody: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
+
+### Nixon Says Democrats — 19/100
+
+**Event:** Nixon Says Democrats: Angie Nixon Says Democrats Should Invest More In Florida And Stop Treating Black Voters As ‘A Sure Thing’
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Nixon Says Democrats nixon says democrats: angie nixon says democrats should invest more in florida and stop treating black voters as ‘a sure thing’ filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Evan Neal — 17/100
+
+**Event:** Evan Neal: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Evan Neal evan neal: eagles sign rb jaydon blue, g evan neal, and lb anfernee orji to the practice squad filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Aaron Ashby — 18/100
+
+**Event:** Aaron Ashby: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Aaron Ashby aaron ashby: brewers notes: what pat murphy, aaron ashby, & brice turang had to say during the world series off day filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Anthony Edwards' — 17/100
 
