@@ -1,0 +1,37 @@
+{
+  "runNo": 1709,
+  "at": "2026-10-27T20:11:54.384Z",
+  "rows": [
+    {
+      "event": "story-malik-beasley",
+      "alert": "ARCHIVE",
+      "opportunity": 36,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-weatherly",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-harmon",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
