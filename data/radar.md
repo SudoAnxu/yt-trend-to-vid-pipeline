@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1677 · Updated: 27/10/2026, 07:47:53 (Asia/Kolkata)
+Run #1678 · Updated: 27/10/2026, 09:21:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Anthony Edwards' — 23/100
+### Noah Wyle — 15/100
 
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+**Event:** Noah Wyle: ‘The Pitt’ Star Noah Wyle Mourns Heartbreaking Family Loss: ‘Devastated’
 
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+12 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 2 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Anthony Edwards' anthony edwards': anthony edwards filings actually say — line by line — the other side of the fight
+> What the Noah Wyle noah wyle: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Angel Reese's — 20/100
+### Malik Willis — 15/100
 
-**Event:** Angel Reese's: NY Liberty Star Sends Clear Warning After Angel Reese's Blunt Postgame Take On Latest Win
+**Event:** Malik Willis: trending now
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Angel Reese's story is a proxy fight about something bigger — the other side of the fight
+> What the Malik Willis malik willis: fantasy football free agent pickups: malik willis, jonah coleman lead top options filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jonah Coleman — 18/100
+
+**Event:** Jonah Coleman: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jonah Coleman jonah coleman: fantasy football free agent pickups: malik willis, jonah coleman lead top options filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
