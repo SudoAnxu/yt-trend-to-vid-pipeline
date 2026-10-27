@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1689 · Updated: 27/10/2026, 16:20:44 (Asia/Kolkata)
+Run #1690 · Updated: 27/10/2026, 17:22:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Kyle Larson — 15/100
+### Will Be — 23/100
 
-**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kyle Larson kyle larson: earns 1st nascar cup series win at talladega after last-lap scramble filings actually say — line by line — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Paul Pierce — 33/100
-
-**Event:** Paul Pierce: Accused of Withholding Cannabis Business Records
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Paul Pierce paul pierce: accused of withholding cannabis business records story is actually a money story — the other side of the fight
+> What the Will Be will be: prediction: broadcom will be a $4.5 trillion company by 2030 filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Jonathan Bailey — 20/100
+
+**Event:** Jonathan Bailey: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jonathan Bailey jonathan bailey: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Connor Bedard — 13/100
-
-**Event:** Connor Bedard: Blackhawks' Connor Bedard 'happy' to finally make season debut vs. Penguins
-
-**Why now:** 2 source lane(s): news, trends · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Connor Bedard connor bedard: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
