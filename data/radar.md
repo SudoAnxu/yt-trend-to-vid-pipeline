@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1709 · Updated: 28/10/2026, 01:41:55 (Asia/Kolkata)
+Run #1710 · Updated: 28/10/2026, 01:48:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,43 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Malik Beasley — 36/100
+### Mike Waltz — 16/100
+
+**Event:** Mike Waltz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mike Waltz mike waltz: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jason Statham — 23/100
+
+**Event:** Jason Statham: scott eastwood action movie
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jason Statham situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Malik Beasley — 28/100
 
 **Event:** Malik Beasley: Ex-Pistons star Malik Beasley negotiating plea deal over sports betting charges, lawyer says
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 11 · risk 34 · external momentum 36 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 6 · risk 34 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +62,7 @@ Sources this run: trends(39)
 
 **Event:** Michael Weatherly: Will Tony & Gibbs Reunite? Michael Weatherly Teases ‘NCIS’ Crossover
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (-8 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,33 +72,19 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Mark Harmon — 17/100
+### Mark Harmon — 19/100
 
 **Event:** Mark Harmon: What To Watch Tuesday: Mark Harmon, Michael Weatherly, And LL COOL J Return To The NCIS Franchise
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mark Harmon mark harmon: to be joined by another franchise alum in “ncis: origins” season 3 filings actually say — line by line — the other side of the fight
+> The Mark Harmon mark harmon: appears clean-shaven in on-set photo reuniting with ncis co-stars story is actually a money story — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 4h · sources: news, trends
+**Competition:** 15 videos in last 6h · TTS ≈ 7.3h · sources: news, trends
 
 **Status:** KEPT
-
-### Tom Jones — 21/100
-
-**Event:** Tom Jones: Sir Tom Jones 'truly sorry' as he cancels two shows due to illness
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tom Jones tom jones: sir tom jones 'truly sorry' as he cancels two shows due to illness filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
