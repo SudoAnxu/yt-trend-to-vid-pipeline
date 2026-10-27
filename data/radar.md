@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1690 · Updated: 27/10/2026, 17:22:03 (Asia/Kolkata)
+Run #1691 · Updated: 27/10/2026, 18:02:44 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,77 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Will Be — 23/100
+### Brandon Nakashima — 26/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Be will be: prediction: broadcom will be a $4.5 trillion company by 2030 filings actually say — line by line — the other side of the fight
+> The Brandon Nakashima story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** KEPT
 
-### Jonathan Bailey — 20/100
+### Alexander Zverev — 20/100
 
-**Event:** Jonathan Bailey: trending now
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jonathan Bailey jonathan bailey: trending now story is actually a money story — the other side of the fight
+> The Alexander Zverev story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Martin Landaluce — 23/100
+
+**Event:** Martin Landaluce: ATP Lyon Day 3 Predictions Including Stan Wawrinka vs Martin Landaluce
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Martin Landaluce story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Maya Joint — 24/100
+
+**Event:** Maya Joint: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Maya Joint story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Harry Reid — 21/100
+
+**Event:** Harry Reid: Man arrested at Harry Reid Airport after alleged text threat to hijack United jet
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Harry Reid harry reid: man arrested at harry reid airport after alleged text threat to hijack united jet filings actually say — line by line — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
