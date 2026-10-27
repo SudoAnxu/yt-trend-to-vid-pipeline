@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1696 · Updated: 27/10/2026, 20:27:40 (Asia/Kolkata)
+Run #1697 · Updated: 27/10/2026, 20:57:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 15/100
+### Carlos Alcaraz — 20/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: trending now filings actually say — line by line — the other side of the fight
+> What the Carlos Alcaraz carlos alcaraz: el reconocimiento a zverev, su regreso al atp 500 de viena y su sueño de ganar la copa davis filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kyle Larson — 17/100
+### Kyle Larson — 19/100
 
 **Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 25 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Kyle Larson kyle larson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 18 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Eric Swalwell — 21/100
+### Eric Swalwell — 19/100
 
 **Event:** Eric Swalwell: FBI raids Beverly Hills mansion as part of Eric Swalwell investigation
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Eric Swalwell eric swalwell: fbi raids beverly hills mansion as part of eric swalwell investigation filings actually say — line by line — what happens next
+> What the Eric Swalwell eric swalwell: beverly hills mansion raid tied to eric swalwell fbi probe, sources say filings actually say — line by line — what happens next
 
-**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
