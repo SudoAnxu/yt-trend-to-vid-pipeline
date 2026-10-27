@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1678 · Updated: 27/10/2026, 09:21:14 (Asia/Kolkata)
+Run #1679 · Updated: 27/10/2026, 10:48:56 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Noah Wyle — 15/100
+### Sofia Kenin — 20/100
 
-**Event:** Noah Wyle: ‘The Pitt’ Star Noah Wyle Mourns Heartbreaking Family Loss: ‘Devastated’
+**Event:** Sofia Kenin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 2 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Noah Wyle noah wyle: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Malik Willis — 15/100
-
-**Event:** Malik Willis: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 26 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Malik Willis malik willis: fantasy football free agent pickups: malik willis, jonah coleman lead top options filings actually say — line by line — the other side of the fight
+> The Sofia Kenin sofia kenin: kaitlin quevedo - sofia kenin, en directo hoy: sigue el partido de guangzhou open story is actually a money story — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
 
-### Jonah Coleman — 18/100
+### Stephen Curry — 16/100
 
-**Event:** Jonah Coleman: trending now
+**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+6 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jonah Coleman jonah coleman: fantasy football free agent pickups: malik willis, jonah coleman lead top options filings actually say — line by line — the other side of the fight
+> What the Stephen Curry stephen curry: warriors have a stephen curry contract problem no one wants to discuss filings actually say — line by line — the number behind the headline
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
