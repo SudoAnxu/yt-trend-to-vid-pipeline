@@ -1,0 +1,23 @@
+{
+  "runNo": 1682,
+  "at": "2026-10-27T07:09:16.824Z",
+  "rows": [
+    {
+      "event": "story-cordae-addresses-naomi",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-emma-stone-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
