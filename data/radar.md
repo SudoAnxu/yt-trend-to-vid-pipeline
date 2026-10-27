@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1699 · Updated: 27/10/2026, 21:26:08 (Asia/Kolkata)
+Run #1700 · Updated: 27/10/2026, 21:43:44 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,51 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 19/100
+### Robert Downey — 17/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: trending now filings actually say — line by line — the other side of the fight
+> The Robert Downey story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** RESEARCH
+
+### Alexander Zverev — 17/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alexander Zverev alexander zverev: zizou bergs de retour dans le top 40, alexander zverev à deux victoires de la place de numéro 1 mondial filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Kyle Larson — 16/100
-
-**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kyle Larson kyle larson: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 18 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Eric Swalwell — 20/100
-
-**Event:** Eric Swalwell: FBI raids Beverly Hills mansion as part of Eric Swalwell investigation
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Eric Swalwell eric swalwell: beverly hills mansion raid tied to eric swalwell fbi probe, sources say filings actually say — line by line — what happens next
-
-**Competition:** 23 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
