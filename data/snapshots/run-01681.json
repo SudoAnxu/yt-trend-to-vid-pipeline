@@ -1,0 +1,23 @@
+{
+  "runNo": 1681,
+  "at": "2026-10-27T06:27:36.350Z",
+  "rows": [
+    {
+      "event": "story-brandon-nakashima",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-maya-joint",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
