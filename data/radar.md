@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1713 · Updated: 28/10/2026, 02:55:14 (Asia/Kolkata)
+Run #1714 · Updated: 28/10/2026, 03:20:04 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Victor Julian: duque fbi most wanted
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,25 +30,25 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Danny Masterson — 27/100
+### Danny Masterson — 21/100
 
 **Event:** Danny Masterson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Danny Masterson danny masterson: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Aaron Glenn — 13/100
+### Aaron Glenn — 16/100
 
 **Event:** Aaron Glenn: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
