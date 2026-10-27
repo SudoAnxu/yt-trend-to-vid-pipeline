@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1698 · Updated: 27/10/2026, 21:17:02 (Asia/Kolkata)
+Run #1699 · Updated: 27/10/2026, 21:26:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(39)
 
@@ -12,43 +12,29 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Daniel Merida — 23/100
-
-**Event:** Daniel Merida: October 8, 2026: Botic Van de Zandschulp vs Daniel Merida: Set 1 Winner Tennis Prediction Market
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Daniel Merida story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** ARCHIVED
-
-### Carlos Alcaraz — 20/100
+### Carlos Alcaraz — 19/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: el reconocimiento a zverev, su regreso al atp 500 de viena y su sueño de ganar la copa davis filings actually say — line by line — the other side of the fight
+> What the Carlos Alcaraz carlos alcaraz: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kyle Larson — 17/100
+### Kyle Larson — 16/100
 
 **Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,17 +44,17 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Eric Swalwell — 23/100
+### Eric Swalwell — 20/100
 
 **Event:** Eric Swalwell: FBI raids Beverly Hills mansion as part of Eric Swalwell investigation
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+3 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Eric Swalwell eric swalwell: beverly hills mansion raid tied to eric swalwell fbi probe, sources say filings actually say — line by line — what happens next
 
-**Competition:** 19 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 23 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** KEPT
 
