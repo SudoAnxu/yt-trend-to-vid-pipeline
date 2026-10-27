@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1707 · Updated: 28/10/2026, 01:00:48 (Asia/Kolkata)
+Run #1708 · Updated: 28/10/2026, 01:17:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Tom Jones — 29/100
+
+**Event:** Tom Jones: Sir Tom Jones 'truly sorry' as he cancels two shows due to illness
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tom Jones tom jones: sir tom jones 'truly sorry' as he cancels two shows due to illness filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

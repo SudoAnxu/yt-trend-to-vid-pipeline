@@ -1,0 +1,16 @@
+{
+  "runNo": 1708,
+  "at": "2026-10-27T19:47:35.718Z",
+  "rows": [
+    {
+      "event": "story-tom-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
