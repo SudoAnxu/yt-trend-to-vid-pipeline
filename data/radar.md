@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1693 · Updated: 27/10/2026, 18:58:42 (Asia/Kolkata)
+Run #1694 · Updated: 27/10/2026, 19:35:01 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### John Harbaugh — 20/100
+### Tim Daly — 21/100
 
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+**Event:** Tim Daly: Téa Leoni and Tim Daly are ‘Newlyweds’ in life and on screen
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-4 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Harbaugh john harbaugh: giants' cam skattebo, john harbaugh object to lowering helmet penalty filings actually say — line by line — what happens next
+> The Tim Daly tim daly: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 9.6h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Lee Curtis — 15/100
+
+**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Lee Curtis lee curtis: jamie lee curtis says she couldn’t get a sitcom job—so she created one after a limo driver’s remark filings actually say — line by line — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Steve Sarkisian — 22/100
+### Jennifer Lawrence — 16/100
 
-**Event:** Steve Sarkisian: trending now
+**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Steve Sarkisian steve sarkisian: "won't be in texas": steve sarkisian receives arch manning exit warning as sec rival emerges as potential land filings actually say — line by line — the other side of the fight
+> The Jennifer Lawrence jennifer lawrence: launches beauty brand as k-beauty dominates 25% of online buzz story is actually a money story — the other side of the fight
 
-**Competition:** 22 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.7h · sources: news, trends
 
 **Status:** ARCHIVED
 
@@ -62,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -72,11 +86,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Martin Landaluce — 22/100
+### Martin Landaluce — 23/100
 
 **Event:** Martin Landaluce: ATP Lyon Day 3 Predictions Including Stan Wawrinka vs Martin Landaluce
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -84,13 +98,13 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Maya Joint — 24/100
 
 **Event:** Maya Joint: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -99,6 +113,20 @@ Sources this run: trends(40)
 **Competition:** 3 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Tony Shalhoub — 29/100
+
+**Event:** Tony Shalhoub: Actor Tony Shalhoub Opens Up About His Family Traditions, Food, and the Memories That Connect Generations
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Tony Shalhoub story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
