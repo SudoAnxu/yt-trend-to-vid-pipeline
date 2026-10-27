@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1717 · Updated: 28/10/2026, 04:32:28 (Asia/Kolkata)
+Run #1718 · Updated: 28/10/2026, 05:08:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Anthony Edwards' — 24/100
+### Louis Blues — 19/100
 
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 2 source lane(s): news, trends · momentum 26 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-7 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Anthony Edwards' anthony edwards': anthony edwards injury filings actually say — line by line — the other side of the fight
+> What the Louis Blues louis blues: preview: blues vs. canadiens | st. louis blues filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>
