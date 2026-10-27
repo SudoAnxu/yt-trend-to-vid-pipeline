@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1697 · Updated: 27/10/2026, 20:57:20 (Asia/Kolkata)
+Run #1698 · Updated: 27/10/2026, 21:17:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Daniel Merida — 23/100
+
+**Event:** Daniel Merida: October 8, 2026: Botic Van de Zandschulp vs Daniel Merida: Set 1 Winner Tennis Prediction Market
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Daniel Merida story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** ARCHIVED
+
 ### Carlos Alcaraz — 20/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kyle Larson — 19/100
+### Kyle Larson — 17/100
 
 **Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
 
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,31 +58,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Eric Swalwell — 19/100
+### Eric Swalwell — 23/100
 
 **Event:** Eric Swalwell: FBI raids Beverly Hills mansion as part of Eric Swalwell investigation
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+3 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Eric Swalwell eric swalwell: beverly hills mansion raid tied to eric swalwell fbi probe, sources say filings actually say — line by line — what happens next
 
-**Competition:** 17 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Be — 23/100
-
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Be will be: prediction: broadcom will be a $4.5 trillion company by 2030 filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 19 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** KEPT
 
