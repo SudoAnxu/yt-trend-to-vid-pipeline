@@ -1,0 +1,37 @@
+{
+  "runNo": 1684,
+  "at": "2026-10-27T08:29:07.756Z",
+  "rows": [
+    {
+      "event": "story-amy-acton",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-perry",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-perry-s",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-wilson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

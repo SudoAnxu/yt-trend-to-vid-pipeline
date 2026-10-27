@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1683 · Updated: 27/10/2026, 13:47:01 (Asia/Kolkata)
+Run #1684 · Updated: 27/10/2026, 13:59:08 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Matthew Perry — 17/100
+### Amy Acton — 16/100
+
+**Event:** Amy Acton: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+5 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Amy Acton amy acton: we cannot remain silent: amy acton for governor story is actually a money story — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 8h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Matthew Perry — 12/100
 
 **Event:** Matthew Perry: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -28,23 +42,23 @@ Sources this run: trends(40)
 
 **Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Matthew Perry's — 19/100
+### Matthew Perry's — 17/100
 
 **Event:** Matthew Perry's: Matthew Perry’s Sister on the Bittersweet Truth Behind His ‘Friends’ Wedding (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Matthew Perry's matthew perry's: matthew perry’s sister on the bittersweet truth behind his ‘friends’ wedding (exclusive) filings actually say — line by line — the other side of the fight
+> What the Matthew Perry's matthew perry's: the best commentator on matthew perry’s decline was perry himself filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 24 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
-### Michael Wilson — 17/100
+### Michael Wilson — 18/100
 
 **Event:** Michael Wilson: trending now
 
