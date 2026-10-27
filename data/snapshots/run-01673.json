@@ -1,0 +1,16 @@
+{
+  "runNo": 1673,
+  "at": "2026-10-27T00:41:28.161Z",
+  "rows": [
+    {
+      "event": "story-jonathan-aranda",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
