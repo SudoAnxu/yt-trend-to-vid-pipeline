@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1694 · Updated: 27/10/2026, 19:35:01 (Asia/Kolkata)
+Run #1695 · Updated: 27/10/2026, 20:21:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,121 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Tim Daly — 21/100
+### Kyle Larson — 13/100
 
-**Event:** Tim Daly: Téa Leoni and Tim Daly are ‘Newlyweds’ in life and on screen
+**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-4 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Tim Daly tim daly: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 9.6h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Lee Curtis — 15/100
-
-**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Lee Curtis lee curtis: jamie lee curtis says she couldn’t get a sitcom job—so she created one after a limo driver’s remark filings actually say — line by line — the other side of the fight
+> What the Kyle Larson kyle larson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jennifer Lawrence — 16/100
+### Eric Swalwell — 28/100
 
-**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
+**Event:** Eric Swalwell: FBI raids Beverly Hills mansion as part of Eric Swalwell investigation
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jennifer Lawrence jennifer lawrence: launches beauty brand as k-beauty dominates 25% of online buzz story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.7h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Brandon Nakashima — 26/100
-
-**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brandon Nakashima story is a proxy fight about something bigger — the other side of the fight
+> What the Eric Swalwell eric swalwell: fbi raids beverly hills mansion as part of eric swalwell investigation filings actually say — line by line — what happens next
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** KEPT
-
-### Alexander Zverev — 20/100
-
-**Event:** Alexander Zverev: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alexander Zverev story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Martin Landaluce — 23/100
-
-**Event:** Martin Landaluce: ATP Lyon Day 3 Predictions Including Stan Wawrinka vs Martin Landaluce
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Martin Landaluce story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** KEPT
-
-### Maya Joint — 24/100
-
-**Event:** Maya Joint: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Maya Joint story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Tony Shalhoub — 29/100
-
-**Event:** Tony Shalhoub: Actor Tony Shalhoub Opens Up About His Family Traditions, Food, and the Memories That Connect Generations
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Tony Shalhoub story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Will Be — 21/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Will Be will be: the ford fathom's home backup system will be way cheaper than the f-150 lightning's filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
 
 
 </details>
