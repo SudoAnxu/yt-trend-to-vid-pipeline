@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1705 · Updated: 28/10/2026, 00:22:45 (Asia/Kolkata)
+Run #1706 · Updated: 28/10/2026, 00:40:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alan Ritchson — 23/100
+### Alan Ritchson — 22/100
 
 **Event:** Alan Ritchson: Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out
 
-**Why now:** 1 source lane(s): news · momentum 27 (+3 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 24 (-3 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,21 +34,21 @@ Sources this run: trends(40)
 
 **Event:** Rob Reiner: Michael Douglas details ‘heartbreaking’ Rob Reiner talks over troubled sons before director’s murder
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Rob Reiner story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.7h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 6.9h · sources: news, trends
 
 **Status:** KEPT
 
-### Noah Wyle — 16/100
+### Noah Wyle — 17/100
 
 **Event:** Noah Wyle: ‘The Pitt’ Star Noah Wyle Mourns Heartbreaking Family Loss: ‘Devastated’
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** From Director: Keanu Reeves to Star in Netflix’s ‘Maelstrom’ From Director Jaume Collet-Serra
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Tracy Jr.: tyrone tracy jr.
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
