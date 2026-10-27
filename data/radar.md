@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1671 · Updated: 27/10/2026, 05:27:39 (Asia/Kolkata)
+Run #1672 · Updated: 27/10/2026, 05:49:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,61 +16,61 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Jeter Sends Out — 21/100
+### Rudy Gobert — 26/100
 
-**Event:** Jeter Sends Out: New York Yankees Legend Derek Jeter Sends Out Viral 10-Word Post
+**Event:** Rudy Gobert: corrals 15 rebounds vs. Miami
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jeter Sends Out jeter sends out: new york yankees legend derek jeter sends out viral 10-word post filings actually say — line by line — the other side of the fight
+> What the Rudy Gobert rudy gobert: corrals 15 rebounds vs. miami filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Kevin Kisner — 20/100
+### John Smoltz — 17/100
 
-**Event:** Kevin Kisner: Rory McIlroy explains why he played in India after PGA Tour player Kevin Kisner accused him of chasing re
+**Event:** John Smoltz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kevin Kisner kevin kisner: trending now filings actually say — line by line — the other side of the fight
+> What the John Smoltz john smoltz: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Trevor Megill — 22/100
+
+**Event:** Trevor Megill: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Trevor Megill story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jerry Jones — 18/100
+### Angel Reese — 14/100
 
-**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jerry Jones jerry jones: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** KEPT
-
-### Aikman Says He'd — 18/100
-
-**Event:** Aikman Says He'd: Troy Aikman Says He’d Consider Role With the Cowboys
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aikman Says He'd aikman says he'd: troy aikman says he’d consider role with the cowboys story is actually a money story — the other side of the fight
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
