@@ -1,0 +1,30 @@
+{
+  "runNo": 1689,
+  "at": "2026-10-27T10:50:43.519Z",
+  "rows": [
+    {
+      "event": "story-kyle-larson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-pierce",
+      "alert": "ARCHIVE",
+      "opportunity": 33,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-connor-bedard",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
