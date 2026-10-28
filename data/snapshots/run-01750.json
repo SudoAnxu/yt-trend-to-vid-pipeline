@@ -1,0 +1,23 @@
+{
+  "runNo": 1750,
+  "at": "2026-10-28T17:36:31.073Z",
+  "rows": [
+    {
+      "event": "story-ted-cruz",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-stephen-kovacevich",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 26,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
