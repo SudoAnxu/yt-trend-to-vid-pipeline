@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1745 · Updated: 28/10/2026, 21:40:58 (Asia/Kolkata)
+Run #1746 · Updated: 28/10/2026, 21:59:15 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
