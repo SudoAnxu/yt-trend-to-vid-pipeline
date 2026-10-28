@@ -1,0 +1,16 @@
+{
+  "runNo": 1734,
+  "at": "2026-10-28T10:08:25.088Z",
+  "rows": [
+    {
+      "event": "story-jonathan-frakes",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
