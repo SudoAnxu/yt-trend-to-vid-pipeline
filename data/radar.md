@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1751 · Updated: 28/10/2026, 23:56:00 (Asia/Kolkata)
+Run #1752 · Updated: 29/10/2026, 00:08:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,25 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
+### Sean Romeo — 21/100
+
+**Event:** Sean Romeo: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Sean Romeo sean romeo: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Kate Middleton — 17/100
 
 **Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+4 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +48,7 @@ Sources this run: trends(39)
 
 **Event:** Kate Middleton's: Kensington Palace Releases New Photo of Prince William and Kate Middleton's Kids
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(39)
 
 **Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,11 +72,11 @@ Sources this run: trends(39)
 
 **Status:** KEPT
 
-### Jacob Misiorowski — 16/100
+### Jacob Misiorowski — 15/100
 
 **Event:** Jacob Misiorowski: Pete Crow-Armstrong wins Baseball Digest player of the year. Jacob Misiorowski voted top pitcher
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -71,20 +85,6 @@ Sources this run: trends(39)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Travis Kelce's — 20/100
-
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Travis Kelce's filing that will matter in six months — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
-
-**Status:** KEPT
 
 
 </details>
