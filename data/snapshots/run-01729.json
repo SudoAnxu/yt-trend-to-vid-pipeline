@@ -1,0 +1,16 @@
+{
+  "runNo": 1729,
+  "at": "2026-10-28T06:56:48.427Z",
+  "rows": [
+    {
+      "event": "story-seth-mcgowan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
