@@ -1,0 +1,16 @@
+{
+  "runNo": 1730,
+  "at": "2026-10-28T07:48:04.587Z",
+  "rows": [
+    {
+      "event": "story-joe-rogan",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

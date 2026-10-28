@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1729 · Updated: 28/10/2026, 12:26:48 (Asia/Kolkata)
+Run #1730 · Updated: 28/10/2026, 13:18:04 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(37)
 
 <details><summary>show</summary>
 
-### Seth Mcgowan — 17/100
+### Joe Rogan — 13/100
 
-**Event:** Seth Mcgowan: trending now
+**Event:** Joe Rogan: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-16 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Seth Mcgowan seth mcgowan: trending now filings actually say — line by line — the other side of the fight
+> What the Joe Rogan joe rogan: flames goalie devin cooley goes viral on the joe rogan experience podcast filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
