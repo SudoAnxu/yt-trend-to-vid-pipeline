@@ -1,0 +1,30 @@
+{
+  "runNo": 1758,
+  "at": "2026-10-28T20:41:32.069Z",
+  "rows": [
+    {
+      "event": "story-hayden-panettiere",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-hayden-panettiere-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-jacob-morley",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

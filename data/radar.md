@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1757 · Updated: 29/10/2026, 01:58:20 (Asia/Kolkata)
+Run #1758 · Updated: 29/10/2026, 02:11:32 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Hayden Panettiere — 16/100
+### Hayden Panettiere — 13/100
 
 **Event:** Hayden Panettiere: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Hayden Panettiere's — 19/100
+### Hayden Panettiere's — 21/100
 
 **Event:** Hayden Panettiere's: ex-fiance files petition over daughter's estate
 
-**Why now:** 1 source lane(s): news · momentum 17 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 22 (+5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Jacob Morley: ‘He’s a monster. He will do it again’: A warning as the manhunt for Jacob Morley continues
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
