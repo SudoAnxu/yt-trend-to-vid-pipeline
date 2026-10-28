@@ -1,0 +1,72 @@
+{
+  "runNo": 1722,
+  "at": "2026-10-28T00:57:45.238Z",
+  "rows": [
+    {
+      "event": "story-kevin-huerter",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-neil-patrick",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-rachel-zegler",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-zach-lavine",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-paul-george",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-mitchell-robinson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-reed",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-william-contreras",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

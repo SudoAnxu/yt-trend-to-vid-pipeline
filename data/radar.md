@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1721 · Updated: 28/10/2026, 06:09:11 (Asia/Kolkata)
+Run #1722 · Updated: 28/10/2026, 06:27:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,127 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (9)
 
 <details><summary>show</summary>
+
+### Kevin Huerter — 31/100
+
+**Event:** Kevin Huerter: nails the triple vs. Boston Celtics
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Kevin Huerter kevin huerter: nails the triple vs. boston celtics story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Neil Patrick — 24/100
+
+**Event:** Neil Patrick: Harris to Star in ‘Damn Yankees’ Revival on Broadway
+
+**Why now:** 2 source lane(s): trends, news · momentum 30 (+16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Neil Patrick story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Patrick Harris — 20/100
+
+**Event:** Patrick Harris: Neil Patrick Harris to Star in ‘Damn Yankees’ Revival on Broadway
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Patrick Harris patrick harris: neil patrick harris filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rachel Zegler — 16/100
+
+**Event:** Rachel Zegler: , Taye Diggs, Norbert Leo Butz, More Join Rent Broadway Anniversary Concert
+
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Rachel Zegler rachel zegler: taye diggs, neil patrick harris, rachel zegler and more join rent 30th anniversary concert filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: news
+
+**Status:** ARCHIVED
+
+### Zach Lavine — 17/100
+
+**Event:** Zach Lavine: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Zach Lavine zach lavine: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Paul George — 15/100
+
+**Event:** Paul George: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Paul George paul george: celtics reveal if jayson tatum, paul george, mitchell robinson are available vs. nets story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mitchell Robinson — 15/100
+
+**Event:** Mitchell Robinson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Mitchell Robinson mitchell robinson: celtics reveal if jayson tatum, paul george, mitchell robinson are available vs. nets story is actually a money story — the other side of the fight
+
+**Competition:** 18 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Paul Reed — 19/100
+
+**Event:** Paul Reed: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Paul Reed paul reed: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### William Contreras — 13/100
 
 **Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -29,48 +141,6 @@ Sources this run: trends(40)
 **Competition:** 19 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Jennifer Garner — 24/100
-
-**Event:** Jennifer Garner: Ben Affleck Explains Shared Custody Arrangement With Ex-Wife Jennifer Garner Over Their 3 Kids
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jennifer Garner story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ben Affleck's — 19/100
-
-**Event:** Ben Affleck's: Inside Ben Affleck’s $30 Million Property Portfolio
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ben Affleck's ben affleck's: all about jennifer garner and ben affleck’s 3 kids and their “spectacular” co-parenting relationship filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mark Ballas — 29/100
-
-**Event:** Mark Ballas: ‘DWTS’ pros Witney Carson and Mark Ballas ‘refused to be in the same room’ amid secret feud, former contestant
-
-**Why now:** 2 source lane(s): news, trends · momentum 28 (-8 vs prev run) · spice 16 · risk 64 · external momentum 28 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Mark Ballas situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** RESEARCH
 
 
 </details>
