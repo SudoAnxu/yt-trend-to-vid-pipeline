@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1755 · Updated: 29/10/2026, 01:11:29 (Asia/Kolkata)
+Run #1756 · Updated: 29/10/2026, 01:32:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kyle Whittingham — 19/100
+### Jimmy Carr — 23/100
 
-**Event:** Kyle Whittingham: trending now
+**Event:** Jimmy Carr: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kyle Whittingham kyle whittingham: lincoln riley, deion sanders and kyle whittingham: inside the jobs that could shake up the coaching carousel filings actually say — line by line — the other side of the fight
+> What the Jimmy Carr jimmy carr: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 22 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Kyle Larson — 19/100
+
+**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
+
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Kyle Larson kyle larson: why nascar didn’t penalize kyle larson at talladega filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Harry Kane — 14/100
-
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
-
-**Why now:** 2 source lane(s): trends, news · momentum 4 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Harry Kane harry kane: fc bayern: aufstellung da! harry kane gegen magdeburg auf der bank filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** KEPT
 
 
 </details>
