@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1723 · Updated: 28/10/2026, 07:03:47 (Asia/Kolkata)
+Run #1724 · Updated: 28/10/2026, 07:31:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jim Boyd — 27/100
+### Sean Hannity — 17/100
 
-**Event:** Jim Boyd: wcvb
+**Event:** Sean Hannity: wedding
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jim Boyd filing that will matter in six months — the other side of the fight
+> The Sean Hannity sean hannity: fox news’ sean hannity and ainsley earhardt celebrate with trump at mar-a-lago ahead of wedding story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Kevin Cash — 16/100
+### Ashley Moody — 25/100
 
-**Event:** Kevin Cash: discusses big win over the Yankees
+**Event:** Ashley Moody: trending now
 
-**Why now:** 1 source lane(s): news · momentum 10 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 38 (+26 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kevin Cash kevin cash: former fsu players kevin cash, taylor walls advance to world series filings actually say — line by line — the other side of the fight
+> What the Ashley Moody ashley moody: senator ashley moody secures $11 million grant for port of fernandina filings actually say — line by line — the number behind the headline
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** BOOSTED
+
+### David Hamilton — 16/100
+
+**Event:** David Hamilton: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the David Hamilton david hamilton: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 

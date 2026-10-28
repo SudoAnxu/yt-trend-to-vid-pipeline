@@ -1,0 +1,30 @@
+{
+  "runNo": 1724,
+  "at": "2026-10-28T02:01:41.949Z",
+  "rows": [
+    {
+      "event": "story-sean-hannity",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-ashley-moody",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 38,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
