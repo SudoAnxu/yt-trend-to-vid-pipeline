@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1748 · Updated: 28/10/2026, 22:30:09 (Asia/Kolkata)
+Run #1749 · Updated: 28/10/2026, 22:44:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Tom Selleck — 19/100
+### Ted Cruz — 18/100
 
-**Event:** Tom Selleck: Donnie Wahlberg Teases Potential Tom Selleck Return on Boston Blue : ‘I Know What It Will Require’ (Exclusive)
+**Event:** Ted Cruz: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 34 (+22 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tom Selleck tom selleck: donnie wahlberg teases potential tom selleck return on boston blue : ‘i know what it will require’ (exclusive) filings actually say — line by line — the other side of the fight
+> The Ted Cruz ted cruz: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Stephen Kovacevich — 32/100
+
+**Event:** Stephen Kovacevich: , a searching voice in Beethoven and Brahms, dies at 86
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 34 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Stephen Kovacevich stephen kovacevich: , a searching voice in beethoven and brahms, dies at 86 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Jason Segel — 12/100
+### Josh Downs' — 24/100
 
-**Event:** Jason Segel: marries girlfriend Kayla Radomski: See the stunning wedding photos
+**Event:** Josh Downs': 5 Colts Things: Josh Downs' chemistry with Daniel Jones shines, DeForest Buckner dominates, Cowboys-Ravens gam
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 34 (+15 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Segel jason segel: admits the future of apple tv's shrinking following its season 4 renewal 'could go on for quite a while' (excl story is actually a money story — the other side of the fight
+> The Josh Downs' story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 9 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jonathan Taylor — 15/100
+
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jonathan Taylor jonathan taylor: source: colts' josh downs requests trade; jonathan taylor hasn't, per coach filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
