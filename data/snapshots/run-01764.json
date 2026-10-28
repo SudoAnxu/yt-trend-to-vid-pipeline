@@ -1,0 +1,30 @@
+{
+  "runNo": 1764,
+  "at": "2026-10-28T22:55:01.563Z",
+  "rows": [
+    {
+      "event": "story-jonah-coleman",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-roger-marshall",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-black",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
