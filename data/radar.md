@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1725 · Updated: 28/10/2026, 08:00:03 (Asia/Kolkata)
+Run #1726 · Updated: 28/10/2026, 09:41:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Mike Conley — 18/100
+### Austin Reaves — 24/100
 
-**Event:** Mike Conley: trending now
+**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 30 (+16 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Mike Conley mike conley: trending now story is actually a money story — the other side of the fight
+> The Austin Reaves story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 5.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Nick Martinez — 25/100
+### William Contreras — 19/100
 
-**Event:** Nick Martinez: trending now
+**Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+14 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nick Martinez nick martinez: why nick martinez is the under-the-radar pitching coup the angels desperately need filings actually say — line by line — the detail nobody has explained
+> The William Contreras story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 16 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>
