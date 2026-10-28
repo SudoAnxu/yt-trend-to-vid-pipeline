@@ -1,0 +1,23 @@
+{
+  "runNo": 1731,
+  "at": "2026-10-28T08:54:02.481Z",
+  "rows": [
+    {
+      "event": "story-megan-moroney",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-philip-rivers",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
