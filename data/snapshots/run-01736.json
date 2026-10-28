@@ -1,0 +1,30 @@
+{
+  "runNo": 1736,
+  "at": "2026-10-28T10:57:35.776Z",
+  "rows": [
+    {
+      "event": "story-adam-brody",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-brady",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-brady-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
