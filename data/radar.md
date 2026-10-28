@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1760 · Updated: 29/10/2026, 03:05:43 (Asia/Kolkata)
+Run #1761 · Updated: 29/10/2026, 03:18:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Ben Johnson — 14/100
+
+**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+
+**Why now:** 2 source lane(s): news, trends · momentum 12 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ben Johnson ben johnson: bears hc ben johnson sends message on ryan poles before trade deadline filings actually say — line by line — the other side of the fight
+
+**Competition:** 17 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
