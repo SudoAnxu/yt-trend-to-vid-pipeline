@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1724 · Updated: 28/10/2026, 07:31:42 (Asia/Kolkata)
+Run #1725 · Updated: 28/10/2026, 08:00:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Sean Hannity — 17/100
+### Mike Conley — 18/100
 
-**Event:** Sean Hannity: wedding
+**Event:** Mike Conley: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Sean Hannity sean hannity: fox news’ sean hannity and ainsley earhardt celebrate with trump at mar-a-lago ahead of wedding story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Ashley Moody — 25/100
-
-**Event:** Ashley Moody: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 38 (+26 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ashley Moody ashley moody: senator ashley moody secures $11 million grant for port of fernandina filings actually say — line by line — the number behind the headline
+> The Mike Conley mike conley: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** BOOSTED
-
-### David Hamilton — 16/100
-
-**Event:** David Hamilton: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the David Hamilton david hamilton: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Nick Martinez — 25/100
+
+**Event:** Nick Martinez: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Nick Martinez nick martinez: why nick martinez is the under-the-radar pitching coup the angels desperately need filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 16 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
