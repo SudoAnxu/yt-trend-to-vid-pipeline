@@ -1,0 +1,16 @@
+{
+  "runNo": 1747,
+  "at": "2026-10-28T16:44:26.480Z",
+  "rows": [
+    {
+      "event": "story-jason-segel",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
