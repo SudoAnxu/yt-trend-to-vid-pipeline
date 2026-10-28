@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1738 · Updated: 28/10/2026, 17:56:50 (Asia/Kolkata)
+Run #1739 · Updated: 28/10/2026, 18:50:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Brian Schottenheimer — 19/100
+### Justin Hartley — 17/100
 
-**Event:** Brian Schottenheimer: OK with Cowboys' players-only meeting panned by Mike Tomlin
+**Event:** Justin Hartley: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Brian Schottenheimer brian schottenheimer: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
-
-**Status:** KEPT
-
-### Eli Lilly — 19/100
-
-**Event:** Eli Lilly: retatrutide phase iii results
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Eli Lilly eli lilly: bye bye ozempic: eli lilly says its new drug retatrutide more than doubles weight loss filings actually say — line by line — the other side of the fight
+> What the Justin Hartley justin hartley: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Mark Cuban — 25/100
-
-**Event:** Mark Cuban: Is Worth $6.8 Billion. He Says 1 Habit He Learned From Poker Is Critical to His Success
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Mark Cuban mark cuban: is worth $6.8 billion. he says 1 habit he learned from poker is critical to his success story is actually a money story — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Julia Roberts — 18/100
+### Brandon Nakashima — 20/100
 
-**Event:** Julia Roberts: trending now
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Julia Roberts julia roberts: in photos: award-winning actress julia roberts turns 59 - all photos story is actually a money story — the other side of the fight
+> What the Brandon Nakashima brandon nakashima: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 24 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** KEPT
+
+### Justin Tucker — 32/100
+
+**Event:** Justin Tucker: , Chiefs Reportedly Agree to Contract Amid Harrison Butker's Struggles
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Justin Tucker filing that will matter in six months — the number behind the headline
+
+**Competition:** 2 videos in last 6h · TTS ≈ 14h · sources: trends, news
 
 **Status:** RESEARCH
 
