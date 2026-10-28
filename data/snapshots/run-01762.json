@@ -1,0 +1,16 @@
+{
+  "runNo": 1762,
+  "at": "2026-10-28T22:11:43.429Z",
+  "rows": [
+    {
+      "event": "story-michael-olise",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
