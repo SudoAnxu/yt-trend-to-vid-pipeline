@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1752 · Updated: 29/10/2026, 00:08:16 (Asia/Kolkata)
+Run #1753 · Updated: 29/10/2026, 00:32:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,21 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Sean Romeo — 21/100
+### Louis Looks — 21/100
 
-**Event:** Sean Romeo: trending now
+**Event:** Louis Looks: Prince Louis Looks More Grown Up Than Ever in a New Photo Shared by Mom Princess Kate
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Sean Romeo sean romeo: trending now filings actually say — line by line — the other side of the fight
+> What the Louis Looks louis looks: prince louis looks more grown up than ever in a new photo shared by mom princess kate filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +44,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kate Middleton's — 21/100
+### William Share — 21/100
+
+**Event:** William Share: Matching Outfits, Matching Smiles: Kate Middleton and Prince William Share a Sweet New Family Photo
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the William Share william share: matching outfits, matching smiles: kate middleton and prince william share a sweet new family photo filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Kate Middleton's — 20/100
 
 **Event:** Kate Middleton's: Kensington Palace Releases New Photo of Prince William and Kate Middleton's Kids
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -57,34 +71,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Adrian Mannarino — 18/100
-
-**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Adrian Mannarino adrian mannarino: jakub mensik v adrian mannarino odds filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** KEPT
-
-### Jacob Misiorowski — 15/100
-
-**Event:** Jacob Misiorowski: Pete Crow-Armstrong wins Baseball Digest player of the year. Jacob Misiorowski voted top pitcher
-
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jacob Misiorowski jacob misiorowski: world series decision filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
