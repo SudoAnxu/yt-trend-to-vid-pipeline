@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1756 · Updated: 29/10/2026, 01:32:34 (Asia/Kolkata)
+Run #1757 · Updated: 29/10/2026, 01:58:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jimmy Carr — 23/100
+### Hayden Panettiere — 16/100
 
-**Event:** Jimmy Carr: trending now
+**Event:** Hayden Panettiere: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jimmy Carr jimmy carr: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 22 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Kyle Larson — 19/100
-
-**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kyle Larson kyle larson: why nascar didn’t penalize kyle larson at talladega filings actually say — line by line — the detail nobody has explained
+> What the Hayden Panettiere hayden panettiere: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Hayden Panettiere's — 19/100
+
+**Event:** Hayden Panettiere's: ex-fiance files petition over daughter's estate
+
+**Why now:** 1 source lane(s): news · momentum 17 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Hayden Panettiere's hayden panettiere's: death ruled accidental: police filings actually say — line by line — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** KEPT
+
+### Jacob Morley — 18/100
+
+**Event:** Jacob Morley: ‘He’s a monster. He will do it again’: A warning as the manhunt for Jacob Morley continues
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jacob Morley jacob morley: ‘he’s a monster. he will do it again’: a warning as the manhunt for jacob morley continues story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
