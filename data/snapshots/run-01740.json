@@ -1,0 +1,23 @@
+{
+  "runNo": 1740,
+  "at": "2026-10-28T13:42:06.483Z",
+  "rows": [
+    {
+      "event": "story-brandon-nakashima",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-hartley",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
