@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1785 · Updated: 29/10/2026, 17:11:33 (Asia/Kolkata)
+Run #1786 · Updated: 29/10/2026, 18:06:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
+
+### Ryan Day — 20/100
+
+**Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
+
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Ryan Day story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 13 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+
+**Status:** ARCHIVED
 
 ### Tony Romo — 21/100
 
 **Event:** Tony Romo: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+7 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Tony Romo tony romo: ‘it is highly unlikely’ — analysts label tony romo as ‘damaged goods’ while discussing ex-cowboys qb’s chances story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 9h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Mark Your — 19/100
-
-**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
-
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mark Your mark your: dear caterpillar stock fans, mark your calendars for october 29 filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Austin Weather — 17/100
-
-**Event:** Austin Weather: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Austin Weather austin weather: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
 
 
 </details>
