@@ -1,0 +1,16 @@
+{
+  "runNo": 1805,
+  "at": "2026-10-29T20:28:01.106Z",
+  "rows": [
+    {
+      "event": "story-robert-downey",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
