@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1807 · Updated: 30/10/2026, 02:48:22 (Asia/Kolkata)
+Run #1808 · Updated: 30/10/2026, 03:12:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### John Harbaugh — 15/100
+### Ben Shelton — 24/100
+
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+
+**Why now:** 2 source lane(s): news, trends · momentum 30 (+11 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ben Shelton ben shelton: atp basel day 4 predictions including ben shelton vs jerome kym filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Daniel Jones — 14/100
+
+**Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Daniel Jones daniel jones: ashland oregon filings actually say — line by line — the other side of the fight
+
+**Competition:** 15 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### John Harbaugh — 16/100
 
 **Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +58,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
+### Matt Nagy — 21/100
+
+**Event:** Matt Nagy: john harbaugh matt nagy giants hire
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Matt Nagy matt nagy: john harbaugh matt nagy giants hire filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### John Harbaugh's — 19/100
 
 **Event:** John Harbaugh's: Cam Skattebo Reacts to Najee Harris Being Released by John Harbaugh's Giants, 'Nobody Is Safe'
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,34 +85,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Nick Jonas — 25/100
-
-**Event:** Nick Jonas: Priyanka Chopra says Nick Jonas made sure to set up his tour to be home for 'Karwa Chauth', drops adorabl
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Nick Jonas nick jonas: priyanka chopra says nick jonas made sure to set up his tour to be home for 'karwa chauth', drops adorabl filings actually say — line by line — the part that was not supposed to be public
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Matthew Golden — 17/100
-
-**Event:** Matthew Golden: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Matthew Golden matthew golden: is matthew golden playing tonight filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
