@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1771 · Updated: 29/10/2026, 07:24:29 (Asia/Kolkata)
+Run #1772 · Updated: 29/10/2026, 07:36:01 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,35 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### William Contreras — 22/100
+### David Hamilton — 16/100
 
-**Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
+**Event:** David Hamilton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The William Contreras story is a proxy fight about something bigger — the other side of the fight
+> What the David Hamilton david hamilton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### William Contreras' — 14/100
+### Norman Powell — 18/100
 
-**Event:** William Contreras': MLB playoffs live scores, updates: Brewers retake lead over Dodgers in NLCS Game 2 after William Contreras' go
+**Event:** Norman Powell: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the William Contreras' william contreras': dedicated workout has allowed him to endure all season filings actually say — line by line — the other side of the fight
+> The Norman Powell norman powell: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jay Huff — 23/100
+
+**Event:** Jay Huff: Tyrese Haliburton, Jay Huff (yes, Jay Huff) lead Pacers to easy win vs Nets
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jay Huff jay huff: tyrese haliburton, jay huff (yes, jay huff) lead pacers to easy win vs nets filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### John Smoltz — 22/100
+
+**Event:** John Smoltz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the John Smoltz john smoltz: has brewers fans roasting him after ridiculous william contreras world series call out filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+
+**Status:** BOOSTED
+
+### William Contreras — 14/100
+
+**Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the William Contreras william contreras: john smoltz has brewers fans roasting him after ridiculous william contreras world series call out filings actually say — line by line — the other side of the fight
+
+**Competition:** 19 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** ARCHIVED
 
