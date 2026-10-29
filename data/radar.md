@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1803 · Updated: 30/10/2026, 01:14:31 (Asia/Kolkata)
+Run #1804 · Updated: 30/10/2026, 01:32:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Patrick Stewart — 26/100
+
+**Event:** Patrick Stewart: , ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Patrick Stewart patrick stewart: , ‘star trek’ captain and ‘x-men’ superhero, dies at 86 story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Joe Buck — 17/100
 
 **Event:** Joe Buck: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Will Replace: ‘My Spidey Senses Tell Me’ — Former NFL QB Predicts Hall-of-Fame Quarterback Will Replace Troy Aikman on ESPN’
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,27 +76,13 @@ Sources this run: trends(40)
 
 **Event:** Mark Cuban: Is Worth $6.8 Billion. He Says 1 Habit He Learned From Poker Is Critical to His Success
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Mark Cuban mark cuban: tips his cap to wwe stars after two appearances in company: 'those guys deserve so much respect' story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jack Grealish — 22/100
-
-**Event:** Jack Grealish: dropped by Everton after breaching club discipline ahead of Newcastle Carabao Cup tie
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jack Grealish jack grealish: dropped by everton after breaching club discipline ahead of newcastle carabao cup tie filings actually say — line by line — the part that was not supposed to be public
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
