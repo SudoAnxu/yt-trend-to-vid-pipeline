@@ -1,0 +1,16 @@
+{
+  "runNo": 1798,
+  "at": "2026-10-29T17:46:06.779Z",
+  "rows": [
+    {
+      "event": "story-adam-schefter",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
