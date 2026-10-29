@@ -1,0 +1,16 @@
+{
+  "runNo": 1787,
+  "at": "2026-10-29T13:30:30.216Z",
+  "rows": [
+    {
+      "event": "story-stephen-graham",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
