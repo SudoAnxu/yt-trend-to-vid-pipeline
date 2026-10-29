@@ -1,0 +1,23 @@
+{
+  "runNo": 1812,
+  "at": "2026-10-29T23:02:35.210Z",
+  "rows": [
+    {
+      "event": "story-james-madison",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-golden",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

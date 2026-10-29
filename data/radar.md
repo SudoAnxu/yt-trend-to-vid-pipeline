@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1811 · Updated: 30/10/2026, 04:25:38 (Asia/Kolkata)
+Run #1812 · Updated: 30/10/2026, 04:32:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### James Madison — 23/100
+### James Madison — 22/100
 
 **Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Matthew Golden: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
