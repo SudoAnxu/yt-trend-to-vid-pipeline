@@ -1,0 +1,37 @@
+{
+  "runNo": 1775,
+  "at": "2026-10-29T06:04:37.826Z",
+  "rows": [
+    {
+      "event": "story-james-gunn",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-hartley",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 1,
+      "window": "closed"
+    },
+    {
+      "event": "story-stephen-king-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
