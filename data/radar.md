@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1767 · Updated: 29/10/2026, 05:35:33 (Asia/Kolkata)
+Run #1768 · Updated: 29/10/2026, 06:15:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alex Rodriguez — 22/100
+### Jennifer Garner — 22/100
 
-**Event:** Alex Rodriguez: trending now
+**Event:** Jennifer Garner: Ben Affleck Explains Shared Custody Arrangement With Ex-Wife Jennifer Garner Over Their 3 Kids
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alex Rodriguez alex rodriguez: trending now filings actually say — line by line — the other side of the fight
+> The Jennifer Garner jennifer garner: i had no idea ben affleck was so goofy filming daredevil fight scenes with jennifer garner story is actually a money story — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 4h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### David Ortiz — 20/100
+### Ben Affleck's — 18/100
 
-**Event:** David Ortiz: trending now
+**Event:** Ben Affleck's: Inside Ben Affleck’s $30 Million Property Portfolio
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the David Ortiz david ortiz: licensable picture: fox tv analyst alex rodriguez listens as david ortiz talks during pregame before game 4 of filings actually say — line by line — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Louis City — 20/100
-
-**Event:** Louis City: Minnesota United vs St. Louis City: Major League Soccer stats & head-to-head
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Louis City situation is weirder than the clips suggest — the other side of the fight
+> The Ben Affleck's ben affleck's: all about jennifer garner and ben affleck’s 3 kids and how they approach co-parenting story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Anthony Edwards' — 18/100
+
+**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Anthony Edwards' anthony edwards': how can timberwolves survive anthony edwards' absence? lamelo ball must level up, but there's another key filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 

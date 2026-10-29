@@ -1,0 +1,30 @@
+{
+  "runNo": 1768,
+  "at": "2026-10-29T00:45:03.788Z",
+  "rows": [
+    {
+      "event": "story-jennifer-garner",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-affleck-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
