@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1780 · Updated: 29/10/2026, 14:34:33 (Asia/Kolkata)
+Run #1781 · Updated: 29/10/2026, 15:51:05 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,23 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Tom Brady — 18/100
+### Alex Tuch — 23/100
 
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+**Event:** Alex Tuch: Capitals vs. Flyers live updates: Alex Tuch and Jordan Kyrou score twice as Washington defeats Philadelphia 5-
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tom Brady tom brady: , candice swanepoel have been dating ‘for a while,’ source says filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Tom Brady's — 25/100
-
-**Event:** Tom Brady's: Drake Maye Looked Like Tom Brady’s Heir. Now, He’s a Disaster.
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Tom Brady's filing that will matter in six months — the other side of the fight
+> What the Alex Tuch alex tuch: capitals vs. flyers live updates: alex tuch and jordan kyrou score twice as washington defeats philadelphia 5- filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
-
-**Status:** ARCHIVED
-
-### Emma Stone — 20/100
-
-**Event:** Emma Stone: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Emma Stone emma stone: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Emma Watson — 18/100
-
-**Event:** Emma Watson: ‘Beauty and the Beast’ Star Emma Watson Resurfaces at Armani’s Star-Packed Chateau Marmont Bash
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Emma Watson story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Harry Potter — 18/100
-
-**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Harry Potter story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>

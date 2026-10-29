@@ -1,0 +1,16 @@
+{
+  "runNo": 1781,
+  "at": "2026-10-29T10:21:04.956Z",
+  "rows": [
+    {
+      "event": "story-alex-tuch",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
