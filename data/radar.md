@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1794 · Updated: 29/10/2026, 22:13:23 (Asia/Kolkata)
+Run #1795 · Updated: 29/10/2026, 22:30:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Murray — 22/100
+### To Host — 19/100
 
-**Event:** Michael Murray: Sophia Bush Finally Breaks Her Silence on the Real Reason for Her Divorce From Chad Michael Murray
+**Event:** To Host: Oregon State Stays Home To Host WSU Saturday At Reser
 
-**Why now:** 1 source lane(s): news · momentum 19 (-1 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Murray michael murray: sophia bush finally breaks her silence on the real reason for her divorce from chad michael murray filings actually say — line by line — the detail nobody has explained
+> The To Host story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
-### Chad Michael — 16/100
+### Jill Wagner — 28/100
 
-**Event:** Chad Michael: Sophia Bush on Addressing End of Marriage to Chad Michael Murray in Memoir (Exclusive)
+**Event:** Jill Wagner: 'Lioness' star Jill Wagner raises daughters in Tennessee town of 800, where horses and buggies still roam
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Chad Michael chad michael: sophia bush recalls ‘brutal’ way she learned chad michael murray had cheated with ‘plenty of girls’ filings actually say — line by line — the other side of the fight
+> The Jill Wagner jill wagner: 'lioness' star jill wagner raises daughters in tennessee town of 800, where horses and buggies still roam story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
