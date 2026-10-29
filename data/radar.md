@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1813 · Updated: 30/10/2026, 04:56:48 (Asia/Kolkata)
+Run #1814 · Updated: 30/10/2026, 05:21:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -15,6 +15,20 @@ Sources this run: trends(40)
 ## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Ryan Seacrest — 22/100
+
+**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+3 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Ryan Seacrest filing that will matter in six months — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 10.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Louis Blues — 19/100
 
@@ -34,27 +48,13 @@ Sources this run: trends(40)
 
 **Event:** Dylan Larkin: to debut for Red Wings despite demanding trade
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-6 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Dylan Larkin dylan larkin: live: wild return home to face islanders as dylan larkin trade speculation swirls filings actually say — line by line — the detail nobody has explained
 
 **Competition:** 11 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### James Madison — 21/100
-
-**Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the James Madison james madison: troy vs james madison filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
