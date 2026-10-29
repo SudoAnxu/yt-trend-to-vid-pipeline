@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1800 · Updated: 30/10/2026, 00:16:54 (Asia/Kolkata)
+Run #1801 · Updated: 30/10/2026, 00:39:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,65 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Nate Eaton — 17/100
+### Justin Gaethje — 19/100
 
-**Event:** Nate Eaton: trending now
+**Event:** Justin Gaethje: ilia topuria ufc
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Nate Eaton nate eaton: trending now filings actually say — line by line — the other side of the fight
+> The Justin Gaethje justin gaethje: alex volkanovski pivots to 2 new options if justin gaethje fight can't happen next: 'that excites me' story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Will Reportedly — 19/100
+### Alexander Volkanovski — 21/100
 
-**Event:** Will Reportedly: The Elder Scrolls 6 Will Reportedly Show the History of the Titular Artifacts
+**Event:** Alexander Volkanovski: Movsar Evloev thinks UFC 333 fight with Alexander Volkanovski could be 1st UFC finish: ‘Why not?’
+
+**Why now:** 1 source lane(s): news · momentum 29 (+3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Volkanovski alexander volkanovski: could face a new challenge after ufc 333 story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+
+**Status:** KEPT
+
+### Josh Allen — 19/100
+
+**Event:** Josh Allen: injury
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Allen josh allen: bye week vacation story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### People Got Sick — 19/100
+
+**Event:** People Got Sick: Where People Got Sick: Salmonella Outbreak, October 2026
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Will Reportedly filing that will matter in six months — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
-
-**Status:** RESEARCH
-
-### Kate Middleton — 16/100
-
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
-
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Kate Middleton kate middleton: shares new family photo after completing mountain climbing challenge story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Kate Middleton's — 20/100
-
-**Event:** Kate Middleton's: Kensington Palace Releases New Photo of Prince William and Kate Middleton's Kids
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kate Middleton's kate middleton's: kensington palace releases new photo of prince william and kate middleton's kids filings actually say — line by line — the other side of the fight
+> What the People Got Sick people got sick: where people got sick: salmonella outbreak, october 2026 filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** KEPT
+**Status:** RESEARCH
+
+### Jeff Probst — 19/100
+
+**Event:** Jeff Probst: Reacts to Survivor Player’s Choice to ‘Voluntarily’ Leave Game Despite Being Cleared by Doctor
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jeff Probst jeff probst: reveals who’s really behind ‘survivor 51’ women’s downfall filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>

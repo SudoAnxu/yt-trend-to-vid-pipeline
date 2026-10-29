@@ -1,0 +1,44 @@
+{
+  "runNo": 1801,
+  "at": "2026-10-29T19:09:36.210Z",
+  "rows": [
+    {
+      "event": "story-justin-gaethje",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-volkanovski",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-people-got-sick",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jeff-probst",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
