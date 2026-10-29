@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1808 · Updated: 30/10/2026, 03:12:58 (Asia/Kolkata)
+Run #1809 · Updated: 30/10/2026, 03:25:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Ben Shelton — 24/100
+### Kate Middleton — 18/100
+
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Kate Middleton kate middleton: royal motherhood role story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Ben Shelton — 22/100
 
 **Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 30 (+11 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 25 (-5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Ben Shelton ben shelton: atp basel day 4 predictions including ben shelton vs jerome kym filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** BOOSTED
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,48 +57,6 @@ Sources this run: trends(40)
 **Competition:** 15 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### John Harbaugh — 16/100
-
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
-
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Harbaugh john harbaugh: matt nagy giants hire filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Matt Nagy — 21/100
-
-**Event:** Matt Nagy: john harbaugh matt nagy giants hire
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Matt Nagy matt nagy: john harbaugh matt nagy giants hire filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### John Harbaugh's — 19/100
-
-**Event:** John Harbaugh's: Cam Skattebo Reacts to Najee Harris Being Released by John Harbaugh's Giants, 'Nobody Is Safe'
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Harbaugh's john harbaugh's: john harbaugh’s message to new giants coordinator who was down bad after head coach interviews filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
