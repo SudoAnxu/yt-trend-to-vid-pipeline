@@ -1,0 +1,37 @@
+{
+  "runNo": 1800,
+  "at": "2026-10-29T18:46:53.694Z",
+  "rows": [
+    {
+      "event": "story-nate-eaton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-reportedly",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-middleton-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

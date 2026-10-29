@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1799 · Updated: 30/10/2026, 00:05:21 (Asia/Kolkata)
+Run #1800 · Updated: 30/10/2026, 00:16:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Nate Eaton — 25/100
+### Nate Eaton — 17/100
 
 **Event:** Nate Eaton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Nate Eaton nate eaton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Will Reportedly — 19/100
+
+**Event:** Will Reportedly: The Elder Scrolls 6 Will Reportedly Show the History of the Titular Artifacts
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Will Reportedly filing that will matter in six months — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,7 +48,7 @@ Sources this run: trends(39)
 
 **Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +58,11 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Kate Middleton's — 21/100
+### Kate Middleton's — 20/100
 
 **Event:** Kate Middleton's: Kensington Palace Releases New Photo of Prince William and Kate Middleton's Kids
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
