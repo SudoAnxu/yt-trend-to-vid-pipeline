@@ -1,0 +1,23 @@
+{
+  "runNo": 1771,
+  "at": "2026-10-29T01:54:28.633Z",
+  "rows": [
+    {
+      "event": "story-william-contreras",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-william-contreras-",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

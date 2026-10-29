@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1770 · Updated: 29/10/2026, 07:00:04 (Asia/Kolkata)
+Run #1771 · Updated: 29/10/2026, 07:24:29 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Daniel Vogelbach — 28/100
-
-**Event:** Daniel Vogelbach: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Daniel Vogelbach daniel vogelbach: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### William Contreras — 20/100
+### William Contreras — 22/100
 
 **Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+10 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > The William Contreras story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 19 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### William Contreras' — 14/100
+
+**Event:** William Contreras': MLB playoffs live scores, updates: Brewers retake lead over Dodgers in NLCS Game 2 after William Contreras' go
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the William Contreras' william contreras': dedicated workout has allowed him to endure all season filings actually say — line by line — the other side of the fight
+
+**Competition:** 19 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
 
