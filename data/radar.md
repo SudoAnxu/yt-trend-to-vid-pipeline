@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1801 · Updated: 30/10/2026, 00:39:37 (Asia/Kolkata)
+Run #1802 · Updated: 30/10/2026, 00:53:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,43 +12,85 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Justin Gaethje — 19/100
+### Mark Cuban — 20/100
 
-**Event:** Justin Gaethje: ilia topuria ufc
+**Event:** Mark Cuban: Is Worth $6.8 Billion. He Says 1 Habit He Learned From Poker Is Critical to His Success
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Justin Gaethje justin gaethje: alex volkanovski pivots to 2 new options if justin gaethje fight can't happen next: 'that excites me' story is actually a money story — the other side of the fight
+> The Mark Cuban mark cuban: tips his cap to wwe stars after two appearances in company: 'those guys deserve so much respect' story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Roger Federer — 24/100
+
+**Event:** Roger Federer: “Roger Federer Not Showing Up Was An Insult”; “Very Sad” – Fans Call Out Swiss Icon For Missing Stan Wawrinka’
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 12 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Roger Federer story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Angel Reese — 17/100
+
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Alexander Volkanovski — 21/100
+### Justin Gaethje — 25/100
 
-**Event:** Alexander Volkanovski: Movsar Evloev thinks UFC 333 fight with Alexander Volkanovski could be 1st UFC finish: ‘Why not?’
+**Event:** Justin Gaethje: ilia topuria ufc
 
-**Why now:** 1 source lane(s): news · momentum 29 (+3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 20 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Alexander Volkanovski alexander volkanovski: could face a new challenge after ufc 333 story is actually a money story — the other side of the fight
+> The Justin Gaethje story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alexander Volkanovski — 22/100
+
+**Event:** Alexander Volkanovski: Movsar Evloev thinks UFC 333 fight with Alexander Volkanovski could be 1st UFC finish: ‘Why not?’
+
+**Why now:** 1 source lane(s): news · momentum 20 (-9 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Volkanovski story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** KEPT
 
-### Josh Allen — 19/100
+### Josh Allen — 18/100
 
 **Event:** Josh Allen: injury
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +104,7 @@ Sources this run: trends(40)
 
 **Event:** People Got Sick: Where People Got Sick: Salmonella Outbreak, October 2026
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -71,20 +113,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Jeff Probst — 19/100
-
-**Event:** Jeff Probst: Reacts to Survivor Player’s Choice to ‘Voluntarily’ Leave Game Despite Being Cleared by Doctor
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jeff Probst jeff probst: reveals who’s really behind ‘survivor 51’ women’s downfall filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
