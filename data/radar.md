@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1769 · Updated: 29/10/2026, 06:39:16 (Asia/Kolkata)
+Run #1770 · Updated: 29/10/2026, 07:00:04 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,25 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Anthony Edwards' — 17/100
+### Daniel Vogelbach — 28/100
 
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+**Event:** Daniel Vogelbach: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Anthony Edwards' anthony edwards': ‘he needs that’ – lonzo ball reacts to anthony edwards being rude to lamelo ball story is actually a money story — the other side of the fight
+> What the Daniel Vogelbach daniel vogelbach: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### William Contreras — 14/100
+### William Contreras — 20/100
 
 **Event:** William Contreras: Brewers' William Contreras hits solo home run, tying game vs Dodgers
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+10 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
 
 **Recommended angle**
 
