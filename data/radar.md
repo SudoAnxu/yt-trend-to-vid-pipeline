@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1845 · Updated: 30/10/2026, 22:35:14 (Asia/Kolkata)
+Run #1846 · Updated: 30/10/2026, 22:55:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Rick Hendrick — 30/100
+### Luis Enrique — 14/100
+
+**Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Luis Enrique luis enrique: psg predicted xi v le havre: luis enrique set to field second string; key players absent filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Christopher Meloni — 23/100
+
+**Event:** Christopher Meloni: Mariska Hargitay and Christopher Meloni Reunite for ‘SVU’s 600th Episode in Behind-the-Scenes Photos (Exclusiv
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Christopher Meloni christopher meloni: mariska hargitay and christopher meloni reunite for ‘svu’s 600th episode in behind-the-scenes photos (exclusiv filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Rick Hendrick — 25/100
 
 **Event:** Rick Hendrick: Stunned as Ailing Darrell Waltrip Hands Emotional Gift Complementing $75,000 Auction Bid
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 12 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 12 · risk 64 · external momentum 26 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,45 +58,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Riley Green — 15/100
+### Scott Kirby — 23/100
 
-**Event:** Riley Green: Kelly Clarkson Had a Shocking Reaction to a ‘Voice’ Contestant Who Couldn’t Stop Staring at Riley Green
+**Event:** Scott Kirby: United CEO Scott Kirby wants to create the best airline in aviation history
 
-**Why now:** 1 source lane(s): news · momentum 8 (+1 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Riley Green riley green: ‘the voice’s riley green gives dating update filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Indiana Media Host — 19/100
-
-**Event:** Indiana Media Host: "Ex Boyfriend That Was So Perfect": Fernando Mendoza Leaves Female Indiana Media Host Sad After Departure
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Indiana Media Host indiana media host: "ex boyfriend that was so perfect": fernando mendoza leaves female indiana media host sad after departure filings actually say — line by line — the other side of the fight
+> The Scott Kirby scott kirby: united ceo scott kirby wants to create the best airline in aviation history story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Host Sad — 19/100
-
-**Event:** Host Sad: "Ex Boyfriend That Was So Perfect": Fernando Mendoza Leaves Female Indiana Media Host Sad After Departure
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Host Sad host sad: "ex boyfriend that was so perfect": fernando mendoza leaves female indiana media host sad after departure filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
