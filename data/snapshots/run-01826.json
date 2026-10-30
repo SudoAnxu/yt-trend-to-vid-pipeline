@@ -1,0 +1,23 @@
+{
+  "runNo": 1826,
+  "at": "2026-10-30T07:56:45.366Z",
+  "rows": [
+    {
+      "event": "story-patrick-mahomes-",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-flanagan",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
