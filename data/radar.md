@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1841 · Updated: 30/10/2026, 21:34:28 (Asia/Kolkata)
+Run #1842 · Updated: 30/10/2026, 22:05:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alex Michelsen — 17/100
+### Alex Michelsen — 18/100
 
 **Event:** Alex Michelsen: "J'ai été voir le petit garçon qui fait pipi" : éliminé de l'European Open, Alex Michelsen a logé chez Kristof
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Rob Gronkowski — 20/100
+### Rob Gronkowski — 19/100
 
 **Event:** Rob Gronkowski: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Rob Gronkowski rob gronkowski: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 9h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 9.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
