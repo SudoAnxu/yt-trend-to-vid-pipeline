@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1826 · Updated: 30/10/2026, 13:26:45 (Asia/Kolkata)
+Run #1827 · Updated: 30/10/2026, 14:23:18 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Patrick Mahomes' — 15/100
+### Alexandra Eala — 13/100
 
-**Event:** Patrick Mahomes': Wife Brittany Gives Fans a Peek at Life Away From the Chiefs
+**Event:** Alexandra Eala: trending now
 
-**Why now:** 1 source lane(s): news · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Patrick Mahomes' patrick mahomes': brittany and patrick mahomes’ kids pose with pumpkins in cute snap during family halloween outing filings actually say — line by line — the other side of the fight
+> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Mike Flanagan — 18/100
+### Alex Eala — 14/100
 
-**Event:** Mike Flanagan: Breaks Down The Exorcist: Martyrs Trailer and Reveals How the Horror Sequel Draws on The Exorcist III
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mike Flanagan mike flanagan: trending now filings actually say — line by line — the other side of the fight
+> The Alex Eala alex eala: rallies past talia gibson, sets up diana shnaider rematch in toray pan pacific open quarterfinals story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+
+**Status:** ARCHIVED
+
+### Justin Tucker — 17/100
+
+**Event:** Justin Tucker: , Chiefs Reportedly Agree to Contract Amid Harrison Butker's Struggles
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Justin Tucker justin tucker: chiefs coach talks up harrison butker’s windy practice prowess with justin tucker hovering over him filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
