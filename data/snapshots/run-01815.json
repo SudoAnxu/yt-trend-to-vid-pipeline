@@ -1,0 +1,44 @@
+{
+  "runNo": 1815,
+  "at": "2026-10-30T00:01:03.474Z",
+  "rows": [
+    {
+      "event": "story-patrick-mahomes-",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-micah-parsons",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-stewart",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-seacrest",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-louis-blues",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
