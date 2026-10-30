@@ -1,0 +1,37 @@
+{
+  "runNo": 1817,
+  "at": "2026-10-30T01:16:33.418Z",
+  "rows": [
+    {
+      "event": "story-charles-barkley",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-davis",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-trevor-etienne",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-travis-etienne",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
