@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1828 · Updated: 30/10/2026, 14:44:40 (Asia/Kolkata)
+Run #1829 · Updated: 30/10/2026, 15:53:23 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,47 +16,47 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Alexandra Eala — 13/100
+### Depot Drops Mechanics — 24/100
 
-**Event:** Alexandra Eala: trending now
+**Event:** Depot Drops Mechanics: Home Depot Drops Mechanics Sets Up to 50% Off With Early Black Friday Deals–Save On Husky, Milwaukee, and More
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Alex Eala — 14/100
-
-**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
-
-**Why now:** 1 source lane(s): news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 13 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Alex Eala alex eala: rallies past talia gibson, sets up diana shnaider rematch in toray pan pacific open quarterfinals story is actually a money story — the other side of the fight
+> What the Depot Drops Mechanics depot drops mechanics: home depot drops mechanics sets up to 50% off with early black friday deals–save on husky, milwaukee, and more filings actually say — line by line — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Justin Tucker — 17/100
+### Michael Smith — 13/100
 
-**Event:** Justin Tucker: , Chiefs Reportedly Agree to Contract Amid Harrison Butker's Struggles
+**Event:** Michael Smith: trailer park boys
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 14h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Justin Tucker filing that will matter in six months — the other side of the fight
+> What the Michael Smith michael smith: mike smith throws support behind babar azam amid batting slump filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Kyle Chrisley — 28/100
+
+**Event:** Kyle Chrisley: Pleads Guilty To Resisting Arrest, Other Charges Dismissed in Police Assault Case
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Kyle Chrisley kyle chrisley: pleads guilty to resisting arrest, other charges dismissed in police assault case filings actually say — line by line — what happens next
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

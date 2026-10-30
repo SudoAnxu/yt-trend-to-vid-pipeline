@@ -1,0 +1,30 @@
+{
+  "runNo": 1829,
+  "at": "2026-10-30T10:23:23.490Z",
+  "rows": [
+    {
+      "event": "story-depot-drops-mechanics",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-chrisley",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
