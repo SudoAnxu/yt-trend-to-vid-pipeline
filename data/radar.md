@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1827 · Updated: 30/10/2026, 14:23:18 (Asia/Kolkata)
+Run #1828 · Updated: 30/10/2026, 14:44:40 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -34,7 +34,7 @@ Sources this run: trends(38)
 
 **Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 1 source lane(s): news · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,13 +48,13 @@ Sources this run: trends(38)
 
 **Event:** Justin Tucker: , Chiefs Reportedly Agree to Contract Amid Harrison Butker's Struggles
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 14h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Justin Tucker justin tucker: chiefs coach talks up harrison butker’s windy practice prowess with justin tucker hovering over him filings actually say — line by line — the other side of the fight
+> The Justin Tucker filing that will matter in six months — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 14h · sources: trends, news
 
 **Status:** ARCHIVED
 
