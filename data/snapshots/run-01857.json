@@ -1,0 +1,16 @@
+{
+  "runNo": 1857,
+  "at": "2026-10-30T21:39:13.310Z",
+  "rows": [
+    {
+      "event": "story-jack-antonoff",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
