@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1844 · Updated: 30/10/2026, 22:27:20 (Asia/Kolkata)
+Run #1845 · Updated: 30/10/2026, 22:35:14 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,39 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Noah Wyle — 19/100
+### Rick Hendrick — 30/100
 
-**Event:** Noah Wyle: ‘The Pitt’ Star Noah Wyle Mourns Heartbreaking Family Loss: ‘Devastated’
+**Event:** Rick Hendrick: Stunned as Ailing Darrell Waltrip Hands Emotional Gift Complementing $75,000 Auction Bid
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Noah Wyle noah wyle: is the sexiest man alive! no second opinion needed. filings actually say — line by line — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Noah Wyle's — 19/100
-
-**Event:** Noah Wyle's: 33 men who are worthy runners-up for Noah Wyle's Sexiest Man Alive title
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 12 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Noah Wyle's noah wyle's: 33 men who are worthy runners-up for noah wyle's sexiest man alive title filings actually say — line by line — the other side of the fight
+> The Rick Hendrick rick hendrick: stunned as ailing darrell waltrip hands emotional gift complementing $75,000 auction bid story is actually a money story — the part that was not supposed to be public
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Riley Green — 15/100
+
+**Event:** Riley Green: Kelly Clarkson Had a Shocking Reaction to a ‘Voice’ Contestant Who Couldn’t Stop Staring at Riley Green
+
+**Why now:** 1 source lane(s): news · momentum 8 (+1 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Riley Green riley green: ‘the voice’s riley green gives dating update filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
 
 ### Indiana Media Host — 19/100
 
 **Event:** Indiana Media Host: "Ex Boyfriend That Was So Perfect": Fernando Mendoza Leaves Female Indiana Media Host Sad After Departure
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Host Sad: "Ex Boyfriend That Was So Perfect": Fernando Mendoza Leaves Female Indiana Media Host Sad After Departure
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
