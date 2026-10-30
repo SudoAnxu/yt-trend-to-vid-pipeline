@@ -1,0 +1,37 @@
+{
+  "runNo": 1830,
+  "at": "2026-10-30T10:33:48.682Z",
+  "rows": [
+    {
+      "event": "story-depot-drops-mechanics",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-maya-gebala",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michael-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-chrisley",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
