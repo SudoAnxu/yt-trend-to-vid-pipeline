@@ -1,0 +1,16 @@
+{
+  "runNo": 1860,
+  "at": "2026-10-30T22:42:17.863Z",
+  "rows": [
+    {
+      "event": "story-jordan-rodgers",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
