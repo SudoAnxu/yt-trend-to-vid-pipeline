@@ -1,0 +1,30 @@
+{
+  "runNo": 1852,
+  "at": "2026-10-30T19:49:06.349Z",
+  "rows": [
+    {
+      "event": "story-alex-de",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-chris-sutton",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-lauren-bennett",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
