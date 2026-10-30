@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1830 · Updated: 30/10/2026, 16:03:49 (Asia/Kolkata)
+Run #1831 · Updated: 30/10/2026, 16:29:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,43 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
+
+### Tom Brady's — 25/100
+
+**Event:** Tom Brady's: Drake Maye Looked Like Tom Brady’s Heir. Now, He’s a Disaster.
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tom Brady's filing that will matter in six months — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
+
+**Status:** ARCHIVED
+
+### Tom Brady — 19/100
+
+**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tom Brady filing that will matter in six months — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: news, trends
+
+**Status:** ARCHIVED
 
 ### Depot Drops Mechanics — 24/100
 
 **Event:** Depot Drops Mechanics: Home Depot Drops Mechanics Sets Up to 50% Off With Early Black Friday Deals–Save On Husky, Milwaukee, and More
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 13 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 13 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +62,7 @@ Sources this run: trends(39)
 
 **Event:** Maya Gebala: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · external momentum 21 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,31 +72,17 @@ Sources this run: trends(39)
 
 **Status:** RESEARCH
 
-### Michael Smith — 14/100
+### Harry Brook — 16/100
 
-**Event:** Michael Smith: trailer park boys
+**Event:** Harry Brook: 'He's got an astute brain': After losing three out of four matches in tri-series, Harry Brook called 'one
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Michael Smith michael smith: mike smith throws support behind babar azam amid batting slump filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kyle Chrisley — 23/100
-
-**Event:** Kyle Chrisley: Pleads Guilty To Resisting Arrest, Other Charges Dismissed in Police Assault Case
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kyle Chrisley kyle chrisley: pleads guilty to resisting arrest, other charges dismissed in police assault case filings actually say — line by line — what happens next
+> The Harry Brook harry brook: 'he's got an astute brain': after losing three out of four matches in tri-series, harry brook called 'one story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
