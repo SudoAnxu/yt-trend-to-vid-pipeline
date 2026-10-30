@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1817 · Updated: 30/10/2026, 06:46:34 (Asia/Kolkata)
+Run #1818 · Updated: 30/10/2026, 07:02:17 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,59 +16,59 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Charles Barkley — 19/100
+### Michael King — 18/100
 
-**Event:** Charles Barkley: trending now
+**Event:** Michael King: induces double play, Padres stay alive
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-10 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Charles Barkley charles barkley: calls out lebron james for disrespecting the national anthem with practice golf swing filings actually say — line by line — the other side of the fight
+> What the Michael King michael king: ranking 3 best michael king free agency destinations after contract opt-out filings actually say — line by line — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
 
-### Anthony Davis — 15/100
+### Jon Ossoff — 17/100
 
-**Event:** Anthony Davis: New Anthony Davis Rumors on Desire for New Contract After Offseason Trade Buzz
+**Event:** Jon Ossoff: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Anthony Davis anthony davis: cleveland cavaliers\' donovan mitchell (45) drives to the basket as washington wizards\' anthony davis (23) de filings actually say — line by line — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Trevor Etienne — 28/100
-
-**Event:** Trevor Etienne: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Trevor Etienne trevor etienne: trending now filings actually say — line by line — the other side of the fight
+> What the Jon Ossoff jon ossoff: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Travis Etienne — 24/100
+### Matt Barnes — 25/100
 
-**Event:** Travis Etienne: trending now
+**Event:** Matt Barnes: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Travis Etienne travis etienne: when is travis etienne jr. coming back - week 8 fantasy football injury return update (2026) story is actually a money story — the other side of the fight
+> The Matt Barnes matt barnes: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 8h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Adam Schefter — 17/100
+
+**Event:** Adam Schefter: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Adam Schefter story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
