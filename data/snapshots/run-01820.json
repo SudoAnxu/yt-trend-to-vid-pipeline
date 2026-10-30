@@ -1,0 +1,23 @@
+{
+  "runNo": 1820,
+  "at": "2026-10-30T02:25:09.313Z",
+  "rows": [
+    {
+      "event": "story-evan-mobley-s",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-harlan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
