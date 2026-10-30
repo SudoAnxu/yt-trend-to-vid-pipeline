@@ -1,0 +1,23 @@
+{
+  "runNo": 1822,
+  "at": "2026-10-30T04:33:09.721Z",
+  "rows": [
+    {
+      "event": "story-paul-bettany",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-downey",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1821 · Updated: 30/10/2026, 08:16:42 (Asia/Kolkata)
+Run #1822 · Updated: 30/10/2026, 10:03:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Josh Turek — 15/100
+### Paul Bettany — 27/100
 
-**Event:** Josh Turek: trending now
+**Event:** Paul Bettany: ‘VisionQuest’ star Paul Bettany reacts to wife Jennifer Connelly’s defense of his Marvel character
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Turek josh turek: trending now filings actually say — line by line — the other side of the fight
+> The Paul Bettany story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Robert Downey — 24/100
+
+**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
+
+**Why now:** 1 source lane(s): news · momentum 30 (+14 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Robert Downey story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** ARCHIVED
 
