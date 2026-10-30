@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1847 · Updated: 30/10/2026, 23:38:14 (Asia/Kolkata)
+Run #1848 · Updated: 30/10/2026, 23:53:55 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Jerry Jacks — 19/100
+
+**Event:** Jerry Jacks: ‘General Hospital’s Wil Traval Unpacks That Jerry Jacks Reveal & What’s Next for Jude
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jerry Jacks jerry jacks: ‘general hospital’s wil traval unpacks that jerry jacks reveal & what’s next for jude filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Riley Green — 18/100
 
 **Event:** Riley Green: Kelly Clarkson Had a Shocking Reaction to a ‘Voice’ Contestant Who Couldn’t Stop Staring at Riley Green
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+6 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,25 +44,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Travis Kelce's — 21/100
+### Travis Kelce's — 25/100
 
 **Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
 
-**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 26 (+3 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Travis Kelce's travis kelce's: tim mcgraw shuts down rumor about taylor swift and travis kelce’s wedding filings actually say — line by line — the detail nobody has explained
+> The Travis Kelce's story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 20 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 21 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
 ### Luis Enrique — 14/100
 
 **Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -56,7 +70,7 @@ Sources this run: trends(40)
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 
 </details>
