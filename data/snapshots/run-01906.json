@@ -1,0 +1,30 @@
+{
+  "runNo": 1906,
+  "at": "2026-10-31T20:59:07.875Z",
+  "rows": [
+    {
+      "event": "story-ted-lasso",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-philo",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-owen-wilson",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
