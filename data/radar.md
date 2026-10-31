@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1864 · Updated: 31/10/2026, 06:07:43 (Asia/Kolkata)
+Run #1865 · Updated: 31/10/2026, 06:27:15 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
-
-### Randy Flores — 31/100
-
-**Event:** Randy Flores: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Randy Flores randy flores: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
 
 ### Nathan Fielder — 17/100
 

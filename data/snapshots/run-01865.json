@@ -1,0 +1,16 @@
+{
+  "runNo": 1865,
+  "at": "2026-10-31T00:57:14.833Z",
+  "rows": [
+    {
+      "event": "story-nathan-fielder",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
