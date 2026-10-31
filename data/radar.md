@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1882 · Updated: 31/10/2026, 17:27:11 (Asia/Kolkata)
+Run #1883 · Updated: 31/10/2026, 18:26:15 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Josh Jacobs — 25/100
+
+**Event:** Josh Jacobs: news
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+8 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Josh Jacobs josh jacobs: records show 3 other women accused packers' josh jacobs of abuse after arrest filings actually say — line by line — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
