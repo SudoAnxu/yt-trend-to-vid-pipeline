@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1877 · Updated: 31/10/2026, 15:24:17 (Asia/Kolkata)
+Run #1878 · Updated: 31/10/2026, 15:32:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(38)
 
@@ -20,7 +20,7 @@ Sources this run: trends(38)
 
 **Event:** Eddie Johnson: Ex-USMNT star Eddie Johnson to train 3-year-old removed from Florida soccer game
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
