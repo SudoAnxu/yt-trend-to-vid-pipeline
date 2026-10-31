@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1876 · Updated: 31/10/2026, 14:32:44 (Asia/Kolkata)
+Run #1877 · Updated: 31/10/2026, 15:24:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Emma Watson — 19/100
+### Eddie Johnson — 21/100
 
-**Event:** Emma Watson: ‘Beauty and the Beast’ Star Emma Watson Resurfaces at Armani’s Star-Packed Chateau Marmont Bash
+**Event:** Eddie Johnson: Ex-USMNT star Eddie Johnson to train 3-year-old removed from Florida soccer game
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-1 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Emma Watson story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Harry Potter — 21/100
-
-**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Harry Potter story is a proxy fight about something bigger — the other side of the fight
+> The Eddie Johnson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
