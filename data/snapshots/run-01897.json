@@ -1,0 +1,16 @@
+{
+  "runNo": 1897,
+  "at": "2026-10-31T17:53:21.086Z",
+  "rows": [
+    {
+      "event": "story-jeff-bezos",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
