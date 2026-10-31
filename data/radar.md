@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1893 · Updated: 31/10/2026, 21:43:05 (Asia/Kolkata)
+Run #1894 · Updated: 31/10/2026, 21:59:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Josh Jacobs — 18/100
+### Todd Chrisley — 23/100
 
-**Event:** Josh Jacobs: news
+**Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Josh Jacobs josh jacobs: records show other women contacted police about previous incidents with packers’ josh jacobs after his arrest filings actually say — line by line — what happens next
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Thomas Castellanos — 24/100
-
-**Event:** Thomas Castellanos: Texas Tech football to start Thomas Castellanos at QB against Arizona
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Thomas Castellanos thomas castellanos: texas tech making change at qb as thomas castellanos gets nod over will hammond vs. arizona filings actually say — line by line — the other side of the fight
+> The Todd Chrisley todd chrisley: recalls becoming an escort at 18 after working at cheesecake factory: ‘i’m laying up getting my rent paid’ story is actually a money story — the number behind the headline
 
-**Competition:** 2 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Alexander Zverev — 20/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Zverev story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
