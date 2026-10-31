@@ -1,0 +1,30 @@
+{
+  "runNo": 1887,
+  "at": "2026-10-31T14:41:23.406Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-sutton",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-alan-shearer",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
