@@ -1,0 +1,23 @@
+{
+  "runNo": 1898,
+  "at": "2026-10-31T18:07:21.512Z",
+  "rows": [
+    {
+      "event": "story-jose-mourinho",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeff-bezos",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
