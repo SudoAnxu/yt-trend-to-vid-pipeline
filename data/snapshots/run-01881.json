@@ -1,0 +1,23 @@
+{
+  "runNo": 1881,
+  "at": "2026-10-31T11:08:12.078Z",
+  "rows": [
+    {
+      "event": "story-nick-martinez",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-philo",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
