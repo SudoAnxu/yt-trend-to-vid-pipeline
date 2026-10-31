@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1874 · Updated: 31/10/2026, 13:20:37 (Asia/Kolkata)
+Run #1875 · Updated: 31/10/2026, 14:13:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jeffrey Epstein — 20/100
+### Emma Watson — 18/100
 
-**Event:** Jeffrey Epstein: trending now
+**Event:** Emma Watson: ‘Beauty and the Beast’ Star Emma Watson Resurfaces at Armani’s Star-Packed Chateau Marmont Bash
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jeffrey Epstein jeffrey epstein: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Mia Pohankova — 17/100
-
-**Event:** Mia Pohankova: vs Maria Sakkari LIVE Streaming, Wuhan Open Tennis: Start Time, Prediction, Where to Watch In India, USA And W
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mia Pohankova mia pohankova: trending now filings actually say — line by line — the other side of the fight
+> The Emma Watson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Harry Potter — 21/100
+
+**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+9 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Harry Potter story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
