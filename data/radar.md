@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1872 · Updated: 31/10/2026, 12:16:11 (Asia/Kolkata)
+Run #1873 · Updated: 31/10/2026, 12:38:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Mia Pohankova: vs Maria Sakkari LIVE Streaming, Wuhan Open Tennis: Start Time, Prediction, Where to Watch In India, USA And W
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,25 +30,25 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Tom Hanks — 22/100
+### Tom Hanks — 21/100
 
 **Event:** Tom Hanks: This Tom Hanks Movie Won Best Picture & Made $678 Million, Yet Reportedly Lost $62 Million
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Tom Hanks story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 11 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### John Mayer — 14/100
+### John Mayer — 13/100
 
 **Event:** John Mayer: sphere
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Xavier Becerra: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -76,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Steve Hilton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-14 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -86,25 +86,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Ryan Garcia — 28/100
+### Ryan Garcia — 22/100
 
 **Event:** Ryan Garcia: ‘Almost like a 50/50 fight’: Oscar De La Hoya talks Ryan Garcia vs Floyd Mayweather and more
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Ryan Garcia ryan garcia: ‘almost like a 50/50 fight’: oscar de la hoya talks ryan garcia vs floyd mayweather and more story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Oscar De — 18/100
+### Oscar De — 19/100
 
 **Event:** Oscar De: La Hoya and Dana White reignite their bitter feud over humiliation plot
 
-**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (+1 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -114,17 +114,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Floyd Mayweather — 21/100
+### Floyd Mayweather — 19/100
 
 **Event:** Floyd Mayweather: finally announces his next two fights including 100 million blockbuster
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+15 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-8 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Floyd Mayweather floyd mayweather: ‘almost like a 50/50 fight’: oscar de la hoya talks ryan garcia vs floyd mayweather and more story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
