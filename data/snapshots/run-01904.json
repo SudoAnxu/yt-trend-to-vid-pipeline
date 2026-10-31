@@ -1,0 +1,23 @@
+{
+  "runNo": 1904,
+  "at": "2026-10-31T20:26:10.687Z",
+  "rows": [
+    {
+      "event": "story-tom-holland",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-holland-s",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
