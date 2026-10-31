@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1878 · Updated: 31/10/2026, 15:32:38 (Asia/Kolkata)
+Run #1879 · Updated: 31/10/2026, 16:02:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Eddie Johnson — 21/100
-
-**Event:** Eddie Johnson: Ex-USMNT star Eddie Johnson to train 3-year-old removed from Florida soccer game
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Eddie Johnson story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
