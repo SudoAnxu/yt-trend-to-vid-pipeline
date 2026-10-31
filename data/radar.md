@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1884 · Updated: 31/10/2026, 18:43:40 (Asia/Kolkata)
+Run #1885 · Updated: 31/10/2026, 19:17:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Nick Saban — 22/100
+### Nick Saban — 18/100
 
 **Event:** Nick Saban: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Nick Saban nick saban: trending now story is actually a money story — the other side of the fight
+> What the Nick Saban nick saban: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 2.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tim Tebow — 18/100
+### Nick Saban's — 20/100
 
-**Event:** Tim Tebow: Life Surge Financial Courses Under Fire For Allegedly Charging Up to $50K
+**Event:** Nick Saban's: Where to watch Nick Saban's 'Saban' docuseries
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tim Tebow tim tebow: calls out arch manning criticism and 'pure chaos' in sec amid cfp bracket predictions filings actually say — line by line — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Josh Jacobs — 25/100
-
-**Event:** Josh Jacobs: news
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Jacobs josh jacobs: records show 3 other women accused packers' josh jacobs of abuse after arrest filings actually say — line by line — what happens next
+> What the Nick Saban's nick saban's: on nick saban’s 75th birthday, here are 15 dominant wins that proved he’s the goat filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: news
 
 **Status:** ARCHIVED
 

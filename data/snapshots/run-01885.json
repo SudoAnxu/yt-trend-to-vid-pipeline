@@ -1,0 +1,23 @@
+{
+  "runNo": 1885,
+  "at": "2026-10-31T13:47:32.240Z",
+  "rows": [
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-saban-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
