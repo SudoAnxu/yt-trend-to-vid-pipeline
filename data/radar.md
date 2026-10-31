@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1865 · Updated: 31/10/2026, 06:27:15 (Asia/Kolkata)
+Run #1866 · Updated: 31/10/2026, 06:55:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Nathan Fielder — 17/100
-
-**Event:** Nathan Fielder: ‘You Can See Everything’ Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates H
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Nathan Fielder story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
