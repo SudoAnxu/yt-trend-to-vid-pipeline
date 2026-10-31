@@ -1,0 +1,30 @@
+{
+  "runNo": 1910,
+  "at": "2026-10-31T23:10:44.278Z",
+  "rows": [
+    {
+      "event": "story-jim-hiller",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-john-wick",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-diego-state",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
