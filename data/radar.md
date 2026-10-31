@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1908 · Updated: 01/11/2026, 03:29:04 (Asia/Kolkata)
+Run #1909 · Updated: 01/11/2026, 04:07:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### James Bond — 15/100
+### Lewis Hamilton — 17/100
 
-**Event:** James Bond: jack lowden james bond
+**Event:** Lewis Hamilton: Kim Kardashian Shares Photo of Steamy Kiss with Lewis Hamilton Under the Eiffel Tower
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The James Bond story is a proxy fight about something bigger — the other side of the fight
+> What the Lewis Hamilton lewis hamilton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jack Lowden — 18/100
+### Charles Leclerc — 14/100
 
-**Event:** Jack Lowden: james bond
+**Event:** Charles Leclerc: US Grand Prix: Charles Leclerc sets Austin practice pace from Max Verstappen
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jack Lowden jack lowden: profile: jack lowden filings actually say — line by line — the other side of the fight
+> What the Charles Leclerc charles leclerc: dominates second practice from lando norris at mexico city grand prix filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
-
-### Stephen Graham — 19/100
-
-**Event:** Stephen Graham: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Stephen Graham stephen graham: credits wife hannah for helping him get into the mind of a serial killer in nocturne (exclusive) filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** BOOSTED
 
 
 </details>

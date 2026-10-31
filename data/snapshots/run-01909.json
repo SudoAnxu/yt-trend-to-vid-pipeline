@@ -1,0 +1,23 @@
+{
+  "runNo": 1909,
+  "at": "2026-10-31T22:37:50.201Z",
+  "rows": [
+    {
+      "event": "story-lewis-hamilton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-charles-leclerc",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
