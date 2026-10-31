@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1894 · Updated: 31/10/2026, 21:59:34 (Asia/Kolkata)
+Run #1895 · Updated: 31/10/2026, 22:49:07 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,25 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Todd Chrisley — 23/100
-
-**Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Todd Chrisley todd chrisley: recalls becoming an escort at 18 after working at cheesecake factory: ‘i’m laying up getting my rent paid’ story is actually a money story — the number behind the headline
-
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Alexander Zverev — 20/100
+### Alexander Zverev — 30/100
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 33 (+20 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,6 +29,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Alexander Zverev's — 19/100
+
+**Event:** Alexander Zverev's: first No. 1 ranking to be confirmed Monday with win in Vienna
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Alexander Zverev's alexander zverev's: first no. 1 ranking to be confirmed monday with win in vienna filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

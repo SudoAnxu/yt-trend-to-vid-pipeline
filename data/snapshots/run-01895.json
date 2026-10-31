@@ -1,0 +1,23 @@
+{
+  "runNo": 1895,
+  "at": "2026-10-31T17:19:06.717Z",
+  "rows": [
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-zverev-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
