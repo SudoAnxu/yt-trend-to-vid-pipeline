@@ -1,0 +1,65 @@
+{
+  "runNo": 1872,
+  "at": "2026-10-31T06:46:10.030Z",
+  "rows": [
+    {
+      "event": "story-mia-pohankova",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-hanks",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-mayer",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-xavier-becerra",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-hilton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-garcia",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-oscar-de",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-floyd-mayweather",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
