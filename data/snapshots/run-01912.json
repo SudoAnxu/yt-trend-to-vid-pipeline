@@ -1,0 +1,37 @@
+{
+  "runNo": 1912,
+  "at": "2026-10-31T23:59:52.882Z",
+  "rows": [
+    {
+      "event": "story-jon-husted",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-colin-cowherd",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-colin-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-dennis-schroder",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
