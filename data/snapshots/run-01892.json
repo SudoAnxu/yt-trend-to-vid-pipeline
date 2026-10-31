@@ -1,0 +1,23 @@
+{
+  "runNo": 1892,
+  "at": "2026-10-31T15:57:52.698Z",
+  "rows": [
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-castellanos",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
