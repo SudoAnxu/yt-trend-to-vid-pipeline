@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1892 · Updated: 31/10/2026, 21:27:53 (Asia/Kolkata)
+Run #1893 · Updated: 31/10/2026, 21:43:05 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,7 +16,7 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Josh Jacobs — 19/100
+### Josh Jacobs — 18/100
 
 **Event:** Josh Jacobs: news
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Thomas Castellanos — 21/100
+### Thomas Castellanos — 24/100
 
 **Event:** Thomas Castellanos: Texas Tech football to start Thomas Castellanos at QB against Arizona
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Thomas Castellanos thomas castellanos: texas tech football to start thomas castellanos at qb against arizona story is actually a money story — the other side of the fight
+> What the Thomas Castellanos thomas castellanos: texas tech making change at qb as thomas castellanos gets nod over will hammond vs. arizona filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
 
 **Status:** RESEARCH
 
