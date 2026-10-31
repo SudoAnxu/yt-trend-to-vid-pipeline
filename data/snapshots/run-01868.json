@@ -1,0 +1,30 @@
+{
+  "runNo": 1868,
+  "at": "2026-10-31T02:00:58.955Z",
+  "rows": [
+    {
+      "event": "story-michael-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-clarkson",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-davis",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
