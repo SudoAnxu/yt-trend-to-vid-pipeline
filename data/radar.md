@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1953 · Updated: 02/11/2026, 02:48:50 (Asia/Kolkata)
+Run #1954 · Updated: 02/11/2026, 03:12:59 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Joe Burrow — 15/100
-
-**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joe Burrow joe burrow: is one four-td, no-int game away from elite club filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Mike Gesicki — 23/100
-
-**Event:** Mike Gesicki: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 34 (+22 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Mike Gesicki story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Michael Wilson — 18/100
+### Michael Wilson — 25/100
 
 **Event:** Michael Wilson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 30 (+16 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Michael Wilson story is a proxy fight about something bigger — the other side of the fight
+> What the Michael Wilson michael wilson: injury update: latest news on cardinals wr's status in week 8 game filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
-**Status:** KEPT
+**Status:** BOOSTED
+
+### Jonathan Taylor — 15/100
+
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jonathan Taylor jonathan taylor: keeler: broncos saving j.k. dobbins for later isn’t worth more than getting jonathan taylor now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Amanda Seyfried — 16/100
+
+**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
+
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Amanda Seyfried amanda seyfried: explains turning down ‘guardians of the galaxy’ for family: “just not for me” story is actually a money story — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 8h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
