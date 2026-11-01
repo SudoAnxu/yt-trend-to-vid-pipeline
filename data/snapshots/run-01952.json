@@ -1,0 +1,16 @@
+{
+  "runNo": 1952,
+  "at": "2026-11-01T21:03:45.882Z",
+  "rows": [
+    {
+      "event": "story-jordan-addison",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
