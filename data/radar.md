@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1928 · Updated: 01/11/2026, 17:09:52 (Asia/Kolkata)
+Run #1929 · Updated: 01/11/2026, 17:28:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Costco Reveals Its — 19/100
+### Joe Burrow — 13/100
 
-**Event:** Costco Reveals Its: Full Black Friday Ad and Sale Dates for 2026, Discounts Include Frozen Food and Gaming PCs
+**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Costco Reveals Its costco reveals its: full black friday ad and sale dates for 2026, discounts include frozen food and gaming pcs filings actually say — line by line — the other side of the fight
+> The Joe Burrow story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

@@ -1,0 +1,16 @@
+{
+  "runNo": 1929,
+  "at": "2026-11-01T11:58:57.845Z",
+  "rows": [
+    {
+      "event": "story-joe-burrow",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
