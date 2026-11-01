@@ -1,0 +1,30 @@
+{
+  "runNo": 1918,
+  "at": "2026-11-01T04:35:30.994Z",
+  "rows": [
+    {
+      "event": "story-sam-nivola",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-john-mulaney-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-john-mulaney",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
