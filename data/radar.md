@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1922 · Updated: 01/11/2026, 14:01:03 (Asia/Kolkata)
+Run #1923 · Updated: 01/11/2026, 15:04:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Travis Kelce — 17/100
+### Kate Middleton — 17/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-7 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: taylor swift and travis kelce face growing backlash over plans for ohio home filings actually say — line by line — the other side of the fight
+> What the Kate Middleton kate middleton: prince william and kate middleton share rare halloween photo of prince louis filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Max Verstappen — 17/100
+### Louis Looks — 19/100
 
-**Event:** Max Verstappen: pips George Russell in closing stages of Azerbaijan GP final practice
+**Event:** Louis Looks: Prince Louis Looks More Grown Up Than Ever in a New Photo Shared by Mom Princess Kate
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-19 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Max Verstappen max verstappen: slams liam lawson for fp2 clash at f1 mexico gp story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Josh Allen — 14/100
-
-**Event:** Josh Allen: injury
-
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Allen josh allen: 5 keys to a ravens victory over josh allen, bills in week 8 filings actually say — line by line — the other side of the fight
+> What the Louis Looks louis looks: prince louis looks so adorable in this never-before-seen halloween throwback filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
