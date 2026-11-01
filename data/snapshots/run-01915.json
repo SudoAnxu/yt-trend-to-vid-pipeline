@@ -1,0 +1,23 @@
+{
+  "runNo": 1915,
+  "at": "2026-11-01T01:22:16.331Z",
+  "rows": [
+    {
+      "event": "story-marcus-smart",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-angel-reese-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

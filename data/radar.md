@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1914 · Updated: 01/11/2026, 06:10:29 (Asia/Kolkata)
+Run #1915 · Updated: 01/11/2026, 06:52:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,63 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Ted Cruz — 11/100
+### Marcus Smart — 22/100
 
-**Event:** Ted Cruz: trending now
+**Event:** Marcus Smart: Rockets' Marcus Smart gets real on reason why Lakers moved on from him after productive season
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-24 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ted Cruz ted cruz: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Angel Reese — 22/100
-
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
-
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
+> What the Marcus Smart marcus smart: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Luke Fahey — 29/100
-
-**Event:** Luke Fahey: Who is Luke Fahey? Meet the 3-star freshman Ohio State’s CFP hopes could be riding on - The Athletic
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Luke Fahey story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Brandon Miller — 14/100
+### Angel Reese's — 18/100
 
-**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
+**Event:** Angel Reese's: NY Liberty Star Sends Clear Warning After Angel Reese's Blunt Postgame Take On Latest Win
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Brandon Miller brandon miller: trending now filings actually say — line by line — the other side of the fight
+> The Angel Reese's angel reese's: “even in games two or three that we have won, we haven’t been playing the best”: angel reese’s teammate raises story is actually a money story — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
 
