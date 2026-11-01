@@ -1,0 +1,65 @@
+{
+  "runNo": 1959,
+  "at": "2026-11-01T23:43:07.171Z",
+  "rows": [
+    {
+      "event": "story-russell-wilson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean-payton",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-altman",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-donald",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-strahan",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeff-hafley",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "unknown"
+    },
+    {
+      "event": "story-justin-tucker",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
