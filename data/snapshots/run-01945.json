@@ -1,0 +1,16 @@
+{
+  "runNo": 1945,
+  "at": "2026-11-01T18:30:19.544Z",
+  "rows": [
+    {
+      "event": "story-jim-kelly",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

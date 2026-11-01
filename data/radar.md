@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1944 · Updated: 01/11/2026, 23:44:49 (Asia/Kolkata)
+Run #1945 · Updated: 02/11/2026, 00:00:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(37)
 
 <details><summary>show</summary>
 
-### Aaron Jones — 18/100
+### Jim Kelly — 17/100
 
-**Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
+**Event:** Jim Kelly: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Aaron Jones aaron jones: trending now filings actually say — line by line — the other side of the fight
+> What the Jim Kelly jim kelly: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
