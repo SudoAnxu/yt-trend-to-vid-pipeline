@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1934 · Updated: 01/11/2026, 20:17:51 (Asia/Kolkata)
+Run #1935 · Updated: 01/11/2026, 20:54:45 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Tracy Morgan — 25/100
+### Justin Boone's — 21/100
 
-**Event:** Tracy Morgan: trending now
+**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Tracy Morgan tracy morgan: trending now filings actually say — line by line — the other side of the fight
+> The Justin Boone's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** ARCHIVED
+
+### Sam Darnold — 15/100
+
+**Event:** Sam Darnold: seahawks sam darnold
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Sam Darnold story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** KEPT
+
+### Jimmy Movie — 17/100
+
+**Event:** Jimmy Movie: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jimmy Movie story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends
 
 **Status:** RESEARCH
 
-### Michael Mann — 21/100
+### Jimmy Stewart — 17/100
 
-**Event:** Michael Mann: trending now
+**Event:** Jimmy Stewart: New Jimmy Stewart WWII Biopic Officially Sets Early Release Date in Select Theaters
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Michael Mann filing that will matter in six months — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 14h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Spencer Lee — 16/100
-
-**Event:** Spencer Lee: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Spencer Lee spencer lee: trending now story is actually a money story — the other side of the fight
+> The Jimmy Stewart jimmy stewart: new jimmy stewart wwii biopic officially sets early release date in select theaters story is actually a money story — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
