@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1937 · Updated: 01/11/2026, 21:40:35 (Asia/Kolkata)
+Run #1938 · Updated: 01/11/2026, 22:08:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Will Face — 18/100
+### Brandon Ingram — 19/100
 
-**Event:** Will Face: ‘GTA 6’ Will Face Something It Couldn’t Have Prepared For At Launch
+**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will Face will face: u.s u-17 women's national team downs spain, 2-1, in round of 16 at 2026 fifa u-17 women's world cup and will f story is actually a money story — the other side of the fight
+> What the Brandon Ingram brandon ingram: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Josh Shapiro — 23/100
+
+**Event:** Josh Shapiro: Full Interview: Pennsylvania's Josh Shapiro
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Shapiro josh shapiro: full interview: pennsylvania's josh shapiro story is actually a money story — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
