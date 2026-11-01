@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1930 · Updated: 01/11/2026, 18:26:48 (Asia/Kolkata)
+Run #1931 · Updated: 01/11/2026, 19:11:44 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,23 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Kyle Whittingham — 22/100
+### Patrick Stewart — 15/100
 
-**Event:** Kyle Whittingham: trending now
+**Event:** Patrick Stewart: , ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kyle Whittingham kyle whittingham: “most passionless head coach at michigan ever”: fans sick of kyle whittingham after comments about upcoming mi filings actually say — line by line — the other side of the fight
+> The Patrick Stewart story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Carlos Alcaraz — 19/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Carlos Alcaraz carlos alcaraz: @#)𝘏𝘌𝘙𝘌'𝘚!!(* 𝘞𝘈𝘠 𝘛𝘖 𝘞𝘈𝘛𝘊𝘏 carlos alcaraz vs alex de minaur live free tv! 1 november 2026 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Joe Brady — 19/100
+
+**Event:** Joe Brady: Bills' Joe Brady has empathetic ear in Rams' Sean McVay, who also got his coaching start in his 30s
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Joe Brady joe brady: we know we’re going to get the best version of lamar jackson filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
