@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1913 · Updated: 01/11/2026, 05:48:15 (Asia/Kolkata)
+Run #1914 · Updated: 01/11/2026, 06:10:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,35 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Lee Curtis — 18/100
+### Ted Cruz — 11/100
 
-**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
+**Event:** Ted Cruz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-24 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Lee Curtis lee curtis: jamie lee curtis story is actually a money story — the other side of the fight
+> What the Ted Cruz ted cruz: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jimmy Fallon — 13/100
+### Angel Reese — 22/100
 
-**Event:** Jimmy Fallon: Late-night host Jimmy Fallon releasing 2 baseball children's books
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 20 (+5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jimmy Fallon jimmy fallon: and jamie lee curtis’ shot-for-shot remake of ‘you can see everything’ needs an emmy, fans say filings actually say — line by line — the other side of the fight
+> The Angel Reese story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Luke Fahey — 29/100
+
+**Event:** Luke Fahey: Who is Luke Fahey? Meet the 3-star freshman Ohio State’s CFP hopes could be riding on - The Athletic
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Luke Fahey story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** RESEARCH
+
+### Brandon Miller — 14/100
+
+**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Brandon Miller brandon miller: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** ARCHIVED
 
