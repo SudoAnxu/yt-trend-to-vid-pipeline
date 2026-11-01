@@ -1,0 +1,16 @@
+{
+  "runNo": 1930,
+  "at": "2026-11-01T12:56:48.617Z",
+  "rows": [
+    {
+      "event": "story-kyle-whittingham",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
