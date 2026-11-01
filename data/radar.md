@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1912 · Updated: 01/11/2026, 05:29:53 (Asia/Kolkata)
+Run #1913 · Updated: 01/11/2026, 05:48:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jon Husted — 22/100
+### Lee Curtis — 18/100
 
-**Event:** Jon Husted: Trump campaigns for Ohio Sen Jon Husted amid midterm push
+**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jon Husted jon husted: vs. sherrod brown ohio race may come down to third-party voters filings actually say — line by line — the other side of the fight
+> The Lee Curtis lee curtis: jamie lee curtis story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 13 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Colin Cowherd — 18/100
+### Jimmy Fallon — 13/100
 
-**Event:** Colin Cowherd: Watch Urban Meyer explains why Ohio State is the best team in the Big Ten - The Herd with Colin Cowherd
+**Event:** Jimmy Fallon: Late-night host Jimmy Fallon releasing 2 baseball children's books
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Colin Cowherd colin cowherd: sounds off on lincoln riley’s main issue as usc's head coach story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Colin Simmons — 19/100
-
-**Event:** Colin Simmons: gets penalty for 'simulating using restroom' vs Tennessee football
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-17 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Colin Simmons colin simmons: texas edge colin simmons ruled out vs. mississippi state filings actually say — line by line — the other side of the fight
+> What the Jimmy Fallon jimmy fallon: and jamie lee curtis’ shot-for-shot remake of ‘you can see everything’ needs an emmy, fans say filings actually say — line by line — the other side of the fight
 
-**Competition:** 16 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
-
-### Dennis Schroder — 25/100
-
-**Event:** Dennis Schroder: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Dennis Schroder dennis schroder: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
