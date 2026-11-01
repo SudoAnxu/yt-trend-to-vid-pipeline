@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1926 · Updated: 01/11/2026, 16:23:52 (Asia/Kolkata)
+Run #1927 · Updated: 01/11/2026, 16:57:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Patrick Kane — 21/100
+### Costco Reveals Its — 19/100
 
-**Event:** Patrick Kane: trending now
+**Event:** Costco Reveals Its: Full Black Friday Ad and Sale Dates for 2026, Discounts Include Frozen Food and Gaming PCs
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Patrick Kane patrick kane: trending now filings actually say — line by line — the other side of the fight
+> What the Costco Reveals Its costco reveals its: full black friday ad and sale dates for 2026, discounts include frozen food and gaming pcs filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
