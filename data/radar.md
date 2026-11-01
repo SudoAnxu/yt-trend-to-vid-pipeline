@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1918 · Updated: 01/11/2026, 10:05:31 (Asia/Kolkata)
+Run #1919 · Updated: 01/11/2026, 11:59:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Sam Nivola — 24/100
+### Bradley Cooper — 20/100
 
-**Event:** Sam Nivola: , Nico Parker & Paul Giamatti To Star In 'Grandgear' Movie
+**Event:** Bradley Cooper: To Star As Duke In Paramount’s New ‘G.I. Joe’ Movie From Director Danny McBride
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 34 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Sam Nivola story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### John Mulaney's — 22/100
-
-**Event:** John Mulaney's: ‘SNL’ Sets John Mulaney’s Seventh Time Hosting With Phoebe Bridgers as Musical Guest, Plus Druski and the Stro
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Mulaney's john mulaney's: ‘snl’ sets john mulaney’s seventh time hosting with phoebe bridgers as musical guest, plus druski and the stro filings actually say — line by line — the other side of the fight
+> The Bradley Cooper story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### John Mulaney — 18/100
-
-**Event:** John Mulaney: Druski, Inde Navarrette & John Mulaney Set As ‘SNL’ Hosts For Season 52
-
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Mulaney john mulaney: renewals, cancellations, and snl hosts: 'carrie,' john mulaney, and 'american horror story' filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Jennifer Lawrence — 18/100
+
+**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+1 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jennifer Lawrence story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jose Aldo — 31/100
+
+**Event:** Jose Aldo: reveals real reason why he ‘cried a lot’ after Conor McGregor loss
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jose Aldo story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

@@ -1,0 +1,30 @@
+{
+  "runNo": 1919,
+  "at": "2026-11-01T06:29:18.403Z",
+  "rows": [
+    {
+      "event": "story-bradley-cooper",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-jose-aldo",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
