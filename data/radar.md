@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1957 · Updated: 02/11/2026, 04:26:16 (Asia/Kolkata)
+Run #1958 · Updated: 02/11/2026, 04:55:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,59 +16,59 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Matthew Stafford — 18/100
+### Aaron Donald — 22/100
 
-**Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
+**Event:** Aaron Donald: Giants vs. Rams score, live updates: Puka Nacua out, while Aaron Donald makes his return on Monday Night Footb
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Matthew Stafford matthew stafford: highlights: rams wr tutu atwell catches a 40-yard deep ball from qb matthew stafford vs. the chargers filings actually say — line by line — the other side of the fight
+> The Aaron Donald aaron donald: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### William Byron — 16/100
+### Michael Strahan — 18/100
 
-**Event:** William Byron: trending now
+**Event:** Michael Strahan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-15 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the William Byron william byron: trending now filings actually say — line by line — the other side of the fight
+> The Michael Strahan story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 21 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jeff Hafley — 24/100
+
+**Event:** Jeff Hafley: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jeff Hafley jeff hafley: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Kyle Larson — 15/100
+### Joe Rogan — 19/100
 
-**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
+**Event:** Joe Rogan: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kyle Larson kyle larson: closes in on nascar championship as hendrick teammate william byron wins at martinsville filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Eric Bieniemy — 25/100
-
-**Event:** Eric Bieniemy: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Eric Bieniemy story is a proxy fight about something bigger — the other side of the fight
+> What the Joe Rogan joe rogan: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
