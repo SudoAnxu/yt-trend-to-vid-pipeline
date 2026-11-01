@@ -1,0 +1,23 @@
+{
+  "runNo": 1941,
+  "at": "2026-11-01T17:11:56.835Z",
+  "rows": [
+    {
+      "event": "story-kai-havertz",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-doocy",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
