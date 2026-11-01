@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1931 · Updated: 01/11/2026, 19:11:44 (Asia/Kolkata)
+Run #1932 · Updated: 01/11/2026, 19:27:16 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Patrick Stewart: , ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Carlos Alcaraz — 19/100
+### Alexander Zverev — 15/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: @#)𝘏𝘌𝘙𝘌'𝘚!!(* 𝘞𝘈𝘠 𝘛𝘖 𝘞𝘈𝘛𝘊𝘏 carlos alcaraz vs alex de minaur live free tv! 1 november 2026 filings actually say — line by line — the other side of the fight
+> What the Alexander Zverev alexander zverev: upset in erste bank open semifinals filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Joe Brady: Bills' Joe Brady has empathetic ear in Rams' Sean McVay, who also got his coaching start in his 30s
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 

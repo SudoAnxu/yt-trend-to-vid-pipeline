@@ -1,0 +1,30 @@
+{
+  "runNo": 1932,
+  "at": "2026-11-01T13:57:16.273Z",
+  "rows": [
+    {
+      "event": "story-patrick-stewart",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-brady",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
