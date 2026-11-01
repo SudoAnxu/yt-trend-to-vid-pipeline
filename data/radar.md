@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1925 · Updated: 01/11/2026, 16:15:24 (Asia/Kolkata)
+Run #1926 · Updated: 01/11/2026, 16:23:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Patrick Kane — 22/100
+### Patrick Kane — 21/100
 
 **Event:** Patrick Kane: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Patrick Kane patrick kane: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 

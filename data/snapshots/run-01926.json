@@ -1,0 +1,16 @@
+{
+  "runNo": 1926,
+  "at": "2026-11-01T10:53:52.435Z",
+  "rows": [
+    {
+      "event": "story-patrick-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
