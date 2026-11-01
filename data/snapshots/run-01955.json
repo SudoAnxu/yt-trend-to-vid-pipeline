@@ -1,0 +1,72 @@
+{
+  "runNo": 1955,
+  "at": "2026-11-01T22:16:37.187Z",
+  "rows": [
+    {
+      "event": "story-malik-willis",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-vrabel",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-spagnuolo",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-always",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-ashley-hinson",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-turek",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-diego-wave",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
