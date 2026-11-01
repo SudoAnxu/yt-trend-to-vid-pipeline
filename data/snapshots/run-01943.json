@@ -1,0 +1,51 @@
+{
+  "runNo": 1943,
+  "at": "2026-11-01T18:01:10.427Z",
+  "rows": [
+    {
+      "event": "story-michael-strahan",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-philip-rivers",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-murphy",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-warren-buffett-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean-payton",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-spagnuolo",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
