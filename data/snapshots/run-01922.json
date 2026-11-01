@@ -1,0 +1,30 @@
+{
+  "runNo": 1922,
+  "at": "2026-11-01T08:31:02.471Z",
+  "rows": [
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-max-verstappen",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
