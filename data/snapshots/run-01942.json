@@ -1,0 +1,30 @@
+{
+  "runNo": 1942,
+  "at": "2026-11-01T17:23:35.721Z",
+  "rows": [
+    {
+      "event": "story-mike-rogers-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-megan-rapinoe",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-peter-doocy",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1941 · Updated: 01/11/2026, 22:41:57 (Asia/Kolkata)
+Run #1942 · Updated: 01/11/2026, 22:53:36 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,29 +12,43 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Kai Havertz — 26/100
+### Mike Rogers' — 18/100
 
-**Event:** Kai Havertz: trending now
+**Event:** Mike Rogers': Haley Stevens appears at Detroit church with Mike Rogers
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Kai Havertz kai havertz: trending now story is actually a money story — the other side of the fight
+> The Mike Rogers' mike rogers': haley stevens appears at detroit church with mike rogers story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
-### Peter Doocy — 27/100
+### Megan Rapinoe — 19/100
+
+**Event:** Megan Rapinoe: ‘Nothing better to do’: Megan Rapinoe rips ‘grifting’ Enes Kanter Freedom and Royce White
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Megan Rapinoe megan rapinoe: ‘nothing better to do’: megan rapinoe rips ‘grifting’ enes kanter freedom and royce white filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Peter Doocy — 22/100
 
 **Event:** Peter Doocy: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
