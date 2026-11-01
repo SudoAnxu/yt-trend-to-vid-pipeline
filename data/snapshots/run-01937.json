@@ -1,0 +1,16 @@
+{
+  "runNo": 1937,
+  "at": "2026-11-01T16:10:35.362Z",
+  "rows": [
+    {
+      "event": "story-will-face",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
