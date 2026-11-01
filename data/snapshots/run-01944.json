@@ -1,0 +1,16 @@
+{
+  "runNo": 1944,
+  "at": "2026-11-01T18:14:48.606Z",
+  "rows": [
+    {
+      "event": "story-aaron-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
