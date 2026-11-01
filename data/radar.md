@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1927 · Updated: 01/11/2026, 16:57:13 (Asia/Kolkata)
+Run #1928 · Updated: 01/11/2026, 17:09:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(39)
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Costco Reveals Its: Full Black Friday Ad and Sale Dates for 2026, Discounts Include Frozen Food and Gaming PCs
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 

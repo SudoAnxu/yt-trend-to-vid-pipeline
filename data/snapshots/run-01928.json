@@ -1,0 +1,16 @@
+{
+  "runNo": 1928,
+  "at": "2026-11-01T11:39:52.446Z",
+  "rows": [
+    {
+      "event": "story-costco-reveals-its",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
