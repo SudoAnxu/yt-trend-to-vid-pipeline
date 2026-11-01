@@ -1,0 +1,58 @@
+{
+  "runNo": 1950,
+  "at": "2026-11-01T19:58:35.104Z",
+  "rows": [
+    {
+      "event": "story-stephen-graham",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-ovechkin",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-fornelli-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-endries",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-burrow",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-sabean",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

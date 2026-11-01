@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1949 · Updated: 02/11/2026, 01:21:26 (Asia/Kolkata)
+Run #1950 · Updated: 02/11/2026, 01:28:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,33 +12,103 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
+
+### Stephen Graham — 18/100
+
+**Event:** Stephen Graham: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Stephen Graham stephen graham: apple tv's new serial killer thriller turns stephen graham into a monster in behind-the-scenes look story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** KEPT
+
+### Alex Ovechkin — 15/100
+
+**Event:** Alex Ovechkin: Washington Capitals star Alex Ovechkin announces this will be his last NHL season
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alex Ovechkin alex ovechkin: live: wild take on capitals and alex ovechkin as his farewell tour continues filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Tom Fornelli's — 23/100
+
+**Event:** Tom Fornelli's: CFP Vibe Check: Good night, Oregon -- your dream season never had a chance
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Tom Fornelli's tom fornelli's: cfp vibe check: ohio state switches to survival mode in fight to make college football playoff filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Josh Allen — 15/100
+
+**Event:** Josh Allen: injury
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Josh Allen josh allen: a shootout in orchard park is the expert consensus, and josh allen wins it over lamar jackson filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jack Endries — 19/100
+
+**Event:** Jack Endries: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jack Endries jack endries: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Joe Burrow — 14/100
 
 **Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Joe Burrow joe burrow: 'two huge losses for us.' joe burrow addresses bengals' te injuries filings actually say — line by line — the other side of the fight
+> The Joe Burrow story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Patrick Queen — 19/100
+### Brian Sabean — 24/100
 
-**Event:** Patrick Queen: Steelers received trade calls on LB Patrick Queen
+**Event:** Brian Sabean: Yankees not renewing contracts for advisors and ex-GMs Omar Minaya, Brian Sabean
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 6 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Patrick Queen patrick queen: steelers received trade calls on lb patrick queen filings actually say — line by line — the other side of the fight
+> What the Brian Sabean brian sabean: yankees not renewing contracts for advisors and ex-gms omar minaya, brian sabean filings actually say — line by line — the number behind the headline
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
