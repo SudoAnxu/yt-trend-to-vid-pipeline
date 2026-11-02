@@ -1,0 +1,37 @@
+{
+  "runNo": 1984,
+  "at": "2026-11-02T18:53:41.703Z",
+  "rows": [
+    {
+      "event": "story-charles-iii",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-jose-state",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-schwimmer",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-altman",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
