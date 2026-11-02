@@ -1,0 +1,16 @@
+{
+  "runNo": 1973,
+  "at": "2026-11-02T11:36:58.963Z",
+  "rows": [
+    {
+      "event": "story-nate-silver",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
