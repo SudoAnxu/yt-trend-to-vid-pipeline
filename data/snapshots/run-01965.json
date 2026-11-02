@@ -1,0 +1,30 @@
+{
+  "runNo": 1965,
+  "at": "2026-11-02T02:41:00.505Z",
+  "rows": [
+    {
+      "event": "story-kyle-monangai",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-charles-bassey",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
