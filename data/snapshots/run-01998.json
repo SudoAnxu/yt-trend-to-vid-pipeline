@@ -1,0 +1,30 @@
+{
+  "runNo": 1998,
+  "at": "2026-11-02T23:15:53.064Z",
+  "rows": [
+    {
+      "event": "story-neil-patrick",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-tim-sweeney",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
