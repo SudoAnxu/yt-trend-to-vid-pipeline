@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1990 · Updated: 03/11/2026, 02:31:44 (Asia/Kolkata)
+Run #1991 · Updated: 03/11/2026, 03:21:29 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,93 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Jack Lowden — 24/100
+### Patrick Stewart — 21/100
 
-**Event:** Jack Lowden: james bond
+**Event:** Patrick Stewart: , ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-2 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+9 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jack Lowden jack lowden: says james bond speculation is 'flattering' filings actually say — line by line — the detail nobody has explained
+> The Patrick Stewart story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### James Bond — 19/100
+### Patrick Stewart's — 22/100
 
-**Event:** James Bond: jack lowden james bond
+**Event:** Patrick Stewart's: What Patrick Stewart’s ‘brief’ dementia journey reveals about lifespans after diagnosis
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+2 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the James Bond james bond: jack lowden says james bond speculation is 'flattering' filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Chiang Speaks Out — 22/100
-
-**Event:** Chiang Speaks Out: 'It Is Not the Whole Story' — Former Xbox COO Helen Chiang Speaks Out Following Shock Exit From Microsoft
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Chiang Speaks Out chiang speaks out: 'it is not the whole story' — former xbox coo helen chiang speaks out following shock exit from microsoft filings actually say — line by line — the part that was not supposed to be public
+> What the Patrick Stewart's patrick stewart's: what patrick stewart’s ‘brief’ dementia journey reveals about lifespans after diagnosis filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Alexander Bah — 19/100
+### Colin Kaepernick — 20/100
 
-**Event:** Alexander Bah: Em direto/ Benfica-Alverca. Matheus Mendes evita o golo de Alexander Bah (0-0, 5')
+**Event:** Colin Kaepernick: John Harbaugh gets another chance to consider Colin Kaepernick
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Alexander Bah alexander bah: em direto/ benfica-alverca. matheus mendes evita o golo de alexander bah (0-0, 5') filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Will Release — 21/100
-
-**Event:** Will Release: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 4 · risk 64 · external momentum 16 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will Release situation is weirder than the clips suggest — the other side of the fight
+> The Colin Kaepernick colin kaepernick: “i just wanted to kill colin kaepernick”: ex-49ers star doesn’t hold back about brutal hit that took him out a story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 14 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
-### Ryan Ottley — 20/100
+### Terry Bradshaw — 19/100
 
-**Event:** Ryan Ottley: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
+**Event:** Terry Bradshaw: NFL Legend Terry Bradshaw Gets Emotional Recalling How People Treated Him During His Depression Battle: ‘Peopl
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Ottley situation is weirder than the clips suggest — the other side of the fight
+> What the Terry Bradshaw terry bradshaw: “i’m standing because i choose to honor our flag”: terry bradshaw breaks silence on colin kaepernick’s protest filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Tyler Huntley — 14/100
+
+**Event:** Tyler Huntley: Ravens QB Lamar Jackson (ankle) out vs. Falcons; Tyler Huntley to start
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tyler Huntley tyler huntley: ravens sign free agent qb after lamar jackson, tyler huntley injuries filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
