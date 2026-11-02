@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1993 · Updated: 03/11/2026, 03:57:15 (Asia/Kolkata)
+Run #1994 · Updated: 03/11/2026, 04:03:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,25 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
+### Mike Lafleur — 17/100
+
+**Event:** Mike Lafleur: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Mike Lafleur mike lafleur: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
 ### Brian Schottenheimer — 17/100
 
 **Event:** Brian Schottenheimer: OK with Cowboys' players-only meeting panned by Mike Tomlin
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -29,20 +43,6 @@ Sources this run: trends(39)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** BOOSTED
-
-### Mario Morales — 17/100
-
-**Event:** Mario Morales: ice agent
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mario Morales mario morales: ice agent filings actually say — line by line — the other side of the fight
-
-**Competition:** 18 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>

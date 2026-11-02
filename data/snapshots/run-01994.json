@@ -1,0 +1,23 @@
+{
+  "runNo": 1994,
+  "at": "2026-11-02T22:33:26.350Z",
+  "rows": [
+    {
+      "event": "story-mike-lafleur",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-brian-schottenheimer",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
