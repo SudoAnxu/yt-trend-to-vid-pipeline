@@ -1,0 +1,44 @@
+{
+  "runNo": 1989,
+  "at": "2026-11-02T20:51:07.430Z",
+  "rows": [
+    {
+      "event": "story-jack-lowden",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-bond",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-chiang-speaks-out",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-release",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ryan-ottley",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

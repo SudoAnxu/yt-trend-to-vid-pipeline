@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1988 · Updated: 03/11/2026, 02:08:30 (Asia/Kolkata)
+Run #1989 · Updated: 03/11/2026, 02:21:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Jimmy Rolder — 27/100
+### Jack Lowden — 24/100
 
-**Event:** Jimmy Rolder: trending now
+**Event:** Jack Lowden: james bond
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+4 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jimmy Rolder jimmy rolder: trending now filings actually say — line by line — the other side of the fight
+> What the Jack Lowden jack lowden: says james bond speculation is 'flattering' filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### James Bond — 18/100
+
+**Event:** James Bond: jack lowden james bond
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-15 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the James Bond james bond: jack lowden says james bond speculation is 'flattering' filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Chiang Speaks Out — 22/100
+
+**Event:** Chiang Speaks Out: 'It Is Not the Whole Story' — Former Xbox COO Helen Chiang Speaks Out Following Shock Exit From Microsoft
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Chiang Speaks Out chiang speaks out: 'it is not the whole story' — former xbox coo helen chiang speaks out following shock exit from microsoft filings actually say — line by line — the part that was not supposed to be public
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
@@ -34,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Will Release: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 4 · risk 64 · external momentum 16 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Ryan Ottley: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
