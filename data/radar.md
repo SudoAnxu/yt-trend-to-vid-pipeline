@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1962 · Updated: 02/11/2026, 06:44:24 (Asia/Kolkata)
+Run #1963 · Updated: 02/11/2026, 07:13:18 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,37 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Travis Kelce — 16/100
+### Zach Charbonnet — 20/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Zach Charbonnet: injury update: Seahawks running back set to return to practice
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-14 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Travis Kelce story is a proxy fight about something bigger — the other side of the fight
+> The Zach Charbonnet zach charbonnet: week 8 fantasy football waiver wire debate: zach charbonnet vs. rachaad white story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 9.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Travis Kelce's — 18/100
+### Travis Kelce — 21/100
 
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
+**Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 1 source lane(s): news · momentum 10 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+11 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Kelce's travis kelce's: why taylor swift hasn’t been seen at travis kelce’s chiefs-seahawks game in seattle filings actually say — line by line — the detail nobody has explained
+> What the Travis Kelce travis kelce: will travis kelce play today? status update for chiefs te in week 8 filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 ### Justin Boone — 19/100
 
@@ -57,20 +57,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
-
-### Patrick Mahomes — 20/100
-
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Patrick Mahomes patrick mahomes: chiefs vs. broncos live updates, inactives, where to watch: rashee rice returns from hamstring injury as patri filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>

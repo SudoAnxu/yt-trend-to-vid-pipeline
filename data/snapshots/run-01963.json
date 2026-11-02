@@ -1,0 +1,30 @@
+{
+  "runNo": 1963,
+  "at": "2026-11-02T01:43:17.531Z",
+  "rows": [
+    {
+      "event": "story-zach-charbonnet",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-boone",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
