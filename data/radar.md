@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2000 · Updated: 03/11/2026, 05:20:19 (Asia/Kolkata)
+Run #2001 · Updated: 03/11/2026, 05:28:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Malone — 19/100
+### Stephen Curry — 15/100
 
-**Event:** Michael Malone: UNC-Western Carolina Preview: The Michael Malone Era Officially Begins
+**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Michael Malone michael malone: unc-western carolina preview: the michael malone era officially begins filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Joel Embiid — 16/100
-
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Joel Embiid joel embiid: with joel embiid questionable, sixers host bulls in one-game homestand filings actually say — line by line — the other side of the fight
+> What the Stephen Curry stephen curry: warriors get positive update on stephen curry ahead of suns match filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jose State — 21/100
+
+**Event:** Jose State: How to watch Wyoming vs San Jose State: Live stream NCAA College Football, TV channel
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-15 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jose State jose state: how to watch nebraska women’s basketball vs. san jose state with preview, breakdown, tv channel filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
 
 **Status:** ARCHIVED
 
