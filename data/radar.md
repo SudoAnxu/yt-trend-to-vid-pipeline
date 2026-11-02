@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1973 · Updated: 02/11/2026, 17:06:59 (Asia/Kolkata)
+Run #1974 · Updated: 02/11/2026, 17:19:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Nate Silver — 17/100
+### John Fetterman — 14/100
 
-**Event:** Nate Silver: trending now
+**Event:** John Fetterman: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Nate Silver nate silver: trending now filings actually say — line by line — the other side of the fight
+> The John Fetterman john fetterman: letters to the editor: john fetterman owes it to voters to remain in democratic party story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 21 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

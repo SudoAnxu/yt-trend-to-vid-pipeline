@@ -1,0 +1,16 @@
+{
+  "runNo": 1974,
+  "at": "2026-11-02T11:49:16.002Z",
+  "rows": [
+    {
+      "event": "story-john-fetterman",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
