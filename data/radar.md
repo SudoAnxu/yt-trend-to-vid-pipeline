@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1963 · Updated: 02/11/2026, 07:13:18 (Asia/Kolkata)
+Run #1964 · Updated: 02/11/2026, 07:36:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Zach Charbonnet — 20/100
+### Joe Milton — 17/100
 
-**Event:** Zach Charbonnet: injury update: Seahawks running back set to return to practice
+**Event:** Joe Milton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-14 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Zach Charbonnet zach charbonnet: week 8 fantasy football waiver wire debate: zach charbonnet vs. rachaad white story is actually a money story — the other side of the fight
+> What the Joe Milton joe milton: "we need to see joe milton" filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 9.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Travis Kelce — 21/100
+### Jordan Mailata — 20/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Jordan Mailata: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+11 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: will travis kelce play today? status update for chiefs te in week 8 filings actually say — line by line — the other side of the fight
+> The Jordan Mailata jordan mailata: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Austin Ekeler — 22/100
+
+**Event:** Austin Ekeler: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Austin Ekeler austin ekeler: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Justin Boone — 19/100
+### Jayden Daniels — 14/100
 
-**Event:** Justin Boone: Fantasy Football Rankings: Top running backs for Week 4 from Justin Boone
+**Event:** Jayden Daniels: What's next for Jayden Daniels, Commanders after elbow injury?
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Justin Boone justin boone: week 8 fantasy football te rankings from justin boone filings actually say — line by line — the other side of the fight
+> What the Jayden Daniels jayden daniels: backs commanders’ big plan for ‘decisive’ veteran filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>

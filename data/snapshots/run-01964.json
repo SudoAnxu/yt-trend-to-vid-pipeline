@@ -1,0 +1,37 @@
+{
+  "runNo": 1964,
+  "at": "2026-11-02T02:06:52.370Z",
+  "rows": [
+    {
+      "event": "story-joe-milton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-mailata",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "unknown"
+    },
+    {
+      "event": "story-austin-ekeler",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-jayden-daniels",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
