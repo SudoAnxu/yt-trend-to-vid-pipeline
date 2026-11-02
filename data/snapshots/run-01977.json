@@ -1,0 +1,23 @@
+{
+  "runNo": 1977,
+  "at": "2026-11-02T13:46:38.011Z",
+  "rows": [
+    {
+      "event": "story-john-malkovich",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-cramer",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
