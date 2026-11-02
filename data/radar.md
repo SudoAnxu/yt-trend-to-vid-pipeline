@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #1965 · Updated: 02/11/2026, 08:11:01 (Asia/Kolkata)
+Run #1966 · Updated: 02/11/2026, 10:08:20 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,63 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Kyle Monangai — 26/100
+### Josh Sweat — 24/100
 
-**Event:** Kyle Monangai: trending now
+**Event:** Josh Sweat: trade rumors: Cowboys among potential landing spots for Cardinals pass rusher
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-2 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kyle Monangai kyle monangai: bears vs. seahawks injury report: kyle monangai is out for chicago story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 8h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ben Johnson — 15/100
-
-**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ben Johnson ben johnson: bears hc ben johnson shares injury update on kyle monangai story is actually a money story — the other side of the fight
+> What the Josh Sweat josh sweat: trade rumors: cowboys among potential landing spots for cardinals pass rusher filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 17 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Sirianni — 18/100
+
+**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-17 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Nick Sirianni story is a proxy fight about something bigger — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.7h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Charles Bassey — 21/100
+### Nick Sirianni's — 19/100
 
-**Event:** Charles Bassey: trending now
+**Event:** Nick Sirianni's: Analyzing Nick Sirianni's job security as the Eagles' head coach
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Nick Sirianni's nick sirianni's: analyzing nick sirianni's job security as the eagles' head coach filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Reggie Dinkins' — 21/100
+
+**Event:** Reggie Dinkins': reggie dinkins
 
 **Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Charles Bassey story is a proxy fight about something bigger — the other side of the fight
+> What the Reggie Dinkins' reggie dinkins': reggie dinkins filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 

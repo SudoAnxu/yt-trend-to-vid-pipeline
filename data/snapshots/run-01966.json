@@ -1,0 +1,37 @@
+{
+  "runNo": 1966,
+  "at": "2026-11-02T04:38:20.295Z",
+  "rows": [
+    {
+      "event": "story-josh-sweat",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-sirianni",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-sirianni-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-reggie-dinkins-",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
