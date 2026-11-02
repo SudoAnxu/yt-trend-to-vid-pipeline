@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1989 · Updated: 03/11/2026, 02:21:08 (Asia/Kolkata)
+Run #1990 · Updated: 03/11/2026, 02:31:44 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jack Lowden: james bond
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+4 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-2 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### James Bond — 18/100
+### James Bond — 19/100
 
 **Event:** James Bond: jack lowden james bond
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-15 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+2 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Chiang Speaks Out: 'It Is Not the Whole Story' — Former Xbox COO Helen Chiang Speaks Out Following Shock Exit From Microsoft
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +58,25 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Will Release — 20/100
+### Alexander Bah — 19/100
+
+**Event:** Alexander Bah: Em direto/ Benfica-Alverca. Matheus Mendes evita o golo de Alexander Bah (0-0, 5')
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Alexander Bah alexander bah: em direto/ benfica-alverca. matheus mendes evita o golo de alexander bah (0-0, 5') filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Will Release — 21/100
 
 **Event:** Will Release: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 4 · risk 64 · external momentum 16 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 4 · risk 64 · external momentum 16 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -70,13 +84,13 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
-### Ryan Ottley — 21/100
+### Ryan Ottley — 20/100
 
 **Event:** Ryan Ottley: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
