@@ -1,0 +1,37 @@
+{
+  "runNo": 1960,
+  "at": "2026-11-02T00:31:02.400Z",
+  "rows": [
+    {
+      "event": "story-michael-penix",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-jill-wagner",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-christopher-meloni",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-eric-bieniemy",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
