@@ -1,0 +1,23 @@
+{
+  "runNo": 2000,
+  "at": "2026-11-02T23:50:19.696Z",
+  "rows": [
+    {
+      "event": "story-michael-malone",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-joel-embiid",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
