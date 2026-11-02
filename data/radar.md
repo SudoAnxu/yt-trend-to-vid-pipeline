@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #1978 · Updated: 02/11/2026, 20:44:28 (Asia/Kolkata)
+Run #1979 · Updated: 02/11/2026, 21:56:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Be — 20/100
+### Jessica Alba — 29/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Jessica Alba: deletes Halloween photos after bloody Nancy Kerrigan costume sparks backlash
 
-**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Will Be will be: prediction: this will be intel's stock price by year-end 2027 filings actually say — line by line — the other side of the fight
+> What the Jessica Alba jessica alba: deletes halloween photos after bloody nancy kerrigan costume sparks backlash filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** RESEARCH
 
 
 </details>

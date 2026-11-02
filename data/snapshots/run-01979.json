@@ -1,0 +1,16 @@
+{
+  "runNo": 1979,
+  "at": "2026-11-02T16:26:41.580Z",
+  "rows": [
+    {
+      "event": "story-jessica-alba",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
