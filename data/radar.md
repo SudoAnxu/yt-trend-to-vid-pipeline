@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #1977 · Updated: 02/11/2026, 19:16:38 (Asia/Kolkata)
+Run #1978 · Updated: 02/11/2026, 20:44:28 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### John Malkovich — 15/100
+### Will Be — 20/100
 
-**Event:** John Malkovich: trending now
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The John Malkovich john malkovich: "gma" guest list: lacey chabert, john malkovich, and more to appear week of november 2nd story is actually a money story — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jim Cramer — 23/100
-
-**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-10 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jim Cramer jim cramer: 'worrisome': jim cramer warns chip stocks have gone 'parabolic' — here are the defensive moves he's making now filings actually say — line by line — the part that was not supposed to be public
+> What the Will Be will be: prediction: this will be intel's stock price by year-end 2027 filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** BOOSTED
 
 
 </details>
