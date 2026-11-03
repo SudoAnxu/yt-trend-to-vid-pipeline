@@ -1,0 +1,16 @@
+{
+  "runNo": 2002,
+  "at": "2026-11-03T00:31:32.809Z",
+  "rows": [
+    {
+      "event": "story-michael-malone",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

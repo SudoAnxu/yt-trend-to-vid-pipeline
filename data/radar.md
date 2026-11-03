@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2001 · Updated: 03/11/2026, 05:28:39 (Asia/Kolkata)
+Run #2002 · Updated: 03/11/2026, 06:01:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Stephen Curry — 15/100
+### Michael Malone — 19/100
 
-**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
+**Event:** Michael Malone: UNC-Western Carolina Preview: The Michael Malone Era Officially Begins
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Stephen Curry stephen curry: warriors get positive update on stephen curry ahead of suns match filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jose State — 21/100
-
-**Event:** Jose State: How to watch Wyoming vs San Jose State: Live stream NCAA College Football, TV channel
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-15 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jose State jose state: how to watch nebraska women’s basketball vs. san jose state with preview, breakdown, tv channel filings actually say — line by line — the other side of the fight
+> What the Michael Malone michael malone: set for first official game as unc basketball's head coach filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
