@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2005 · Updated: 03/11/2026, 07:12:23 (Asia/Kolkata)
+Run #2006 · Updated: 03/11/2026, 07:35:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,105 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Ken Paxton — 18/100
-
-**Event:** Ken Paxton: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ken Paxton ken paxton: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### James Talarico — 15/100
-
-**Event:** James Talarico: ken paxton james talarico polls
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the James Talarico james talarico: watch live: james talarico and gina hinojosa speak to voters in austin filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kyle Monangai — 19/100
-
-**Event:** Kyle Monangai: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kyle Monangai kyle monangai: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Will Smith — 17/100
-
-**Event:** Will Smith: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Will Smith will smith: sharks buy-in: can will smith, macklin celebrini, and san jose respond vs. flames tonight? filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Neil Patrick — 14/100
-
-**Event:** Neil Patrick: Harris to Star in ‘Damn Yankees’ Revival on Broadway
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Neil Patrick story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Patrick Harris — 15/100
-
-**Event:** Patrick Harris: Neil Patrick Harris to Star in ‘Damn Yankees’ Revival on Broadway
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Patrick Harris story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ben Johnson — 15/100
+### Ben Johnson — 19/100
 
 **Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Johnson ben johnson: jeffery simmons is bears' all-in move. caleb williams and ben johnson make it worth the risk filings actually say — line by line — the other side of the fight
+> What the Ben Johnson ben johnson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 17 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### John Harbaugh — 22/100
+
+**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the John Harbaugh john harbaugh: giants’ john harbaugh laughs off criticism about calling titans owner on jeffery simmons - the athletic filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Amy Adams — 15/100
+
+**Event:** Amy Adams: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Amy Adams amy adams: john harbaugh admits calling amy adams strunk about jeffery simmons trade filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Aaron Paul — 16/100
+
+**Event:** Aaron Paul: 'Breaking Bad’ Star Aaron Paul Sells Historic L.A. Home for $7.5 Million—After Moving His Family to Paris
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Aaron Paul aaron paul: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
