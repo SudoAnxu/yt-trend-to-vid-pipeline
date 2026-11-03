@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2022 · Updated: 03/11/2026, 16:57:56 (Asia/Kolkata)
+Run #2023 · Updated: 03/11/2026, 17:44:38 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Alexandra Eala — 14/100
+### Eric Dane — 22/100
 
-**Event:** Alexandra Eala: trending now
+**Event:** Eric Dane: Reveals Why He Was Let Go From ‘Grey’s Anatomy’ in Posthumous Memoir
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
+> The Eric Dane eric dane: shares regrets, hopes for his teenage daughters in emotional letter story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Eric Dane's — 17/100
+
+**Event:** Eric Dane's: Eric Dane’s ‘Euphoria’ costar is narrating audiobook for his posthumous memoir
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Eric Dane's eric dane's: wife wants fans to see 'beyond mcsteamy' to the complicated person he was filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
 
-### Alex Eala — 22/100
+### John James — 13/100
 
-**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+**Event:** John James: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alex Eala alex eala: live: alex eala vs alycia parks – hong kong open round of 32 filings actually say — line by line — the other side of the fight
+> What the John James john james: jocelyn benson, john james face off to be michigan's next governor filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 15 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
