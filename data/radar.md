@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2010 · Updated: 03/11/2026, 08:47:20 (Asia/Kolkata)
+Run #2011 · Updated: 03/11/2026, 09:08:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,15 +12,71 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
+
+### Michael Penix — 22/100
+
+**Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Michael Penix michael penix: jr. throws his 3rd int of the 1st half story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### John Goodman — 20/100
+
+**Event:** John Goodman: , the co-star who carried four decades of other people’s films
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the John Goodman john goodman: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Malik Monk — 17/100
+
+**Event:** Malik Monk: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Malik Monk malik monk: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Jason Galanis — 28/100
+
+**Event:** Jason Galanis: Pregnant Savannah Chrisley Marries Jason Galanis in Secret Church Wedding in the Cayman Islands (Exclusive)
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jason Galanis jason galanis: pregnant savannah chrisley marries jason galanis in secret church wedding in the cayman islands (exclusive) filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 ### Jennifer Lawrence — 19/100
 
 **Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,33 +86,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Tyler Cameron — 23/100
+### Grace Paying — 21/100
 
-**Event:** Tyler Cameron: Exclusive | Dylan Efron reacts to Derek Hough's hilarious Tyler Cameron flub on 'DWTS' — and all the viral Tik
+**Event:** Grace Paying: See 7 Side-by-Side Photos of Mckenna Grace Paying Tribute to The Hunger Games on the Sunrise on the Reaping Pr
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 23 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tyler Cameron tyler cameron: reflects on 'dancing with the stars' elimination, why he walked off-camera filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 9 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Diego Pavia — 18/100
-
-**Event:** Diego Pavia: Is Trying To Find His Wife With New Career As A Viral Twitch Streamer
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Diego Pavia diego pavia: trending now filings actually say — line by line — the other side of the fight
+> What the Grace Paying grace paying: see 7 side-by-side photos of mckenna grace paying tribute to the hunger games on the sunrise on the reaping pr filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
