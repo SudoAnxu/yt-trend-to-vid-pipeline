@@ -1,0 +1,16 @@
+{
+  "runNo": 2020,
+  "at": "2026-11-03T10:16:18.745Z",
+  "rows": [
+    {
+      "event": "story-austin-weather",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
