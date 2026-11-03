@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2048 · Updated: 04/11/2026, 03:46:18 (Asia/Kolkata)
+Run #2049 · Updated: 04/11/2026, 03:56:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Greg Newsome — 20/100
+### Greg Newsome — 19/100
 
 **Event:** Greg Newsome: , Giants Reportedly Agree to Contract Extension, Full Details Revealed
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Greg Newsome greg newsome: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 

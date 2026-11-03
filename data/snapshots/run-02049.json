@@ -1,0 +1,16 @@
+{
+  "runNo": 2049,
+  "at": "2026-11-03T22:26:26.783Z",
+  "rows": [
+    {
+      "event": "story-greg-newsome",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
