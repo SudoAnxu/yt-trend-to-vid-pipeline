@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2043 · Updated: 04/11/2026, 02:03:25 (Asia/Kolkata)
+Run #2044 · Updated: 04/11/2026, 02:14:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Will Air — 18/100
+### Rafael Jodar — 27/100
 
-**Event:** Will Air: Is ‘NCIS’ on Tonight? Here’s When New Episodes Will Air Again
+**Event:** Rafael Jodar: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Will Air will air: is ‘ncis’ on tonight? here’s when new episodes will air again story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Brian Fari — 21/100
-
-**Event:** Brian Fari: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 26 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Brian Fari story is a proxy fight about something bigger — the other side of the fight
+> The Rafael Jodar story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Luis Enrique — 13/100
+
+**Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
+
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Luis Enrique luis enrique: les victoires contre city et le barça n'aideront pas le psg face à villarreal story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** KEPT
+
+### Carlos Alcaraz — 16/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Carlos Alcaraz carlos alcaraz: names the player who has surprised him most this season, ‘it’s unbelievable’ filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
