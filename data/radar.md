@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2039 · Updated: 04/11/2026, 01:11:53 (Asia/Kolkata)
+Run #2040 · Updated: 04/11/2026, 01:27:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -20,21 +20,21 @@ Sources this run: trends(40)
 
 **Event:** Josh Turek: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Josh Turek filing that will matter in six months — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ashley Hinson — 14/100
+### Ashley Hinson — 15/100
 
 **Event:** Ashley Hinson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
