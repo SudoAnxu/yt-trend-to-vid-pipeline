@@ -1,0 +1,16 @@
+{
+  "runNo": 2048,
+  "at": "2026-11-03T22:16:17.447Z",
+  "rows": [
+    {
+      "event": "story-greg-newsome",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
