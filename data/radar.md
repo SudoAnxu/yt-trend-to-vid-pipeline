@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2009 · Updated: 03/11/2026, 08:30:32 (Asia/Kolkata)
+Run #2010 · Updated: 03/11/2026, 08:47:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Connor Wood — 17/100
+### Jennifer Lawrence — 19/100
 
-**Event:** Connor Wood: dwts
+**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Connor Wood connor wood: dwts filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Will Win — 19/100
-
-**Event:** Will Win: Experts Predict: Who Will Win Laver Cup London 2026?
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Will Win will win: derek hough reveals who he thinks will win ‘dwts’ this season filings actually say — line by line — the other side of the fight
+> The Jennifer Lawrence story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Ben Johnson — 17/100
+### Tyler Cameron — 23/100
 
-**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+**Event:** Tyler Cameron: Exclusive | Dylan Efron reacts to Derek Hough's hilarious Tyler Cameron flub on 'DWTS' — and all the viral Tik
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 23 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Johnson ben johnson: sets hard line on jaylon johnson and trade talk filings actually say — line by line — the other side of the fight
+> What the Tyler Cameron tyler cameron: reflects on 'dancing with the stars' elimination, why he walked off-camera filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### David Remnick — 22/100
+### Diego Pavia — 18/100
 
-**Event:** David Remnick: trending now
+**Event:** Diego Pavia: Is Trying To Find His Wife With New Career As A Viral Twitch Streamer
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the David Remnick david remnick: trending now filings actually say — line by line — the other side of the fight
+> What the Diego Pavia diego pavia: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
