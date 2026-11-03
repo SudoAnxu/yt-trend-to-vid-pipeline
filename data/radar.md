@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2013 · Updated: 03/11/2026, 09:28:43 (Asia/Kolkata)
+Run #2014 · Updated: 03/11/2026, 10:59:42 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Ethan Klein — 11/100
+### Stephen Curry — 14/100
 
-**Event:** Ethan Klein: Is Trisha Paytas A Witch? From Ethan Klein To Charli D'Amelio, She Has A Knack For Predicting The Future
+**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ethan Klein ethan klein: hila klein filings actually say — line by line — the other side of the fight
+> What the Stephen Curry stephen curry: yaxel lendeborg scores 37 points, most by a warriors rookie since stephen curry filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Steve Buscemi — 23/100
+### Gavin Newsom — 12/100
 
-**Event:** Steve Buscemi: trending now
+**Event:** Gavin Newsom: backs measure to kill the billionaire tax and ban future wealth taxes
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Steve Buscemi steve buscemi: trending now filings actually say — line by line — the other side of the fight
+> What the Gavin Newsom gavin newsom: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### John Mulaney — 21/100
+
+**Event:** John Mulaney: Druski, Inde Navarrette & John Mulaney Set As ‘SNL’ Hosts For Season 52
+
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the John Mulaney john mulaney: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
