@@ -1,0 +1,23 @@
+{
+  "runNo": 2043,
+  "at": "2026-11-03T20:33:25.310Z",
+  "rows": [
+    {
+      "event": "story-will-air",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-brian-fari",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
