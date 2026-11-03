@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2003 · Updated: 03/11/2026, 06:40:35 (Asia/Kolkata)
+Run #2004 · Updated: 03/11/2026, 06:52:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Cody Rhodes — 16/100
+### Leonard Williams — 29/100
 
-**Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
+**Event:** Leonard Williams: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Cody Rhodes cody rhodes: trending now story is actually a money story — the other side of the fight
+> The Leonard Williams filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Tom Jones — 20/100
+
+**Event:** Tom Jones: Sir Tom Jones 'truly sorry' as he cancels two shows due to illness
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-6 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tom Jones tom jones: cate mchugh wins the voice uk after being mentored by sir tom jones filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Ashley Moody — 14/100
+
+**Event:** Ashley Moody: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-30 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Ashley Moody filing that will matter in six months — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 14.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
