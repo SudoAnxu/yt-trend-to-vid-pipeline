@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2036 · Updated: 03/11/2026, 23:45:29 (Asia/Kolkata)
+Run #2037 · Updated: 04/11/2026, 00:01:46 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Benjamin Bonzi — 17/100
-
-**Event:** Benjamin Bonzi: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Benjamin Bonzi benjamin bonzi: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
 
 
 </details>
