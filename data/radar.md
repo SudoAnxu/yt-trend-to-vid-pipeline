@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2044 · Updated: 04/11/2026, 02:14:40 (Asia/Kolkata)
+Run #2045 · Updated: 04/11/2026, 02:42:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Rafael Jodar — 27/100
-
-**Event:** Rafael Jodar: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Rafael Jodar story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Luis Enrique — 13/100
+### Luis Enrique — 18/100
 
 **Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 24 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Luis Enrique luis enrique: les victoires contre city et le barça n'aideront pas le psg face à villarreal story is actually a money story — the other side of the fight
+> What the Luis Enrique luis enrique: willian pacho, sobre luis enrique: "es un entrenador especial" filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** KEPT
+**Status:** BOOSTED
 
-### Carlos Alcaraz — 16/100
+### Todd Chrisley — 15/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Carlos Alcaraz carlos alcaraz: names the player who has surprised him most this season, ‘it’s unbelievable’ filings actually say — line by line — the other side of the fight
+> The Todd Chrisley todd chrisley: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Jason Galanis — 15/100
+
+**Event:** Jason Galanis: Pregnant Savannah Chrisley Marries Jason Galanis in Secret Church Wedding in the Cayman Islands (Exclusive)
+
+**Why now:** 1 source lane(s): news · momentum 23 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jason Galanis jason galanis: todd chrisley defends daughter savannah against gold digger accusations amid jason galanis engagement story is actually a money story — the other side of the fight
+
+**Competition:** 14 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
