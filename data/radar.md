@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2011 · Updated: 03/11/2026, 09:08:51 (Asia/Kolkata)
+Run #2012 · Updated: 03/11/2026, 09:20:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Michael Penix — 22/100
+### Ethan Klein — 11/100
+
+**Event:** Ethan Klein: Is Trisha Paytas A Witch? From Ethan Klein To Charli D'Amelio, She Has A Knack For Predicting The Future
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-25 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Ethan Klein ethan klein: hila klein filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Michael Penix — 21/100
 
 **Event:** Michael Penix: Falcons to start QB Michael Penix on Thursday vs. Packers
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,73 +44,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### John Goodman — 20/100
+### Tagovailoa Gets Potential — 18/100
 
-**Event:** John Goodman: , the co-star who carried four decades of other people’s films
+**Event:** Tagovailoa Gets Potential: Ex-Dolphins QB Tua Tagovailoa Gets Potential News With Michael Penix INTs
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Goodman john goodman: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Malik Monk — 17/100
-
-**Event:** Malik Monk: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Malik Monk malik monk: trending now filings actually say — line by line — the other side of the fight
+> The Tagovailoa Gets Potential tagovailoa gets potential: ex-dolphins qb tua tagovailoa gets potential news with michael penix ints story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Jason Galanis — 28/100
-
-**Event:** Jason Galanis: Pregnant Savannah Chrisley Marries Jason Galanis in Secret Church Wedding in the Cayman Islands (Exclusive)
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jason Galanis jason galanis: pregnant savannah chrisley marries jason galanis in secret church wedding in the cayman islands (exclusive) filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
-
-### Jennifer Lawrence — 19/100
-
-**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jennifer Lawrence story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Grace Paying — 21/100
-
-**Event:** Grace Paying: See 7 Side-by-Side Photos of Mckenna Grace Paying Tribute to The Hunger Games on the Sunrise on the Reaping Pr
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Grace Paying grace paying: see 7 side-by-side photos of mckenna grace paying tribute to the hunger games on the sunrise on the reaping pr filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
