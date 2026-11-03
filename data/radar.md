@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2014 · Updated: 03/11/2026, 10:59:42 (Asia/Kolkata)
+Run #2015 · Updated: 03/11/2026, 12:32:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Stephen Curry — 14/100
-
-**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Stephen Curry stephen curry: yaxel lendeborg scores 37 points, most by a warriors rookie since stephen curry filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Gavin Newsom — 12/100
+### Gavin Newsom — 17/100
 
 **Event:** Gavin Newsom: backs measure to kill the billionaire tax and ban future wealth taxes
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Gavin Newsom gavin newsom: trending now filings actually say — line by line — the other side of the fight
+> What the Gavin Newsom gavin newsom: kamala harris and gavin newsom, weighing 2028 runs, rally together in california filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### John Mulaney — 21/100
+### Will He — 19/100
 
-**Event:** John Mulaney: Druski, Inde Navarrette & John Mulaney Set As ‘SNL’ Hosts For Season 52
+**Event:** Will He: Cubs Slugger Has Beaten Mason Miller’s Slider. Will He See It Again?
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the John Mulaney john mulaney: trending now filings actually say — line by line — the other side of the fight
+> What the Will He will he: he bet $1.5 million on the midterms. will he win big? filings actually say — line by line — the number behind the headline
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Martin Etcheverry — 23/100
+
+**Event:** Martin Etcheverry: October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market
+
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Martin Etcheverry story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
 **Status:** ARCHIVED
 

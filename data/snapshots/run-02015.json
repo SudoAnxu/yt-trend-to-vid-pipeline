@@ -1,0 +1,30 @@
+{
+  "runNo": 2015,
+  "at": "2026-11-03T07:02:07.280Z",
+  "rows": [
+    {
+      "event": "story-gavin-newsom",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-he",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-martin-etcheverry",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
