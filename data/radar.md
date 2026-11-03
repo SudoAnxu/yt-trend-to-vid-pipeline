@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2006 · Updated: 03/11/2026, 07:35:15 (Asia/Kolkata)
+Run #2007 · Updated: 03/11/2026, 07:59:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Ben Johnson — 19/100
+### Josh Allen's — 13/100
 
-**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+**Event:** Josh Allen's: Wife, Hailee Steinfield, Announces Difficult Personal News Before Chargers-Bills
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ben Johnson ben johnson: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### John Harbaugh — 22/100
-
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
-
-**Why now:** 2 source lane(s): news, trends · momentum 18 (+13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the John Harbaugh john harbaugh: giants’ john harbaugh laughs off criticism about calling titans owner on jeffery simmons - the athletic filings actually say — line by line — the other side of the fight
+> The Josh Allen's josh allen's: bills qb josh allen’s wife hailee steinfeld’s career news turns heads story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** ARCHIVED
 
-### Amy Adams — 15/100
+### Josh Allen — 17/100
 
-**Event:** Amy Adams: trending now
+**Event:** Josh Allen: injury
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Amy Adams amy adams: john harbaugh admits calling amy adams strunk about jeffery simmons trade filings actually say — line by line — the other side of the fight
+> The Josh Allen josh allen: details his bye week vacation with wife hailee steinfeld and their 6-month-old daughter story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Aaron Paul — 16/100
+### Mike Rogers' — 22/100
 
-**Event:** Aaron Paul: 'Breaking Bad’ Star Aaron Paul Sells Historic L.A. Home for $7.5 Million—After Moving His Family to Paris
+**Event:** Mike Rogers': Haley Stevens appears at Detroit church with Mike Rogers
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Aaron Paul aaron paul: trending now filings actually say — line by line — the other side of the fight
+> What the Mike Rogers' mike rogers': ‘a despicable betrayal’: democrats incensed by haley stevens’s endorsement of mike rogers filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Daniel Gafford — 22/100
+
+**Event:** Daniel Gafford: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Daniel Gafford story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Daniel Radcliffe — 17/100
+
+**Event:** Daniel Radcliffe: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Daniel Radcliffe daniel radcliffe: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Reggie Dinkins' — 22/100
+
+**Event:** Reggie Dinkins': reggie dinkins
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Reggie Dinkins' situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 4.6h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
