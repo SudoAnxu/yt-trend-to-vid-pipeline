@@ -1,0 +1,30 @@
+{
+  "runNo": 2025,
+  "at": "2026-11-03T12:58:06.092Z",
+  "rows": [
+    {
+      "event": "story-mike-rogers-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-collins",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-jon-ossoff",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
