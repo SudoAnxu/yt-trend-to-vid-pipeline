@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2025 · Updated: 03/11/2026, 18:28:07 (Asia/Kolkata)
+Run #2026 · Updated: 03/11/2026, 19:23:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Mike Rogers' — 19/100
+### Will Be — 16/100
 
-**Event:** Mike Rogers': Haley Stevens appears at Detroit church with Mike Rogers
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Rogers' mike rogers': will haley stevens' support of mike rogers impact michigan race? filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mike Collins — 19/100
-
-**Event:** Mike Collins: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (+18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mike Collins mike collins: trending now story is actually a money story — the other side of the fight
+> What the Will Be will be: awkwafina can’t cook. her grandma will be the judge. filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Jon Ossoff — 16/100
+### Mike Lawler — 26/100
 
-**Event:** Jon Ossoff: trending now
+**Event:** Mike Lawler: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jon Ossoff jon ossoff: once vulnerable, jon ossoff seeks a commanding win over mike collins story is actually a money story — the other side of the fight
+> The Mike Lawler mike lawler: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** RESEARCH
+
+### Brandon Nakashima — 20/100
+
+**Event:** Brandon Nakashima: Alexander Bublik Brandon Nakashima live score and H2H results
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Brandon Nakashima brandon nakashima: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** KEPT
 
 
 </details>
