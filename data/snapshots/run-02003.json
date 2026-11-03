@@ -1,0 +1,16 @@
+{
+  "runNo": 2003,
+  "at": "2026-11-03T01:10:34.522Z",
+  "rows": [
+    {
+      "event": "story-cody-rhodes",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

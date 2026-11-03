@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2002 · Updated: 03/11/2026, 06:01:33 (Asia/Kolkata)
+Run #2003 · Updated: 03/11/2026, 06:40:35 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Malone — 19/100
+### Cody Rhodes — 16/100
 
-**Event:** Michael Malone: UNC-Western Carolina Preview: The Michael Malone Era Officially Begins
+**Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Malone michael malone: set for first official game as unc basketball's head coach filings actually say — line by line — the other side of the fight
+> The Cody Rhodes cody rhodes: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
