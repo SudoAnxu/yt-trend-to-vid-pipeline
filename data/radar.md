@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2049 · Updated: 04/11/2026, 03:56:27 (Asia/Kolkata)
+Run #2050 · Updated: 04/11/2026, 04:25:24 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Greg Newsome — 19/100
+### Ken Burns — 33/100
 
-**Event:** Greg Newsome: , Giants Reportedly Agree to Contract Extension, Full Details Revealed
+**Event:** Ken Burns: Opinion | Ken Burns: Why I’m Optimistic About the Midterms
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Greg Newsome greg newsome: trending now filings actually say — line by line — the other side of the fight
+> What the Ken Burns ken burns: opinion | ken burns: why i’m optimistic about the midterms filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 6 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
