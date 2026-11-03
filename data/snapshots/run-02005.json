@@ -1,0 +1,58 @@
+{
+  "runNo": 2005,
+  "at": "2026-11-03T01:42:22.561Z",
+  "rows": [
+    {
+      "event": "story-ken-paxton",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-talarico",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-monangai",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-neil-patrick",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
