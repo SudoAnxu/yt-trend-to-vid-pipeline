@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2034 · Updated: 03/11/2026, 23:07:45 (Asia/Kolkata)
+Run #2035 · Updated: 03/11/2026, 23:26:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Benjamin Bonzi — 17/100
+
+**Event:** Benjamin Bonzi: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Benjamin Bonzi benjamin bonzi: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 
 </details>
