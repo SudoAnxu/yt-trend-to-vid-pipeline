@@ -1,0 +1,30 @@
+{
+  "runNo": 2019,
+  "at": "2026-11-03T09:55:25.956Z",
+  "rows": [
+    {
+      "event": "story-austin-weather",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-randy-flores",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-officially-returns-with",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
