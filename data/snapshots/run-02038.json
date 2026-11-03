@@ -1,0 +1,16 @@
+{
+  "runNo": 2038,
+  "at": "2026-11-03T18:46:58.061Z",
+  "rows": [
+    {
+      "event": "story-jacob-morley",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
