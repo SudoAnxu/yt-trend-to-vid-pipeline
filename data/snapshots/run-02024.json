@@ -1,0 +1,16 @@
+{
+  "runNo": 2024,
+  "at": "2026-11-03T12:36:53.065Z",
+  "rows": [
+    {
+      "event": "story-don-tracy",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
