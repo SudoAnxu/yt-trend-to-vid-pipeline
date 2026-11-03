@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2040 · Updated: 04/11/2026, 01:27:02 (Asia/Kolkata)
+Run #2041 · Updated: 04/11/2026, 01:44:54 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,51 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Josh Turek — 17/100
+### Brian Fari — 22/100
 
-**Event:** Josh Turek: trending now
+**Event:** Brian Fari: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Josh Turek filing that will matter in six months — what happens next
-
-**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ashley Hinson — 15/100
-
-**Event:** Ashley Hinson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ashley Hinson filing that will matter in six months — the other side of the fight
+> The Brian Fari story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 15.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
-
-### Luis Enrique — 18/100
-
-**Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Luis Enrique luis enrique: psg's luis enrique warns against overconfidence in ucl clash vs. villarreal story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>

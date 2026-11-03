@@ -1,0 +1,16 @@
+{
+  "runNo": 2041,
+  "at": "2026-11-03T20:14:53.949Z",
+  "rows": [
+    {
+      "event": "story-brian-fari",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
