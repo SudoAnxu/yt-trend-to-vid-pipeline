@@ -1,0 +1,23 @@
+{
+  "runNo": 2021,
+  "at": "2026-11-03T11:15:39.509Z",
+  "rows": [
+    {
+      "event": "story-alexandra-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

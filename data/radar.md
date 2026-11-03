@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2020 · Updated: 03/11/2026, 15:46:18 (Asia/Kolkata)
+Run #2021 · Updated: 03/11/2026, 16:45:40 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Austin Weather — 17/100
+### Alexandra Eala — 14/100
 
-**Event:** Austin Weather: trending now
+**Event:** Alexandra Eala: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Austin Weather austin weather: trending now filings actually say — line by line — the other side of the fight
+> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Alex Eala — 22/100
+
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alex Eala alex eala: live: alex eala vs alycia parks – hong kong open round of 32 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
