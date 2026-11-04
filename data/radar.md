@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2061 · Updated: 04/11/2026, 08:36:57 (Asia/Kolkata)
+Run #2062 · Updated: 04/11/2026, 10:28:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,79 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Jack Campbell — 24/100
+### Alex Pretti — 21/100
 
-**Event:** Jack Campbell: Lions provide update on Jack Campbell
+**Event:** Alex Pretti: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jack Campbell jack campbell: lions provide update on jack campbell filings actually say — line by line — the other side of the fight
+> What the Alex Pretti alex pretti: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Xavier Becerra — 15/100
+
+**Event:** Xavier Becerra: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Xavier Becerra xavier becerra: talks new wealth tax, high-speed rail changes and other plans for california story is actually a money story — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Will Be — 19/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 13 (+1 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Will Be will be: here's what spacex stock will be worth by 2027 if elon musk's $1 trillion revenue call is correct filings actually say — line by line — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### John Kennedy — 20/100
+
+**Event:** John Kennedy: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the John Kennedy john kennedy: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
-
-### Jimmy Rolder — 17/100
-
-**Event:** Jimmy Rolder: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jimmy Rolder jimmy rolder: lions' jimmy rolder: officially put on ir filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Chris Jones — 22/100
-
-**Event:** Chris Jones: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Chris Jones chris jones: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Patrick Mahomes — 17/100
-
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Patrick Mahomes patrick mahomes: the breakfast club presented by united fiber: kansas city chiefs hc andy reid, qb patrick mahomes, & dt chris  filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Mike Washington — 15/100
-
-**Event:** Mike Washington: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-21 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Mike Washington mike washington: fantasy football waiver wire, week 9: mike washington jr. among slew of good rb pickups to consider story is actually a money story — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
