@@ -1,0 +1,30 @@
+{
+  "runNo": 2099,
+  "at": "2026-11-04T23:59:40.443Z",
+  "rows": [
+    {
+      "event": "story-alex-tuch",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-larkin",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-bruce-springsteen",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
