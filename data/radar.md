@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2087 · Updated: 05/11/2026, 01:44:55 (Asia/Kolkata)
+Run #2088 · Updated: 05/11/2026, 02:01:09 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Jose Mourinho — 20/100
+### Jose Mourinho — 17/100
 
 **Event:** Jose Mourinho: Finally Changes His Tune on Vinicius Junior With Brutal Warning
 
-**Why now:** 1 source lane(s): news · momentum 25 (+8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (-11 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -42,35 +42,35 @@ Sources this run: trends(40)
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
 ### Michael Jackson — 17/100
 
 **Event:** Michael Jackson: super bowl
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Michael Jackson michael jackson: family trust funding story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tyler Huntley — 14/100
+### Michael Jackson's — 20/100
 
-**Event:** Tyler Huntley: Ravens QB Lamar Jackson (ankle) out vs. Falcons; Tyler Huntley to start
+**Event:** Michael Jackson's: Michael Jackson’s Daughter Seeks $600 Million From His Estate, Says Trust Remains Unfunded
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Tyler Huntley filing that will matter in six months — the other side of the fight
+> The Michael Jackson's michael jackson's: michael jackson’s daughter seeks $600 million from his estate, says trust remains unfunded story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
