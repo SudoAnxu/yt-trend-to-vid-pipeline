@@ -1,0 +1,16 @@
+{
+  "runNo": 2082,
+  "at": "2026-11-04T18:06:42.667Z",
+  "rows": [
+    {
+      "event": "story-katherine-clark",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
