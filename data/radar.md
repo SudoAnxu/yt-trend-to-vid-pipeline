@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2074 · Updated: 04/11/2026, 20:17:17 (Asia/Kolkata)
+Run #2075 · Updated: 04/11/2026, 20:29:19 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 20/100
+### Carlos Alcaraz — 16/100
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Zverev's: first No. 1 ranking to be confirmed Monday with win in Vienna
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Alexander Zverev — 20/100
+### Alexander Zverev — 16/100
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Mike Washington: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -72,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Tracy Letts — 34/100
+### Tracy Letts — 28/100
 
 **Event:** Tracy Letts: Carrie Coon shares secret to Tracy Letts marriage a year after ‘open’ relationship rumors: ‘The only way to pr
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 15 · risk 64 · external momentum 33 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 15 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -85,34 +85,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
-
-### Jim Cramer — 18/100
-
-**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
-
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jim Cramer jim cramer: warns ‘don’t assume the worst is behind us’ after $1 trillion chip stock rout - intel (nasdaq filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ryan Day — 15/100
-
-**Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ryan Day ryan day: hc ryan day loses hope at ohio state, gives locker room a clear ultimatum filings actually say — line by line — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
