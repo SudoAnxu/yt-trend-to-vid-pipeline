@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2053 · Updated: 04/11/2026, 05:32:54 (Asia/Kolkata)
+Run #2054 · Updated: 04/11/2026, 05:58:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### David Muir — 24/100
+### Ted Cruz — 12/100
 
-**Event:** David Muir: ABC World News Tonight with David Muir Full Broadcast - Nov. 2, 2026
+**Event:** Ted Cruz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the David Muir david muir: abc world news tonight with david muir full broadcast - nov. 2, 2026 filings actually say — line by line — the other side of the fight
+> What the Ted Cruz ted cruz: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### James Comey — 24/100
+
+**Event:** James Comey: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 32 (+20 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The James Comey james comey: judge warns doj against 'dawn raid' to arrest james comey story is actually a money story — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+
+**Status:** BOOSTED
 
 
 </details>

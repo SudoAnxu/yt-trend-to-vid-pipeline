@@ -1,0 +1,23 @@
+{
+  "runNo": 2054,
+  "at": "2026-11-04T00:28:24.389Z",
+  "rows": [
+    {
+      "event": "story-ted-cruz",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-comey",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 32,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
