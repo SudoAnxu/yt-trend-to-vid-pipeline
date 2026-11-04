@@ -1,0 +1,23 @@
+{
+  "runNo": 2071,
+  "at": "2026-11-04T12:46:22.884Z",
+  "rows": [
+    {
+      "event": "story-alex-michelsen",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
