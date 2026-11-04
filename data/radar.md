@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2073 · Updated: 04/11/2026, 19:32:48 (Asia/Kolkata)
+Run #2074 · Updated: 04/11/2026, 20:17:17 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,21 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 23/100
+### Carlos Alcaraz — 20/100
 
-**Event:** Alexander Zverev: trending now
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+16 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexander Zverev alexander zverev: atp paris day 3 predictions including alexander zverev vs lorenzo musetti filings actually say — line by line — the other side of the fight
+> What the Carlos Alcaraz carlos alcaraz: beats alex de minaur to win vienna open for fourth title of 2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alexander Zverev's — 22/100
+
+**Event:** Alexander Zverev's: first No. 1 ranking to be confirmed Monday with win in Vienna
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alexander Zverev's alexander zverev's: alexander zverev’s rise to world no. 1: seizing opportunities and a wretched top-10 record filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Alexander Zverev — 20/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Zverev alexander zverev: becomes deserved world number one but sense of discomfort remains story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mike Washington — 16/100
+
+**Event:** Mike Washington: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Washington mike washington: fantasy football week 9 waiver wire: mike washington jr. leads the charge as backfields face major shakeups story is actually a money story — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Tracy Letts — 34/100
+
+**Event:** Tracy Letts: Carrie Coon shares secret to Tracy Letts marriage a year after ‘open’ relationship rumors: ‘The only way to pr
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 15 · risk 64 · external momentum 33 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Tracy Letts story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Jim Cramer — 18/100
+
+**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
+
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jim Cramer jim cramer: warns ‘don’t assume the worst is behind us’ after $1 trillion chip stock rout - intel (nasdaq filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
@@ -34,71 +104,15 @@ Sources this run: trends(40)
 
 **Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ryan Day ryan day: “has nothing to do with the quarterback situation”: urban meyer calls on ryan day to address ohio state’s issu filings actually say — line by line — the other side of the fight
+> What the Ryan Day ryan day: hc ryan day loses hope at ohio state, gives locker room a clear ultimatum filings actually say — line by line — the other side of the fight
 
 **Competition:** 13 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Ralph Macchio — 17/100
-
-**Event:** Ralph Macchio: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ralph Macchio ralph macchio: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Steve Vai — 19/100
-
-**Event:** Steve Vai: “Ralph Macchio and I have talked about it. We’ve got a plan”: A sequel to cult guitar movie Crossroads is in t
-
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Steve Vai steve vai: ‘crossroads’ movie sequel is set to feature steve vai story is actually a money story — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 5.6h · sources: news
-
-**Status:** RESEARCH
-
-### Emma Walmsley — 30/100
-
-**Event:** Emma Walmsley: HP names former GSK chief Emma Walmsley as CEO
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 7 · risk 19 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Emma Walmsley emma walmsley: hp taps former gsk executive emma walmsley as next ceo filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Samuel Alito — 17/100
-
-**Event:** Samuel Alito: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Samuel Alito samuel alito: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
 
 
 </details>
