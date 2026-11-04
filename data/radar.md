@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2096 · Updated: 05/11/2026, 04:14:36 (Asia/Kolkata)
+Run #2097 · Updated: 05/11/2026, 04:43:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(36)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+4 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Glenn Close — 23/100
+### Glenn Close — 22/100
 
 **Event:** Glenn Close: Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Glenn Close situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 23 videos in last 6h · TTS ≈ 3.2h · sources: news
 
 **Status:** RESEARCH
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Michael Douglas': “Good Heavens”: Kathleen Turner Reacts to Michael Douglas’ Bombshell About Their Secret Romance During ‘Romanc
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,15 +58,15 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### David Braz — 19/100
+### Owen Wilson's — 22/100
 
-**Event:** David Braz: Achei! Na ativa aos 39, David Braz vê Flamengo x Grêmio como 2009 e alerta para "armadilha" do mistão
+**Event:** Owen Wilson's: Stick review – you really need Owen Wilson’s beautiful golf comedy in your life
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the David Braz david braz: achei! na ativa aos 39, david braz vê flamengo x grêmio como 2009 e alerta para "armadilha" do mistão filings actually say — line by line — the other side of the fight
+> What the Owen Wilson's owen wilson's: stick review – you really need owen wilson’s beautiful golf comedy in your life filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 

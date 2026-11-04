@@ -1,0 +1,37 @@
+{
+  "runNo": 2097,
+  "at": "2026-11-04T23:13:07.419Z",
+  "rows": [
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-glenn-close",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-douglas-",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-owen-wilson-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
