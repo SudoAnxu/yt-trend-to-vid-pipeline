@@ -1,0 +1,16 @@
+{
+  "runNo": 2059,
+  "at": "2026-11-04T02:34:16.174Z",
+  "rows": [
+    {
+      "event": "story-joe-manchin",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
