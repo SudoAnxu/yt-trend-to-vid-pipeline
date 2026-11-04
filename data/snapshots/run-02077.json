@@ -1,0 +1,16 @@
+{
+  "runNo": 2077,
+  "at": "2026-11-04T16:00:02.605Z",
+  "rows": [
+    {
+      "event": "story-history-says-about",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
