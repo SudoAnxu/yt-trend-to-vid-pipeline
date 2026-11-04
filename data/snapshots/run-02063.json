@@ -1,0 +1,23 @@
+{
+  "runNo": 2063,
+  "at": "2026-11-04T06:44:49.504Z",
+  "rows": [
+    {
+      "event": "story-jason-momoa-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-fighter-movie-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

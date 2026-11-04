@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2062 · Updated: 04/11/2026, 10:28:02 (Asia/Kolkata)
+Run #2063 · Updated: 04/11/2026, 12:14:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,63 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Alex Pretti — 21/100
+### Jason Momoa's — 19/100
 
-**Event:** Alex Pretti: trending now
+**Event:** Jason Momoa's: Behold! Jason Momoa’s ‘Street Fighter’ Toy Has Been Revealed
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alex Pretti alex pretti: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Xavier Becerra — 15/100
-
-**Event:** Xavier Becerra: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Xavier Becerra xavier becerra: talks new wealth tax, high-speed rail changes and other plans for california story is actually a money story — the other side of the fight
+> What the Jason Momoa's jason momoa's: jason momoa’s latest flop continues to crash at box office filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Will Be — 19/100
+### Fighter Movie's — 22/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Fighter Movie's: Capcom Still 'Firmly Committed' to Expanding IP After Street Fighter Movie's Worrying Theatrical Run
 
-**Why now:** 1 source lane(s): news · momentum 13 (+1 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Will Be will be: here's what spacex stock will be worth by 2027 if elon musk's $1 trillion revenue call is correct filings actually say — line by line — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### John Kennedy — 20/100
-
-**Event:** John Kennedy: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the John Kennedy john kennedy: trending now filings actually say — line by line — the other side of the fight
+> The Fighter Movie's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
