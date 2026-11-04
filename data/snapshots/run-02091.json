@@ -1,0 +1,16 @@
+{
+  "runNo": 2091,
+  "at": "2026-11-04T21:02:32.937Z",
+  "rows": [
+    {
+      "event": "story-she-shares-photos",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
