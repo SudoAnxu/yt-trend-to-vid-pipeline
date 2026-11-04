@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2055 · Updated: 04/11/2026, 06:13:42 (Asia/Kolkata)
+Run #2056 · Updated: 04/11/2026, 06:41:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Randy Fine — 23/100
+### Alec Bohm — 20/100
 
-**Event:** Randy Fine: trending now
+**Event:** Alec Bohm: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Randy Fine randy fine: trending now filings actually say — line by line — the number behind the headline
+> What the Alec Bohm alec bohm: phillies don't extend qualifying offer to alec bohm as free agency opens filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 18 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Walter Koenig — 21/100
+
+**Event:** Walter Koenig: ‘Star Trek’ actor Walter Koenig dies: Reports
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Walter Koenig walter koenig: 'star trek' star walter koenig to be laid to rest at same cemetery as late son story is actually a money story — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### David Jolly — 16/100
+### Travis Kelce's — 16/100
 
-**Event:** David Jolly: trending now
+**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the David Jolly david jolly: policies filings actually say — line by line — the other side of the fight
+> The Travis Kelce's filing that will matter in six months — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 10.4h · sources: news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>
