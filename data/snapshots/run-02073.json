@@ -1,0 +1,51 @@
+{
+  "runNo": 2073,
+  "at": "2026-11-04T14:02:46.339Z",
+  "rows": [
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-day",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-ralph-macchio",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-vai",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-emma-walmsley",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-samuel-alito",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

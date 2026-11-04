@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2072 · Updated: 04/11/2026, 18:43:25 (Asia/Kolkata)
+Run #2073 · Updated: 04/11/2026, 19:32:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,73 +16,73 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 14/100
+### Alexander Zverev — 23/100
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+16 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexander Zverev alexander zverev: trending now filings actually say — line by line — the other side of the fight
+> What the Alexander Zverev alexander zverev: atp paris day 3 predictions including alexander zverev vs lorenzo musetti filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alexander Zverev's — 22/100
+### Ryan Day — 15/100
 
-**Event:** Alexander Zverev's: first No. 1 ranking to be confirmed Monday with win in Vienna
+**Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alexander Zverev's alexander zverev's: alexander zverev’s rise to world no. 1: seizing opportunities and a wretched top-10 record filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Emma Walmsley — 35/100
-
-**Event:** Emma Walmsley: HP names former GSK chief Emma Walmsley as CEO
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 19 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Emma Walmsley emma walmsley: hp names former gsk chief emma walmsley as ceo filings actually say — line by line — the other side of the fight
+> What the Ryan Day ryan day: “has nothing to do with the quarterback situation”: urban meyer calls on ryan day to address ohio state’s issu filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Ralph Macchio — 24/100
+### Ralph Macchio — 17/100
 
 **Event:** Ralph Macchio: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Ralph Macchio ralph macchio: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Steve Vai — 23/100
+### Steve Vai — 19/100
 
 **Event:** Steve Vai: “Ralph Macchio and I have talked about it. We’ve got a plan”: A sequel to cult guitar movie Crossroads is in t
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Steve Vai steve vai: “ralph macchio and i have talked about it. we’ve got a plan”: a sequel to cult guitar movie crossroads is in t story is actually a money story — the other side of the fight
+> The Steve Vai steve vai: ‘crossroads’ movie sequel is set to feature steve vai story is actually a money story — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 5.6h · sources: news
+
+**Status:** RESEARCH
+
+### Emma Walmsley — 30/100
+
+**Event:** Emma Walmsley: HP names former GSK chief Emma Walmsley as CEO
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 7 · risk 19 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Emma Walmsley emma walmsley: hp taps former gsk executive emma walmsley as next ceo filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -90,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Samuel Alito: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
