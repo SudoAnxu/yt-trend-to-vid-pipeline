@@ -1,0 +1,16 @@
+{
+  "runNo": 2085,
+  "at": "2026-11-04T19:02:31.136Z",
+  "rows": [
+    {
+      "event": "story-mason-greenwood",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
