@@ -1,0 +1,16 @@
+{
+  "runNo": 2068,
+  "at": "2026-11-04T11:27:36.609Z",
+  "rows": [
+    {
+      "event": "story-william-blair",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 33,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
