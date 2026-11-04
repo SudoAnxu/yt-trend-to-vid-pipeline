@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2066 · Updated: 04/11/2026, 13:53:46 (Asia/Kolkata)
+Run #2067 · Updated: 04/11/2026, 15:12:38 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,71 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Jake Bauers — 13/100
+### Alex Eala — 15/100
+
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+
+**Why now:** 1 source lane(s): news · momentum 8 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alex Eala alex eala: brushes aside late replacement emerson jones to reach hong kong open round of 16 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Alexandra Eala — 15/100
+
+**Event:** Alexandra Eala: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexandra Eala alexandra eala: ‘super happy’ to be back, aims to finish on high at hong kong open story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Marc Anthony — 19/100
+
+**Event:** Marc Anthony: comió asadacho con la familia de Nadia
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Marc Anthony marc anthony: comió asadacho con la familia de nadia filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Mike Washington — 16/100
+
+**Event:** Mike Washington: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Washington mike washington: fantasy football waiver wire, week 9: mike washington jr. among slew of good rb pickups to consider story is actually a money story — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jake Bauers — 14/100
 
 **Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Gary Sanchez: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,76 +99,6 @@ Sources this run: trends(40)
 **Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Spencer Pratt — 19/100
-
-**Event:** Spencer Pratt: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Spencer Pratt spencer pratt: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Pratt Claims Death — 18/100
-
-**Event:** Pratt Claims Death: Spencer Pratt Claims Death Threats Forced Him to Move Into $1,200-a-Night Hotel Amid L.A. Mayoral Race
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Pratt Claims Death pratt claims death: spencer pratt claims death threats forced him to move into $1,200-a-night hotel amid l.a. mayoral race story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Pratt Defends Staying — 18/100
-
-**Event:** Pratt Defends Staying: Spencer Pratt Defends Staying in $1,200-a-Night Hotel After Featuring Trailer in L.A. Mayoral Race Ad
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Pratt Defends Staying pratt defends staying: spencer pratt defends staying in $1,200-a-night hotel after featuring trailer in l.a. mayoral race ad story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Freep Boys Athlete — 19/100
-
-**Event:** Freep Boys Athlete: Vote now for the Freep Boys Athlete of the Week for Oct. 26-Nov. 1
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Freep Boys Athlete freep boys athlete: vote now for the freep boys athlete of the week for oct. 26-nov. 1 filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Boys Athlete — 21/100
-
-**Event:** Boys Athlete: Vote now for the Freep Boys Athlete of the Week for Oct. 26-Nov. 1
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Boys Athlete boys athlete: vote now for the freep boys athlete of the week for oct. 26-nov. 1 filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
