@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2093 · Updated: 05/11/2026, 03:07:32 (Asia/Kolkata)
+Run #2094 · Updated: 05/11/2026, 03:33:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Mark Your — 13/100
+### Mark Your — 15/100
 
 **Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
 
-**Why now:** 1 source lane(s): news · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mark Your mark your: dear applovin stock fans, mark your calendars for november 4 story is actually a money story — the other side of the fight
+> What the Mark Your mark your: dear coherent stock fans, mark your calendars for november 4 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
