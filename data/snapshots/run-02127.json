@@ -1,0 +1,16 @@
+{
+  "runNo": 2127,
+  "at": "2026-11-05T16:54:51.665Z",
+  "rows": [
+    {
+      "event": "story-chris-rodriguez",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

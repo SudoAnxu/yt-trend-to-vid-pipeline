@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2126 · Updated: 05/11/2026, 22:11:04 (Asia/Kolkata)
+Run #2127 · Updated: 05/11/2026, 22:24:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Warren Buffett — 14/100
+### Chris Rodriguez — 18/100
 
-**Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
+**Event:** Chris Rodriguez: Why Chris Rodriguez Jr. is Getting Carries Over Bhayshul Tuten for Jaguars
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Warren Buffett warren buffett: has 1 simple rule for investing during bear markets. history says he's right. filings actually say — line by line — the other side of the fight
+> The Chris Rodriguez story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
