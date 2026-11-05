@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2119 · Updated: 05/11/2026, 18:25:37 (Asia/Kolkata)
+Run #2120 · Updated: 05/11/2026, 18:56:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ben Shelton — 17/100
+### Aaron Boone — 12/100
 
-**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+**Event:** Aaron Boone: Yankees' Aaron Judge set to miss wild-card series, says Aaron Boone
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 3 (-20 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ben Shelton ben shelton: trending now story is actually a money story — the other side of the fight
+> What the Aaron Boone aaron boone: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Carlos Ferrero — 21/100
+### Charles Porter — 22/100
 
-**Event:** Carlos Ferrero: Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff
+**Event:** Charles Porter: Dies: ‘Finding Faith’ Producer & Actor Was 47
 
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Carlos Ferrero carlos ferrero: ben shelton adds coach juan carlos ferrero to 2027 staff story is actually a money story — the other side of the fight
+> The Charles Porter charles porter: dies: ‘finding faith’ producer & actor was 47 story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 9 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Jesse Minter's — 23/100
+### Faith' Producer — 23/100
 
-**Event:** Jesse Minter's: Ravens’ All-Pro Called Out After ‘Mockery’ of Jesse Minter’s Mantra
+**Event:** Faith' Producer: Charles Porter Dies: ‘Finding Faith’ Producer & Actor Was 47
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jesse Minter's situation is weirder than the clips suggest — the other side of the fight
+> The Faith' Producer faith' producer: charles porter dies: ‘finding faith’ producer & actor was 47 story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
