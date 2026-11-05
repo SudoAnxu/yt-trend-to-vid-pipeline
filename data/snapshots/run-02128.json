@@ -1,0 +1,23 @@
+{
+  "runNo": 2128,
+  "at": "2026-11-05T17:30:16.304Z",
+  "rows": [
+    {
+      "event": "story-jason-sudeikis",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 2,
+      "window": "closed"
+    },
+    {
+      "event": "story-ruben-amorim",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
