@@ -1,0 +1,37 @@
+{
+  "runNo": 2117,
+  "at": "2026-11-05T11:42:44.227Z",
+  "rows": [
+    {
+      "event": "story-alexandra-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-eala",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-alan-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-vrabel",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

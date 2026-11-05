@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2116 · Updated: 05/11/2026, 16:55:31 (Asia/Kolkata)
+Run #2117 · Updated: 05/11/2026, 17:12:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,9 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Alexandra Eala — 17/100
+
+**Event:** Alexandra Eala: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexandra Eala alexandra eala: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alex Eala — 18/100
+
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alex Eala alex eala: brushes aside late replacement emerson jones to reach hong kong open round of 16 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Alan Jones — 27/100
+
+**Event:** Alan Jones: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alan Jones alan jones: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Mike Vrabel — 20/100
 
