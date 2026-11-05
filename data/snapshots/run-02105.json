@@ -1,0 +1,30 @@
+{
+  "runNo": 2105,
+  "at": "2026-11-05T01:58:52.766Z",
+  "rows": [
+    {
+      "event": "story-fox-news-host",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-tobias-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-joel-embiid",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
