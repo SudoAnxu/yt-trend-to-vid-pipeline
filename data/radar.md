@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2111 · Updated: 05/11/2026, 13:17:22 (Asia/Kolkata)
+Run #2112 · Updated: 05/11/2026, 13:29:12 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,15 +12,57 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
+
+### Chipotle — 22/100
+
+**Event:** Chipotle: shares rise 7% after CEO says same-store sales growth will continue
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Chipotle chipotle: shares rise 7% after ceo says same-store sales growth will continue story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Kate Martin — 21/100
+
+**Event:** Kate Martin: Unrivaled & Kate Martin Mutually Agree to Terminate League Contract
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Kate Martin kate martin: unrivaled & kate martin mutually agree to terminate league contract filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Cass Addresses Enzo — 22/100
+
+**Event:** Cass Addresses Enzo: Big Cass Addresses Enzo Amore Buzz, WWE Rumors on Bayley, Oba Femi, Penta, Je'Von and The Vision
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Cass Addresses Enzo cass addresses enzo: big cass addresses enzo amore buzz, wwe rumors on bayley, oba femi, penta, je'von and the vision filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Alex Eala — 18/100
 
 **Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 1 source lane(s): news · momentum 18 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,19 +86,19 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Tim Hardaway — 23/100
+### Martin Etcheverry — 23/100
 
-**Event:** Tim Hardaway: Sr. calls out Giannis Antetokounmpo while praising Cooper Flagg
+**Event:** Martin Etcheverry: October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tim Hardaway tim hardaway: sr. calls out giannis antetokounmpo while praising cooper flagg story is actually a money story — the other side of the fight
+> The Martin Etcheverry story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
