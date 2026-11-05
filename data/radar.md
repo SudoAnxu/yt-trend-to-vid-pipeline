@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2138 · Updated: 06/11/2026, 02:38:42 (Asia/Kolkata)
+Run #2139 · Updated: 06/11/2026, 02:49:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### John Lynch — 23/100
+### John Lynch — 19/100
 
 **Event:** John Lynch: details why Mike Evans likely will miss 49ers' Week 9 game vs Raiders
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -28,13 +28,13 @@ Sources this run: trends(40)
 
 **Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 ### Mike Evans — 23/100
 
 **Event:** Mike Evans: Injury 49ers
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+10 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,6 +43,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Max Cindy — 17/100
+
+**Event:** Max Cindy: hershey grinch max cindy lou kisses
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Max Cindy max cindy: hershey grinch max cindy lou kisses filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 
 </details>
