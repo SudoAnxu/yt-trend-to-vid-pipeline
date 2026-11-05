@@ -1,0 +1,16 @@
+{
+  "runNo": 2134,
+  "at": "2026-11-05T20:11:12.162Z",
+  "rows": [
+    {
+      "event": "story-gavin-newsom",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

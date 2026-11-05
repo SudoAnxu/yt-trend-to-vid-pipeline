@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2133 · Updated: 06/11/2026, 00:43:36 (Asia/Kolkata)
+Run #2134 · Updated: 06/11/2026, 01:41:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,23 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Aaron Judge — 19/100
+### Gavin Newsom — 17/100
 
-**Event:** Aaron Judge: Yankees' Aaron Judge Injury Update Changes Everything For Red Sox
+**Event:** Gavin Newsom: backs measure to kill the billionaire tax and ban future wealth taxes
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Judge aaron judge: trending now story is actually a money story — the other side of the fight
+> What the Gavin Newsom gavin newsom: commutes more than 500 death sentences in california filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Malik Nabers — 22/100
-
-**Event:** Malik Nabers: Giants vs. Commanders live updates: Malik Nabers TD forces overtime
-
-**Why now:** 2 source lane(s): trends, news · momentum 39 (+24 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Malik Nabers malik nabers: injury story is actually a money story — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** BOOSTED
 
 
 </details>
