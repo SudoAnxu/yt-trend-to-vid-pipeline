@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2107 · Updated: 05/11/2026, 08:39:15 (Asia/Kolkata)
+Run #2108 · Updated: 05/11/2026, 09:07:19 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,35 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Jeff Bezos — 19/100
+### Liam Neeson — 21/100
 
-**Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
+**Event:** Liam Neeson: trending now
 
-**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jeff Bezos story is a proxy fight about something bigger — the number behind the headline
+> What the Liam Neeson liam neeson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news
+**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Mark Kelly — 12/100
+
+**Event:** Mark Kelly: Says Trump ‘Always’ Finds Money For His Priorities, But Not Working Families: ‘That’s a Decision’
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mark Kelly mark kelly: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 16 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### John Cena — 22/100
+### Scott Colom — 19/100
 
-**Event:** John Cena: trending now
+**Event:** Scott Colom: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+15 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Cena john cena: wwe® & the walt disney company expand partnership with two-day takeover of espn wide world of sports complex f filings actually say — line by line — the other side of the fight
+> The Scott Colom filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Tobias Harris — 20/100
+
+**Event:** Tobias Harris: (calf) out Tuesday vs. Oklahoma City
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tobias Harris tobias harris: injury update: why spurs won't rush recovery for tobias harris, jayden quaintance story is actually a money story — the detail nobody has explained
+
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 

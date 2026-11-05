@@ -1,0 +1,37 @@
+{
+  "runNo": 2108,
+  "at": "2026-11-05T03:37:18.446Z",
+  "rows": [
+    {
+      "event": "story-liam-neeson",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-kelly",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-colom",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-tobias-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
