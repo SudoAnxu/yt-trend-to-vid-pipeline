@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2118 · Updated: 05/11/2026, 18:10:23 (Asia/Kolkata)
+Run #2119 · Updated: 05/11/2026, 18:25:37 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,17 +30,31 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Carlos Ferrero — 22/100
+### Carlos Ferrero — 21/100
 
 **Event:** Carlos Ferrero: Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Carlos Ferrero carlos ferrero: ben shelton adds coach juan carlos ferrero to 2027 staff story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: news
+
+**Status:** RESEARCH
+
+### Jesse Minter's — 23/100
+
+**Event:** Jesse Minter's: Ravens’ All-Pro Called Out After ‘Mockery’ of Jesse Minter’s Mantra
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jesse Minter's situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** RESEARCH
 
