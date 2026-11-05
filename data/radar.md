@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2121 · Updated: 05/11/2026, 19:54:07 (Asia/Kolkata)
+Run #2122 · Updated: 05/11/2026, 20:22:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,29 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Russell Brand — 21/100
+### Josh Allen — 18/100
+
+**Event:** Josh Allen: injury
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Allen josh allen: hailee steinfeld shares photos from wonderland-themed halloween party with josh allen story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Russell Brand — 22/100
 
 **Event:** Russell Brand: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Russell Brand russell brand: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alexander Zverev — 17/100
+### Alexander Zverev — 18/100
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
