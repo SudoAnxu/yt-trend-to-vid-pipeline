@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2114 · Updated: 05/11/2026, 15:15:55 (Asia/Kolkata)
+Run #2115 · Updated: 05/11/2026, 15:31:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Sofia Kenin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-12 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,27 +34,13 @@ Sources this run: trends(40)
 
 **Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Jeff Bezos jeff bezos: fact check: fake image shows jeff bezos after 'hair transplant' -- it is ai-altered story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Dylan Sprouse — 23/100
-
-**Event:** Dylan Sprouse: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Dylan Sprouse dylan sprouse: reveals mind-blowing residual paycheck from suite life of zack & cody filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 

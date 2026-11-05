@@ -1,0 +1,23 @@
+{
+  "runNo": 2115,
+  "at": "2026-11-05T10:01:01.077Z",
+  "rows": [
+    {
+      "event": "story-sofia-kenin",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeff-bezos",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
