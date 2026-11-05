@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2113 · Updated: 05/11/2026, 14:20:09 (Asia/Kolkata)
+Run #2114 · Updated: 05/11/2026, 15:15:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jeff Bezos — 15/100
+### Sofia Kenin — 21/100
+
+**Event:** Sofia Kenin: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-12 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Sofia Kenin sofia kenin: teenager mika stojsavljevic shocks sofia kenin at 2026 hong kong open filings actually say — line by line — the part that was not supposed to be public
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jeff Bezos — 16/100
 
 **Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 16 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,99 +48,15 @@ Sources this run: trends(39)
 
 **Event:** Dylan Sprouse: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Dylan Sprouse dylan sprouse: reveals mind-blowing residual paycheck from suite life of zack & cody filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Josh Duhamel — 29/100
-
-**Event:** Josh Duhamel: Breaks Silence on Ransom Canyon's Surprise Cancellation After 2 Seasons
-
-**Why now:** 2 source lane(s): news, trends · momentum 26 (-7 vs prev run) · spice 14 · risk 34 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Josh Duhamel story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 5.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Eric Dane — 19/100
-
-**Event:** Eric Dane: Reveals Why He Was Let Go From ‘Grey’s Anatomy’ in Posthumous Memoir
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-14 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Eric Dane story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Eric Dane's — 25/100
-
-**Event:** Eric Dane's: Eric Dane’s ‘Euphoria’ costar is narrating audiobook for his posthumous memoir
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 14 · risk 34 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Eric Dane's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** ARCHIVED
-
-### Jeffrey Epstein — 11/100
-
-**Event:** Jeffrey Epstein: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-23 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jeffrey Epstein jeffrey epstein: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Leon Black — 22/100
-
-**Event:** Leon Black: Susan Estrich of Estrich Goldin LLP Issues Statement on Dismissal With Prejudice of Jane Doe Lawsuit Against L
-
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-6 vs prev run) · spice 4 · risk 48 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Leon Black leon black: billionaire leon black sues rep. robert garcia, alleging defamation over epstein comments story is actually a money story — what happens next
-
-**Competition:** 4 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Chipotle — 22/100
-
-**Event:** Chipotle: shares rise 7% after CEO says same-store sales growth will continue
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Chipotle chipotle: shares rise 7% after ceo says same-store sales growth will continue story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
