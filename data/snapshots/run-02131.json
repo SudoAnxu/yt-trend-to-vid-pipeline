@@ -1,0 +1,30 @@
+{
+  "runNo": 2131,
+  "at": "2026-11-05T18:32:35.783Z",
+  "rows": [
+    {
+      "event": "story-justin-jefferson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-jefferson-s",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jordan-addison",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
