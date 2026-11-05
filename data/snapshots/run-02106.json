@@ -1,0 +1,16 @@
+{
+  "runNo": 2106,
+  "at": "2026-11-05T02:40:32.686Z",
+  "rows": [
+    {
+      "event": "story-alicia-delgado",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
