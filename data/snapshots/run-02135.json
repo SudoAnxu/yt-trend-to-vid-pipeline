@@ -1,0 +1,23 @@
+{
+  "runNo": 2135,
+  "at": "2026-11-05T20:27:28.145Z",
+  "rows": [
+    {
+      "event": "story-tyler-adams",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-gavin-newsom",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
