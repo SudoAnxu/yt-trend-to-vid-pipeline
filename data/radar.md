@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2115 · Updated: 05/11/2026, 15:31:01 (Asia/Kolkata)
+Run #2116 · Updated: 05/11/2026, 16:55:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Sofia Kenin — 21/100
+### Mike Vrabel — 20/100
 
-**Event:** Sofia Kenin: trending now
+**Event:** Mike Vrabel: offers blunt review of Drake Maye’s fourth interception
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Sofia Kenin sofia kenin: teenager mika stojsavljevic shocks sofia kenin at 2026 hong kong open filings actually say — line by line — the part that was not supposed to be public
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jeff Bezos — 16/100
-
-**Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jeff Bezos jeff bezos: fact check: fake image shows jeff bezos after 'hair transplant' -- it is ai-altered story is actually a money story — the other side of the fight
+> What the Mike Vrabel mike vrabel: dianna russini will be ‘headlining her own show’ months after mike vrabel scandal filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
