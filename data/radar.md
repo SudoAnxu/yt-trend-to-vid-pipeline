@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2146 · Updated: 06/11/2026, 05:18:29 (Asia/Kolkata)
+Run #2147 · Updated: 06/11/2026, 05:22:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+9 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Louis Blues louis blues: 2026-27 gamethread #16: new jersey devils vs. st. louis blues filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 20 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** BOOSTED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Ron Desantis: withdraws execution order
 
-**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 9 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
