@@ -1,0 +1,16 @@
+{
+  "runNo": 2125,
+  "at": "2026-11-05T16:14:58.787Z",
+  "rows": [
+    {
+      "event": "story-warren-buffett",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

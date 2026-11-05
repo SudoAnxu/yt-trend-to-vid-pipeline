@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2124 · Updated: 05/11/2026, 21:12:16 (Asia/Kolkata)
+Run #2125 · Updated: 05/11/2026, 21:44:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Go — 22/100
+### Warren Buffett — 14/100
 
-**Event:** Will Go: Grammy Asian Pop Category Will Go Forward, CEO Says: ‘We Understand This Conclusion Will Not Satisfy Everyone’
+**Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Will Go will go: prediction: spacex stock will go parabolic after nov. 6 filings actually say — line by line — the other side of the fight
+> What the Warren Buffett warren buffett: has 1 simple rule for investing during bear markets. history says he's right. filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
