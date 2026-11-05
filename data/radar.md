@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2106 · Updated: 05/11/2026, 08:10:33 (Asia/Kolkata)
+Run #2107 · Updated: 05/11/2026, 08:39:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Alicia Delgado — 18/100
+### Jeff Bezos — 19/100
 
-**Event:** Alicia Delgado: maría alicia delgado
+**Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alicia Delgado alicia delgado: maria alicia delgado filings actually say — line by line — the other side of the fight
+> The Jeff Bezos story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### John Cena — 22/100
+
+**Event:** John Cena: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+15 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the John Cena john cena: wwe® & the walt disney company expand partnership with two-day takeover of espn wide world of sports complex f filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
