@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2144 · Updated: 06/11/2026, 04:15:05 (Asia/Kolkata)
+Run #2145 · Updated: 06/11/2026, 04:46:46 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Matt Damon's — 23/100
+### Michael Wilson — 17/100
+
+**Event:** Michael Wilson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-21 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Michael Wilson michael wilson: ‘i will forever be indebted to jacoby’ brissett, michael wilson says filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Matt Damon's — 16/100
 
 **Event:** Matt Damon's: wife, 50, stands out from the crowd in hot red suit as she giggles with Ben Affleck
 
-**Why now:** 1 source lane(s): news · momentum 24 (-3 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (-11 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,33 +44,33 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Tom Brady — 20/100
+### Matt Damon — 12/100
 
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+**Event:** Matt Damon: Casey Affleck on Matt Damon Rivalry, a Chris Nolan Phone Call and Being a Proud “Hollywood Outsider”
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-2 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tom Brady tom brady: connecticut brothers pull 1-in-10.5-million tom brady card from $30 box filings actually say — line by line — the number behind the headline
+> The Matt Damon matt damon: reveals wife underwent brain aneurysm surgery before 2024 oscars story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Megan Bayne — 18/100
+### Tyler Huntley — 14/100
 
-**Event:** Megan Bayne: trending now
+**Event:** Tyler Huntley: Ravens QB Lamar Jackson (ankle) out vs. Falcons; Tyler Huntley to start
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Megan Bayne megan bayne: trending now filings actually say — line by line — the other side of the fight
+> What the Tyler Huntley tyler huntley: ravens officially place lamar jackson, tyler huntley on ir with thumb, turf toe injuries filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
