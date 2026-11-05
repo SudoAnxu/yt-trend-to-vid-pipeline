@@ -1,0 +1,65 @@
+{
+  "runNo": 2113,
+  "at": "2026-11-05T08:50:08.369Z",
+  "rows": [
+    {
+      "event": "story-jeff-bezos",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-sprouse",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-duhamel",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-eric-dane",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-eric-dane-s",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeffrey-epstein",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-leon-black",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-chipotle",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
