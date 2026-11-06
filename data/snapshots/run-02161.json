@@ -1,0 +1,16 @@
+{
+  "runNo": 2161,
+  "at": "2026-11-06T08:50:19.187Z",
+  "rows": [
+    {
+      "event": "story-alexandra-shubladze",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
