@@ -1,0 +1,16 @@
+{
+  "runNo": 2162,
+  "at": "2026-11-06T09:42:49.493Z",
+  "rows": [
+    {
+      "event": "story-alexandra-shubladze",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
