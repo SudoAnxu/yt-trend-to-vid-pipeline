@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2149 · Updated: 06/11/2026, 06:23:17 (Asia/Kolkata)
+Run #2150 · Updated: 06/11/2026, 06:29:31 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(36)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,7 +12,7 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Brian Thomas: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+4 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(39)
 
 **Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+6 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -42,33 +42,19 @@ Sources this run: trends(39)
 
 **Competition:** 9 videos in last 6h · TTS ≈ 5.9h · sources: news, trends
 
-**Status:** BOOSTED
+**Status:** KEPT
 
 ### Jonathan Taylor — 16/100
 
 **Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Jonathan Taylor jonathan taylor: giants linked to derrick henry as cheaper alternative to jonathan taylor filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ted Lasso — 15/100
-
-**Event:** Ted Lasso: mae ted lasso
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ted Lasso situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
