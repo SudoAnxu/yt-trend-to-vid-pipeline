@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2173 · Updated: 06/11/2026, 21:14:03 (Asia/Kolkata)
+Run #2174 · Updated: 06/11/2026, 21:39:16 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Thomas Markle — 21/100
+### Thomas Markle — 22/100
 
 **Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 34 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Thomas Markle thomas markle: investigation: what we know as meghan’s half-brother becomes a ‘person of interest’ filings actually say — line by line — what happens next
+> What the Thomas Markle thomas markle: duchess meghan's father, thomas markle sr., arrested in florida in child pornography probe, sources say filings actually say — line by line — what happens next
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
 ### Will Be — 17/100
 
@@ -44,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Brandon Ingram — 17/100
+### Brandon Ingram — 18/100
 
 **Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -57,6 +57,20 @@ Sources this run: trends(40)
 **Competition:** 3 videos in last 6h · TTS ≈ 4h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Zverev Makes History — 19/100
+
+**Event:** Zverev Makes History: Djokovic Misses Out On ATP Finals; Zverev Makes History With Loss
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Zverev Makes History zverev makes history: djokovic misses out on atp finals; zverev makes history with loss filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
