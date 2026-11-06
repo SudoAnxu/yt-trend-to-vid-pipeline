@@ -1,0 +1,23 @@
+{
+  "runNo": 2159,
+  "at": "2026-11-06T07:46:26.331Z",
+  "rows": [
+    {
+      "event": "story-chris-pratt",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-martin-mcdonagh",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2158 · Updated: 06/11/2026, 12:34:35 (Asia/Kolkata)
+Run #2159 · Updated: 06/11/2026, 13:16:26 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Ryan Clark — 29/100
+### Chris Pratt — 11/100
 
-**Event:** Ryan Clark: again accuses ESPN of leaking his firing to OutKick: Here’s the real story
+**Event:** Chris Pratt: Says Marvel Has Taken “Hard Action” To Bring Star-Lord Back: “He’s Not Going Anywhere” [Interview]
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+1 vs prev run) · spice 18 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Clark ryan clark: fired analyst ryan clark reveals espn forced lsu kyren lacy apology before wife yonka talked him out of quitti filings actually say — line by line — the part that was not supposed to be public
+> What the Chris Pratt chris pratt: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Martin Mcdonagh — 17/100
+
+**Event:** Martin Mcdonagh: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Martin Mcdonagh martin mcdonagh: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 
 </details>
