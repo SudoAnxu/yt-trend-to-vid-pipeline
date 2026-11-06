@@ -1,0 +1,58 @@
+{
+  "runNo": 2157,
+  "at": "2026-11-06T05:18:27.964Z",
+  "rows": [
+    {
+      "event": "story-jordan-love",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-hawke",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-hawke-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-maya-hawke",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-tim-hardaway",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-kidd",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-driver",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

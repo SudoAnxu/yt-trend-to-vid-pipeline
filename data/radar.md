@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2156 · Updated: 06/11/2026, 09:02:30 (Asia/Kolkata)
+Run #2157 · Updated: 06/11/2026, 10:48:28 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,93 +12,107 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Jessica Chastain — 16/100
+### Jordan Love — 22/100
 
-**Event:** Jessica Chastain: trending now
+**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jessica Chastain jessica chastain: trending now story is actually a money story — the other side of the fight
+> The Jordan Love story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
-### Jessica Chastain's — 18/100
+### Ethan Hawke — 13/100
 
-**Event:** Jessica Chastain's: Inside Jessica Chastain's marriage to Italian nobleman husband and rarely-seen two kids
+**Event:** Ethan Hawke: Explains Why It’s Important to ‘Have a Backbone’ If ‘You’re Going to Be in the Public Sphere’ (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jessica Chastain's jessica chastain's: inside jessica chastain's marriage to italian nobleman husband and rarely-seen two kids story is actually a money story — the other side of the fight
+> What the Ethan Hawke ethan hawke: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 14 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Ethan Hawke's — 18/100
+
+**Event:** Ethan Hawke's: Ethan Hawke’s 109-Minute Horror Hit That Set A Major Genre Record Secures Massive Streaming Achievement
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ethan Hawke's ethan hawke's: ethan hawke’s son levon hawke lands first leading role opposite anthony hopkins filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Maya Hawke — 25/100
+
+**Event:** Maya Hawke: Sadie Sink and Maya Hawke Star in Hand-Drawn Prada Campaign by Legendary Disney Animator John Pomeroy
+
+**Why now:** 2 source lane(s): news, trends · momentum 33 (+15 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Maya Hawke story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Tim Hardaway — 19/100
+
+**Event:** Tim Hardaway: Sr. calls out Giannis Antetokounmpo while praising Cooper Flagg
+
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Tim Hardaway tim hardaway: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
 
 **Status:** RESEARCH
 
-### Josh Cuevas — 23/100
+### Jason Kidd — 15/100
 
-**Event:** Josh Cuevas: trending now
+**Event:** Jason Kidd: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Cuevas josh cuevas: trending now filings actually say — line by line — the other side of the fight
+> What the Jason Kidd jason kidd: sends urgent demand to heat player he used to coach with mavericks filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Adam Driver — 32/100
+
+**Event:** Adam Driver: Says “the Ship Has Sailed” on Playing Kylo Ren: “No More ‘Star Wars'”
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Adam Driver story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Billy Crystal — 21/100
-
-**Event:** Billy Crystal: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+11 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Billy Crystal billy crystal: meg ryan and billy crystal reunite in sweet new photo filings actually say — line by line — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Billy Crystal's — 17/100
-
-**Event:** Billy Crystal's: How to See Billy Crystal's New Solo Show 860 for $59
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Billy Crystal's billy crystal's: ‘860’: billy crystal’s love letter to pacific palisades filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Bryan Cranston — 21/100
-
-**Event:** Bryan Cranston: Reacts to Breaking Bad Being Named the No. 1 Television Show of the 21st Century (Exclusive)
-
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Bryan Cranston bryan cranston: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
