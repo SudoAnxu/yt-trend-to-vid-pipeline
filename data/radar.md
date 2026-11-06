@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2154 · Updated: 06/11/2026, 08:14:00 (Asia/Kolkata)
+Run #2155 · Updated: 06/11/2026, 08:41:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Jake Gyllenhaal's — 19/100
+### Lauren Boebert — 23/100
 
-**Event:** Jake Gyllenhaal's: 123-Minute Sci-Fi Action Thriller Is Officially the Biggest Movie on Netflix
+**Event:** Lauren Boebert: in big fight to keep her seat in Congress in too-close-to-call race
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Jake Gyllenhaal's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Will Ferrell — 23/100
-
-**Event:** Will Ferrell: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Will Ferrell will ferrell: trending now filings actually say — line by line — the other side of the fight
+> The Lauren Boebert lauren boebert: in big fight to keep her seat in congress in too-close-to-call race story is actually a money story — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
