@@ -1,0 +1,65 @@
+{
+  "runNo": 2160,
+  "at": "2026-11-06T08:02:28.741Z",
+  "rows": [
+    {
+      "event": "story-chris-pratt",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-santander",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-santander-s",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-martin-mcdonagh",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "unknown"
+    },
+    {
+      "event": "story-win-best-actor",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-best-actor",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michelle-obama",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michelle-obama-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
