@@ -1,0 +1,16 @@
+{
+  "runNo": 2188,
+  "at": "2026-11-06T20:59:36.043Z",
+  "rows": [
+    {
+      "event": "story-austin-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
