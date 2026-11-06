@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2181 · Updated: 07/11/2026, 00:10:16 (Asia/Kolkata)
+Run #2182 · Updated: 07/11/2026, 01:06:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Katherine Ryan — 16/100
+### Carlos Alcaraz — 24/100
 
-**Event:** Katherine Ryan: trending now
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-14 vs prev run) · spice 0 · risk 64 · external momentum 9 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+12 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Katherine Ryan katherine ryan: trending now filings actually say — line by line — the other side of the fight
+> The Carlos Alcaraz story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Russell Brand — 23/100
+### Rafael Jodar — 19/100
 
-**Event:** Russell Brand: trending now
+**Event:** Rafael Jodar: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Russell Brand russell brand: faces 'significant' prison sentence after rape and sexual assault conviction filings actually say — line by line — what happens next
+> What the Rafael Jodar rafael jodar: huge twist in race for last atp finals place as rafael jodar faces a last gasp threat filings actually say — line by line — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Thomas Markle — 21/100
+### James Milton — 19/100
 
-**Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
+**Event:** James Milton: Football Bet of the Day: James Milton has a 10-11 selection from the Nations League
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+14 vs prev run) · spice 8 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Thomas Markle thomas markle: , father of meghan, arrested after feds find photos of him sexually abusing minors, doj says filings actually say — line by line — what happens next
+> What the James Milton james milton: football bet of the day: james milton has a 5-4 selection from serie a filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
 
 </details>
