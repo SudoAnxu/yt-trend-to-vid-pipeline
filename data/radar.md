@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2150 · Updated: 06/11/2026, 06:29:31 (Asia/Kolkata)
+Run #2151 · Updated: 06/11/2026, 06:58:26 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(36)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,65 @@ Sources this run: trends(36)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Brian Thomas — 17/100
+### Austin Reed — 21/100
 
-**Event:** Brian Thomas: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
+**Event:** Austin Reed: Ravens sign QB Austin Reed to practice squad
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Brian Thomas story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 8 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Thomas Jr. — 18/100
-
-**Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Thomas Jr. story is a proxy fight about something bigger — the detail nobody has explained
+> What the Austin Reed austin reed: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 5.9h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** KEPT
 
-### Jonathan Taylor — 16/100
+### Tyler Huntley — 14/100
 
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+**Event:** Tyler Huntley: Ravens QB Lamar Jackson (ankle) out vs. Falcons; Tyler Huntley to start
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jonathan Taylor jonathan taylor: giants linked to derrick henry as cheaper alternative to jonathan taylor filings actually say — line by line — the other side of the fight
+> What the Tyler Huntley tyler huntley: ravens put lamar jackson, tyler huntley on ir; sign austin reed to active roster filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
+
+### Olivia Rodrigo — 19/100
+
+**Event:** Olivia Rodrigo: tour
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+16 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Olivia Rodrigo situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Melissa Joan — 29/100
+
+**Event:** Melissa Joan: hart
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Melissa Joan melissa joan: hart filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
