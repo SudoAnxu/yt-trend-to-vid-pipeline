@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2165 · Updated: 06/11/2026, 17:11:31 (Asia/Kolkata)
+Run #2166 · Updated: 06/11/2026, 17:53:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Bobby Flay — 32/100
+### Rob Sand — 17/100
 
-**Event:** Bobby Flay: Shares How a Mystery Movie Star Helped Him Win Over Brooke Williamson
+**Event:** Rob Sand: vs. Zach Lahn: Latest Polls as Iowa Governor Candidates Debate
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Bobby Flay story is a proxy fight about something bigger — the detail nobody has explained
+> What the Rob Sand rob sand: chuck grassley, 93, won’t step down early after democrat rob sand wins iowa governorship filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 9 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

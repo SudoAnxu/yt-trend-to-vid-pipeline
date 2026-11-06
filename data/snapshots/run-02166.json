@@ -1,0 +1,16 @@
+{
+  "runNo": 2166,
+  "at": "2026-11-06T12:23:57.385Z",
+  "rows": [
+    {
+      "event": "story-rob-sand",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
