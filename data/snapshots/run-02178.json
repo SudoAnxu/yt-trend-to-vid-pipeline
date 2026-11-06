@@ -1,0 +1,37 @@
+{
+  "runNo": 2178,
+  "at": "2026-11-06T17:35:31.624Z",
+  "rows": [
+    {
+      "event": "story-russell-brand",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-megan-markle",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-thomas-markle",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-ingram",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
