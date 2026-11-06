@@ -1,0 +1,16 @@
+{
+  "runNo": 2192,
+  "at": "2026-11-06T22:14:32.668Z",
+  "rows": [
+    {
+      "event": "story-stephen-curry",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
