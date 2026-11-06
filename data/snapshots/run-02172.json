@@ -1,0 +1,16 @@
+{
+  "runNo": 2172,
+  "at": "2026-11-06T15:16:11.334Z",
+  "rows": [
+    {
+      "event": "story-john-cena",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
