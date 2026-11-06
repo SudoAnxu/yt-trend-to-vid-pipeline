@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2186 · Updated: 07/11/2026, 01:59:21 (Asia/Kolkata)
+Run #2187 · Updated: 07/11/2026, 02:11:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Russell Martin's: This is Russell Martin’s last chance to change the narrative
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Tyler Kolek — 17/100
+### Tyler Kolek — 14/100
 
 **Event:** Tyler Kolek: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-9 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tyler Kolek story is a proxy fight about something bigger — the other side of the fight
+> What the Tyler Kolek tyler kolek: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
