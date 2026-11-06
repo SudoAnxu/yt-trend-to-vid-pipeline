@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2168 · Updated: 06/11/2026, 18:40:42 (Asia/Kolkata)
+Run #2169 · Updated: 06/11/2026, 19:29:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alex Eala — 19/100
+### Ben Shelton — 16/100
 
-**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 1 source lane(s): news · momentum 17 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alex Eala story is a proxy fight about something bigger — what happens next
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** ARCHIVED
-
-### Will Go — 19/100
-
-**Event:** Will Go: Grammy Asian Pop Category Will Go Forward, CEO Says: ‘We Understand This Conclusion Will Not Satisfy Everyone’
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Go will go: prediction: spacex stock will go parabolic after nov. 6 filings actually say — line by line — the other side of the fight
+> What the Ben Shelton ben shelton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 15 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Jay Rockefeller — 34/100
+
+**Event:** Jay Rockefeller: , Senate voice on health care and security, dies at 89
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jay Rockefeller filing that will matter in six months — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 14h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
