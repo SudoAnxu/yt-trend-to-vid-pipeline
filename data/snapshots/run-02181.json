@@ -1,0 +1,30 @@
+{
+  "runNo": 2181,
+  "at": "2026-11-06T18:40:15.576Z",
+  "rows": [
+    {
+      "event": "story-katherine-ryan",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 9,
+      "window": "unknown"
+    },
+    {
+      "event": "story-russell-brand",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-markle",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

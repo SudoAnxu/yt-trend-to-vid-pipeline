@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2180 · Updated: 06/11/2026, 23:39:47 (Asia/Kolkata)
+Run #2181 · Updated: 07/11/2026, 00:10:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Katherine Ryan — 21/100
+### Katherine Ryan — 16/100
 
 **Event:** Katherine Ryan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 64 · external momentum 23 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-14 vs prev run) · spice 0 · risk 64 · external momentum 9 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -28,13 +28,13 @@ Sources this run: trends(40)
 
 **Competition:** 1 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** ARCHIVED
 
-### Russell Brand — 21/100
+### Russell Brand — 23/100
 
 **Event:** Russell Brand: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,19 +44,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Thomas Markle — 16/100
+### Thomas Markle — 21/100
 
 **Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (-9 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+14 vs prev run) · spice 8 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Thomas Markle thomas markle: , father of meghan, arrested after feds find sexually explicit photos of him with minors, doj says filings actually say — line by line — what happens next
+> What the Thomas Markle thomas markle: , father of meghan, arrested after feds find photos of him sexually abusing minors, doj says filings actually say — line by line — what happens next
 
 **Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
-**Status:** KEPT
+**Status:** BOOSTED
 
 
 </details>
