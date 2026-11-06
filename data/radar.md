@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2172 · Updated: 06/11/2026, 20:46:12 (Asia/Kolkata)
+Run #2173 · Updated: 06/11/2026, 21:14:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### John Cena — 20/100
+### Thomas Markle — 21/100
 
-**Event:** John Cena: trending now
+**Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the John Cena john cena: wwe® & the walt disney company expand partnership with two-day takeover of espn wide world of sports complex f filings actually say — line by line — the other side of the fight
+> What the Thomas Markle thomas markle: investigation: what we know as meghan’s half-brother becomes a ‘person of interest’ filings actually say — line by line — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Will Be — 17/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Will Be will be: prediction: november will be a huge month for broadcom filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Brandon Ingram — 17/100
+
+**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Brandon Ingram brandon ingram: glorilla & brandon ingram channel ciara & bow wow for halloween filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 4h · sources: trends, news
 
 **Status:** ARCHIVED
 
