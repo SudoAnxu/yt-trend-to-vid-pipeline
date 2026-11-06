@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2174 · Updated: 06/11/2026, 21:39:16 (Asia/Kolkata)
+Run #2175 · Updated: 06/11/2026, 21:51:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Thomas Markle — 22/100
+### Thomas Markle — 19/100
 
 **Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
 
-**Why now:** 2 source lane(s): news, trends · momentum 34 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 24 (-10 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Thomas Markle thomas markle: duchess meghan's father, thomas markle sr., arrested in florida in child pornography probe, sources say filings actually say — line by line — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
 
 **Status:** BOOSTED
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Zverev Makes History: Djokovic Misses Out On ATP Finals; Zverev Makes History With Loss
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
