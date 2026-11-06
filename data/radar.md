@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2176 · Updated: 06/11/2026, 22:21:29 (Asia/Kolkata)
+Run #2177 · Updated: 06/11/2026, 22:44:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,65 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Russell Brand — 22/100
+
+**Event:** Russell Brand: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-6 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Russell Brand russell brand: faces 'significant' prison sentence after rape and sexual assault conviction filings actually say — line by line — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Thomas Markle — 24/100
 
 **Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
 
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+1 vs prev run) · spice 4 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-5 vs prev run) · spice 7 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Thomas Markle thomas markle: , father of meghan, arrested on charges related to child sexual abuse material, ap sources say filings actually say — line by line — what happens next
+> What the Thomas Markle thomas markle: , father of meghan, arrested after feds find sexually explicit photos of him with minors, doj says filings actually say — line by line — what happens next
 
 **Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
 **Status:** KEPT
 
-### Will Be — 17/100
-
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
-
-**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Will Be will be: prediction: november will be a huge month for broadcom filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
 ### Brandon Ingram — 19/100
 
 **Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 8.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Brandon Ingram brandon ingram: glorilla & brandon ingram channel ciara & bow wow for halloween filings actually say — line by line — the other side of the fight
+> The Brandon Ingram brandon ingram: clippers brandon ingram and rapper glorilla channel ciara, bow wow for epic halloween couple tribute story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 4h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 8.7h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Zverev Makes History — 19/100
-
-**Event:** Zverev Makes History: Djokovic Misses Out On ATP Finals; Zverev Makes History With Loss
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Zverev Makes History zverev makes history: djokovic misses out on atp finals; zverev makes history with loss filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
