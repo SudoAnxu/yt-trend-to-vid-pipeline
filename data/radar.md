@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2183 · Updated: 07/11/2026, 01:19:50 (Asia/Kolkata)
+Run #2184 · Updated: 07/11/2026, 01:33:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Tyler Kolek — 19/100
+
+**Event:** Tyler Kolek: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tyler Kolek tyler kolek: taylor swift named 'fakest' celebrity knicks fan by tyler kolek, deuce mcbride in trending video story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Stephen Miller — 17/100
 
 **Event:** Stephen Miller: wife
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +48,7 @@ Sources this run: trends(37)
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-15 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +58,11 @@ Sources this run: trends(37)
 
 **Status:** ARCHIVED
 
-### Rafael Jodar — 19/100
+### Rafael Jodar — 20/100
 
 **Event:** Rafael Jodar: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+2 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
