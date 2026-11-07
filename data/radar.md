@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2220 · Updated: 07/11/2026, 20:13:41 (Asia/Kolkata)
+Run #2221 · Updated: 07/11/2026, 20:32:09 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Michael Jordan: "Isn't that wild?!" – Michael Jordan explained why Clyde Drexler was an easier opponent than Reggie Miller and
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-17 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +30,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
+### Jimmy Watkins — 21/100
+
+**Event:** Jimmy Watkins: ‘The Jeremiah Rules’: How Ohio State’s Jeremiah Smith can channel Michael Jordan to solve his penalty problem 
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jimmy Watkins jimmy watkins: ‘the jeremiah rules’: how ohio state’s jeremiah smith can channel michael jordan to solve his penalty problem  filings actually say — line by line — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
 ### Jason Sudeikis — 15/100
 
 **Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,45 +58,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Ben Shelton — 17/100
+### Jason Sudeikis' — 19/100
 
-**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+**Event:** Jason Sudeikis': Notre Dame family ties make him perfect College GameDay guest picker
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ben Shelton ben shelton: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Carlos Ferrero — 20/100
-
-**Event:** Carlos Ferrero: Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff
-
-**Why now:** 1 source lane(s): news · momentum 22 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Carlos Ferrero carlos ferrero: shelton to add juan carlos ferrero to coaching team story is actually a money story — the other side of the fight
+> What the Jason Sudeikis' jason sudeikis': notre dame family ties make him perfect college gameday guest picker filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 7.2h · sources: news
-
-**Status:** RESEARCH
-
-### Will Ben — 18/100
-
-**Event:** Will Ben: Tennis Mailbag: Will Ben Shelton and Juan Carlos Ferrero Be a Perfect Match?
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Will Ben will ben: tennis mailbag: will ben shelton and juan carlos ferrero be a perfect match? story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
