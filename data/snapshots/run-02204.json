@@ -1,0 +1,16 @@
+{
+  "runNo": 2204,
+  "at": "2026-11-07T04:48:13.618Z",
+  "rows": [
+    {
+      "event": "story-micah-nori",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
