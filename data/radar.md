@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2226 · Updated: 07/11/2026, 22:15:45 (Asia/Kolkata)
+Run #2227 · Updated: 07/11/2026, 22:26:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,21 +20,21 @@ Sources this run: trends(40)
 
 **Event:** Angel City: fc vs washington spirit
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Angel City angel city: fc vs kc current story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tom Brady's — 20/100
+### Tom Brady's — 19/100
 
 **Event:** Tom Brady's: Drake Maye Looked Like Tom Brady’s Heir. Now, He’s a Disaster.
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Rob Gronkowski: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
