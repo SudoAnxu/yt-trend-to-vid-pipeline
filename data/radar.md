@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2218 · Updated: 07/11/2026, 19:10:45 (Asia/Kolkata)
+Run #2219 · Updated: 07/11/2026, 19:47:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,63 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Lauren James — 26/100
+### Jason Sudeikis — 15/100
 
-**Event:** Lauren James: injury: Chelsea star to miss at least five games
+**Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 9 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Lauren James story is a proxy fight about something bigger — the other side of the fight
+> What the Jason Sudeikis jason sudeikis: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 13 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Ben Shelton — 18/100
+
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+
+**Why now:** 2 source lane(s): news, trends · momentum 20 (+13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Ben Shelton ben shelton: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 20 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Carlos Ferrero — 20/100
+
+**Event:** Carlos Ferrero: Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff
+
+**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Carlos Ferrero carlos ferrero: shelton to add juan carlos ferrero to coaching team story is actually a money story — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.5h · sources: news
 
 **Status:** RESEARCH
 
-### Carlos Alcaraz — 20/100
+### Will Ben — 18/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Will Ben: Tennis Mailbag: Will Ben Shelton and Juan Carlos Ferrero Be a Perfect Match?
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Carlos Alcaraz carlos alcaraz: november 7, 2026: casper ruud vs carlos alcaraz: game spread prediction market filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Martin Etcheverry — 27/100
-
-**Event:** Martin Etcheverry: October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Martin Etcheverry story is a proxy fight about something bigger — the other side of the fight
+> The Will Ben will ben: tennis mailbag: will ben shelton and juan carlos ferrero be a perfect match? story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Lauren Boebert — 20/100
+### Will Feature — 21/100
 
-**Event:** Lauren Boebert: in big fight to keep her seat in Congress in too-close-to-call race
+**Event:** Will Feature: ‘Ahsoka’ Season 2 Will Feature More ‘Clone Wars’ and ‘Rebels’ Characters
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Lauren Boebert lauren boebert: did lauren boebert lose story is actually a money story — the other side of the fight
+> What the Will Feature will feature: ‘ahsoka’ season 2 will feature more ‘clone wars’ and ‘rebels’ characters filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 8h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
