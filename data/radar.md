@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2219 · Updated: 07/11/2026, 19:47:16 (Asia/Kolkata)
+Run #2220 · Updated: 07/11/2026, 20:13:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Michael Jordan — 15/100
+
+**Event:** Michael Jordan: "Isn't that wild?!" – Michael Jordan explained why Clyde Drexler was an easier opponent than Reggie Miller and
+
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-17 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Michael Jordan michael jordan: ‘the jeremiah rules’: how ohio state’s jeremiah smith can channel michael jordan to solve his penalty problem  filings actually say — line by line — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
 ### Jason Sudeikis — 15/100
 
 **Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Ben Shelton — 18/100
+### Ben Shelton — 17/100
 
 **Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 18 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,13 +62,13 @@ Sources this run: trends(40)
 
 **Event:** Carlos Ferrero: Ben Shelton adds coach Juan Carlos Ferrero to 2027 staff
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 22 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Carlos Ferrero carlos ferrero: shelton to add juan carlos ferrero to coaching team story is actually a money story — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.5h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 7.2h · sources: news
 
 **Status:** RESEARCH
 
@@ -62,27 +76,13 @@ Sources this run: trends(40)
 
 **Event:** Will Ben: Tennis Mailbag: Will Ben Shelton and Juan Carlos Ferrero Be a Perfect Match?
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > The Will Ben will ben: tennis mailbag: will ben shelton and juan carlos ferrero be a perfect match? story is actually a money story — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Will Feature — 21/100
-
-**Event:** Will Feature: ‘Ahsoka’ Season 2 Will Feature More ‘Clone Wars’ and ‘Rebels’ Characters
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Will Feature will feature: ‘ahsoka’ season 2 will feature more ‘clone wars’ and ‘rebels’ characters filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
