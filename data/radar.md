@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2201 · Updated: 07/11/2026, 07:42:33 (Asia/Kolkata)
+Run #2202 · Updated: 07/11/2026, 08:02:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Chris Hansen — 11/100
+### Paul George — 20/100
 
-**Event:** Chris Hansen: Invites Robert Pattinson For 1-On-1 Interview After Controversial Film Portrayal
+**Event:** Paul George: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Chris Hansen chris hansen: trending now filings actually say — line by line — the other side of the fight
+> What the Paul George paul george: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Matt Rhule — 15/100
+### Joe Mazzulla — 19/100
 
-**Event:** Matt Rhule: Nebraska HC Matt Rhule makes cameo in HBO's 'Lanterns' season finale
+**Event:** Joe Mazzulla: Sends Strong Message About Paul George
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Matt Rhule matt rhule: trending now filings actually say — line by line — the other side of the fight
+> What the Joe Mazzulla joe mazzulla: sends strong message about paul george filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Angel Reese — 14/100
+
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Angel Reese angel reese: lsu recognizes angel reese at halftime of texas southern game filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 

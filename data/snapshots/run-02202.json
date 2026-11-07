@@ -1,0 +1,30 @@
+{
+  "runNo": 2202,
+  "at": "2026-11-07T02:32:11.110Z",
+  "rows": [
+    {
+      "event": "story-paul-george",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-mazzulla",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-angel-reese",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
