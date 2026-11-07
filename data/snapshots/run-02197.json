@@ -1,0 +1,16 @@
+{
+  "runNo": 2197,
+  "at": "2026-11-07T00:10:43.535Z",
+  "rows": [
+    {
+      "event": "story-james-stats",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
