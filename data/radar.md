@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2225 · Updated: 07/11/2026, 22:03:47 (Asia/Kolkata)
+Run #2226 · Updated: 07/11/2026, 22:15:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,11 +12,25 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Tom Brady's — 19/100
+### Angel City — 19/100
+
+**Event:** Angel City: fc vs washington spirit
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Angel City angel city: fc vs kc current story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Tom Brady's — 20/100
 
 **Event:** Tom Brady's: Drake Maye Looked Like Tom Brady’s Heir. Now, He’s a Disaster.
 
@@ -30,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Tom Brady — 14/100
+### Tom Brady — 15/100
 
 **Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (-13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,45 +58,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Rob Gronkowski — 16/100
+### Rob Gronkowski — 17/100
 
 **Event:** Rob Gronkowski: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Rob Gronkowski rob gronkowski: tom brady roasts ex-teammates rob gronkowski, julian edelman’s new song filings actually say — line by line — the other side of the fight
 
 **Competition:** 4 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Will Play — 18/100
-
-**Event:** Will Play: Chargers-Broncos Week 5 Inactives: Ladd McConkey Will Play Against Denver
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Play will play: injury report: baylor cb kyler beaty will play against iowa state story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Ben Shelton — 15/100
-
-**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
-
-**Why now:** 2 source lane(s): news, trends · momentum 5 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ben Shelton ben shelton: au masters 1000 de paris, « l’intellectuel » luca van assche affronte ben shelton pour une place en finale filings actually say — line by line — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
