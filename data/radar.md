@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2213 · Updated: 07/11/2026, 16:46:35 (Asia/Kolkata)
+Run #2214 · Updated: 07/11/2026, 16:59:37 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,9 +12,23 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Will Estes — 26/100
+
+**Event:** Will Estes: 'Boston Blue': Why Will Estes Was 'Terrified' to Play Jamie Reagan Again
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Will Estes will estes: 'boston blue': why will estes was 'terrified' to play jamie reagan again story is actually a money story — the detail nobody has explained
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
