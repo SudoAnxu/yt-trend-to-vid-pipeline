@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2242 · Updated: 08/11/2026, 03:53:46 (Asia/Kolkata)
+Run #2243 · Updated: 08/11/2026, 04:21:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Billy Elekana — 32/100
+### Harry Kane — 17/100
 
-**Event:** Billy Elekana: 'I'm Trying To Be The Charles Oliveira Of Light Heavyweight' | UFC Fight Night: Cortes Acosta vs Walker
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Billy Elekana story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** RESEARCH
-
-### Charles Oliveira — 20/100
-
-**Event:** Charles Oliveira: Justin Gaethje not getting paid White House money again, needs to decide on retirement
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-6 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Charles Oliveira story is a proxy fight about something bigger — the other side of the fight
+> What the Harry Kane harry kane: signs new bayern munich contract: 'i want to win many more titles' filings actually say — line by line — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** KEPT
+
+### Alan Ritchson's — 17/100
+
+**Event:** Alan Ritchson's: Alan Ritchson’s ‘Motor City’ Just Hit a Major Streaming Milestone a Month After Its VOD Debut
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Alan Ritchson's situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 18 videos in last 6h · TTS ≈ 3.7h · sources: news
+
+**Status:** ARCHIVED
+
+### Alan Ritchson — 14/100
+
+**Event:** Alan Ritchson: Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out
+
+**Why now:** 1 source lane(s): news · momentum 8 (-16 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Alan Ritchson situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
 
 **Status:** ARCHIVED
 
