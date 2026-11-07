@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2230 · Updated: 07/11/2026, 23:26:09 (Asia/Kolkata)
+Run #2231 · Updated: 07/11/2026, 23:43:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(34)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Harbaugh — 18/100
+### John Harbaugh — 19/100
 
 **Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-10 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 

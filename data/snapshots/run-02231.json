@@ -1,0 +1,16 @@
+{
+  "runNo": 2231,
+  "at": "2026-11-07T18:13:35.747Z",
+  "rows": [
+    {
+      "event": "story-john-harbaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
