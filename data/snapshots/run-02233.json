@@ -1,0 +1,30 @@
+{
+  "runNo": 2233,
+  "at": "2026-11-07T18:56:01.578Z",
+  "rows": [
+    {
+      "event": "story-mike-norvell",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-nate-sheppard",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-cramer",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

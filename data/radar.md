@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2232 · Updated: 07/11/2026, 23:56:51 (Asia/Kolkata)
+Run #2233 · Updated: 08/11/2026, 00:26:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(34)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,49 @@ Sources this run: trends(34)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Pablo Guede — 19/100
+### Mike Norvell — 23/100
 
-**Event:** Pablo Guede: Hernán Barcos reaccionó a la sanción de Pablo Guede y habló sobre el duro reto de Sporting Cristal
+**Event:** Mike Norvell: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-10 vs prev run) · spice 6 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Pablo Guede pablo guede: hernán barcos reaccionó a la sanción de pablo guede y habló sobre el duro reto de sporting cristal filings actually say — line by line — the other side of the fight
+> What the Mike Norvell mike norvell: fsu fires mike norvell, owes coach $50 million buyout after befuddling 7-year tenure filings actually say — line by line — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Nate Sheppard — 30/100
+
+**Event:** Nate Sheppard: Watch Nate Sheppard set Duke football record with TD run vs NC State
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Nate Sheppard nate sheppard: watch nate sheppard set duke football record with td run vs nc state filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Matt Rhule — 17/100
+### Jim Cramer — 18/100
 
-**Event:** Matt Rhule: Nebraska HC Matt Rhule makes cameo in HBO's 'Lanterns' season finale
+**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Matt Rhule matt rhule: jeremy pernell: it’s time for nebraska’s matt rhule to move on from dana holgorsen filings actually say — line by line — the other side of the fight
+> What the Jim Cramer jim cramer: nvidia stock advice filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
