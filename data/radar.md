@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2208 · Updated: 07/11/2026, 13:36:15 (Asia/Kolkata)
+Run #2209 · Updated: 07/11/2026, 14:36:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Ethan Hawke — 21/100
-
-**Event:** Ethan Hawke: Explains Why It’s Important to ‘Have a Backbone’ If ‘You’re Going to Be in the Public Sphere’ (Exclusive)
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+21 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ethan Hawke ethan hawke: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
