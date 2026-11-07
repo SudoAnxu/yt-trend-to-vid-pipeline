@@ -1,0 +1,44 @@
+{
+  "runNo": 2225,
+  "at": "2026-11-07T16:33:47.413Z",
+  "rows": [
+    {
+      "event": "story-tom-brady-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-brady",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-gronkowski",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-play",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-shelton",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
