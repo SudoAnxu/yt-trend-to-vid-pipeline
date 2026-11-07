@@ -1,0 +1,16 @@
+{
+  "runNo": 2230,
+  "at": "2026-11-07T17:56:09.018Z",
+  "rows": [
+    {
+      "event": "story-john-harbaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
