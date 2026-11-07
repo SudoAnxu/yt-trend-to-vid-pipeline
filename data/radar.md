@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2222 · Updated: 07/11/2026, 20:44:35 (Asia/Kolkata)
+Run #2223 · Updated: 07/11/2026, 21:17:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Michael Jordan — 15/100
+### Marcus Freeman — 16/100
 
-**Event:** Michael Jordan: "Isn't that wild?!" – Michael Jordan explained why Clyde Drexler was an easier opponent than Reggie Miller and
+**Event:** Marcus Freeman: Notre Dame football coach Marcus Freeman on QB CJ Carr's line checks
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Jordan michael jordan: ‘the jeremiah rules’: how ohio state’s jeremiah smith can channel michael jordan to solve his penalty problem  filings actually say — line by line — what happens next
+> What the Marcus Freeman marcus freeman: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jimmy Watkins — 21/100
+### Scott Colom — 23/100
 
-**Event:** Jimmy Watkins: ‘The Jeremiah Rules’: How Ohio State’s Jeremiah Smith can channel Michael Jordan to solve his penalty problem 
+**Event:** Scott Colom: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jimmy Watkins jimmy watkins: ‘the jeremiah rules’: how ohio state’s jeremiah smith can channel michael jordan to solve his penalty problem  filings actually say — line by line — what happens next
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Jordan Love — 23/100
-
-**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 0 · risk 26 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jordan Love jordan love: drake maye vs. jordan love: which is the better quarterback? filings actually say — line by line — the other side of the fight
+> The Scott Colom filing that will matter in six months — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
+
+### Carlos Alcaraz — 20/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Carlos Alcaraz carlos alcaraz: november 7, 2026: casper ruud vs carlos alcaraz: game spread prediction market filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Martin Etcheverry — 27/100
+
+**Event:** Martin Etcheverry: October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market
+
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Martin Etcheverry story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
