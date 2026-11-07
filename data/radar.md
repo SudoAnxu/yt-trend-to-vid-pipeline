@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2211 · Updated: 07/11/2026, 16:06:59 (Asia/Kolkata)
+Run #2212 · Updated: 07/11/2026, 16:16:37 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** To Host: Oregon State Stays Home To Host WSU Saturday At Reser
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Tom Jones — 21/100
+### Tom Jones — 20/100
 
 **Event:** Tom Jones: Sir Tom Jones 'truly sorry' as he cancels two shows due to illness
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+7 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
