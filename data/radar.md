@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2243 · Updated: 08/11/2026, 04:21:44 (Asia/Kolkata)
+Run #2244 · Updated: 08/11/2026, 05:00:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Harry Kane — 17/100
+### Sam Houston — 24/100
 
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+**Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Harry Kane harry kane: signs new bayern munich contract: 'i want to win many more titles' filings actually say — line by line — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** KEPT
-
-### Alan Ritchson's — 17/100
-
-**Event:** Alan Ritchson's: Alan Ritchson’s ‘Motor City’ Just Hit a Major Streaming Milestone a Month After Its VOD Debut
-
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+8 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Alan Ritchson's situation is weirder than the clips suggest — the other side of the fight
+> The Sam Houston filing that will matter in six months — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Alan Ritchson — 14/100
+### Jesse Legree — 13/100
 
-**Event:** Alan Ritchson: Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out
+**Event:** Jesse Legree: trending now
 
-**Why now:** 1 source lane(s): news · momentum 8 (-16 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Alan Ritchson situation is weirder than the clips suggest — the other side of the fight
+> What the Jesse Legree jesse legree: the 10 best true freshmen in college football so far this season, from jesse legree to kenny darby filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 16 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 

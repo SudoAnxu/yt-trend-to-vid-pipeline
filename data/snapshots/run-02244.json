@@ -1,0 +1,23 @@
+{
+  "runNo": 2244,
+  "at": "2026-11-07T23:30:24.999Z",
+  "rows": [
+    {
+      "event": "story-sam-houston",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-jesse-legree",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
