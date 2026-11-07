@@ -1,0 +1,30 @@
+{
+  "runNo": 2238,
+  "at": "2026-11-07T20:45:54.452Z",
+  "rows": [
+    {
+      "event": "story-mike-norvell",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-jack-ham",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

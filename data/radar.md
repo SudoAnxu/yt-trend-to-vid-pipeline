@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2237 · Updated: 08/11/2026, 01:54:40 (Asia/Kolkata)
+Run #2238 · Updated: 08/11/2026, 02:15:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Martin Short — 22/100
+### Mike Norvell — 24/100
 
-**Event:** Martin Short: , Meg Stalter Star In Verizon's Holiday Ads 11/06/2026
+**Event:** Mike Norvell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 6 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Martin Short story is a proxy fight about something bigger — the other side of the fight
+> What the Mike Norvell mike norvell: fsu fires mike norvell, owes coach $50 million buyout after befuddling 7-year tenure filings actually say — line by line — the number behind the headline
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Michael Douglas — 14/100
+
+**Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
+
+**Why now:** 2 source lane(s): news, trends · momentum 3 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Michael Douglas story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jack Ham — 29/100
+
+**Event:** Jack Ham: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jack Ham jack ham: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
