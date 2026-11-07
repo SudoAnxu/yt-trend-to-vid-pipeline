@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2228 · Updated: 07/11/2026, 22:38:56 (Asia/Kolkata)
+Run #2229 · Updated: 07/11/2026, 23:19:01 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,77 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Ted Lasso — 12/100
+### Louis Blues — 15/100
 
-**Event:** Ted Lasso: mae ted lasso
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ted Lasso ted lasso: trending now filings actually say — line by line — the other side of the fight
+> What the Louis Blues louis blues: projected lineup: nov. 7 at nashville | st. louis blues filings actually say — line by line — the other side of the fight
+
+**Competition:** 20 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Austin Simmons — 20/100
+
+**Event:** Austin Simmons: Reportedly Returning to Missouri on New Contract, Will Skip 2027 NFL Draft
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-7 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Austin Simmons story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Randy Orton — 24/100
+
+**Event:** Randy Orton: Cody Rhodes vs. Randy Orton | Last Man Standing Match: WWE Crown Jewel 2026 Hype Package
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Randy Orton randy orton: cody rhodes vs. randy orton | last man standing match: wwe crown jewel 2026 hype package story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Cody Rhodes — 20/100
+
+**Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-5 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Cody Rhodes cody rhodes: vs. randy orton | last man standing match: wwe crown jewel 2026 hype package story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### John Cena — 13/100
+
+**Event:** John Cena: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the John Cena john cena: randy orton calls himself the "last man standing" as john cena, brock lesnar and batista retire filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ted Lasso's — 22/100
-
-**Event:** Ted Lasso's: Ted Lasso’s Hannah Waddingham Weighs In on Show’s Future Beyond Season 4 After Past Production Delays
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Ted Lasso's ted lasso's: ted lasso’s hannah waddingham weighs in on show’s future beyond season 4 after past production delays filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Hannah Waddingham — 23/100
-
-**Event:** Hannah Waddingham: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-3 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Hannah Waddingham hannah waddingham: gives shocking three-word response over ‘ted lasso’ fate story is actually a money story — the part that was not supposed to be public
-
-**Competition:** 8 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Return — 18/100
-
-**Event:** Will Return: John Mayer Will Return to the Sphere in 2027
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Return will return: hannah waddingham isn’t sure ‘ted lasso’ will return, but she’d happily come back story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Angel City — 19/100
+### Angel City — 13/100
 
 **Event:** Angel City: fc vs washington spirit
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 2 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Angel City angel city: fc vs kc current story is actually a money story — the other side of the fight
+> What the Angel City angel city: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 

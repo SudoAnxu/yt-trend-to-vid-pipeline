@@ -1,0 +1,51 @@
+{
+  "runNo": 2229,
+  "at": "2026-11-07T17:48:59.182Z",
+  "rows": [
+    {
+      "event": "story-louis-blues",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-randy-orton",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-cody-rhodes",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-cena",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-angel-city",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 2,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
