@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2231 · Updated: 07/11/2026, 23:43:35 (Asia/Kolkata)
+Run #2232 · Updated: 07/11/2026, 23:56:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(34)
 
@@ -12,21 +12,35 @@ Sources this run: trends(34)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### John Harbaugh — 19/100
+### Pablo Guede — 19/100
 
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+**Event:** Pablo Guede: Hernán Barcos reaccionó a la sanción de Pablo Guede y habló sobre el duro reto de Sporting Cristal
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The John Harbaugh story is a proxy fight about something bigger — the detail nobody has explained
+> What the Pablo Guede pablo guede: hernán barcos reaccionó a la sanción de pablo guede y habló sobre el duro reto de sporting cristal filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Matt Rhule — 17/100
+
+**Event:** Matt Rhule: Nebraska HC Matt Rhule makes cameo in HBO's 'Lanterns' season finale
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Matt Rhule matt rhule: jeremy pernell: it’s time for nebraska’s matt rhule to move on from dana holgorsen filings actually say — line by line — the other side of the fight
+
+**Competition:** 21 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 

@@ -1,0 +1,23 @@
+{
+  "runNo": 2232,
+  "at": "2026-11-07T18:26:50.812Z",
+  "rows": [
+    {
+      "event": "story-pablo-guede",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matt-rhule",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
