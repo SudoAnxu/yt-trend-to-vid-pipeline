@@ -1,0 +1,23 @@
+{
+  "runNo": 2239,
+  "at": "2026-11-07T21:00:47.542Z",
+  "rows": [
+    {
+      "event": "story-jose-mourinho",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-trevor-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
