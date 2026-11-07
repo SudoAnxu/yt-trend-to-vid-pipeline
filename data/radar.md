@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2198 · Updated: 07/11/2026, 06:19:29 (Asia/Kolkata)
+Run #2199 · Updated: 07/11/2026, 06:34:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Sam Houston — 17/100
+### Hugh Jackman — 20/100
 
-**Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
+**Event:** Hugh Jackman: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+9 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Sam Houston sam houston: alabama 96-74 sam houston (nov 3, 2026) game recap filings actually say — line by line — the other side of the fight
+> The Hugh Jackman hugh jackman: ‘logan’ star dafne keen says ‘i was offered cocaine’ as an 11-year-old in hollywood and hugh jackman ‘made sur story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Jake Gyllenhaal's — 19/100
+
+**Event:** Jake Gyllenhaal's: 123-Minute Sci-Fi Action Thriller Is Officially the Biggest Movie on Netflix
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jake Gyllenhaal's story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
