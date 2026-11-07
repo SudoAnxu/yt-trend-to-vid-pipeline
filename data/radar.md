@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2221 · Updated: 07/11/2026, 20:32:09 (Asia/Kolkata)
+Run #2222 · Updated: 07/11/2026, 20:44:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Jimmy Watkins: ‘The Jeremiah Rules’: How Ohio State’s Jeremiah Smith can channel Michael Jordan to solve his penalty problem 
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,29 +44,15 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jason Sudeikis — 15/100
+### Jordan Love — 23/100
 
-**Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
+**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jason Sudeikis jason sudeikis: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jason Sudeikis' — 19/100
-
-**Event:** Jason Sudeikis': Notre Dame family ties make him perfect College GameDay guest picker
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jason Sudeikis' jason sudeikis': notre dame family ties make him perfect college gameday guest picker filings actually say — line by line — the other side of the fight
+> What the Jordan Love jordan love: drake maye vs. jordan love: which is the better quarterback? filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
