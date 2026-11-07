@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2197 · Updated: 07/11/2026, 05:40:43 (Asia/Kolkata)
+Run #2198 · Updated: 07/11/2026, 06:19:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### James Stats — 17/100
+### Sam Houston — 17/100
 
-**Event:** James Stats: lebron james stats
+**Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the James Stats james stats: lebron james stats filings actually say — line by line — the other side of the fight
+> What the Sam Houston sam houston: alabama 96-74 sam houston (nov 3, 2026) game recap filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
