@@ -1,0 +1,44 @@
+{
+  "runNo": 2282,
+  "at": "2026-11-08T19:18:36.270Z",
+  "rows": [
+    {
+      "event": "story-jake-ferguson",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-riley-moss",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-terry-pluto",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-alec-pierce",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-chris-harrison",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

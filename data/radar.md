@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2281 · Updated: 09/11/2026, 00:25:20 (Asia/Kolkata)
+Run #2282 · Updated: 09/11/2026, 00:48:37 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,63 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Malik Willis — 26/100
+### Jake Ferguson — 25/100
 
-**Event:** Malik Willis: trending now
+**Event:** Jake Ferguson: Cowboys tight end Jake Ferguson exits game vs. Cardinals, is questionable to return
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+11 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 30 (-3 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Malik Willis malik willis: passing yards pick for dolphins vs. lions story is actually a money story — the other side of the fight
+> What the Jake Ferguson jake ferguson: (ankle) questionable vs. colts filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** RESEARCH
+
+### Riley Moss — 17/100
+
+**Event:** Riley Moss: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Riley Moss riley moss: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Terry Pluto — 20/100
+
+**Event:** Terry Pluto: No LeBron? Cavs’ big summer move for Peyton Watson might be the right one – Terry Pluto
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Terry Pluto terry pluto: come on browns, cut out the dumb penalties — terry pluto filings actually say — line by line — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Travis Kelce's — 19/100
+### Alec Pierce — 26/100
 
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
+**Event:** Alec Pierce: trending now
 
-**Why now:** 1 source lane(s): news · momentum 12 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Travis Kelce's travis kelce's: why taylor swift hasn’t been seen at travis kelce’s chiefs-broncos game in denver filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 21 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Jonathan Taylor — 19/100
-
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jonathan Taylor jonathan taylor: landing spots: ranking top 7 trade fits for colts pro bowl running back filings actually say — line by line — the other side of the fight
+> The Alec Pierce story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Chris Johnson — 18/100
+### Chris Harrison — 18/100
 
-**Event:** Chris Johnson: opens up about his heartbreaking ALS journey as former NFL star fights for more time with h
+**Event:** Chris Harrison: Responds To Warner Bros' Legal Action Against 'The Vow'
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Chris Johnson chris johnson: trending now story is actually a money story — the other side of the fight
+> The Chris Harrison chris harrison: dating show ‘the vow’ unveils trailer story is actually a money story — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
