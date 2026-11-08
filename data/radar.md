@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2268 · Updated: 08/11/2026, 20:20:16 (Asia/Kolkata)
+Run #2269 · Updated: 08/11/2026, 21:00:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,93 +12,79 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 22/100
+### Nick Folk — 26/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Nick Folk: Fromal’s Kicking Notebook: Assessing Nick Folk panic and NFL Week 1 standouts
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Carlos Alcaraz carlos alcaraz: trending now story is actually a money story — the other side of the fight
+> What the Nick Folk nick folk: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ben Shelton — 20/100
+### Joe Burrow — 14/100
 
-**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+14 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ben Shelton ben shelton: trending now story is actually a money story — the other side of the fight
+> What the Joe Burrow joe burrow: girlfriend filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.2h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tyler Allgeier — 14/100
+### Joe Burrow's — 21/100
 
-**Event:** Tyler Allgeier: trending now
+**Event:** Joe Burrow's: “I’ve Barely Been Sleeping”: Bengals QB Joe Burrow’s Girlfriend Olivia Ponton Opens Up on Physical Toll Amid H
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tyler Allgeier tyler allgeier: bengals wr tee higgins, cardinals rb tyler allgeier highlight players of the week filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Dexter Lawrence — 20/100
-
-**Event:** Dexter Lawrence: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 30 (+2 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Dexter Lawrence dexter lawrence: trending now filings actually say — line by line — the other side of the fight
+> What the Joe Burrow's joe burrow's: model girlfriend olivia ponton causes a stir with vacation photos filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
-### Patrick Queen — 19/100
+### Olivia Ponton — 26/100
 
-**Event:** Patrick Queen: Steelers received trade calls on LB Patrick Queen
+**Event:** Olivia Ponton: Joe Burrow's model girlfriend Olivia Ponton causes a stir with vacation photos
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 4 · risk 64 · external momentum 33 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Patrick Queen patrick queen: afc notes: dexter lawrence, patrick queen, bengals, ravens, steelers filings actually say — line by line — the other side of the fight
+> What the Olivia Ponton olivia ponton: joe burrow's model girlfriend olivia ponton causes a stir with vacation photos filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Dexter Lawrence's — 19/100
+### Malik Nabers — 17/100
 
-**Event:** Dexter Lawrence's: 'It's a three-man Sexy Dexy!' Watch Dexter Lawrence's mic'd-up sack
+**Event:** Malik Nabers: Giants vs. Commanders live updates: Malik Nabers TD forces overtime
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-34 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Dexter Lawrence's dexter lawrence's: bengals do 'sexy dexy' after dexter lawrence's fumble recovery, return filings actually say — line by line — the other side of the fight
+> What the Malik Nabers malik nabers: giants' cam skattebo doubtful vs. eagles; malik nabers 'full go' filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 20 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
