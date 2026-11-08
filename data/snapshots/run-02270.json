@@ -1,0 +1,51 @@
+{
+  "runNo": 2270,
+  "at": "2026-11-08T15:38:27.161Z",
+  "rows": [
+    {
+      "event": "story-nick-folk",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-sugiura",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-burrow",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-burrow-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-ponton",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-malik-nabers",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 6,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
