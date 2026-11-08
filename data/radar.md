@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2264 · Updated: 08/11/2026, 18:30:41 (Asia/Kolkata)
+Run #2265 · Updated: 08/11/2026, 19:15:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Justin Boone's — 21/100
+### Chris Sutton — 25/100
 
-**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+**Event:** Chris Sutton: slams Celtic tactical tweaks as personnel adjustments aren't 'helping' Jekyll and Hyde Hoops duo
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Justin Boone's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** ARCHIVED
-
-### Ryan Flournoy — 16/100
-
-**Event:** Ryan Flournoy: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Flournoy story is a proxy fight about something bigger — the other side of the fight
+> What the Chris Sutton chris sutton: ipswich vs bournemouth predictions: chris sutton on premier league game filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
 
 **Status:** ARCHIVED
 

@@ -1,0 +1,16 @@
+{
+  "runNo": 2265,
+  "at": "2026-11-08T13:45:01.936Z",
+  "rows": [
+    {
+      "event": "story-chris-sutton",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
