@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2288 · Updated: 09/11/2026, 03:11:11 (Asia/Kolkata)
+Run #2289 · Updated: 09/11/2026, 03:54:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,91 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Jim Harbaugh — 20/100
+### Brandon Cisse — 18/100
 
-**Event:** Jim Harbaugh: gave brother J.J. McCarthy scouting report before Giants trade
+**Event:** Brandon Cisse: Packers get encouraging Brandon Cisse update ahead of crucial Lions showdown
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (-8 vs prev run) · spice 10 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jim Harbaugh story is a proxy fight about something bigger — the detail nobody has explained
+> The Brandon Cisse story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** ARCHIVED
 
-### Justin Herbert — 17/100
+### Jessica Pegula — 20/100
 
-**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
+**Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 25 (+12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Justin Herbert story is a proxy fight about something bigger — the detail nobody has explained
+> The Jessica Pegula jessica pegula: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Ryan Flournoy — 20/100
+### Bryan Cranston — 17/100
 
-**Event:** Ryan Flournoy: trending now
+**Event:** Bryan Cranston: Reacts to Breaking Bad Being Named the No. 1 Television Show of the 21st Century (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Flournoy ryan flournoy: trending now filings actually say — line by line — the other side of the fight
+> The Bryan Cranston bryan cranston: i'm bryan cranston, actor and dos hombres mezcal cofounder. here's my daily routine and what it'd take for me  story is actually a money story — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Micah Parsons — 21/100
+### Brandon Aiyuk — 16/100
 
-**Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
+**Event:** Brandon Aiyuk: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Micah Parsons micah parsons: is micah parsons playing today filings actually say — line by line — the other side of the fight
+> The Brandon Aiyuk brandon aiyuk: meets with 49ers, says he's healthy, 'looking to get reinstated' story is actually a money story — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 15 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Justin Guarini — 31/100
+### Brandon Aiyuk's — 18/100
 
-**Event:** Justin Guarini: 'American Idol' alum Justin Guarini once forgot lyrics 'in front of 30 million people'
+**Event:** Brandon Aiyuk's: Former 49ers Teammate Sounds Off on WR's 'Desperate' Antics amid Trade Push
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Guarini story is a proxy fight about something bigger — the number behind the headline
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Tyler Shough — 16/100
-
-**Event:** Tyler Shough: Watch Jeff Brohm breaks down transfer quarterbacks Tyler Shough and Lincoln Kienholz - Wake Up Barstool
-
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tyler Shough tyler shough: trending now story is actually a money story — the other side of the fight
+> The Brandon Aiyuk's brandon aiyuk's: player personnel handbook implies that the nfl can delay (or deny) brandon aiyuk's reinstatement story is actually a money story — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 6.8h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
 
