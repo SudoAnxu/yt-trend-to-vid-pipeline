@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2274 · Updated: 08/11/2026, 22:25:46 (Asia/Kolkata)
+Run #2275 · Updated: 08/11/2026, 22:40:01 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,21 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Oliver Glasner — 19/100
+### Philip Rivers — 22/100
 
-**Event:** Oliver Glasner: James McAtee: How Oliver Glasner has transformed Nottingham Forest midfielder from forgotten man to his new Ad
+**Event:** Philip Rivers: NC State hiring Philip Rivers would be unconventional, but he might still be the right fit
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 25 (-7 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Oliver Glasner oliver glasner: the result oliver glasner needed: how nottingham forest ran manchester city ragged filings actually say — line by line — the other side of the fight
+> What the Philip Rivers philip rivers: completes high-school season, confirms interview with nc state filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Russell Wilson — 14/100
+
+**Event:** Russell Wilson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Russell Wilson story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Nick Folk — 21/100
+
+**Event:** Nick Folk: Fromal’s Kicking Notebook: Assessing Nick Folk panic and NFL Week 1 standouts
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Nick Folk nick folk: critical: nick folk is kicking for his job: the falcons' big decision filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rafael Camara — 11/100
+
+**Event:** Rafael Camara: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rafael Camara rafael camara: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
