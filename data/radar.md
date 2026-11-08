@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2278 · Updated: 08/11/2026, 23:42:14 (Asia/Kolkata)
+Run #2279 · Updated: 08/11/2026, 23:57:13 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Josh Allen's — 15/100
+### Joe Milton — 24/100
 
-**Event:** Josh Allen's: Wife, Hailee Steinfield, Announces Difficult Personal News Before Chargers-Bills
+**Event:** Joe Milton: trending now
 
-**Why now:** 1 source lane(s): news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+18 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Josh Allen's story is a proxy fight about something bigger — the other side of the fight
+> The Joe Milton joe milton: giants vs. eagles live updates, inactives, where to watch: cam skattebo inactive for new york, while joe milto story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alex Singleton — 25/100
+### Nick Sirianni — 18/100
 
-**Event:** Alex Singleton: Former CFL star Alex Singleton has been 'the best backer in football for a long time': Broncos DC Vance Joseph
+**Event:** Nick Sirianni: explains why Makai Lemon’s role could grow with Eagles
 
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Alex Singleton story is a proxy fight about something bigger — the other side of the fight
+> The Nick Sirianni nick sirianni: why did the eagles make the quarterback change to joe milton? nick sirianni explains. story is actually a money story — the detail nobody has explained
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.1h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 ### Angel City — 26/100
 
@@ -58,33 +58,33 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Michael Strahan — 16/100
+### Jack Campbell — 16/100
 
-**Event:** Michael Strahan: trending now
+**Event:** Jack Campbell: Lions provide update on Jack Campbell
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Michael Strahan michael strahan: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Michael Strahan's — 21/100
-
-**Event:** Michael Strahan's: All About Michael Strahan’s 5 Kids, Including His Baby Daughter with Girlfriend Kayla Quick
-
-**Why now:** 1 source lane(s): news · momentum 22 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Michael Strahan's story is a proxy fight about something bigger — the other side of the fight
+> What the Jack Campbell jack campbell: detroit lions wear jack campbell jerseys ahead of miami dolphins game to honor injured teammate filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 7.7h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Pablo Guede — 19/100
+
+**Event:** Pablo Guede: Hernán Barcos reaccionó a la sanción de Pablo Guede y habló sobre el duro reto de Sporting Cristal
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Pablo Guede pablo guede: sin espacio en andahuaylas: el reclamo de alianza lima contra los chankas por falta de seguridad filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
