@@ -1,0 +1,16 @@
+{
+  "runNo": 2253,
+  "at": "2026-11-08T06:22:45.859Z",
+  "rows": [
+    {
+      "event": "story-connor-mcdavid",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
