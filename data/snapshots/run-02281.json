@@ -1,0 +1,37 @@
+{
+  "runNo": 2281,
+  "at": "2026-11-08T18:55:19.461Z",
+  "rows": [
+    {
+      "event": "story-malik-willis",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-taylor",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
