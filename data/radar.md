@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2257 · Updated: 08/11/2026, 14:53:28 (Asia/Kolkata)
+Run #2258 · Updated: 08/11/2026, 15:11:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(39)
 
@@ -20,13 +20,13 @@ Sources this run: trends(39)
 
 **Event:** Nick Saban: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nick Saban nick saban: makes pick for alabama-lsu, identifies biggest concern for tide filings actually say — line by line — the other side of the fight
+> What the Nick Saban nick saban: espn's desmond howard jabs nick saban over sign-stealing comment when talking alabama-lsu filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 3.2h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
