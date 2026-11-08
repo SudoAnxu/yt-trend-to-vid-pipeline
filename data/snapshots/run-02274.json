@@ -1,0 +1,16 @@
+{
+  "runNo": 2274,
+  "at": "2026-11-08T16:55:45.452Z",
+  "rows": [
+    {
+      "event": "story-oliver-glasner",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
