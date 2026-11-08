@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2286 · Updated: 09/11/2026, 02:31:58 (Asia/Kolkata)
+Run #2287 · Updated: 09/11/2026, 02:47:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,65 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Mike Flanagan — 16/100
+### Sam Darnold — 20/100
 
-**Event:** Mike Flanagan: Breaks Down The Exorcist: Martyrs Trailer and Reveals How the Horror Sequel Draws on The Exorcist III
+**Event:** Sam Darnold: seahawks sam darnold
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-12 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Flanagan mike flanagan: prime video series filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Mike Flanagan's — 19/100
-
-**Event:** Mike Flanagan's: ‘Battlestar Galactica’ Stars Officially Reunite in Mike Flanagan’s New Stephen King Series
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mike Flanagan's mike flanagan's: where does ‘carrie’ go from here? inside mike flanagan’s plans for season 2 filings actually say — line by line — the other side of the fight
+> The Sam Darnold sam darnold: sources: seahawks' sam darnold in jeopardy of missing week 10 game vs. raiders story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
-### Matthew Stafford's — 17/100
+### Xavier Worthy — 27/100
 
-**Event:** Matthew Stafford's: "I Have No Idea": Matthew Stafford's Wife Kelly Gets Annoyed After Struggling to Answer a Fourth-Grade Questio
+**Event:** Xavier Worthy: Injury Update: Chiefs WR Hurt in Fourth Quarter vs. Jets
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Matthew Stafford's matthew stafford's: highlights: rams qb matthew stafford's perfect pass to wr puka nacua yields a 7-yard touchdown vs. the command filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Jonah Coleman — 15/100
-
-**Event:** Jonah Coleman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jonah Coleman jonah coleman: trending now filings actually say — line by line — the other side of the fight
+> What the Xavier Worthy xavier worthy: injury update: chiefs wr hurt in fourth quarter vs. jets filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jerry Jeudy — 16/100
+
+**Event:** Jerry Jeudy: has disappeared from Browns offense: Five teams that could trade for WR
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jerry Jeudy jerry jeudy: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Spencer Shrader — 26/100
+
+**Event:** Spencer Shrader: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 30 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Spencer Shrader spencer shrader: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mitchell Robinson — 13/100
+
+**Event:** Mitchell Robinson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mitchell Robinson mitchell robinson: (illness) questionable sunday filings actually say — line by line — the other side of the fight
+
+**Competition:** 18 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Martin Short — 22/100
+
+**Event:** Martin Short: , Meg Stalter Star In Verizon's Holiday Ads 11/06/2026
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Martin Short story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
