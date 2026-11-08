@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2289 · Updated: 09/11/2026, 03:54:02 (Asia/Kolkata)
+Run #2290 · Updated: 09/11/2026, 04:03:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,77 +12,105 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
+
+### Nick Nurse — 16/100
+
+**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
+
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Nick Nurse nick nurse: doesn't leave jabari walker wondering about his standing filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Tom Brady — 24/100
+
+**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+
+**Why now:** 2 source lane(s): news, trends · momentum 29 (+21 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tom Brady situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Tom Brady's — 22/100
+
+**Event:** Tom Brady's: Drake Maye Looked Like Tom Brady’s Heir. Now, He’s a Disaster.
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tom Brady's situation is weirder than the clips suggest — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+
+**Status:** ARCHIVED
+
+### Christopher Walken — 20/100
+
+**Event:** Christopher Walken: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+5 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Christopher Walken christopher walken: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alexandra Daddario — 19/100
+
+**Event:** Alexandra Daddario: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alexandra Daddario alexandra daddario: taylor kitsch, alexandra daddario, christopher walken cast in 'robber' filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Evan Williams — 18/100
+
+**Event:** Evan Williams: packers
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Evan Williams story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Brandon Cisse — 18/100
 
 **Event:** Brandon Cisse: Packers get encouraging Brandon Cisse update ahead of crucial Lions showdown
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Brandon Cisse story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** ARCHIVED
-
-### Jessica Pegula — 20/100
-
-**Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
-
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jessica Pegula jessica pegula: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Bryan Cranston — 17/100
-
-**Event:** Bryan Cranston: Reacts to Breaking Bad Being Named the No. 1 Television Show of the 21st Century (Exclusive)
-
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Bryan Cranston bryan cranston: i'm bryan cranston, actor and dos hombres mezcal cofounder. here's my daily routine and what it'd take for me  story is actually a money story — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Brandon Aiyuk — 16/100
-
-**Event:** Brandon Aiyuk: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Brandon Aiyuk brandon aiyuk: meets with 49ers, says he's healthy, 'looking to get reinstated' story is actually a money story — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Brandon Aiyuk's — 18/100
-
-**Event:** Brandon Aiyuk's: Former 49ers Teammate Sounds Off on WR's 'Desperate' Antics amid Trade Push
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Brandon Aiyuk's brandon aiyuk's: player personnel handbook implies that the nfl can delay (or deny) brandon aiyuk's reinstatement story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
 
