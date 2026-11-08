@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2291 · Updated: 09/11/2026, 04:29:05 (Asia/Kolkata)
+Run #2292 · Updated: 09/11/2026, 04:59:16 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,63 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Malik Nabers — 14/100
+### Ben Johnson — 17/100
 
-**Event:** Malik Nabers: Giants vs. Commanders live updates: Malik Nabers TD forces overtime
+**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Malik Nabers malik nabers: patriots qb drake maye, giants wr malik nabers highlight october players of the month filings actually say — line by line — the other side of the fight
+> What the Ben Johnson ben johnson: bears fans' ben johnson ‘stanky leg' sticker gets team's attention filings actually say — line by line — the other side of the fight
 
-**Competition:** 20 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Mike Mcdaniel — 17/100
+### Walter Nolen — 27/100
 
-**Event:** Mike Mcdaniel: trending now
+**Event:** Walter Nolen: III Active As He Makes Return Against Seahawks
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · external momentum 33 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Mike Mcdaniel mike mcdaniel: trending now filings actually say — line by line — the other side of the fight
+> The Walter Nolen walter nolen: iii active as he makes return against seahawks story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Will Anderson — 26/100
+
+**Event:** Will Anderson: Jr.'s strip-sack on Jones results in Indy turnover
+
+**Why now:** 2 source lane(s): news, trends · momentum 30 (+11 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Will Anderson story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Josh Giddey — 15/100
+### Justin Herbert — 15/100
 
-**Event:** Josh Giddey: Is Josh Giddey playing? Bulls vs Bucks injury report
+**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Josh Giddey josh giddey: trending now filings actually say — line by line — the other side of the fight
+> What the Justin Herbert justin herbert: texans' will anderson: justin herbert 'playing out of his mind' for winless chargers filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Hayden Winks' — 19/100
+### Justin Herbert's — 17/100
 
-**Event:** Hayden Winks': Fantasy Football Rankings: Hayden Winks' QB, TE, D/ST, kicker Blueprint for Week 6
+**Event:** Justin Herbert's: Younger Brother Added To Chargers Roster For Week 3
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Hayden Winks' hayden winks': fantasy football rankings: hayden winks' wr blueprint for week 9 filings actually say — line by line — the other side of the fight
+> The Justin Herbert's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 11 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** ARCHIVED
+
+### Anthony Edwards' — 14/100
+
+**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Anthony Edwards' anthony edwards': live: wolves look for fourth straight win without anthony edwards as they host jazz story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
