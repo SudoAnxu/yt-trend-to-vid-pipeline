@@ -1,0 +1,23 @@
+{
+  "runNo": 2264,
+  "at": "2026-11-08T13:00:41.360Z",
+  "rows": [
+    {
+      "event": "story-justin-boone-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-flournoy",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
