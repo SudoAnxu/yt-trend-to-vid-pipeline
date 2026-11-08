@@ -1,0 +1,44 @@
+{
+  "runNo": 2278,
+  "at": "2026-11-08T18:12:12.786Z",
+  "rows": [
+    {
+      "event": "story-josh-allen-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-singleton",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-angel-city",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-strahan",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-strahan-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
