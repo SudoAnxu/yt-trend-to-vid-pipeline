@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2256 · Updated: 08/11/2026, 13:55:28 (Asia/Kolkata)
+Run #2257 · Updated: 08/11/2026, 14:53:28 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Alex Eala — 21/100
+### Nick Saban — 22/100
 
-**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+**Event:** Nick Saban: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Alex Eala alex eala: live: alex eala vs claire liu – hong kong open final story is actually a money story — the other side of the fight
+> What the Nick Saban nick saban: makes pick for alabama-lsu, identifies biggest concern for tide filings actually say — line by line — the other side of the fight
+
+**Competition:** 21 videos in last 6h · TTS ≈ 3.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alexandra Eala — 15/100
+
+**Event:** Alexandra Eala: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Alexandra Eala alexandra eala: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alex Eala — 18/100
+
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alex Eala alex eala: outlasts maria sakkari in rain-soaked hong kong open semifinals, faces claire liu in final story is actually a money story — what happens next
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** ARCHIVED
 
-### Chris Brown — 18/100
+### Jeffrey Epstein — 12/100
 
-**Event:** Chris Brown: Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
+**Event:** Jeffrey Epstein: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Chris Brown filing that will matter in six months — the other side of the fight
+> What the Jeffrey Epstein jeffrey epstein: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
