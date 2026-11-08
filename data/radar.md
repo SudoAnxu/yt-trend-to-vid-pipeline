@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2255 · Updated: 08/11/2026, 13:03:36 (Asia/Kolkata)
+Run #2256 · Updated: 08/11/2026, 13:55:28 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ryan Garcia — 11/100
+### Alex Eala — 21/100
 
-**Event:** Ryan Garcia: ‘Almost like a 50/50 fight’: Oscar De La Hoya talks Ryan Garcia vs Floyd Mayweather and more
+**Event:** Alex Eala: vs Tatiana Prozorova in Singapore Open round of 16
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Garcia ryan garcia: trending now filings actually say — line by line — the other side of the fight
+> The Alex Eala alex eala: live: alex eala vs claire liu – hong kong open final story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** ARCHIVED
 
-### Floyd Mayweather — 18/100
+### Chris Brown — 18/100
 
-**Event:** Floyd Mayweather: finally announces his next two fights including 100 million blockbuster
+**Event:** Chris Brown: Judge Poised to Slash $12.9 Million Jury Award in Chris Brown Dog Mauling Case
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Floyd Mayweather floyd mayweather: terence crawford makes 'goat vs goat' fight plea to floyd mayweather after return decision filings actually say — line by line — the other side of the fight
+> The Chris Brown filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
