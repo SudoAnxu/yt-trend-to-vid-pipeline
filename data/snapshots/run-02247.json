@@ -1,0 +1,16 @@
+{
+  "runNo": 2247,
+  "at": "2026-11-08T00:51:18.671Z",
+  "rows": [
+    {
+      "event": "story-hugh-jackman",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
