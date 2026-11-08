@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2292 · Updated: 09/11/2026, 04:59:16 (Asia/Kolkata)
+Run #2293 · Updated: 09/11/2026, 05:20:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,91 +12,105 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Ben Johnson — 17/100
+### Joel Embiid — 22/100
 
-**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Johnson ben johnson: bears fans' ben johnson ‘stanky leg' sticker gets team's attention filings actually say — line by line — the other side of the fight
+> The Joel Embiid story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Walter Nolen — 27/100
+### Kate Middleton — 16/100
 
-**Event:** Walter Nolen: III Active As He Makes Return Against Seahawks
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · external momentum 33 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Walter Nolen walter nolen: iii active as he makes return against seahawks story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Will Anderson — 26/100
-
-**Event:** Will Anderson: Jr.'s strip-sack on Jones results in Indy turnover
-
-**Why now:** 2 source lane(s): news, trends · momentum 30 (+11 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Anderson story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Justin Herbert — 15/100
-
-**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
 **Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Justin Herbert justin herbert: texans' will anderson: justin herbert 'playing out of his mind' for winless chargers filings actually say — line by line — the other side of the fight
+> What the Kate Middleton kate middleton: takes her poignant spot next to queen camilla at remembrance sunday filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Justin Herbert's — 17/100
+### Rick Hendrick — 19/100
 
-**Event:** Justin Herbert's: Younger Brother Added To Chargers Roster For Week 3
+**Event:** Rick Hendrick: Stunned as Ailing Darrell Waltrip Hands Emotional Gift Complementing $75,000 Auction Bid
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Justin Herbert's story is a proxy fight about something bigger — the other side of the fight
+> The Rick Hendrick rick hendrick: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Justin Timberlake — 15/100
+
+**Event:** Justin Timberlake: , Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
+
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Justin Timberlake justin timberlake: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Anthony Edwards' — 14/100
+### Jessica Biel's — 18/100
 
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+**Event:** Jessica Biel's: Justin Timberlake Makes Rare Appearance With His, Jessica Biel's Sons Silas, Phineas for Sweet Cause
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Anthony Edwards' anthony edwards': live: wolves look for fourth straight win without anthony edwards as they host jazz story is actually a money story — the other side of the fight
+> The Jessica Biel's jessica biel's: justin timberlake makes rare appearance with his, jessica biel's sons silas, phineas for sweet cause story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Justin Boone — 20/100
+
+**Event:** Justin Boone: Fantasy Football Rankings: Top running backs for Week 4 from Justin Boone
+
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Justin Boone story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** KEPT
+
+### Ryan Flournoy — 15/100
+
+**Event:** Ryan Flournoy: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Ryan Flournoy story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
 
 **Status:** ARCHIVED
 

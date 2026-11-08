@@ -1,0 +1,58 @@
+{
+  "runNo": 2293,
+  "at": "2026-11-08T23:50:30.599Z",
+  "rows": [
+    {
+      "event": "story-joel-embiid",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-rick-hendrick",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-timberlake",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-jessica-biel-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-justin-boone",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-flournoy",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
