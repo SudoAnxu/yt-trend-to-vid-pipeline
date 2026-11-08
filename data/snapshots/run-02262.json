@@ -1,0 +1,23 @@
+{
+  "runNo": 2262,
+  "at": "2026-11-08T11:40:57.956Z",
+  "rows": [
+    {
+      "event": "story-jon-rahm",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-fallon",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
