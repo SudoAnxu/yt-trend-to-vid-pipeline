@@ -1,0 +1,44 @@
+{
+  "runNo": 2283,
+  "at": "2026-11-08T19:53:01.609Z",
+  "rows": [
+    {
+      "event": "story-justin-tucker",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-downs-",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-tirico",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
