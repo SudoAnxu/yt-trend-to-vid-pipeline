@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2320 · Updated: 10/11/2026, 02:01:13 (Asia/Kolkata)
+Run #2321 · Updated: 10/11/2026, 02:23:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tony Stewart — 28/100
+### Tony Stewart — 21/100
 
 **Event:** Tony Stewart: says he would fire everyone at NASCAR (Video)
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Tony Stewart tony stewart: says he would fire everyone at nascar (video) filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Mark Zuckerberg's: How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Thomas Massie — 11/100
+### Thomas Massie — 12/100
 
 **Event:** Thomas Massie: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -72,43 +72,43 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
+### Bobby Taylor — 17/100
+
+**Event:** Bobby Taylor: st louis drummer
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Bobby Taylor bobby taylor: st louis drummer filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Louis Drummer — 17/100
+
+**Event:** Louis Drummer: bobby taylor st louis drummer
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Louis Drummer louis drummer: bobby taylor st louis drummer filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
 ### Family Shares Heartbreaking — 19/100
 
 **Event:** Family Shares Heartbreaking: Veteran Rock Drummer Dies After Years-Long Cancer Battle as Family Shares Heartbreaking Tribute
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Family Shares Heartbreaking family shares heartbreaking: veteran rock drummer dies after years-long cancer battle as family shares heartbreaking tribute filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Travis Scott — 19/100
-
-**Event:** Travis Scott: Reveals Limited-Edition Nike Air Force 1 Low "GTA 6"
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Travis Scott travis scott: cardi b, travis scott, don toliver & more to perform at ‘grand theft auto vi’ festival filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Don Toliver — 19/100
-
-**Event:** Don Toliver: Cardi B, Travis Scott, Don Toliver & More to Perform at ‘Grand Theft Auto VI’ Festival
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Don Toliver don toliver: cardi b, travis scott, don toliver & more to perform at ‘grand theft auto vi’ festival filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
