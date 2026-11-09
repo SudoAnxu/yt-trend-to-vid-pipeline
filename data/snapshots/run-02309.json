@@ -1,0 +1,23 @@
+{
+  "runNo": 2309,
+  "at": "2026-11-09T13:15:50.832Z",
+  "rows": [
+    {
+      "event": "story-tony-pollard",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-taylor",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
