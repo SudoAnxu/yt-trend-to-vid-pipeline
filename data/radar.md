@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2329 · Updated: 10/11/2026, 04:59:35 (Asia/Kolkata)
+Run #2330 · Updated: 10/11/2026, 05:10:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,45 +30,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jonathan Taylor — 19/100
+### Landon Robinson — 19/100
 
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-6 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jonathan Taylor story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### John Harbaugh — 17/100
-
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
-
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Harbaugh john harbaugh: giants did pull offer for jonathan taylor but 'things do change' filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Nick Foles — 19/100
-
-**Event:** Nick Foles: Ex-NFL QB Nick Foles on whether Colts should trade Jonathan Taylor
+**Event:** Landon Robinson: The Conversation | A Salute To Landon Robinson: 'Service Is The Ultimate Form Of Love'
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Nick Foles story is a proxy fight about something bigger — the other side of the fight
+> What the Landon Robinson landon robinson: the conversation | a salute to landon robinson: 'service is the ultimate form of love' filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 

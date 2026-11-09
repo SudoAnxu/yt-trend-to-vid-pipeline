@@ -1,0 +1,23 @@
+{
+  "runNo": 2330,
+  "at": "2026-11-09T23:40:54.302Z",
+  "rows": [
+    {
+      "event": "story-aaron-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-landon-robinson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
