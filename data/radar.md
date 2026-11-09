@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2319 · Updated: 10/11/2026, 01:26:29 (Asia/Kolkata)
+Run #2320 · Updated: 10/11/2026, 02:01:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,57 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Thomas Massie — 19/100
+### Tony Stewart — 28/100
+
+**Event:** Tony Stewart: says he would fire everyone at NASCAR (Video)
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tony Stewart tony stewart: says he would fire everyone at nascar (video) filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Mark Zuckerberg's — 21/100
+
+**Event:** Mark Zuckerberg's: How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mark Zuckerberg's mark zuckerberg's: mark zuckerberg’s fortune tops $200 billion. his 3 daughters won’t inherit most of it filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Mark Zuckerberg — 16/100
+
+**Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
+
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mark Zuckerberg mark zuckerberg: and priscilla chan have pledged to donate 99% of their meta shares; here's the open lette filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Thomas Massie — 11/100
 
 **Event:** Thomas Massie: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -28,13 +70,27 @@ Sources this run: trends(40)
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
+**Status:** ARCHIVED
+
+### Family Shares Heartbreaking — 19/100
+
+**Event:** Family Shares Heartbreaking: Veteran Rock Drummer Dies After Years-Long Cancer Battle as Family Shares Heartbreaking Tribute
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Family Shares Heartbreaking family shares heartbreaking: veteran rock drummer dies after years-long cancer battle as family shares heartbreaking tribute filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
 **Status:** RESEARCH
 
 ### Travis Scott — 19/100
 
 **Event:** Travis Scott: Reveals Limited-Edition Nike Air Force 1 Low "GTA 6"
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,87 +100,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Mario Broth — 19/100
+### Don Toliver — 19/100
 
-**Event:** Mario Broth: supper mario broth
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Mario Broth mario broth: supper mario broth story is actually a money story — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Soon — 17/100
-
-**Event:** Will Soon: Dead by Daylight Developers Will Soon Remove the Chucky Chapter DLC - Farewell Chucky Chapter Sale Begins
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Soon will soon: 'i am scared i will soon not be able to see mario again' — popular nintendo blogger supper mario broth says he story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mario Again' — 18/100
-
-**Event:** Mario Again': 'I Am Scared I Will Soon Not Be Able to See Mario Again' — Popular Nintendo Blogger Supper Mario Broth Says He
+**Event:** Don Toliver: Cardi B, Travis Scott, Don Toliver & More to Perform at ‘Grand Theft Auto VI’ Festival
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Mario Again' mario again': 'i am scared i will soon not be able to see mario again' — popular nintendo blogger supper mario broth says he story is actually a money story — the other side of the fight
+> What the Don Toliver don toliver: cardi b, travis scott, don toliver & more to perform at ‘grand theft auto vi’ festival filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Mario Content Creator — 21/100
-
-**Event:** Mario Content Creator: Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Post
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Mario Content Creator situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
-
-### Mario Content — 21/100
-
-**Event:** Mario Content: Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Post
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Mario Content situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
-
-### Content Creator — 21/100
-
-**Event:** Content Creator: Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Post
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Content Creator situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
