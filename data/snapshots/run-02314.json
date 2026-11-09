@@ -1,0 +1,16 @@
+{
+  "runNo": 2314,
+  "at": "2026-11-09T17:01:11.507Z",
+  "rows": [
+    {
+      "event": "story-stephen-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
