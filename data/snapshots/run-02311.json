@@ -1,0 +1,16 @@
+{
+  "runNo": 2311,
+  "at": "2026-11-09T14:15:13.518Z",
+  "rows": [
+    {
+      "event": "story-julia-louis-dreyfus",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
