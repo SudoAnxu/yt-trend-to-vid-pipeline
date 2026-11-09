@@ -1,0 +1,16 @@
+{
+  "runNo": 2331,
+  "at": "2026-11-09T23:50:20.088Z",
+  "rows": [
+    {
+      "event": "story-john-wayne",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
