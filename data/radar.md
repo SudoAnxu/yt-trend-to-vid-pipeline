@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2311 · Updated: 09/11/2026, 19:45:13 (Asia/Kolkata)
+Run #2312 · Updated: 09/11/2026, 21:12:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Julia Louis-dreyfus — 17/100
+### Mark Matthews — 26/100
 
-**Event:** Julia Louis-dreyfus: trending now
+**Event:** Mark Matthews: What it means: 5-star OT Mark Matthews is a Georgia Bulldog
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Julia Louis-dreyfus julia louis-dreyfus: trending now filings actually say — line by line — the other side of the fight
+> The Mark Matthews story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 7 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Mark Your — 16/100
+
+**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
+
+**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mark Your mark your: dear rocket lab stock fans, mark your calendars for november 9 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
