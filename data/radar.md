@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2307 · Updated: 09/11/2026, 17:30:14 (Asia/Kolkata)
+Run #2308 · Updated: 09/11/2026, 17:49:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(36)
 
 ## 🚨 STRIKE NOW (0)
 
