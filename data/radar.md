@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2303 · Updated: 09/11/2026, 13:39:50 (Asia/Kolkata)
+Run #2304 · Updated: 09/11/2026, 14:25:40 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,11 +16,39 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Steve Sarkisian — 18/100
+### Stephen Miller — 14/100
+
+**Event:** Stephen Miller: wife
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Stephen Miller filing that will matter in six months — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 14h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jennifer Aniston — 16/100
+
+**Event:** Jennifer Aniston: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jennifer Aniston story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 18 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Steve Sarkisian — 19/100
 
 **Event:** Steve Sarkisian: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,41 +62,13 @@ Sources this run: trends(39)
 
 **Event:** Will Officially: PlayStation Game Will Officially Shut Down November 25
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Will Officially will officially: playstation game will officially shut down november 25 filings actually say — line by line — what happens next
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Jimmy Fallon — 12/100
-
-**Event:** Jimmy Fallon: Late-night host Jimmy Fallon releasing 2 baseball children's books
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jimmy Fallon jimmy fallon: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jimmy Fallon's — 18/100
-
-**Event:** Jimmy Fallon's: Caitlin Clark Goes 12-for-16 While Shooting Cheeseballs Into Jimmy Fallon's Mouth in 24 Seconds
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Jimmy Fallon's jimmy fallon's: caitlin clark goes 12-for-16 while shooting cheeseballs into jimmy fallon's mouth in 24 seconds story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
