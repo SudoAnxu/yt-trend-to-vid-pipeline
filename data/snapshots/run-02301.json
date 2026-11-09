@@ -1,0 +1,23 @@
+{
+  "runNo": 2301,
+  "at": "2026-11-09T06:56:23.970Z",
+  "rows": [
+    {
+      "event": "story-jimmy-fallon",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-wahlberg-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
