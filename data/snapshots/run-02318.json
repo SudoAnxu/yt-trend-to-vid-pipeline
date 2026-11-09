@@ -1,0 +1,65 @@
+{
+  "runNo": 2318,
+  "at": "2026-11-09T19:14:37.790Z",
+  "rows": [
+    {
+      "event": "story-mario-broth",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-soon",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-content-creator",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-tomlin",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-schottenheimer",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-andre-cisco",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-fetterman",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-fetterman-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
