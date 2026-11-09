@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2328 · Updated: 10/11/2026, 04:45:32 (Asia/Kolkata)
+Run #2329 · Updated: 10/11/2026, 04:59:35 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+7 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jonathan Taylor — 23/100
+### Jonathan Taylor — 19/100
 
 **Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-6 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -57,6 +57,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Nick Foles — 19/100
+
+**Event:** Nick Foles: Ex-NFL QB Nick Foles on whether Colts should trade Jonathan Taylor
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Nick Foles story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
