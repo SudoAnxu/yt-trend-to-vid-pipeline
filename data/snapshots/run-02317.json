@@ -1,0 +1,51 @@
+{
+  "runNo": 2317,
+  "at": "2026-11-09T19:02:20.788Z",
+  "rows": [
+    {
+      "event": "story-mario-broth",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-soon",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-tomlin",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-schottenheimer",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-andre-cisco",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-fetterman",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
