@@ -1,0 +1,16 @@
+{
+  "runNo": 2302,
+  "at": "2026-11-09T07:44:31.394Z",
+  "rows": [
+    {
+      "event": "story-jimmy-fallon",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
