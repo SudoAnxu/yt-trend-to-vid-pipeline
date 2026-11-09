@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2324 · Updated: 10/11/2026, 03:14:08 (Asia/Kolkata)
+Run #2325 · Updated: 10/11/2026, 04:06:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,49 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Michael Wilson — 16/100
+### Howie Roseman — 20/100
 
-**Event:** Michael Wilson: trending now
+**Event:** Howie Roseman: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Michael Wilson michael wilson: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jeff Hafley — 21/100
-
-**Event:** Jeff Hafley: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jeff Hafley jeff hafley: miami dolphins head coach jeff hafley reflects on week 9 loss vs. detroit lions filings actually say — line by line — the other side of the fight
+> What the Howie Roseman howie roseman: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
-### Mark Your — 16/100
+### Zack Baun — 21/100
 
-**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
+**Event:** Zack Baun: Has Saquon Barkley’s trade status changed? It should, and they should also deal Zack Baun | Marcus Hayes
 
-**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Mark Your mark your: dear ast spacemobile stock fans, mark your calendars for november 9 filings actually say — line by line — the other side of the fight
+> What the Zack Baun zack baun: has saquon barkley’s trade status changed? it should, and they should also deal zack baun | marcus hayes filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Michael Carrick — 19/100
+
+**Event:** Michael Carrick: No timeline for Benjamin Sesko's Man United return
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Michael Carrick michael carrick: manchester united expected to sack michael carrick as head coach - the athletic filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Brian Thomas — 16/100
+
+**Event:** Brian Thomas: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Brian Thomas brian thomas: jaguars still eyeing dt addition; latest on brian thomas jr. filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jonathan Taylor — 20/100
+
+**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+17 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jonathan Taylor jonathan taylor: offers emotional goodbye to indy after final game before trade deadline story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: trends, news
 
 **Status:** ARCHIVED
 
