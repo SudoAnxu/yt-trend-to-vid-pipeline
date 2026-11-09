@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2322 · Updated: 10/11/2026, 02:48:58 (Asia/Kolkata)
+Run #2323 · Updated: 10/11/2026, 03:02:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tyler Robinson — 14/100
+### Mark Your — 16/100
 
-**Event:** Tyler Robinson: Trial dates for Tyler Robinson may be included in November scheduling order
+**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tyler Robinson tyler robinson: trending now story is actually a money story — the other side of the fight
+> What the Mark Your mark your: dear ast spacemobile stock fans, mark your calendars for november 9 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Lauren Boebert — 15/100
+### Tyler Robinson — 15/100
 
-**Event:** Lauren Boebert: in big fight to keep her seat in Congress in too-close-to-call race
+**Event:** Tyler Robinson: Trial dates for Tyler Robinson may be included in November scheduling order
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Lauren Boebert lauren boebert: results filings actually say — line by line — the other side of the fight
+> What the Tyler Robinson tyler robinson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
