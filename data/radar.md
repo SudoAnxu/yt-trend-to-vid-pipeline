@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2298 · Updated: 09/11/2026, 07:52:17 (Asia/Kolkata)
+Run #2299 · Updated: 09/11/2026, 08:22:58 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,79 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Malik Muhammad — 19/100
+### Mike Evans — 20/100
 
-**Event:** Malik Muhammad: Bears-Buccaneers Inactives: Malik Muhammad II and Kyle Monangai still out
+**Event:** Mike Evans: Injury 49ers
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Malik Muhammad malik muhammad: bears rookie malik muhammad has strong words regarding jaylon johnson filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Ryan Poles — 22/100
-
-**Event:** Ryan Poles: Why the 2027 NFL Draft Says Ryan Poles Must Trade for a Cornerback Now
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-4 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Poles story is a proxy fight about something bigger — the detail nobody has explained
+> What the Mike Evans mike evans: 49ers receive sobering injury update on mike evans filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** RESEARCH
-
-### Joel Embiid — 14/100
-
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
-
-**Why now:** 2 source lane(s): news, trends · momentum 5 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Joel Embiid story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jonathan Taylor — 16/100
+### Tyler Herro — 19/100
 
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
+**Event:** Tyler Herro: NBA Star Tyler Herro Slams Baby Mama Over Claim He Sent 'Inappropriate' Texts
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jonathan Taylor jonathan taylor: matchups that cost colts in wild loss to cowboys, including sauce gardner and jonathan taylor filings actually say — line by line — the other side of the fight
+> The Tyler Herro tyler herro: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Jeffrey Simmons — 18/100
-
-**Event:** Jeffrey Simmons: trade
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jeffrey Simmons jeffrey simmons: trade filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>

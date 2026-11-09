@@ -1,0 +1,23 @@
+{
+  "runNo": 2299,
+  "at": "2026-11-09T02:52:57.055Z",
+  "rows": [
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-herro",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
