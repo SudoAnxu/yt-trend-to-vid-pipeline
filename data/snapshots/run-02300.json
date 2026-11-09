@@ -1,0 +1,37 @@
+{
+  "runNo": 2300,
+  "at": "2026-11-09T04:49:09.690Z",
+  "rows": [
+    {
+      "event": "story-zach-lavine",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-biden",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-mann",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-driver",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
