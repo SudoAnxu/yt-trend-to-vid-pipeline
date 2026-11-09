@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2331 · Updated: 10/11/2026, 05:20:20 (Asia/Kolkata)
+Run #2332 · Updated: 10/11/2026, 05:24:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### John Wayne — 13/100
+### Country Singer — 24/100
+
+**Event:** Country Singer: CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Country Singer story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### John Wayne — 11/100
 
 **Event:** John Wayne: turned down movie
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -29,6 +43,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Josh Palmer — 19/100
+
+**Event:** Josh Palmer: Bills place Josh Palmer on injured reserve
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Josh Palmer josh palmer: bills place josh palmer on injured reserve filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

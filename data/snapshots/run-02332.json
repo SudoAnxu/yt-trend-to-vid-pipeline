@@ -1,0 +1,30 @@
+{
+  "runNo": 2332,
+  "at": "2026-11-09T23:54:45.822Z",
+  "rows": [
+    {
+      "event": "story-country-singer",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-john-wayne",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-palmer",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
