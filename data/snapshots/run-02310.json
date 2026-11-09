@@ -1,0 +1,30 @@
+{
+  "runNo": 2310,
+  "at": "2026-11-09T13:36:36.545Z",
+  "rows": [
+    {
+      "event": "story-tony-pollard",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-glenn",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-duckworth",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
