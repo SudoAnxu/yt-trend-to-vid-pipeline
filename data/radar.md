@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2318 · Updated: 10/11/2026, 00:44:38 (Asia/Kolkata)
+Run #2319 · Updated: 10/11/2026, 01:26:29 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,11 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Mario Broth — 20/100
+### Thomas Massie — 19/100
+
+**Event:** Thomas Massie: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Thomas Massie thomas massie: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Travis Scott — 19/100
+
+**Event:** Travis Scott: Reveals Limited-Edition Nike Air Force 1 Low "GTA 6"
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Travis Scott travis scott: cardi b, travis scott, don toliver & more to perform at ‘grand theft auto vi’ festival filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Mario Broth — 19/100
 
 **Event:** Mario Broth: supper mario broth
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Will Soon — 18/100
+### Will Soon — 17/100
 
 **Event:** Will Soon: Dead by Daylight Developers Will Soon Remove the Chucky Chapter DLC - Farewell Chucky Chapter Sale Begins
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,87 +72,59 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
+### Mario Again' — 18/100
+
+**Event:** Mario Again': 'I Am Scared I Will Soon Not Be Able to See Mario Again' — Popular Nintendo Blogger Supper Mario Broth Says He
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Mario Again' mario again': 'i am scared i will soon not be able to see mario again' — popular nintendo blogger supper mario broth says he story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Mario Content Creator — 21/100
+
+**Event:** Mario Content Creator: Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Post
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Mario Content Creator situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+
+**Status:** RESEARCH
+
+### Mario Content — 21/100
+
+**Event:** Mario Content: Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Post
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Mario Content situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+
+**Status:** RESEARCH
+
 ### Content Creator — 21/100
 
 **Event:** Content Creator: Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Post
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > The Content Creator situation is weirder than the clips suggest — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
-
-### Mike Tomlin — 21/100
-
-**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
-
-**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Tomlin mike tomlin: dallas cowboys coaching rumors filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Brian Schottenheimer — 14/100
-
-**Event:** Brian Schottenheimer: OK with Cowboys' players-only meeting panned by Mike Tomlin
-
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Brian Schottenheimer brian schottenheimer: dak prescott: “cowardice” to put blame for sunday’s loss on brian schottenheimer filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** KEPT
-
-### Andre Cisco — 21/100
-
-**Event:** Andre Cisco: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Andre Cisco story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### John Fetterman — 17/100
-
-**Event:** John Fetterman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The John Fetterman filing that will matter in six months — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 14h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### John Fetterman's — 19/100
-
-**Event:** John Fetterman's: Ahmed Moor, a Gaza-born Philadelphian, is John Fetterman’s first 2028 challenger
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the John Fetterman's john fetterman's: ahmed moor, a gaza-born philadelphian, is john fetterman’s first 2028 challenger filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
