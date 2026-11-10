@@ -1,0 +1,72 @@
+{
+  "runNo": 2374,
+  "at": "2026-11-10T20:11:34.401Z",
+  "rows": [
+    {
+      "event": "story-ryan-blaney",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-downs-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-jr-",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-corenswet",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-gunn",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-safran-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-ellison",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-harbaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-taylor",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
