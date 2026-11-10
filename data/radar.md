@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2337 · Updated: 10/11/2026, 07:13:34 (Asia/Kolkata)
+Run #2338 · Updated: 10/11/2026, 07:17:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,21 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Anthony Davis — 20/100
+### Anthony Davis — 21/100
 
 **Event:** Anthony Davis: New Anthony Davis Rumors on Desire for New Contract After Offseason Trade Buzz
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+2 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Anthony Davis situation is weirder than the clips suggest — the detail nobody has explained
 
-**Competition:** 18 videos in last 6h · TTS ≈ 4.8h · sources: trends, news
+**Competition:** 18 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Jennifer Aniston: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,19 +44,33 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Eli Manning — 21/100
+### Eli Manning — 18/100
 
 **Event:** Eli Manning: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Eli Manning eli manning: “we don’t have to be scared”: eli manning makes honest admission on espn’s manningcast with brother peyton ami story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 8h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Anthony Recalls — 22/100
+
+**Event:** Anthony Recalls: LaLa Anthony Recalls Marriage Anxiety With Carmelo Anthony
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Anthony Recalls anthony recalls: lala anthony recalls marriage anxiety with carmelo anthony filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
