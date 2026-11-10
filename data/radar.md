@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2363 · Updated: 10/11/2026, 21:13:13 (Asia/Kolkata)
+Run #2364 · Updated: 10/11/2026, 21:41:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,21 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Scott Colom — 26/100
-
-**Event:** Scott Colom: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 16h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Scott Colom filing that will matter in six months — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
-
-**Status:** KEPT
-
-### Jordan Elliott — 22/100
+### Jordan Elliott — 20/100
 
 **Event:** Jordan Elliott: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jordan Elliott story is a proxy fight about something bigger — the other side of the fight
+> The Jordan Elliott filing that will matter in six months — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 7.1h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 12.3h · sources: trends, news
 
 **Status:** KEPT
 
@@ -48,7 +34,7 @@ Sources this run: trends(38)
 
 **Event:** Lauren Sanchez: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +44,11 @@ Sources this run: trends(38)
 
 **Status:** RESEARCH
 
-### Jeff Bezos — 20/100
+### Jeff Bezos — 19/100
 
 **Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -71,20 +57,6 @@ Sources this run: trends(38)
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Country Singer — 21/100
-
-**Event:** Country Singer: CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Country Singer story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
