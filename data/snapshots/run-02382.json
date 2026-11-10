@@ -1,0 +1,30 @@
+{
+  "runNo": 2382,
+  "at": "2026-11-10T22:15:05.444Z",
+  "rows": [
+    {
+      "event": "story-max-muncy",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-reggie-dinkins-",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-xavier-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
