@@ -1,0 +1,44 @@
+{
+  "runNo": 2339,
+  "at": "2026-11-10T02:18:32.610Z",
+  "rows": [
+    {
+      "event": "story-connor-mcdavid",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-riley-green",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-foles",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-radcliffe",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-potter",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
