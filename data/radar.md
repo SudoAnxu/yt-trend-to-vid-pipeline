@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2353 · Updated: 10/11/2026, 15:46:21 (Asia/Kolkata)
+Run #2354 · Updated: 10/11/2026, 16:06:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
+
+### Mike Evans — 28/100
+
+**Event:** Mike Evans: Injury 49ers
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+7 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Evans story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Justin Boone's — 23/100
 
@@ -27,48 +41,6 @@ Sources this run: trends(40)
 > The Justin Boone's situation is weirder than the clips suggest — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 4.6h · sources: news
-
-**Status:** ARCHIVED
-
-### Tyler Robinson — 12/100
-
-**Event:** Tyler Robinson: Trial dates for Tyler Robinson may be included in November scheduling order
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tyler Robinson tyler robinson: michael ruiz: tyler robinson judge to give long-awaited trial date ruling in assassination of charlie kirk story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ryan Gosling — 16/100
-
-**Event:** Ryan Gosling: star wars: starfighter
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ryan Gosling ryan gosling: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Ryan Gosling's — 21/100
-
-**Event:** Ryan Gosling's: Star Wars Starfighter Trailer Breaks a 49-Year-Old Franchise Tradition
-
-**Why now:** 1 source lane(s): news · momentum 25 (+9 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ryan Gosling's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
 
