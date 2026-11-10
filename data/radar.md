@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2348 · Updated: 10/11/2026, 11:34:23 (Asia/Kolkata)
+Run #2349 · Updated: 10/11/2026, 13:02:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,107 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Will Ferrell — 17/100
+### Russell Crowe — 20/100
 
-**Event:** Will Ferrell: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Ferrell will ferrell: the origins of ‘elf’: how will ferrell came to replace chris farley in the christmas classic filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Steve Buscemi — 30/100
-
-**Event:** Steve Buscemi: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 32 (+7 vs prev run) · spice 18 · risk 34 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Steve Buscemi steve buscemi: explains why he refuses to appear on ‘hot ones’ story is actually a money story — the number behind the headline
-
-**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Andrew Gross — 22/100
-
-**Event:** Andrew Gross: It's always a treat when the Islanders' Matthew Schaefer and the Sharks' Macklin Celebrini face each other
+**Event:** Russell Crowe: and Leonardo DiCaprio’s CIA Thriller Officially Hits Apple TV
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Andrew Gross andrew gross: it's always a treat when the islanders' matthew schaefer and the sharks' macklin celebrini face each other filings actually say — line by line — the other side of the fight
+> The Russell Crowe russell crowe: and leonardo dicaprio’s cia thriller officially hits apple tv story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
-### Stephen Curry — 18/100
+### Amanda Nunes — 21/100
 
-**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
+**Event:** Amanda Nunes: Kayla Harrison vs. Amanda Nunes leads to retirement or 2-division title chase, per UFC Edmonton contender
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Stephen Curry stephen curry: with 25 points vs. new orleans pelicans filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Steve Kerr — 15/100
-
-**Event:** Steve Kerr: Says Warriors Have Fastest Player He’s Ever Coached
-
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Steve Kerr steve kerr: sends strong brandin podziemski message ahead of magic game filings actually say — line by line — the other side of the fight
+> The Amanda Nunes story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Angel Reese — 19/100
+### Todd Monken — 16/100
 
-**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+**Event:** Todd Monken: has jokes before facing T.J. Watt: 'I think it's about time he retires'
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-11 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Angel Reese angel reese: goes all in on fashion's new favorite neutral with a zebra print matching set and watch strap pumps filings actually say — line by line — the other side of the fight
+> The Todd Monken todd monken: browns' todd monken fails to commit to a starting qb ahead of game vs. texans story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 16 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Marcus Smart — 16/100
+### Jason Momoa — 19/100
 
-**Event:** Marcus Smart: Rockets' Marcus Smart gets real on reason why Lakers moved on from him after productive season
+**Event:** Jason Momoa: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Marcus Smart marcus smart: “i blame a lot of it on the media” – marcus smart points fingers over jayson tatum-jaylen brown breakup filings actually say — line by line — the other side of the fight
+> What the Jason Momoa jason momoa: and adria arjona turn heads in hollywood after major fashion milestone filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Jason Momoa's — 19/100
+
+**Event:** Jason Momoa's: Behold! Jason Momoa’s ‘Street Fighter’ Toy Has Been Revealed
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jason Momoa's story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** ARCHIVED
+
+### Olivia Cooke — 32/100
+
+**Event:** Olivia Cooke: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Olivia Cooke olivia cooke: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
