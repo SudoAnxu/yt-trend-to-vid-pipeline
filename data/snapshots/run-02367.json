@@ -1,0 +1,37 @@
+{
+  "runNo": 2367,
+  "at": "2026-11-10T17:10:41.373Z",
+  "rows": [
+    {
+      "event": "story-joey-aguilar",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-greg-schiano",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-officially-hits-streaming",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
