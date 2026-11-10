@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2336 · Updated: 10/11/2026, 06:42:10 (Asia/Kolkata)
+Run #2337 · Updated: 10/11/2026, 07:13:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jordan Love — 19/100
+### Anthony Davis — 20/100
 
-**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
+**Event:** Anthony Davis: New Anthony Davis Rumors on Desire for New Contract After Offseason Trade Buzz
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jordan Love story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Joe Burrow — 16/100
-
-**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+2 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Joe Burrow story is a proxy fight about something bigger — the other side of the fight
+> The Anthony Davis situation is weirder than the clips suggest — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 18 videos in last 6h · TTS ≈ 4.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Josh Allen — 13/100
+### Jennifer Aniston — 16/100
 
-**Event:** Josh Allen: injury
+**Event:** Jennifer Aniston: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Josh Allen josh allen: dalton kincaid promises 'it's coming' as josh allen demands more from bills' offense story is actually a money story — the other side of the fight
+> What the Jennifer Aniston jennifer aniston: shouts out close friend sandra bullock for being a lolavie supporter since ‘day one’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 24 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Eli Manning — 21/100
+
+**Event:** Eli Manning: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Eli Manning eli manning: “we don’t have to be scared”: eli manning makes honest admission on espn’s manningcast with brother peyton ami story is actually a money story — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
