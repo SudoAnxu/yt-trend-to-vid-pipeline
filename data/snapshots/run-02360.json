@@ -1,0 +1,58 @@
+{
+  "runNo": 2360,
+  "at": "2026-11-10T14:37:17.790Z",
+  "rows": [
+    {
+      "event": "story-adam-schefter",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-colom",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-elliott",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeff-bezos",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-country-singer",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-sanft",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-gary-sinise",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
