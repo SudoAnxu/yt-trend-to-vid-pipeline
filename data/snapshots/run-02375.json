@@ -1,0 +1,44 @@
+{
+  "runNo": 2375,
+  "at": "2026-11-10T20:34:47.424Z",
+  "rows": [
+    {
+      "event": "story-jessica-pegula",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-carlos-ferrero",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-shelton",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
