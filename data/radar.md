@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2333 · Updated: 10/11/2026, 05:52:15 (Asia/Kolkata)
+Run #2334 · Updated: 10/11/2026, 06:08:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,63 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Josh Furlong's — 19/100
+### Ryan Seacrest — 20/100
 
-**Event:** Josh Furlong's: AP Top 25: UCLA, Utah make their move after another upset-laden weekend
+**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Furlong's josh furlong's: ap top 25: another no. 1 team falls as ucla, utah make their move filings actually say — line by line — the other side of the fight
+> What the Ryan Seacrest ryan seacrest: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Contestant Loses Out — 19/100
+
+**Event:** Contestant Loses Out: ‘Wheel of Fortune’: Ryan Seacrest Shocked After Contestant Loses Out on $113,000
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Contestant Loses Out contestant loses out: ‘wheel of fortune’: ryan seacrest shocked after contestant loses out on $113,000 filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Jordan Mason — 20/100
+### Justin Jefferson's — 27/100
 
-**Event:** Jordan Mason: trending now
+**Event:** Justin Jefferson's: Why Justin Jefferson’s silence is deafening when it comes to the Vikings’ offense - The Athletic
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jordan Mason story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Aaron Jones — 25/100
-
-**Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
-
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 26 (+8 vs prev run) · spice 19 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Jones story is a proxy fight about something bigger — the other side of the fight
+> What the Justin Jefferson's justin jefferson's: inside justin jefferson's miraculous catch for vikings versus bills in 2022 filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 5 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** BOOSTED
+
+### Justin Jefferson — 17/100
+
+**Event:** Justin Jefferson: 2026 NFL Week 4 Injury Report: Achane's ACL, updates on Baker Mayfield, Justin Jefferson, Breece Hall, more
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Justin Jefferson justin jefferson: keeps getting open. here’s why the vikings aren’t capitalizing. filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 

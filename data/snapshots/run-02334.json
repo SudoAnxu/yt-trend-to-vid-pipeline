@@ -1,0 +1,37 @@
+{
+  "runNo": 2334,
+  "at": "2026-11-10T00:38:25.759Z",
+  "rows": [
+    {
+      "event": "story-ryan-seacrest",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-contestant-loses-out",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-justin-jefferson-s",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-jefferson",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
