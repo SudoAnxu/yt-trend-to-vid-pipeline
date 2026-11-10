@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2362 · Updated: 10/11/2026, 20:50:51 (Asia/Kolkata)
+Run #2363 · Updated: 10/11/2026, 21:13:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
+
+### Scott Colom — 26/100
+
+**Event:** Scott Colom: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 16h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Scott Colom filing that will matter in six months — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
+
+**Status:** KEPT
 
 ### Jordan Elliott — 22/100
 
 **Event:** Jordan Elliott: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.1h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Jordan Elliott story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 7h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 7.1h · sources: trends, news
 
 **Status:** KEPT
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Lauren Sanchez: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,7 +58,7 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jeff Bezos — 19/100
+### Jeff Bezos — 20/100
 
 **Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
 
@@ -58,17 +72,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Michael Sanft — 18/100
+### Country Singer — 21/100
 
-**Event:** Michael Sanft: attorney
+**Event:** Country Singer: CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Sanft michael sanft: attorney filings actually say — line by line — the other side of the fight
+> The Country Singer story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
