@@ -1,0 +1,16 @@
+{
+  "runNo": 2380,
+  "at": "2026-11-10T21:33:51.153Z",
+  "rows": [
+    {
+      "event": "story-andrew-vorhees",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
