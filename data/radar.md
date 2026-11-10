@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2355 · Updated: 10/11/2026, 17:07:29 (Asia/Kolkata)
+Run #2356 · Updated: 10/11/2026, 17:27:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Rick Hendrick — 14/100
+### Adrian Mannarino — 18/100
+
+**Event:** Adrian Mannarino: Alejandro Tabilo vs Adrian Mannarino Prediction - ATP Chengdu 2026
+
+**Why now:** 2 source lane(s): news, trends · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Adrian Mannarino adrian mannarino: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+
+**Status:** KEPT
+
+### Jessica Pegula — 17/100
+
+**Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-15 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jessica Pegula jessica pegula: november 10, 2026: marta kostyuk vs jessica pegula: set 1 winner prediction market filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Rick Hendrick — 15/100
 
 **Event:** Rick Hendrick: Stunned as Ailing Darrell Waltrip Hands Emotional Gift Complementing $75,000 Auction Bid
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,47 +56,19 @@ Sources this run: trends(40)
 
 **Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
-### Kyle Larson — 14/100
+### Kyle Larson — 19/100
 
 **Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 20 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Kyle Larson kyle larson: analysis: kyle larson ascends into racing’s ‘rare air’ with third cup series title story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Joel Embiid's — 22/100
-
-**Event:** Joel Embiid's: blunt assessment of the 76ers sounds like a cry for help
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joel Embiid's joel embiid's: blunt assessment of the 76ers sounds like a cry for help filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
-
-### Joel Embiid — 15/100
-
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
-
-**Why now:** 2 source lane(s): news, trends · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joel Embiid joel embiid: sixers vow to 'pour confidence' into struggling joel embiid after 0-for-9 line filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
