@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2347 · Updated: 10/11/2026, 10:14:16 (Asia/Kolkata)
+Run #2348 · Updated: 10/11/2026, 11:34:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,51 +12,107 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Ben Johnson — 18/100
+### Will Ferrell — 17/100
 
-**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+**Event:** Will Ferrell: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Johnson ben johnson: 5 things we learned from bears coach ben johnson in week 9 win filings actually say — line by line — the other side of the fight
+> What the Will Ferrell will ferrell: the origins of ‘elf’: how will ferrell came to replace chris farley in the christmas classic filings actually say — line by line — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kristen Bell — 24/100
+### Steve Buscemi — 30/100
 
-**Event:** Kristen Bell: trending now
+**Event:** Steve Buscemi: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 32 (+7 vs prev run) · spice 18 · risk 34 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kristen Bell situation is weirder than the clips suggest — the other side of the fight
+> The Steve Buscemi steve buscemi: explains why he refuses to appear on ‘hot ones’ story is actually a money story — the number behind the headline
 
-**Competition:** 20 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Andrew Gross — 22/100
+
+**Event:** Andrew Gross: It's always a treat when the Islanders' Matthew Schaefer and the Sharks' Macklin Celebrini face each other
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Andrew Gross andrew gross: it's always a treat when the islanders' matthew schaefer and the sharks' macklin celebrini face each other filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Stephen Curry — 18/100
+
+**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
+
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Stephen Curry stephen curry: with 25 points vs. new orleans pelicans filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jordan Love — 19/100
+### Steve Kerr — 15/100
 
-**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
+**Event:** Steve Kerr: Says Warriors Have Fastest Player He’s Ever Coached
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 6 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jordan Love filing that will matter in six months — the other side of the fight
+> What the Steve Kerr steve kerr: sends strong brandin podziemski message ahead of magic game filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
+**Competition:** 15 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Angel Reese — 19/100
+
+**Event:** Angel Reese: Caitlin Clark, Angel Reese, Paige Bueckers, Azzi Fudd, A'ja Wilson Headline AP All-WNBA Teams
+
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Angel Reese angel reese: goes all in on fashion's new favorite neutral with a zebra print matching set and watch strap pumps filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Marcus Smart — 16/100
+
+**Event:** Marcus Smart: Rockets' Marcus Smart gets real on reason why Lakers moved on from him after productive season
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Marcus Smart marcus smart: “i blame a lot of it on the media” – marcus smart points fingers over jayson tatum-jaylen brown breakup filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
