@@ -1,0 +1,44 @@
+{
+  "runNo": 2346,
+  "at": "2026-11-10T04:29:55.620Z",
+  "rows": [
+    {
+      "event": "story-daniel-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-jeffrey-epstein",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-brolin",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-durant",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
