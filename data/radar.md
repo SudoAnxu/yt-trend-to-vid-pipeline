@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2385 · Updated: 11/11/2026, 05:09:17 (Asia/Kolkata)
+Run #2386 · Updated: 11/11/2026, 05:17:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,79 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Bobby Taylor — 22/100
+### Rick Van — 27/100
+
+**Event:** Rick Van: '90 Day Fiancé' Star Rick Van Vactor Claims Girlfriend Started Fight That Led to His Arrest
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Rick Van story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Bobby Taylor — 21/100
 
 **Event:** Bobby Taylor: st louis drummer
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Bobby Taylor bobby taylor: st. louis drummer bobby taylor, who played in many local bands, dies at 58 filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** BOOSTED
 
-### Donna Kelce — 21/100
+### Connor Hellebuyck — 17/100
 
-**Event:** Donna Kelce: trending now
+**Event:** Connor Hellebuyck: 3-Way Trade Ideas for Connor Hellebuyck and Alexander Nikishin Amid NHL Rumors
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Donna Kelce donna kelce: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Travis Kelce — 14/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-10 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: donna kelce's $355,000 property move puts travis kelce and jason kelce's inheritance in focus filings actually say — line by line — the other side of the fight
+> The Connor Hellebuyck connor hellebuyck: says threats made against family pushed him out of winnipeg story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 13 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Jason Kelce's — 14/100
-
-**Event:** Jason Kelce's: Travis Kelce and Jason Kelce’s $200 million brand announces unusual wedding opportunity as the TE remains
-
-**Why now:** 1 source lane(s): news · momentum 8 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jason Kelce's jason kelce's: donna kelce's $355,000 property move puts travis kelce and jason kelce's inheritance in focus filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: news
-
-**Status:** ARCHIVED
-
-### Travis Kelce's — 17/100
-
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
-
-**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Travis Kelce's travis kelce's: travis kelce’s mom donna sells her newly remodeled florida condo for this major real estate upgrade filings actually say — line by line — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
 
 
 </details>
