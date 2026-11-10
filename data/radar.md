@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2344 · Updated: 10/11/2026, 09:27:42 (Asia/Kolkata)
+Run #2345 · Updated: 10/11/2026, 09:46:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Josh Brolin — 15/100
+### Jeffrey Epstein — 12/100
+
+**Event:** Jeffrey Epstein: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jeffrey Epstein jeffrey epstein: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Josh Brolin — 16/100
 
 **Event:** Josh Brolin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-17 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,47 +44,33 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Michael Strahan — 15/100
+### Roger Goodell — 16/100
 
-**Event:** Michael Strahan: trending now
+**Event:** Roger Goodell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Strahan michael strahan: trending now filings actually say — line by line — the other side of the fight
+> What the Roger Goodell roger goodell: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Greg Newsome — 15/100
+### Ben Hutton — 20/100
 
-**Event:** Greg Newsome: , Giants Reportedly Agree to Contract Extension, Full Details Revealed
+**Event:** Ben Hutton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Greg Newsome greg newsome: cb greg newsome ii on arvell reese: 'he's unbelievable' filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Scott Colom — 26/100
-
-**Event:** Scott Colom: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 16h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Scott Colom filing that will matter in six months — the other side of the fight
+> What the Ben Hutton ben hutton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>
