@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2368 · Updated: 10/11/2026, 23:02:58 (Asia/Kolkata)
+Run #2369 · Updated: 10/11/2026, 23:30:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Joey Aguilar — 22/100
+### Spencer Brown — 17/100
 
-**Event:** Joey Aguilar: trending now
+**Event:** Spencer Brown: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 0 · risk 64 · external momentum 24 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Joey Aguilar filing that will matter in six months — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jonathan Taylor — 17/100
-
-**Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
-
-**Why now:** 2 source lane(s): trends, news · momentum 5 (+2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jonathan Taylor story is a proxy fight about something bigger — the other side of the fight
+> What the Spencer Brown spencer brown: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Greg Schiano — 26/100
-
-**Event:** Greg Schiano: Rutgers’ Greg Schiano decision is puzzling. The money may explain it
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Greg Schiano greg schiano: rutgers’ greg schiano decision is puzzling. the money may explain it story is actually a money story — the number behind the headline
-
-**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
+
+### Jake Moody — 19/100
+
+**Event:** Jake Moody: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jake Moody jake moody: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** KEPT
+
+### Nick Folk — 19/100
+
+**Event:** Nick Folk: Fromal’s Kicking Notebook: Assessing Nick Folk panic and NFL Week 1 standouts
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Nick Folk nick folk: falcons signing k jake moody, releasing k nick folk filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
