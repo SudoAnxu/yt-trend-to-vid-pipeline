@@ -1,0 +1,16 @@
+{
+  "runNo": 2365,
+  "at": "2026-11-10T16:33:48.038Z",
+  "rows": [
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
