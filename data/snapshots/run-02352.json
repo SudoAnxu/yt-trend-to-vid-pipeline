@@ -1,0 +1,44 @@
+{
+  "runNo": 2352,
+  "at": "2026-11-10T09:02:46.778Z",
+  "rows": [
+    {
+      "event": "story-theo-james",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-russell-brand",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-russell-brand-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-darnold",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-amanda-nunes",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
