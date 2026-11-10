@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2346 · Updated: 10/11/2026, 09:59:56 (Asia/Kolkata)
+Run #2347 · Updated: 10/11/2026, 10:14:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,79 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Daniel Jones — 22/100
+### Ben Johnson — 18/100
 
-**Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
+**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Daniel Jones story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Aaron Jones — 16/100
-
-**Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
-
-**Why now:** 2 source lane(s): news, trends · momentum 4 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Aaron Jones aaron jones: trending now filings actually say — line by line — the other side of the fight
+> What the Ben Johnson ben johnson: 5 things we learned from bears coach ben johnson in week 9 win filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 17 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jeffrey Epstein — 12/100
+### Kristen Bell — 24/100
 
-**Event:** Jeffrey Epstein: trending now
+**Event:** Kristen Bell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jeffrey Epstein jeffrey epstein: trending now filings actually say — line by line — the other side of the fight
+> The Kristen Bell situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Josh Brolin — 16/100
+### Jordan Love — 19/100
 
-**Event:** Josh Brolin: trending now
+**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Josh Brolin josh brolin: julianne moore, josh brolin and daisy ridley lead the buzziest titles at afm story is actually a money story — the other side of the fight
+> The Jordan Love filing that will matter in six months — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
 
-**Status:** ARCHIVED
-
-### Kevin Durant — 19/100
-
-**Event:** Kevin Durant: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kevin Durant kevin durant: posts 23/12/8 stat line vs. denver filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>
