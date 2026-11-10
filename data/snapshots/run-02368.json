@@ -1,0 +1,30 @@
+{
+  "runNo": 2368,
+  "at": "2026-11-10T17:32:57.807Z",
+  "rows": [
+    {
+      "event": "story-joey-aguilar",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 24,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jonathan-taylor",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-greg-schiano",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
