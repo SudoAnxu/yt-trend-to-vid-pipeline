@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2332 · Updated: 10/11/2026, 05:24:46 (Asia/Kolkata)
+Run #2333 · Updated: 10/11/2026, 05:52:15 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Country Singer — 24/100
+### Josh Furlong's — 19/100
 
-**Event:** Country Singer: CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show
+**Event:** Josh Furlong's: AP Top 25: UCLA, Utah make their move after another upset-laden weekend
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Country Singer story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### John Wayne — 11/100
-
-**Event:** John Wayne: turned down movie
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The John Wayne john wayne: 2 escape injury when small plane flips over at john wayne airport story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Josh Palmer — 19/100
-
-**Event:** Josh Palmer: Bills place Josh Palmer on injured reserve
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Josh Palmer josh palmer: bills place josh palmer on injured reserve filings actually say — line by line — the other side of the fight
+> What the Josh Furlong's josh furlong's: ap top 25: another no. 1 team falls as ucla, utah make their move filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Jordan Mason — 20/100
+
+**Event:** Jordan Mason: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jordan Mason story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Aaron Jones — 25/100
+
+**Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Aaron Jones story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>

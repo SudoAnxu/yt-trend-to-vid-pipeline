@@ -1,0 +1,30 @@
+{
+  "runNo": 2333,
+  "at": "2026-11-10T00:22:14.831Z",
+  "rows": [
+    {
+      "event": "story-josh-furlong-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-mason",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
