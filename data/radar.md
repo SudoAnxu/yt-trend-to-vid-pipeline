@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2352 · Updated: 10/11/2026, 14:32:48 (Asia/Kolkata)
+Run #2353 · Updated: 10/11/2026, 15:46:21 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,77 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Theo James — 18/100
+### Justin Boone's — 23/100
 
-**Event:** Theo James: trending now
+**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Theo James theo james: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Russell Brand — 23/100
-
-**Event:** Russell Brand: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-6 vs prev run) · spice 14 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Russell Brand russell brand: producer jemima goldsmith accuses russell brand of “violence, coercive control & abuse” story is actually a money story — the other side of the fight
+> The Justin Boone's situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 4.6h · sources: news
 
 **Status:** ARCHIVED
 
-### Russell Brand's — 23/100
+### Tyler Robinson — 12/100
 
-**Event:** Russell Brand's: Why Russell Brand's lawyers wanted his Katy Perry marriage left out of trial
+**Event:** Tyler Robinson: Trial dates for Tyler Robinson may be included in November scheduling order
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Russell Brand's russell brand's: russell brand’s ex accuses him of violent abuse hours after rape sentencing filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Sam Darnold — 23/100
-
-**Event:** Sam Darnold: seahawks sam darnold
-
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Sam Darnold sam darnold: seahawks to start qb drew lock vs. raiders, giving sam darnold more time to heal story is actually a money story — the other side of the fight
+> The Tyler Robinson tyler robinson: michael ruiz: tyler robinson judge to give long-awaited trial date ruling in assassination of charlie kirk story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Ryan Gosling — 16/100
+
+**Event:** Ryan Gosling: star wars: starfighter
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ryan Gosling ryan gosling: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** BOOSTED
 
-### Amanda Nunes — 19/100
+### Ryan Gosling's — 21/100
 
-**Event:** Amanda Nunes: Kayla Harrison vs. Amanda Nunes leads to retirement or 2-division title chase, per UFC Edmonton contender
+**Event:** Ryan Gosling's: Star Wars Starfighter Trailer Breaks a 49-Year-Old Franchise Tradition
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 25 (+9 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Amanda Nunes story is a proxy fight about something bigger — the other side of the fight
+> The Ryan Gosling's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 24 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
 
