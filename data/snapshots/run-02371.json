@@ -1,0 +1,16 @@
+{
+  "runNo": 2371,
+  "at": "2026-11-10T18:44:35.407Z",
+  "rows": [
+    {
+      "event": "story-don-leonard",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
