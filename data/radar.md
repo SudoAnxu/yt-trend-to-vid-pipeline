@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2427 · Updated: 12/11/2026, 03:53:02 (Asia/Kolkata)
+Run #2428 · Updated: 12/11/2026, 04:24:59 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Chris Harrison — 30/100
+### Scott Colom — 20/100
 
-**Event:** Chris Harrison: Responds To Warner Bros' Legal Action Against 'The Vow'
+**Event:** Scott Colom: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+5 vs prev run) · spice 11 · risk 34 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Chris Harrison chris harrison: says being fired from ‘the bachelor’ was a “blessing,” not a cancellation filings actually say — line by line — what happens next
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Nick Wright — 18/100
-
-**Event:** Nick Wright: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 16h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Nick Wright story is a proxy fight about something bigger — the other side of the fight
+> The Scott Colom filing that will matter in six months — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: trends, news
+
+**Status:** KEPT
+
+### Hannah Brown — 24/100
+
+**Event:** Hannah Brown: ‘The Circle’ Season 8 Cast Revealed: 11 Players Including Hannah Brown, Sasha Farber & More Reality Stars!
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Hannah Brown story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
-
-### Josh Allen — 15/100
-
-**Event:** Josh Allen: injury
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Josh Allen story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
