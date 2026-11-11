@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2423 · Updated: 12/11/2026, 02:31:26 (Asia/Kolkata)
+Run #2424 · Updated: 12/11/2026, 02:59:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,15 +16,15 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Stephen Curry — 15/100
+### Stephen Curry — 23/100
 
 **Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+9 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Stephen Curry stephen curry: how stephen curry inspired ayesha curry in christmas rom-com role that has everybody talking about kissing sce filings actually say — line by line — the other side of the fight
+> What the Stephen Curry stephen curry: calls out gilbert arenas, nick young in video after criticism of wife ayesha filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
