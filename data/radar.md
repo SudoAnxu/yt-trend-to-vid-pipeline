@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2419 · Updated: 12/11/2026, 00:18:24 (Asia/Kolkata)
+Run #2420 · Updated: 12/11/2026, 00:29:41 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Justin Gaethje — 16/100
+
+**Event:** Justin Gaethje: ilia topuria ufc
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Justin Gaethje justin gaethje: ilia topuria: paddy pimblett is 'someone you can dominate,' unlike justin gaethje filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Jonathan Taylor — 17/100
 
 **Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Will Scharf: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · external momentum 10 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,11 +62,11 @@ Sources this run: trends(40)
 
 **Event:** Alexander Darchiev: , Russia’s ambassador to the United States, dead at 66
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alexander Darchiev alexander darchiev: , russia’s ambassador to the united states, dead at 66 filings actually say — line by line — the other side of the fight
+> What the Alexander Darchiev alexander darchiev: russia’s ambassador to us, alexander darchiev, dies at 66 filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
