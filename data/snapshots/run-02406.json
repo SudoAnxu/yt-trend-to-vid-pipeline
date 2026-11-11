@@ -1,0 +1,23 @@
+{
+  "runNo": 2406,
+  "at": "2026-11-11T12:25:39.306Z",
+  "rows": [
+    {
+      "event": "story-russell-brand",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-christopher-renstrom",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
