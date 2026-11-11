@@ -1,0 +1,30 @@
+{
+  "runNo": 2388,
+  "at": "2026-11-11T00:28:32.232Z",
+  "rows": [
+    {
+      "event": "story-louis-blues",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-brittany-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

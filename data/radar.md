@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2387 · Updated: 11/11/2026, 05:37:08 (Asia/Kolkata)
+Run #2388 · Updated: 11/11/2026, 05:58:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Steven Tyler — 22/100
+### Louis Blues — 19/100
 
-**Event:** Steven Tyler: trending now
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Steven Tyler steven tyler: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Steven Tyler's — 22/100
-
-**Event:** Steven Tyler's: Exclusive | Steven Tyler’s vocal cord status post-injury revealed ahead of Aerosmith’s Hollywood Bowl shows
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Steven Tyler's steven tyler's: judge sets new date for steven tyler’s sexual assault trial filings actually say — line by line — the other side of the fight
+> What the Louis Blues louis blues: detroit red wings vs st louis blues prediction, picks & odds | 10 nov 2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 20 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** KEPT
+
+### Brittany Mahomes — 20/100
+
+**Event:** Brittany Mahomes: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Brittany Mahomes brittany mahomes: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Patrick Mahomes — 20/100
+
+**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Patrick Mahomes patrick mahomes: , wife brittany announce they are expecting fourth child filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
