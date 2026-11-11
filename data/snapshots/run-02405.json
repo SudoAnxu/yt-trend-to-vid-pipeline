@@ -1,0 +1,16 @@
+{
+  "runNo": 2405,
+  "at": "2026-11-11T12:04:53.046Z",
+  "rows": [
+    {
+      "event": "story-jessica-pegula",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
