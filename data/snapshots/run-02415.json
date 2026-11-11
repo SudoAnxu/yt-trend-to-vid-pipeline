@@ -1,0 +1,23 @@
+{
+  "runNo": 2415,
+  "at": "2026-11-11T17:18:31.126Z",
+  "rows": [
+    {
+      "event": "story-rex-ryan",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-goldberg-speaks-directly",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

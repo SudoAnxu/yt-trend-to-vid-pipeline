@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2414 · Updated: 11/11/2026, 22:11:12 (Asia/Kolkata)
+Run #2415 · Updated: 11/11/2026, 22:48:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(36)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(36)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
+
+### Rex Ryan — 19/100
+
+**Event:** Rex Ryan: Former NFL Coach Rex Ryan charged after Nashville hit-and-run
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 86 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rex Ryan rex ryan: former nfl coach rex ryan charged after nashville hit-and-run filings actually say — line by line — what happens next
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Goldberg Speaks Directly — 19/100
 
 **Event:** Goldberg Speaks Directly: Whoopi Goldberg Speaks Directly to Pete Hegseth & Democrats on ‘The View’
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -29,34 +43,6 @@ Sources this run: trends(36)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Travis Kelce — 20/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Travis Kelce travis kelce: says he'll ask wife taylor swift for help after jason makes unexpected request filings actually say — line by line — the part that was not supposed to be public
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Todd Bowles — 15/100
-
-**Event:** Todd Bowles: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Todd Bowles todd bowles: bucs’ todd bowles: it’s a “challenge” to get right plays for baker mayfield filings actually say — line by line — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
