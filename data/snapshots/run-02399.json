@@ -1,0 +1,30 @@
+{
+  "runNo": 2399,
+  "at": "2026-11-11T07:51:55.690Z",
+  "rows": [
+    {
+      "event": "story-emma-watson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-presales",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-officially-returns-with",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
