@@ -1,0 +1,31 @@
+{
+  "runNo": 2397,
+  "at": "2026-11-11T06:50:41.895Z",
+  "rows": [
+    {
+      "event": "story-amanda-nunes",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-larry-ellison",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-micah-nori",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429",
+    "youtube: Error: HTTP 429"
+  ]
+}
