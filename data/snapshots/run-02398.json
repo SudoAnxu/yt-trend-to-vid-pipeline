@@ -1,0 +1,38 @@
+{
+  "runNo": 2398,
+  "at": "2026-11-11T07:34:34.512Z",
+  "rows": [
+    {
+      "event": "story-officially-returns-with",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-gunn",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-safran",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-amanda-nunes",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON",
+    "youtube: Error: HTTP 429"
+  ]
+}
