@@ -1,0 +1,30 @@
+{
+  "runNo": 2427,
+  "at": "2026-11-11T22:23:01.705Z",
+  "rows": [
+    {
+      "event": "story-chris-harrison",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-wright",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
