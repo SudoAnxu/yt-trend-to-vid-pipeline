@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2413 · Updated: 11/11/2026, 21:59:52 (Asia/Kolkata)
+Run #2414 · Updated: 11/11/2026, 22:11:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(36)
 
@@ -12,7 +12,7 @@ Sources this run: trends(36)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(36)
 
 **Event:** Goldberg Speaks Directly: Whoopi Goldberg Speaks Directly to Pete Hegseth & Democrats on ‘The View’
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(36)
 
 **Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+11 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,33 +44,19 @@ Sources this run: trends(36)
 
 **Status:** ARCHIVED
 
-### Randy Flores — 14/100
+### Todd Bowles — 15/100
 
-**Event:** Randy Flores: trending now
+**Event:** Todd Bowles: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Randy Flores randy flores: albert pujols isn't the only cardinals tie new gm randy flores could pull into astros' orbit filings actually say — line by line — the other side of the fight
+> What the Todd Bowles todd bowles: bucs’ todd bowles: it’s a “challenge” to get right plays for baker mayfield filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Gary Trent — 22/100
-
-**Event:** Gary Trent: Jr.'s horrific contract made even worse by Bucks G Leaugers
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Gary Trent gary trent: jr.'s horrific contract made even worse by bucks g leaugers filings actually say — line by line — the number behind the headline
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
