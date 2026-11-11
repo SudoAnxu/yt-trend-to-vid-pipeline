@@ -1,0 +1,30 @@
+{
+  "runNo": 2404,
+  "at": "2026-11-11T11:34:00.592Z",
+  "rows": [
+    {
+      "event": "story-kirk-cousins",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-day",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-connor-hellebuyck",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
