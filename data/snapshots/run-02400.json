@@ -1,0 +1,79 @@
+{
+  "runNo": 2400,
+  "at": "2026-11-11T08:42:36.784Z",
+  "rows": [
+    {
+      "event": "story-russell-crowe",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-officially-hits-apple",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-gosling",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-gosling-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-laux",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ryan-garcia",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-floyd-mayweather",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-franco",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-rob-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 1,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-shapiro",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
