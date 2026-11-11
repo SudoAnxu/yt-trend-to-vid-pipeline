@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2388 · Updated: 11/11/2026, 05:58:33 (Asia/Kolkata)
+Run #2389 · Updated: 11/11/2026, 06:14:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429 · youtube: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Louis Blues — 19/100
+### Ryan Seacrest — 23/100
 
-**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
+**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Louis Blues louis blues: detroit red wings vs st louis blues prediction, picks & odds | 10 nov 2026 filings actually say — line by line — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** KEPT
-
-### Brittany Mahomes — 20/100
-
-**Event:** Brittany Mahomes: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Brittany Mahomes brittany mahomes: trending now filings actually say — line by line — the other side of the fight
+> What the Ryan Seacrest ryan seacrest: school board advances $2.7 million plan to renovate stadium named after ryan seacrest filings actually say — line by line — the number behind the headline
 
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Patrick Mahomes — 20/100
+### Will Venable — 21/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Will Venable: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Patrick Mahomes patrick mahomes: , wife brittany announce they are expecting fourth child filings actually say — line by line — the other side of the fight
+> What the Will Venable will venable: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Jennifer Grey — 26/100
+
+**Event:** Jennifer Grey: Home Instead reunites Jennifer Grey and Charlie Sheen for holiday ad
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jennifer Grey jennifer grey: home instead reunites jennifer grey and charlie sheen for holiday ad filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

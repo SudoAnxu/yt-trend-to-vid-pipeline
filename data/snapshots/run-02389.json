@@ -1,0 +1,31 @@
+{
+  "runNo": 2389,
+  "at": "2026-11-11T00:44:22.150Z",
+  "rows": [
+    {
+      "event": "story-ryan-seacrest",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-venable",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-grey",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429",
+    "youtube: Error: HTTP 429"
+  ]
+}
