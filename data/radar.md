@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2418 · Updated: 11/11/2026, 23:54:24 (Asia/Kolkata)
+Run #2419 · Updated: 12/11/2026, 00:18:24 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jonathan Taylor: Actor Jonathan Taylor Thomas arrested in Malibu traffic stop
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-14 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,25 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jessica Pegula — 19/100
-
-**Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jessica Pegula story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
 ### Will Scharf — 17/100
 
 **Event:** Will Scharf: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -62,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Alexander Darchiev: , Russia’s ambassador to the United States, dead at 66
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
