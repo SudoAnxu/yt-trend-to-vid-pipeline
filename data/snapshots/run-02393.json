@@ -1,0 +1,16 @@
+{
+  "runNo": 2393,
+  "at": "2026-11-11T02:06:27.353Z",
+  "rows": [
+    {
+      "event": "story-scott-bessent",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
