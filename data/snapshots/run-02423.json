@@ -1,0 +1,16 @@
+{
+  "runNo": 2423,
+  "at": "2026-11-11T21:01:25.864Z",
+  "rows": [
+    {
+      "event": "story-stephen-curry",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
