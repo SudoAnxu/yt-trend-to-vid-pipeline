@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2407 · Updated: 11/11/2026, 18:25:02 (Asia/Kolkata)
+Run #2408 · Updated: 11/11/2026, 19:21:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Dylan Dreyer — 22/100
-
-**Event:** Dylan Dreyer: Jenna Bush Hager and Sheinelle Jones Call Out Dylan Dreyer on Today for Crashing Their Live Show to Eat a Sala
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Dylan Dreyer story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
