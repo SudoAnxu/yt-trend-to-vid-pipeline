@@ -1,0 +1,37 @@
+{
+  "runNo": 2413,
+  "at": "2026-11-11T16:29:50.985Z",
+  "rows": [
+    {
+      "event": "story-goldberg-speaks-directly",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-randy-flores",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-gary-trent",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
