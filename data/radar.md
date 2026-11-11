@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2425 · Updated: 12/11/2026, 03:11:56 (Asia/Kolkata)
+Run #2426 · Updated: 12/11/2026, 03:37:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,47 +12,75 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Randall England — 23/100
+### Chris Harrison — 27/100
 
-**Event:** Randall England: Dies: Actor Who Played ‘General Hospital’ Villain Was 75
+**Event:** Chris Harrison: Responds To Warner Bros' Legal Action Against 'The Vow'
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Randall England randall england: dies: actor who played ‘general hospital’ villain was 75 story is actually a money story — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Stephen Curry — 20/100
-
-**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
-
-**Why now:** 2 source lane(s): news, trends · momentum 12 (-11 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+15 vs prev run) · spice 11 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Stephen Curry stephen curry: calls out gilbert arenas, nick young in video after criticism of wife ayesha filings actually say — line by line — the other side of the fight
+> What the Chris Harrison chris harrison: says being fired from ‘the bachelor’ was a “blessing,” not a cancellation filings actually say — line by line — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Nick Young — 24/100
+### Chris Harrison's — 19/100
 
-**Event:** Nick Young: Stephen Curry Calls Out Gilbert Arenas, Nick Young in Video After Criticism of Wife Ayesha
+**Event:** Chris Harrison's: What To Watch Wednesday: The Rings Of Power Returns, Chris Harrison's New Dating Show, And More
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 13 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nick Young nick young: stephen curry calls out gilbert arenas, nick young in video after criticism of wife ayesha filings actually say — line by line — the other side of the fight
+> What the Chris Harrison's chris harrison's: 'the vow' on fox nation is chris harrison's 'bachelor' revenge fantasy filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Nick Wright — 19/100
+
+**Event:** Nick Wright: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Nick Wright story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 13 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Josh Allen — 15/100
+
+**Event:** Josh Allen: injury
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Allen story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Group Shares Drop — 25/100
+
+**Event:** Group Shares Drop: SoftBank Group Shares Drop 11% After Booking $7 Billion Loss
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 26 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Group Shares Drop group shares drop: softbank group shares drop 11% after booking $7 billion loss filings actually say — line by line — the number behind the headline
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
