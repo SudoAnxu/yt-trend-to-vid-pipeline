@@ -1,0 +1,24 @@
+{
+  "runNo": 2396,
+  "at": "2026-11-11T04:51:43.310Z",
+  "rows": [
+    {
+      "event": "story-sam-claflin",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-josh-green",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON",
+    "youtube: Error: HTTP 429"
+  ]
+}
