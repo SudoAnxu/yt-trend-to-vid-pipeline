@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2391 · Updated: 11/11/2026, 06:53:30 (Asia/Kolkata)
+Run #2392 · Updated: 11/11/2026, 07:12:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON · youtube: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,61 +16,61 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Thomas Haugh — 28/100
+### Paul George — 18/100
 
-**Event:** Thomas Haugh: trending now
+**Event:** Paul George: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Thomas Haugh story is a proxy fight about something bigger — the other side of the fight
+> The Paul George story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Kyle Kuzma — 24/100
+
+**Event:** Kyle Kuzma: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Kyle Kuzma kyle kuzma: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jon Scheyer — 25/100
+
+**Event:** Jon Scheyer: Duke lands 5-star SF Asa Montgomery as Jon Scheyer closes in on another insane class
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jon Scheyer story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Will Win — 20/100
+### Kate Middleton — 17/100
 
-**Event:** Will Win: Experts Predict: Who Will Win Laver Cup London 2026?
+**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Will Win story is a proxy fight about something bigger — the other side of the fight
+> What the Kate Middleton kate middleton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Nick Saban's — 18/100
-
-**Event:** Nick Saban's: Where to watch Nick Saban's 'Saban' docuseries
-
-**Why now:** 1 source lane(s): news · momentum 15 (-12 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Nick Saban's nick saban's: "rip": nick saban's daughter devastated after new college football change filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: news
-
-**Status:** ARCHIVED
-
-### Eli Drinkwitz — 19/100
-
-**Event:** Eli Drinkwitz: Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Eli Drinkwitz eli drinkwitz: missouri's eli drinkwitz questions need for conferences in 24-team cfp era filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>

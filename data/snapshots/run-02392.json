@@ -1,0 +1,38 @@
+{
+  "runNo": 2392,
+  "at": "2026-11-11T01:42:02.984Z",
+  "rows": [
+    {
+      "event": "story-paul-george",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-kuzma",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-jon-scheyer",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON",
+    "youtube: Error: HTTP 429"
+  ]
+}
