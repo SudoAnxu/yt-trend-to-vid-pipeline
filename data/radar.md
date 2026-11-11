@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2409 · Updated: 11/11/2026, 20:09:09 (Asia/Kolkata)
+Run #2410 · Updated: 11/11/2026, 20:21:24 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,21 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (9)
+## ⚫ ARCHIVED (10)
 
 <details><summary>show</summary>
 
-### Kurt Warner — 21/100
+### Kurt Warner — 22/100
 
 **Event:** Kurt Warner: NFL Legend Kurt Warner Posts Tutorial Video for Young QBs
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Kurt Warner story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Olivia Rodrigo's: Chicago opener blossoms into an unforgettable night
 
-**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Olivia Rodrigo — 15/100
+### Olivia Rodrigo — 16/100
 
 **Event:** Olivia Rodrigo: tour
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-18 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,39 +58,53 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Ryan Blaney — 14/100
+### Ron Howard — 18/100
 
-**Event:** Ryan Blaney: trending now
+**Event:** Ron Howard: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ryan Blaney ryan blaney: chase elliott demands answers as team points finger at ryan blaney in homestead incident filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Anthony Santander's — 26/100
-
-**Event:** Anthony Santander's: Blue Jays distance themselves from OF Anthony Santander's anti-Islam Instagram posts
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Anthony Santander's situation is weirder than the clips suggest — the other side of the fight
+> What the Ron Howard ron howard: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 4.1h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Chris Harrison — 14/100
+### Anthony Santander's — 16/100
+
+**Event:** Anthony Santander's: Blue Jays distance themselves from OF Anthony Santander's anti-Islam Instagram posts
+
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Anthony Santander's anthony santander's: blue jays gm denounces anthony santander's anti-islam social media posts: 'extremely disappointing' story is actually a money story — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 7.3h · sources: news
+
+**Status:** ARCHIVED
+
+### Anthony Santander — 21/100
+
+**Event:** Anthony Santander: MLB outfielder Anthony Santander faces backlash over Abdul El-Sayed video, Blue Jays respond
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Anthony Santander anthony santander: gregor chisholm: blue jays told anthony santander to apologize for amplifying anti-muslim hate. he’s chosen si filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Chris Harrison — 15/100
 
 **Event:** Chris Harrison: Responds To Warner Bros' Legal Action Against 'The Vow'
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -104,7 +118,7 @@ Sources this run: trends(40)
 
 **Event:** Chris Harrison's: What To Watch Wednesday: The Rings Of Power Returns, Chris Harrison's New Dating Show, And More
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -114,17 +128,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Amy Robach — 22/100
+### Amy Robach — 21/100
 
 **Event:** Amy Robach: and T.J. Holmes' Exes Andrew Shue, Marilee Fiebig Are Engaged
 
-**Why now:** 2 source lane(s): news, trends · momentum 28 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Amy Robach amy robach: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 9h · sources: news, trends
+**Competition:** 1 videos in last 6h · TTS ≈ 9.6h · sources: news, trends
 
 **Status:** KEPT
 
@@ -132,7 +146,7 @@ Sources this run: trends(40)
 
 **Event:** John Madden: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
 
 **Recommended angle**
 

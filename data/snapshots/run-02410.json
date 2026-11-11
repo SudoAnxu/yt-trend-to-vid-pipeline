@@ -1,0 +1,79 @@
+{
+  "runNo": 2410,
+  "at": "2026-11-11T14:51:23.135Z",
+  "rows": [
+    {
+      "event": "story-kurt-warner",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-rodrigo-s",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-rodrigo",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-ron-howard",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-santander-s",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-santander",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-harrison",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-harrison-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-amy-robach",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-madden",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
