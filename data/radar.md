@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2406 · Updated: 11/11/2026, 17:55:39 (Asia/Kolkata)
+Run #2407 · Updated: 11/11/2026, 18:25:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Russell Brand — 22/100
+### Dylan Dreyer — 22/100
 
-**Event:** Russell Brand: trending now
+**Event:** Dylan Dreyer: Jenna Bush Hager and Sheinelle Jones Call Out Dylan Dreyer on Today for Crashing Their Live Show to Eat a Sala
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+6 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Russell Brand russell brand: police told russell brand to leave jemima goldsmith's house in 2014 filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Christopher Renstrom — 22/100
-
-**Event:** Christopher Renstrom: Horoscope for Sunday, 09/27/26 by Christopher Renstrom
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Christopher Renstrom christopher renstrom: horoscope for wednesday, 11/11/26 by christopher renstrom filings actually say — line by line — the other side of the fight
+> The Dylan Dreyer story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
 
 **Status:** ARCHIVED
 

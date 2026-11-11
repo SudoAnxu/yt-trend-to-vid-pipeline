@@ -1,0 +1,16 @@
+{
+  "runNo": 2407,
+  "at": "2026-11-11T12:55:02.330Z",
+  "rows": [
+    {
+      "event": "story-dylan-dreyer",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
