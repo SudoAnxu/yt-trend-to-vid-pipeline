@@ -1,0 +1,16 @@
+{
+  "runNo": 2430,
+  "at": "2026-11-11T23:36:01.625Z",
+  "rows": [
+    {
+      "event": "story-paul-george",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
