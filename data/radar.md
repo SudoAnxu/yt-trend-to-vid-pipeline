@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2415 · Updated: 11/11/2026, 22:48:31 (Asia/Kolkata)
+Run #2416 · Updated: 11/11/2026, 23:15:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Rex Ryan — 19/100
+### Carlos Alcaraz — 16/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Carlos Alcaraz carlos alcaraz: taylor fritz handed bad news after losing to carlos alcaraz in paris as stockholm draw is announced filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rex Ryan — 20/100
 
 **Event:** Rex Ryan: Former NFL Coach Rex Ryan charged after Nashville hit-and-run
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 86 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Rex Ryan rex ryan: former nfl coach rex ryan charged after nashville hit-and-run filings actually say — line by line — what happens next
+> What the Rex Ryan rex ryan: espn analyst rex ryan arrested after allegedly striking 2 pedestrians with his truck, running over their feet filings actually say — line by line — what happens next
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Goldberg Speaks Directly — 19/100
-
-**Event:** Goldberg Speaks Directly: Whoopi Goldberg Speaks Directly to Pete Hegseth & Democrats on ‘The View’
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Goldberg Speaks Directly goldberg speaks directly: whoopi goldberg speaks directly to pete hegseth & democrats on ‘the view’ filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 12 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
 
