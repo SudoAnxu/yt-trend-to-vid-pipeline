@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2452 · Updated: 12/11/2026, 18:38:21 (Asia/Kolkata)
+Run #2453 · Updated: 12/11/2026, 19:01:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Country Singer: CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -28,13 +28,13 @@ Sources this run: trends(40)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
-### Kate Middleton — 15/100
+### Kate Middleton — 16/100
 
 **Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,27 +48,13 @@ Sources this run: trends(40)
 
 **Event:** Ryan Gosling: star wars: starfighter
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Ryan Gosling ryan gosling: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Alex Michelsen — 16/100
-
-**Event:** Alex Michelsen: "J'ai été voir le petit garçon qui fait pipi" : éliminé de l'European Open, Alex Michelsen a logé chez Kristof
-
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alex Michelsen alex michelsen: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** BOOSTED
 

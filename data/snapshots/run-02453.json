@@ -1,0 +1,30 @@
+{
+  "runNo": 2453,
+  "at": "2026-11-12T13:31:14.818Z",
+  "rows": [
+    {
+      "event": "story-country-singer",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-gosling",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
