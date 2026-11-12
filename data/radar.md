@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2471 · Updated: 13/11/2026, 02:47:18 (Asia/Kolkata)
+Run #2472 · Updated: 13/11/2026, 03:00:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,7 +12,7 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+6 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(39)
 
 **Event:** Mark Zuckerberg's: How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,6 +43,34 @@ Sources this run: trends(39)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
+
+### Aaron Taylor — 17/100
+
+**Event:** Aaron Taylor: johnson
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Aaron Taylor aaron taylor: johnson filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Alex Michelsen — 21/100
+
+**Event:** Alex Michelsen: "J'ai été voir le petit garçon qui fait pipi" : éliminé de l'European Open, Alex Michelsen a logé chez Kristof
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+4 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alex Michelsen alex michelsen: vs. alejandro tabilo prediction, odds, picks for atp stockholm open 2026 filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** KEPT
 
 
 </details>
