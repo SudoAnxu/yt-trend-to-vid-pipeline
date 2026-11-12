@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2462 · Updated: 12/11/2026, 23:10:31 (Asia/Kolkata)
+Run #2463 · Updated: 12/11/2026, 23:28:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Harry Kane — 14/100
+### Bruce Arians — 24/100
+
+**Event:** Bruce Arians: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Bruce Arians bruce arians: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Harry Kane — 15/100
 
 **Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -29,20 +43,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** KEPT
-
-### Will Bring — 25/100
-
-**Event:** Will Bring: Earthquake Simulator Will Bring Magnitude 7.0 Shaking To LA
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Bring will bring: nor’easter will bring cold temperatures and maybe a little snow to millions filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
