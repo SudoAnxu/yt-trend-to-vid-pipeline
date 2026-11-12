@@ -1,0 +1,16 @@
+{
+  "runNo": 2480,
+  "at": "2026-11-12T23:48:38.453Z",
+  "rows": [
+    {
+      "event": "story-alex-pereira-s",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
