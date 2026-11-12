@@ -1,0 +1,16 @@
+{
+  "runNo": 2447,
+  "at": "2026-11-12T09:03:25.720Z",
+  "rows": [
+    {
+      "event": "story-katherine-kealoha",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
