@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2437 · Updated: 12/11/2026, 07:42:39 (Asia/Kolkata)
+Run #2438 · Updated: 12/11/2026, 07:54:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,77 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Owen Wilson — 20/100
+### Pedro Pascal's — 19/100
 
-**Event:** Owen Wilson: Supreme ball-knower Owen Wilson on "Stick" Season 2 and his near eagle on one of golf's most iconic holes
+**Event:** Pedro Pascal's: Bella Ramsey Is ‘The General’ on The Last of Us Season 3 After Pedro Pascal’s Exit
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Owen Wilson story is a proxy fight about something bigger — the other side of the fight
+> What the Pedro Pascal's pedro pascal's: music links past, present for pedro pascal's cellist in 'behemoth!' filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Kyle Kuzma — 23/100
+### Nate Ament — 23/100
 
-**Event:** Kyle Kuzma: trending now
+**Event:** Nate Ament: Kyle Kuzma's bleak game should already have Bucks plotting a Nate Ament pivot
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kyle Kuzma kyle kuzma: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Gary Sinise — 19/100
-
-**Event:** Gary Sinise: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+9 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 33 (+15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Gary Sinise gary sinise: forrest gump star gary sinise details son mac’s final moments before death at 33: ‘hard to wrap my head around story is actually a money story — the other side of the fight
+> What the Nate Ament nate ament: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Thomas Tommies — 18/100
+### Jonathan Kuminga — 17/100
 
-**Event:** Thomas Tommies: Saint Thomas Tommies play the Green Bay Phoenix in non-conference play
+**Event:** Jonathan Kuminga: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Thomas Tommies thomas tommies: saint thomas tommies play the green bay phoenix in non-conference play story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### John Wayne — 17/100
-
-**Event:** John Wayne: turned down movie
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Wayne john wayne: trending now filings actually say — line by line — the other side of the fight
+> What the Jonathan Kuminga jonathan kuminga: nate ament making it easy for bucks to forget peyton watson, jonathan kuminga filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
