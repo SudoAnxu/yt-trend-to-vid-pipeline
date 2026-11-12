@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2475 · Updated: 13/11/2026, 03:28:25 (Asia/Kolkata)
+Run #2476 · Updated: 13/11/2026, 03:53:35 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,29 +12,57 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### Republicans Make Largest — 19/100
+### Anthony Santander — 20/100
 
-**Event:** Republicans Make Largest: Ranking Member Takano: Republicans Make Largest Cut to Veteran Benefits in History – on Veterans Day
+**Event:** Anthony Santander: MLB outfielder Anthony Santander faces backlash over Abdul El-Sayed video, Blue Jays respond
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Republicans Make Largest republicans make largest: ranking member takano: republicans make largest cut to veteran benefits in history – on veterans day filings actually say — line by line — the other side of the fight
+> What the Anthony Santander anthony santander: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** KEPT
+
+### Anthony Santander's — 23/100
+
+**Event:** Anthony Santander's: Blue Jays distance themselves from OF Anthony Santander's anti-Islam Instagram posts
+
+**Why now:** 1 source lane(s): news · momentum 14 (+1 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Anthony Santander's situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 4.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Harry Kane — 25/100
+
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+9 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Harry Kane harry kane: england vs croatia player ratings: harry kane scores winner as lewis hall impresses filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** BOOSTED
 
 ### Stacy Keach — 22/100
 
 **Event:** Stacy Keach: , Actor Who Embodied Hamlet and Mike Hammer, Dies at 85
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +76,7 @@ Sources this run: trends(38)
 
 **Event:** Mike Hammer: Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,17 +86,17 @@ Sources this run: trends(38)
 
 **Status:** RESEARCH
 
-### Josh Simmons — 21/100
+### Josh Simmons — 22/100
 
 **Event:** Josh Simmons: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.8h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Josh Simmons josh simmons: espn insider reveals concerning update on chiefs ol story is actually a money story — the other side of the fight
 
-**Competition:** 15 videos in last 6h · TTS ≈ 8.7h · sources: trends, news
+**Competition:** 15 videos in last 6h · TTS ≈ 8.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -76,7 +104,7 @@ Sources this run: trends(38)
 
 **Event:** Josh Simmons': Chiefs Insiders Give Conflicting Reports on Josh Simmons’ Rehab
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -90,27 +118,13 @@ Sources this run: trends(38)
 
 **Event:** Cerebras Delivers Solid: Outlook in Its Bid to Challenge Nvidia
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 26 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 26 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
 > What the Cerebras Delivers Solid cerebras delivers solid: outlook in its bid to challenge nvidia filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Brandon Tyner — 17/100
-
-**Event:** Brandon Tyner: lt. col. brandon tyner
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Brandon Tyner brandon tyner: lt. col. brandon tyner filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 

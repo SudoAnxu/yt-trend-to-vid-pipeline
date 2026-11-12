@@ -1,0 +1,65 @@
+{
+  "runNo": 2476,
+  "at": "2026-11-12T22:23:34.065Z",
+  "rows": [
+    {
+      "event": "story-anthony-santander",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-santander-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-stacy-keach",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-hammer",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-josh-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-simmons-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-cerebras-delivers-solid",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
