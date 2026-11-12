@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2433 · Updated: 12/11/2026, 06:36:33 (Asia/Kolkata)
+Run #2434 · Updated: 12/11/2026, 07:06:23 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,45 +16,45 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Rob Dillingham — 19/100
+### Noah Kahan — 22/100
 
-**Event:** Rob Dillingham: trending now
+**Event:** Noah Kahan: tour
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-4 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Rob Dillingham story is a proxy fight about something bigger — the other side of the fight
+> What the Noah Kahan noah kahan: thousands fight for chance to see noah kahan at fenway park in 'the ticket war' filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Robert Morris — 20/100
+### Robert Morris — 21/100
 
 **Event:** Robert Morris: (LIVESTREAMs!) Robert Morris vs Buffalo College football Sept. 26: LIVE, Stream
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Robert Morris robert morris: mbb preview: arkansas vs robert morris filings actually say — line by line — the other side of the fight
+> What the Robert Morris robert morris: vs arkansas filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ryan Seacrest — 22/100
+### Joel Embiid — 15/100
 
-**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
+**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 8 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Seacrest ryan seacrest: school board advances $2.7 million plan to renovate stadium named after ryan seacrest filings actually say — line by line — the number behind the headline
+> The Joel Embiid filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: news, trends
 
 **Status:** ARCHIVED
 
