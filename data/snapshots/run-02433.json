@@ -1,0 +1,30 @@
+{
+  "runNo": 2433,
+  "at": "2026-11-12T01:06:32.215Z",
+  "rows": [
+    {
+      "event": "story-rob-dillingham",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-morris",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-seacrest",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
