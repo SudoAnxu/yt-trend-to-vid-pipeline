@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2442 · Updated: 12/11/2026, 09:31:04 (Asia/Kolkata)
+Run #2443 · Updated: 12/11/2026, 11:23:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Michael Porter — 21/100
-
-**Event:** Michael Porter: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+11 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Michael Porter michael porter: ‘dang near cheating’ – michael porter jr.’s wild dating rule goes viral again story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
