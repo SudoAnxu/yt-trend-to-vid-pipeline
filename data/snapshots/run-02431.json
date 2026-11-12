@@ -1,0 +1,16 @@
+{
+  "runNo": 2431,
+  "at": "2026-11-12T00:04:16.450Z",
+  "rows": [
+    {
+      "event": "story-patrick-reed",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 33,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2430 · Updated: 12/11/2026, 05:06:01 (Asia/Kolkata)
+Run #2431 · Updated: 12/11/2026, 05:34:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Paul George — 19/100
+### Patrick Reed — 23/100
 
-**Event:** Paul George: trending now
+**Event:** Patrick Reed: bet on himself when he left LIV and is now reaping the rewards
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · external momentum 33 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Paul George paul george: celtics share paul george status update after explosive performance vs. 76ers filings actually say — line by line — the other side of the fight
+> The Patrick Reed patrick reed: bet on himself when he left liv and is now reaping the rewards story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
