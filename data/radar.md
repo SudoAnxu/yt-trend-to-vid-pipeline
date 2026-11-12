@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2436 · Updated: 12/11/2026, 07:27:16 (Asia/Kolkata)
+Run #2437 · Updated: 12/11/2026, 07:42:39 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,107 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Tyler Herro — 15/100
+### Owen Wilson — 20/100
 
-**Event:** Tyler Herro: NBA Star Tyler Herro Slams Baby Mama Over Claim He Sent 'Inappropriate' Texts
+**Event:** Owen Wilson: Supreme ball-knower Owen Wilson on "Stick" Season 2 and his near eagle on one of golf's most iconic holes
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Tyler Herro tyler herro: trending now filings actually say — line by line — the other side of the fight
+> The Owen Wilson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** ARCHIVED
 
-### Kai Cenat — 17/100
+### Kyle Kuzma — 23/100
 
-**Event:** Kai Cenat: trending now
+**Event:** Kyle Kuzma: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kai Cenat situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.2h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Will Win — 23/100
-
-**Event:** Will Win: Experts Predict: Who Will Win Laver Cup London 2026?
-
-**Why now:** 1 source lane(s): news · momentum 14 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will Win situation is weirder than the clips suggest — the other side of the fight
+> What the Kyle Kuzma kyle kuzma: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** ARCHIVED
-
-### Rob Lowe — 14/100
-
-**Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
-
-**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Rob Lowe rob lowe: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 22 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Rob Lowe's — 20/100
-
-**Event:** Rob Lowe's: Gwyneth Paltrow Calls Officiating Rob Lowe’s Son Matthew’s Wedding ‘So Incredible’: ‘Just Call Me Pastor Gwyn’
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Rob Lowe's rob lowe's: gwyneth paltrow calls officiating rob lowe’s son matthew’s wedding ‘so incredible’: ‘just call me pastor gwyn’ filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Kyle Fletcher — 16/100
+### Gary Sinise — 19/100
 
-**Event:** Kyle Fletcher: trending now
+**Event:** Gary Sinise: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kyle Fletcher kyle fletcher: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Adam Copeland — 21/100
-
-**Event:** Adam Copeland: AEW Star Wants To Prove He’s “Superior” To Adam Copeland
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+9 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Adam Copeland story is a proxy fight about something bigger — the other side of the fight
+> The Gary Sinise gary sinise: forrest gump star gary sinise details son mac’s final moments before death at 33: ‘hard to wrap my head around story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Thomas Tommies — 18/100
+
+**Event:** Thomas Tommies: Saint Thomas Tommies play the Green Bay Phoenix in non-conference play
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Thomas Tommies thomas tommies: saint thomas tommies play the green bay phoenix in non-conference play story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
+
+### John Wayne — 17/100
+
+**Event:** John Wayne: turned down movie
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the John Wayne john wayne: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
