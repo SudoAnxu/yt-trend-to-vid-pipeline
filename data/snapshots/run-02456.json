@@ -1,0 +1,23 @@
+{
+  "runNo": 2456,
+  "at": "2026-11-12T15:30:16.994Z",
+  "rows": [
+    {
+      "event": "story-nick-nurse",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-garcia",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

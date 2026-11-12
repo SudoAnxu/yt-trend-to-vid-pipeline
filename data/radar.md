@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2455 · Updated: 12/11/2026, 20:23:56 (Asia/Kolkata)
+Run #2456 · Updated: 12/11/2026, 21:00:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
+
+### Nick Nurse — 17/100
+
+**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
+
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Nick Nurse story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+
+**Status:** ARCHIVED
 
 ### Robert Garcia — 22/100
 
 **Event:** Robert Garcia: White House warns Trump probes could be criminal. Rep. Robert Garcia won't back down
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
