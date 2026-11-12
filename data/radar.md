@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2453 · Updated: 12/11/2026, 19:01:15 (Asia/Kolkata)
+Run #2454 · Updated: 12/11/2026, 19:27:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,51 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Country Singer — 21/100
+### James Gunn — 22/100
 
-**Event:** Country Singer: CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show
+**Event:** James Gunn: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Country Singer story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** KEPT
-
-### Kate Middleton — 16/100
-
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kate Middleton kate middleton: prince george proves he’s inherited art skills from kate middleton and king charles with new drawing filings actually say — line by line — the other side of the fight
+> The James Gunn story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ryan Gosling — 16/100
+### Peter Safran's — 22/100
 
-**Event:** Ryan Gosling: star wars: starfighter
+**Event:** Peter Safran's: James Gunn and Peter Safran’s DC Experiment: What’s Working, What Isn’t, and What’s Next
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ryan Gosling ryan gosling: trending now filings actually say — line by line — the other side of the fight
+> What the Peter Safran's peter safran's: inside james gunn, peter safran’s dc ouster: exec tensions and a fateful david ellison visit filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** BOOSTED
+**Status:** RESEARCH
+
+### David Ellison — 20/100
+
+**Event:** David Ellison: says combined Paramount and Warner Bros. Discovery will be named Skydance
+
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 2.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the David Ellison david ellison: inside james gunn, peter safran’s dc ouster: exec tensions and a fateful david ellison visit filings actually say — line by line — the other side of the fight
+
+**Competition:** 15 videos in last 6h · TTS ≈ 2.4h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Logan Circle — 28/100
+
+**Event:** Logan Circle: DC shooting in Logan Circle leaves at least 4 injured as police respond to active shooter
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Logan Circle logan circle: dc shooting in logan circle leaves at least 4 injured as police respond to active shooter filings actually say — line by line — the other side of the fight
+
+**Competition:** 12 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
+### Tom Cruise — 15/100
+
+**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
+
+**Why now:** 2 source lane(s): news, trends · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tom Cruise tom cruise: oprah's 2026 favorite things list returns with tom cruise cake, more | exclusive filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>

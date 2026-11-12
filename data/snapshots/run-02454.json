@@ -1,0 +1,44 @@
+{
+  "runNo": 2454,
+  "at": "2026-11-12T13:57:04.279Z",
+  "rows": [
+    {
+      "event": "story-james-gunn",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-safran-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-ellison",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-logan-circle",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
