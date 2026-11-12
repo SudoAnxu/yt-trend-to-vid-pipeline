@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2461 · Updated: 12/11/2026, 22:40:03 (Asia/Kolkata)
+Run #2462 · Updated: 12/11/2026, 23:10:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Gavin De — 21/100
+### Harry Kane — 14/100
 
-**Event:** Gavin De: Democrats Probe Private Security Consultant Gavin De Becker—After He Gave RFK Jr. Hundreds Of Thousands In Gif
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Gavin De gavin de: democrats probe private security consultant gavin de becker—after he gave rfk jr. hundreds of thousands in gif filings actually say — line by line — what happens next
+> The Harry Kane harry kane: uefa nations league matchday 5 preview: harry kane set for england landmark as spain and portugal protect perf story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** KEPT
+
+### Will Bring — 25/100
+
+**Event:** Will Bring: Earthquake Simulator Will Bring Magnitude 7.0 Shaking To LA
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Will Bring will bring: nor’easter will bring cold temperatures and maybe a little snow to millions filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

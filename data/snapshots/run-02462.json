@@ -1,0 +1,23 @@
+{
+  "runNo": 2462,
+  "at": "2026-11-12T17:40:30.866Z",
+  "rows": [
+    {
+      "event": "story-harry-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-bring",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
