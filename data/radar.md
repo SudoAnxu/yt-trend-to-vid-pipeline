@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2450 · Updated: 12/11/2026, 17:13:35 (Asia/Kolkata)
+Run #2451 · Updated: 12/11/2026, 17:28:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Ben Johnson — 28/100
+### Harry Kane — 15/100
 
-**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
 
-**Why now:** 2 source lane(s): news, trends · momentum 29 (+16 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ben Johnson ben johnson: dropped a quote so good even a former packer wishes he could play for him filings actually say — line by line — the part that was not supposed to be public
+> What the Harry Kane harry kane: no cristiano ronaldo, harry kane set for another record and what to know about the nations league filings actually say — line by line — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** KEPT
+
+### Alec Bohm — 27/100
+
+**Event:** Alec Bohm: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+7 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Alec Bohm story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 18 videos in last 6h · TTS ≈ 6.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
