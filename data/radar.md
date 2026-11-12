@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2469 · Updated: 13/11/2026, 02:07:32 (Asia/Kolkata)
+Run #2470 · Updated: 13/11/2026, 02:32:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Evan Phillips — 23/100
-
-**Event:** Evan Phillips: signs three-year deal with Braves
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Evan Phillips evan phillips: signs three-year deal with braves filings actually say — line by line — the number behind the headline
-
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jake Dickert — 23/100
-
-**Event:** Jake Dickert: FSU head coach candidate Jake Dickert discussing contract extension
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jake Dickert jake dickert: agrees to new wake forest contract, rebuffing coaching carousel interest filings actually say — line by line — the number behind the headline
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
