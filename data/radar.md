@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2440 · Updated: 12/11/2026, 08:46:10 (Asia/Kolkata)
+Run #2441 · Updated: 12/11/2026, 09:05:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ryan Blaney — 26/100
+### Josh Downs' — 20/100
 
-**Event:** Ryan Blaney: trending now
+**Event:** Josh Downs': 5 Colts Things: Josh Downs' chemistry with Daniel Jones shines, DeForest Buckner dominates, Cowboys-Ravens gam
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+15 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ryan Blaney story is a proxy fight about something bigger — the part that was not supposed to be public
+> What the Josh Downs' josh downs': josh downs trade reaction filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### John Allen — 24/100
+### Patrick Mahomes — 17/100
 
-**Event:** John Allen: rubio
+**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the John Allen john allen: rubio filings actually say — line by line — the other side of the fight
+> What the Patrick Mahomes patrick mahomes: how josh downs fits with patrick mahomes and the chiefs' offense filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
