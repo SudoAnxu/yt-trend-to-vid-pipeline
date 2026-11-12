@@ -1,0 +1,16 @@
+{
+  "runNo": 2455,
+  "at": "2026-11-12T14:53:55.903Z",
+  "rows": [
+    {
+      "event": "story-robert-garcia",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
