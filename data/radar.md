@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2431 · Updated: 12/11/2026, 05:34:16 (Asia/Kolkata)
+Run #2432 · Updated: 12/11/2026, 06:26:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(39)
 
@@ -12,23 +12,65 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Patrick Reed — 23/100
+### Rob Dillingham — 21/100
 
-**Event:** Patrick Reed: bet on himself when he left LIV and is now reaping the rewards
+**Event:** Rob Dillingham: trending now
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · external momentum 33 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Patrick Reed patrick reed: bet on himself when he left liv and is now reaping the rewards story is actually a money story — the other side of the fight
+> The Rob Dillingham story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 14 videos in last 6h · TTS ≈ 4.8h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Robert Morris — 22/100
+
+**Event:** Robert Morris: (LIVESTREAMs!) Robert Morris vs Buffalo College football Sept. 26: LIVE, Stream
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-11 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Robert Morris robert morris: mbb preview: arkansas vs robert morris filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Ryan Seacrest — 23/100
+
+**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ryan Seacrest ryan seacrest: school board advances $2.7 million plan to renovate stadium named after ryan seacrest filings actually say — line by line — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### James Harden — 20/100
+
+**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
+
+**Why now:** 2 source lane(s): news, trends · momentum 20 (+2 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the James Harden james harden: cavaliers' james harden shooting career-low 36.4% through 11 games of new deal filings actually say — line by line — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
