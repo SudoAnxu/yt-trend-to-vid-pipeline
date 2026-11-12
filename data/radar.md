@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2441 · Updated: 12/11/2026, 09:05:48 (Asia/Kolkata)
+Run #2442 · Updated: 12/11/2026, 09:31:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Josh Downs' — 20/100
+### Michael Porter — 21/100
 
-**Event:** Josh Downs': 5 Colts Things: Josh Downs' chemistry with Daniel Jones shines, DeForest Buckner dominates, Cowboys-Ravens gam
+**Event:** Michael Porter: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Josh Downs' josh downs': josh downs trade reaction filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Patrick Mahomes — 17/100
-
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+11 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Patrick Mahomes patrick mahomes: how josh downs fits with patrick mahomes and the chiefs' offense filings actually say — line by line — the other side of the fight
+> The Michael Porter michael porter: ‘dang near cheating’ – michael porter jr.’s wild dating rule goes viral again story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
