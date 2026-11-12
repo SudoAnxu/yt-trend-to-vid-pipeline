@@ -1,0 +1,37 @@
+{
+  "runNo": 2448,
+  "at": "2026-11-12T10:07:28.085Z",
+  "rows": [
+    {
+      "event": "story-michael-carrick",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexander-darchiev",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-aniston",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-aniston-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
