@@ -1,0 +1,16 @@
+{
+  "runNo": 2450,
+  "at": "2026-11-12T11:43:35.442Z",
+  "rows": [
+    {
+      "event": "story-ben-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 29,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
