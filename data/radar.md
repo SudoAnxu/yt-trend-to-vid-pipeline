@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2457 · Updated: 12/11/2026, 21:12:03 (Asia/Kolkata)
+Run #2458 · Updated: 12/11/2026, 21:37:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Nick Nurse — 17/100
+### Steve Witkoff — 15/100
 
-**Event:** Nick Nurse: New-look Sixers roster should allow Nick Nurse to get into his ‘bag’ on defense
+**Event:** Steve Witkoff: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Nick Nurse story is a proxy fight about something bigger — the other side of the fight
+> The Steve Witkoff steve witkoff: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Louis Vuitton — 12/100
+
+**Event:** Louis Vuitton: Taylor Swift watches Chiefs defeat Chargers in cozy red Louis Vuitton bodysuit
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Louis Vuitton louis vuitton: kim kardashian louis vuitton nurse outfit filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Robert Garcia — 22/100
+### Louis Vuitton's — 20/100
 
-**Event:** Robert Garcia: White House warns Trump probes could be criminal. Rep. Robert Garcia won't back down
+**Event:** Louis Vuitton's: Kim Kardashian Plays Nurse in One of Louis Vuitton’s Rarest Runway Looks
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Robert Garcia robert garcia: white house warns trump probes could be criminal. rep. robert garcia won't back down filings actually say — line by line — the other side of the fight
+> What the Louis Vuitton's louis vuitton's: kim kardashian plays nurse in one of louis vuitton’s rarest runway looks filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
+
+### Banks Reveals She's — 18/100
+
+**Event:** Banks Reveals She's: Tyra Banks Reveals She’s “Single”, Opens Up About Dating Again
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Banks Reveals She's banks reveals she's: tyra banks reveals she’s “single”, opens up about dating again story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 

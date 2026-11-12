@@ -1,0 +1,37 @@
+{
+  "runNo": 2458,
+  "at": "2026-11-12T16:07:18.141Z",
+  "rows": [
+    {
+      "event": "story-steve-witkoff",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-louis-vuitton",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-louis-vuitton-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-banks-reveals-she-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
