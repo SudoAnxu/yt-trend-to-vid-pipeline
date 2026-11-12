@@ -1,0 +1,16 @@
+{
+  "runNo": 2461,
+  "at": "2026-11-12T17:10:03.189Z",
+  "rows": [
+    {
+      "event": "story-gavin-de",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

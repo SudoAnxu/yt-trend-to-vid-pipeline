@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2460 · Updated: 12/11/2026, 22:30:12 (Asia/Kolkata)
+Run #2461 · Updated: 12/11/2026, 22:40:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Noah Kahan — 22/100
+### Gavin De — 21/100
 
-**Event:** Noah Kahan: tour
+**Event:** Gavin De: Democrats Probe Private Security Consultant Gavin De Becker—After He Gave RFK Jr. Hundreds Of Thousands In Gif
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-5 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Noah Kahan noah kahan: thousands fight for chance to see noah kahan at fenway park in 'the ticket war' filings actually say — line by line — the other side of the fight
+> What the Gavin De gavin de: democrats probe private security consultant gavin de becker—after he gave rfk jr. hundreds of thousands in gif filings actually say — line by line — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
