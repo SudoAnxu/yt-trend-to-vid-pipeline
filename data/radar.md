@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2448 · Updated: 12/11/2026, 15:37:29 (Asia/Kolkata)
+Run #2449 · Updated: 12/11/2026, 15:57:21 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,29 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Michael Carrick — 17/100
+### Joe Biden — 17/100
 
-**Event:** Michael Carrick: No timeline for Benjamin Sesko's Man United return
+**Event:** Joe Biden: president joe biden
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Carrick michael carrick: trending now filings actually say — line by line — the other side of the fight
+> What the Joe Biden joe biden: a note to ‘46’: donald trump’s private message to joe biden emerges in new white house memoir filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 ### Alexander Darchiev — 21/100
 
 **Event:** Alexander Darchiev: , Russia’s ambassador to the United States, dead at 66
 
-**Why now:** 2 source lane(s): news, trends · momentum 28 (+12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 24 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,31 +44,17 @@ Sources this run: trends(40)
 
 **Status:** BOOSTED
 
-### Jennifer Aniston — 16/100
+### Ryan Wedding — 17/100
 
-**Event:** Jennifer Aniston: trending now
+**Event:** Ryan Wedding: Slain cartel boss helped Olympian Ryan Wedding traffic drugs and evade capture, U.S. says
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jennifer Aniston jennifer aniston: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 24 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jennifer Aniston's — 18/100
-
-**Event:** Jennifer Aniston's: Your Expert Guide to Recreating Jennifer Aniston’s Iconic “Rachel” Haircut
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jennifer Aniston's jennifer aniston's: your expert guide to recreating jennifer aniston’s iconic “rachel” haircut story is actually a money story — the other side of the fight
+> The Ryan Wedding ryan wedding: slain cartel boss helped olympian ryan wedding traffic drugs and evade capture, u.s. says story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 16 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** RESEARCH
 
