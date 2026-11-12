@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2480 · Updated: 13/11/2026, 05:18:38 (Asia/Kolkata)
+Run #2481 · Updated: 13/11/2026, 05:25:36 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Alex Pereira's: Rizvan Kuniev blasts rankings for Alex Pereira’s ‘very strange’ spot, wants him next after Alexander Volkov at
 
-**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -29,6 +29,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** ARCHIVED
+
+### Trump Says He's — 22/100
+
+**Event:** Trump Says He's: Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 56 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Trump Says He's trump says he's: trump says he’s pulling vance off iran talks to focus on fraud campaign filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

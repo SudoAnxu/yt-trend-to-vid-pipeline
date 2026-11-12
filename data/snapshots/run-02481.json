@@ -1,0 +1,23 @@
+{
+  "runNo": 2481,
+  "at": "2026-11-12T23:55:36.146Z",
+  "rows": [
+    {
+      "event": "story-alex-pereira-s",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-trump-says-he-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
