@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2472 · Updated: 13/11/2026, 03:00:45 (Asia/Kolkata)
+Run #2473 · Updated: 13/11/2026, 03:12:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(38)
 
@@ -12,15 +12,43 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
+
+### Josh Simmons — 21/100
+
+**Event:** Josh Simmons: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-9 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Simmons josh simmons: espn insider reveals concerning update on chiefs ol story is actually a money story — the other side of the fight
+
+**Competition:** 15 videos in last 6h · TTS ≈ 8h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Stacy Keach — 29/100
+
+**Event:** Stacy Keach: , Actor Who Embodied Hamlet and Mike Hammer, Dies at 85
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Stacy Keach story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
 
 ### Mark Zuckerberg — 23/100
 
 **Event:** Mark Zuckerberg: Exclusive Mark Zuckerberg interview: New audio glasses, Muse and AI killing us all
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 16 (-1 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +58,39 @@ Sources this run: trends(38)
 
 **Status:** ARCHIVED
 
+### Meta Founder's — 24/100
+
+**Event:** Meta Founder's: Mark Zuckerberg Net Worth Tops $225 Billion: Meta Founder’s Shares Won’t Go to Family
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 14 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Meta Founder's meta founder's: mark zuckerberg net worth tops $225 billion: meta founder’s shares won’t go to family filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Tops — 24/100
+
+**Event:** Tops: Mark Zuckerberg Net Worth Tops $225 Billion: Meta Founder’s Shares Won’t Go to Family
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 14 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Tops tops: mark zuckerberg net worth tops $225 billion: meta founder’s shares won’t go to family filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
 ### Mark Zuckerberg's — 21/100
 
 **Event:** Mark Zuckerberg's: How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,34 +99,6 @@ Sources this run: trends(38)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
-
-### Aaron Taylor — 17/100
-
-**Event:** Aaron Taylor: johnson
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Aaron Taylor aaron taylor: johnson filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Alex Michelsen — 21/100
-
-**Event:** Alex Michelsen: "J'ai été voir le petit garçon qui fait pipi" : éliminé de l'European Open, Alex Michelsen a logé chez Kristof
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+4 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alex Michelsen alex michelsen: vs. alejandro tabilo prediction, odds, picks for atp stockholm open 2026 filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** KEPT
 
 
 </details>
