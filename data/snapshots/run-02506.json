@@ -1,0 +1,37 @@
+{
+  "runNo": 2506,
+  "at": "2026-11-13T15:35:20.739Z",
+  "rows": [
+    {
+      "event": "story-alex-murdaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-eric-chelle",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ian-rapoport",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-wilbon",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
