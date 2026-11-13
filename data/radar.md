@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2507 · Updated: 13/11/2026, 21:27:46 (Asia/Kolkata)
+Run #2508 · Updated: 13/11/2026, 22:11:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Eric Chelle — 23/100
+### Larry David — 23/100
+
+**Event:** Larry David: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Larry David story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mark Cuban — 19/100
+
+**Event:** Mark Cuban: Is Worth $6.8 Billion. He Says 1 Habit He Learned From Poker Is Critical to His Success
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-6 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Mark Cuban story is a proxy fight about something bigger — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Eric Chelle — 22/100
 
 **Event:** Eric Chelle: bullish about young squad for Russia friendly as withdrawals deplete Super Eagles
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -29,48 +57,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
-
-### Alex Murdaugh — 15/100
-
-**Event:** Alex Murdaugh: due back in court amid defense questions about police handling of missing murder weapons
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Alex Murdaugh alex murdaugh: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Michael Wilbon — 19/100
-
-**Event:** Michael Wilbon: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Michael Wilbon michael wilbon: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Michael Wilbon's — 19/100
-
-**Event:** Michael Wilbon's: ESPN host Michael Wilbon's health issues should be a wake-up call for other men
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Michael Wilbon's michael wilbon's: espn host michael wilbon's health issues should be a wake-up call for other men filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
