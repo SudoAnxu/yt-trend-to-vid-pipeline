@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2511 · Updated: 13/11/2026, 23:04:14 (Asia/Kolkata)
+Run #2512 · Updated: 13/11/2026, 23:25:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,21 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Rene Haas — 24/100
+### Jake Bauers — 24/100
+
+**Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+15 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jake Bauers jake bauers: predicted to leave milwaukee brewers for nl team in $54m deal filings actually say — line by line — the number behind the headline
+
+**Competition:** 8 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Tony Richards — 25/100
+
+**Event:** Tony Richards: Metal Breakdown Daily: New Slipknot Album, Original W.A.S.P. Drummer Tony Richards Dies, Ronnie Radke Sued
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 86 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tony Richards tony richards: metal breakdown daily: new slipknot album, original w.a.s.p. drummer tony richards dies, ronnie radke sued filings actually say — line by line — what happens next
+
+**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Rene Haas — 23/100
 
 **Event:** Rene Haas: Arm boss Rene Haas approached in Nvidia CEO search
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Rene Haas rene haas: arm boss rene haas approached in nvidia ceo search story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -34,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 4 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,20 +71,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Emma Grede — 17/100
-
-**Event:** Emma Grede: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Emma Grede emma grede: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
 
 
 </details>
