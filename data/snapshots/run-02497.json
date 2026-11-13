@@ -1,0 +1,23 @@
+{
+  "runNo": 2497,
+  "at": "2026-11-13T10:16:57.443Z",
+  "rows": [
+    {
+      "event": "story-lee-county",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-savage",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
