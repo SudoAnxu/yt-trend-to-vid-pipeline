@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2494 · Updated: 13/11/2026, 13:42:43 (Asia/Kolkata)
+Run #2495 · Updated: 13/11/2026, 14:27:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Pedro Pascal: We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Pre
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Jennifer Aniston's: Your Expert Guide to Recreating Jennifer Aniston’s Iconic “Rachel” Haircut
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,34 +43,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Kevin Holland — 23/100
-
-**Event:** Kevin Holland: UFC 334: Uros Medic vs. Kevin Holland Predictions & Odds
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 15 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Kevin Holland story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### James Webb — 17/100
-
-**Event:** James Webb: telescope pinpoints the most distant 'fast radio burst' ever seen, more than 10 billion light-years away
-
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The James Webb james webb: astronomers stunned after james webb space telescope discovers the earliest pair of black hole-powered quasars story is actually a money story — the part that was not supposed to be public
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>

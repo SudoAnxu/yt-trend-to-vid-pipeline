@@ -1,0 +1,23 @@
+{
+  "runNo": 2495,
+  "at": "2026-11-13T08:57:33.390Z",
+  "rows": [
+    {
+      "event": "story-pedro-pascal",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-aniston-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
