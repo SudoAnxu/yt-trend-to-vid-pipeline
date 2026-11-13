@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2526 · Updated: 14/11/2026, 04:15:06 (Asia/Kolkata)
+Run #2527 · Updated: 14/11/2026, 04:45:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Airlines Denies Hotel — 18/100
+
+**Event:** Airlines Denies Hotel: Turkish Airlines Denies Hotel Costs After Denver Flight Cancellation
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Airlines Denies Hotel airlines denies hotel: turkish airlines denies hotel costs after denver flight cancellation story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
