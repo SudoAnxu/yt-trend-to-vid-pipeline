@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2516 · Updated: 14/11/2026, 01:25:34 (Asia/Kolkata)
+Run #2517 · Updated: 14/11/2026, 01:47:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Kyle Shanahan — 17/100
+### Brian Poindexter — 28/100
 
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+**Event:** Brian Poindexter: , incoming House Democrat, says he is subject of sexual harassment investigation
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Kyle Shanahan kyle shanahan: troy aikman would try to lure kyle shanahan from 49ers if running nfl team story is actually a money story — the other side of the fight
+> What the Brian Poindexter brian poindexter: , incoming house democrat, says he is subject of sexual harassment investigation filings actually say — line by line — what happens next
 
-**Competition:** 10 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Travis Hunter — 14/100
+
+**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Travis Hunter travis hunter: makes jessie bates' jaguars trade a hit with his nephews filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jessica Pegula — 18/100
+### Kevin Kisner — 19/100
 
-**Event:** Jessica Pegula: How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV
+**Event:** Kevin Kisner: Rory McIlroy explains why he played in India after PGA Tour player Kevin Kisner accused him of chasing re
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jessica Pegula jessica pegula: “jessica pegula has created a monster” – fans react after mirra andreeva stuns aryna sabalenka with 6-0 bagel  filings actually say — line by line — the part that was not supposed to be public
+> The Kevin Kisner kevin kisner: paige spiranac 'completely fooled' kevin kisner during the internet invitational story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 6 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
