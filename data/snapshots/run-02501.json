@@ -1,0 +1,16 @@
+{
+  "runNo": 2501,
+  "at": "2026-11-13T12:51:16.276Z",
+  "rows": [
+    {
+      "event": "story-ashley-graham",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
