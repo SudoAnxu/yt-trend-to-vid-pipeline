@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2519 · Updated: 14/11/2026, 02:13:53 (Asia/Kolkata)
+Run #2520 · Updated: 14/11/2026, 02:26:38 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(37)
+Sources this run: trends(36)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,7 +12,7 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(37)
 
 **Event:** Chris Hemsworth: ‘Thor’ Meets ‘The Iron Man’: Chris Hemsworth Gets Surprise Visit From Rodtang While Filming In Thailand
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,31 +30,17 @@ Sources this run: trends(37)
 
 **Status:** ARCHIVED
 
-### Harry Kane — 23/100
+### Chris Hemsworth's — 19/100
 
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+**Event:** Chris Hemsworth's: Police investigate break in and theft at Hollywood actor Chris Hemsworth’s Northern Rivers home
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Harry Kane harry kane: england vs croatia player ratings: harry kane scores winner as lewis hall impresses filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** KEPT
-
-### Lewis Hall — 26/100
-
-**Event:** Lewis Hall: England vs Croatia player ratings: Harry Kane scores winner as Lewis Hall impresses
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Lewis Hall lewis hall: england vs croatia player ratings: harry kane scores winner as lewis hall impresses filings actually say — line by line — the other side of the fight
+> The Chris Hemsworth's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 

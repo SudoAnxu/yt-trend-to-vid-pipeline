@@ -1,0 +1,23 @@
+{
+  "runNo": 2520,
+  "at": "2026-11-13T20:56:37.426Z",
+  "rows": [
+    {
+      "event": "story-chris-hemsworth",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-hemsworth-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
