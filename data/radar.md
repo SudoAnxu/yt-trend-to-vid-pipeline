@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2481 · Updated: 13/11/2026, 05:25:36 (Asia/Kolkata)
+Run #2482 · Updated: 13/11/2026, 06:06:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,37 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Alex Pereira's — 13/100
+### Hank Aaron — 22/100
 
-**Event:** Alex Pereira's: Rizvan Kuniev blasts rankings for Alex Pereira’s ‘very strange’ spot, wants him next after Alexander Volkov at
+**Event:** Hank Aaron: Shohei Ohtani, Hank Aaron Award finalist, still searching at the plate
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alex Pereira's alex pereira's: how alex pereira's striking and glover teixeira's wrestling are helping yousri belgaroui filings actually say — line by line — the other side of the fight
+> The Hank Aaron story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** ARCHIVED
 
-### Trump Says He's — 22/100
+### Aaron Award — 22/100
 
-**Event:** Trump Says He's: Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign
+**Event:** Aaron Award: Shohei Ohtani, Hank Aaron Award finalist, still searching at the plate
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 56 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Trump Says He's trump says he's: trump says he’s pulling vance off iran talks to focus on fraud campaign filings actually say — line by line — the number behind the headline
+> The Aaron Award story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Zack Wheeler — 17/100
+
+**Event:** Zack Wheeler: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Zack Wheeler story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 14 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jim Cramer — 15/100
+
+**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
+
+**Why now:** 2 source lane(s): news, trends · momentum 6 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jim Cramer jim cramer: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
