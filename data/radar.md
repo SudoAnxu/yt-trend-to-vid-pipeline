@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2501 · Updated: 13/11/2026, 18:21:16 (Asia/Kolkata)
+Run #2502 · Updated: 13/11/2026, 18:52:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Ashley Graham — 21/100
-
-**Event:** Ashley Graham: , The Fearless Fashion Icon Redefining Beauty and Confidence
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ashley Graham story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
