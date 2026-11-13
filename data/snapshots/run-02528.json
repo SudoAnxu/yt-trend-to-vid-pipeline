@@ -1,0 +1,37 @@
+{
+  "runNo": 2528,
+  "at": "2026-11-13T23:47:38.476Z",
+  "rows": [
+    {
+      "event": "story-mike-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-steven-spielberg",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jim-caviezel",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

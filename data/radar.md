@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2527 · Updated: 14/11/2026, 04:45:38 (Asia/Kolkata)
+Run #2528 · Updated: 14/11/2026, 05:17:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,65 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Airlines Denies Hotel — 18/100
+### Mike Brown — 19/100
 
-**Event:** Airlines Denies Hotel: Turkish Airlines Denies Hotel Costs After Denver Flight Cancellation
+**Event:** Mike Brown: Knicks' Mike Brown questions FT disparity, Jalen Brunson's zero attempts in loss
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Airlines Denies Hotel airlines denies hotel: turkish airlines denies hotel costs after denver flight cancellation story is actually a money story — the other side of the fight
+> What the Mike Brown mike brown: knicks' mike brown questions ft disparity, jalen brunson's zero attempts in loss filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
+
+### Tom Cruise — 18/100
+
+**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Tom Cruise story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Steven Spielberg — 25/100
+
+**Event:** Steven Spielberg: Tom Cruise Leads Toasts for Steven Spielberg at MoMa Film Gala
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Steven Spielberg story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Jim Caviezel — 13/100
+
+**Event:** Jim Caviezel: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jim Caviezel story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
