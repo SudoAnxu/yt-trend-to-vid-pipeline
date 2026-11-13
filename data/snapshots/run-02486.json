@@ -1,0 +1,16 @@
+{
+  "runNo": 2486,
+  "at": "2026-11-13T02:02:18.430Z",
+  "rows": [
+    {
+      "event": "story-austin-ekeler",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
