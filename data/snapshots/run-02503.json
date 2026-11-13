@@ -1,0 +1,44 @@
+{
+  "runNo": 2503,
+  "at": "2026-11-13T14:18:55.701Z",
+  "rows": [
+    {
+      "event": "story-anthony-mackie",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-warren-buffett",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-warren-buffett-s",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-stiller",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-sam-hartman",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
