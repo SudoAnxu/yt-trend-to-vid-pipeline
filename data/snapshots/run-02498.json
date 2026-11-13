@@ -1,0 +1,16 @@
+{
+  "runNo": 2498,
+  "at": "2026-11-13T11:26:55.785Z",
+  "rows": [
+    {
+      "event": "story-will-return",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

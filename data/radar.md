@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2497 · Updated: 13/11/2026, 15:46:58 (Asia/Kolkata)
+Run #2498 · Updated: 13/11/2026, 16:56:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,23 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Lee County — 19/100
+### Will Return — 19/100
 
-**Event:** Lee County: woman pockets $674,860 Cash 5 jackpot
+**Event:** Will Return: John Mayer Will Return to the Sphere in 2027
 
-**Why now:** 1 source lane(s): news · momentum 26 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Lee County lee county: historic tice, orangewood schools in lee county could close filings actually say — line by line — the other side of the fight
+> What the Will Return will return: ‘avatar: seven havens’ will return with book 2 in may 2027 filings actually say — line by line — the other side of the fight
 
-**Competition:** 16 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
-
-### Ben Savage — 20/100
-
-**Event:** Ben Savage: ‘Boy Meets World’ star Ben Savage had ‘teenager’ energy on spinoff set, book claims
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Ben Savage ben savage: ‘boy meets world’ star ben savage had ‘teenager’ energy on spinoff set, book claims story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
