@@ -1,0 +1,16 @@
+{
+  "runNo": 2496,
+  "at": "2026-11-13T09:53:12.140Z",
+  "rows": [
+    {
+      "event": "story-lee-county",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
