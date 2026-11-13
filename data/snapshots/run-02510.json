@@ -1,0 +1,30 @@
+{
+  "runNo": 2510,
+  "at": "2026-11-13T17:17:31.774Z",
+  "rows": [
+    {
+      "event": "story-michael-douglas",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-warren",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-larry-david",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
