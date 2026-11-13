@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2513 · Updated: 13/11/2026, 23:55:23 (Asia/Kolkata)
+Run #2514 · Updated: 14/11/2026, 00:08:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
-
-### Will Feature — 21/100
-
-**Event:** Will Feature: ‘Ahsoka’ Season 2 Will Feature More ‘Clone Wars’ and ‘Rebels’ Characters
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Will Feature will feature: grand theft auto vi will run at 30 fps on all consoles, but ps5 pro will feature 'improved clarity' and ray-tr filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 ### Philip Rivers — 23/100
 
 **Event:** Philip Rivers: NC State hiring Philip Rivers would be unconventional, but he might still be the right fit
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-2 vs prev run) · spice 6 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Philip Rivers philip rivers: sources: philip rivers set to return to nc state, deal to be finalized friday filings actually say — line by line — the number behind the headline
+> What the Philip Rivers philip rivers: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 15 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
-**Status:** BOOSTED
+**Status:** KEPT
 
-### Jake Bauers — 22/100
+### Jake Bauers — 20/100
 
 **Event:** Jake Bauers: Brewers’ Jake Bauers explains why he never followed through on MLB retirement
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+3 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-6 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jake Bauers filing that will matter in six months — the number behind the headline
+> What the Jake Bauers jake bauers: sources - jake bauers, red sox agree to 4-year, $58m deal filings actually say — line by line — the number behind the headline
 
-**Competition:** 22 videos in last 6h · TTS ≈ 15.8h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tony Richards — 19/100
+### Tony Richards — 18/100
 
 **Event:** Tony Richards: Metal Breakdown Daily: New Slipknot Album, Original W.A.S.P. Drummer Tony Richards Dies, Ronnie Radke Sued
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 86 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 4 · risk 86 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Tony Richards tony richards: metal breakdown daily: new slipknot album, original w.a.s.p. drummer tony richards dies, ronnie radke sued filings actually say — line by line — what happens next
 
-**Competition:** 9 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
