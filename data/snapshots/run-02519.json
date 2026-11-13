@@ -1,0 +1,30 @@
+{
+  "runNo": 2519,
+  "at": "2026-11-13T20:43:52.370Z",
+  "rows": [
+    {
+      "event": "story-chris-hemsworth",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-lewis-hall",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
