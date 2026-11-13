@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2510 · Updated: 13/11/2026, 22:47:32 (Asia/Kolkata)
+Run #2511 · Updated: 13/11/2026, 23:04:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Rene Haas — 24/100
+
+**Event:** Rene Haas: Arm boss Rene Haas approached in Nvidia CEO search
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Rene Haas rene haas: arm boss rene haas approached in nvidia ceo search story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Michael Douglas — 14/100
 
 **Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
 
-**Why now:** 2 source lane(s): news, trends · momentum 3 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,33 +44,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Alex Warren — 20/100
+### Emma Grede — 17/100
 
-**Event:** Alex Warren: coming to Knoxville in 2027. Here’s how to get tickets
+**Event:** Emma Grede: trending now
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Alex Warren alex warren: coming to knoxville in 2027. here’s how to get tickets filings actually say — line by line — the other side of the fight
+> What the Emma Grede emma grede: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
-
-### Larry David — 23/100
-
-**Event:** Larry David: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Larry David story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
