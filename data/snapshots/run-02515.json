@@ -1,0 +1,16 @@
+{
+  "runNo": 2515,
+  "at": "2026-11-13T18:54:56.464Z",
+  "rows": [
+    {
+      "event": "story-philip-rivers",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
