@@ -1,0 +1,44 @@
+{
+  "runNo": 2529,
+  "at": "2026-11-13T23:58:14.386Z",
+  "rows": [
+    {
+      "event": "story-mike-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-michelle-pfeiffer",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-cruise",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-steven-spielberg",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jim-caviezel",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2528 · Updated: 14/11/2026, 05:17:38 (Asia/Kolkata)
+Run #2529 · Updated: 14/11/2026, 05:28:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Mike Brown: Knicks' Mike Brown questions FT disparity, Jalen Brunson's zero attempts in loss
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,11 +30,25 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
+### Michelle Pfeiffer — 18/100
+
+**Event:** Michelle Pfeiffer: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Michelle Pfeiffer michelle pfeiffer: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
 ### Tom Cruise — 18/100
 
 **Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Steven Spielberg — 25/100
+### Steven Spielberg — 22/100
 
 **Event:** Steven Spielberg: Tom Cruise Leads Toasts for Steven Spielberg at MoMa Film Gala
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jim Caviezel — 13/100
+### Jim Caviezel — 14/100
 
 **Event:** Jim Caviezel: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
