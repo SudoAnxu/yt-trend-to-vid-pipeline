@@ -1,0 +1,37 @@
+{
+  "runNo": 2507,
+  "at": "2026-11-13T15:57:46.066Z",
+  "rows": [
+    {
+      "event": "story-eric-chelle",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-murdaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-wilbon",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-wilbon-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
