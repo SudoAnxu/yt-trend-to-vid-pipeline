@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2517 · Updated: 14/11/2026, 01:47:07 (Asia/Kolkata)
+Run #2518 · Updated: 14/11/2026, 02:07:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Brian Poindexter — 28/100
+### Harry Kane — 22/100
+
+**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-10 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Harry Kane harry kane: england vs croatia player ratings: harry kane scores winner as lewis hall impresses filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Brian Poindexter — 23/100
 
 **Event:** Brian Poindexter: , incoming House Democrat, says he is subject of sexual harassment investigation
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -29,34 +43,6 @@ Sources this run: trends(40)
 **Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Travis Hunter — 14/100
-
-**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
-
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Travis Hunter travis hunter: makes jessie bates' jaguars trade a hit with his nephews filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kevin Kisner — 19/100
-
-**Event:** Kevin Kisner: Rory McIlroy explains why he played in India after PGA Tour player Kevin Kisner accused him of chasing re
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kevin Kisner kevin kisner: paige spiranac 'completely fooled' kevin kisner during the internet invitational story is actually a money story — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
