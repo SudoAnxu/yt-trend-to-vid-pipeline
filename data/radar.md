@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2492 · Updated: 13/11/2026, 12:29:23 (Asia/Kolkata)
+Run #2493 · Updated: 13/11/2026, 13:11:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Roger Taylor — 31/100
+### Pedro Pascal — 22/100
 
-**Event:** Roger Taylor: Duran Duran's Roger Taylor quits Birmingham band over tinnitus
+**Event:** Pedro Pascal: We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Pre
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Roger Taylor roger taylor: duran duran's roger taylor quits birmingham band over tinnitus filings actually say — line by line — the part that was not supposed to be public
+> What the Pedro Pascal pedro pascal: we’re dangerously close to another #oscarssowhite year. can zendaya, colman domingo, pedro pascal and more pre filings actually say — line by line — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Diego County — 18/100
+### Jennifer Aniston's — 19/100
 
-**Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
+**Event:** Jennifer Aniston's: Your Expert Guide to Recreating Jennifer Aniston’s Iconic “Rachel” Haircut
 
-**Why now:** 1 source lane(s): news · momentum 24 (+4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Diego County diego county: light rain forecast overnight in san diego county story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news
-
-**Status:** ARCHIVED
-
-### Robert Downey — 11/100
-
-**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
-
-**Why now:** 1 source lane(s): news · momentum 11 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Robert Downey robert downey: jr. reveals how he ‘leaned in’ to playing an avengers villain after years as iron man story is actually a money story — the other side of the fight
+> What the Jennifer Aniston's jennifer aniston's: zendaya, reese witherspoon & jennifer aniston's gigantic tv salaries revealed filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Kevin Holland — 28/100
+
+**Event:** Kevin Holland: UFC 334: Uros Medic vs. Kevin Holland Predictions & Odds
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 15 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Kevin Holland story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 20 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### James Webb — 17/100
+
+**Event:** James Webb: telescope pinpoints the most distant 'fast radio burst' ever seen, more than 10 billion light-years away
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+12 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The James Webb james webb: astronomers stunned after james webb space telescope discovers the earliest pair of black hole-powered quasars story is actually a money story — the part that was not supposed to be public
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
 
 **Status:** ARCHIVED
 

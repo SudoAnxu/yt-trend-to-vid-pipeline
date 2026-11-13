@@ -1,0 +1,37 @@
+{
+  "runNo": 2493,
+  "at": "2026-11-13T07:41:02.939Z",
+  "rows": [
+    {
+      "event": "story-pedro-pascal",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jennifer-aniston-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-holland",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-webb",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
