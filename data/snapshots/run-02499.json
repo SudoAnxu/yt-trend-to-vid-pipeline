@@ -1,0 +1,16 @@
+{
+  "runNo": 2499,
+  "at": "2026-11-13T11:42:22.982Z",
+  "rows": [
+    {
+      "event": "story-mike-tomlin",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

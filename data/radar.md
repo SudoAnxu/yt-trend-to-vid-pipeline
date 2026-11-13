@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2498 · Updated: 13/11/2026, 16:56:55 (Asia/Kolkata)
+Run #2499 · Updated: 13/11/2026, 17:12:23 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Return — 19/100
+### Mike Tomlin — 24/100
 
-**Event:** Will Return: John Mayer Will Return to the Sphere in 2027
+**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Return will return: ‘avatar: seven havens’ will return with book 2 in may 2027 filings actually say — line by line — the other side of the fight
+> The Mike Tomlin story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
