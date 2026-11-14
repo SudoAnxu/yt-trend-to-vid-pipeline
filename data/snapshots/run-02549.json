@@ -1,0 +1,16 @@
+{
+  "runNo": 2549,
+  "at": "2026-11-14T11:55:41.774Z",
+  "rows": [
+    {
+      "event": "story-megan-fox",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
