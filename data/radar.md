@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2560 · Updated: 14/11/2026, 22:09:36 (Asia/Kolkata)
+Run #2561 · Updated: 14/11/2026, 22:22:18 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,9 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Travis Hunter — 17/100
+
+**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Travis Hunter travis hunter: makes jessie bates' jaguars trade a hit with his nephews filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mike Evans — 15/100
+
+**Event:** Mike Evans: Injury 49ers
+
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mike Evans mike evans: 49ers designate dt cj west for return; latest on mike evans, deebo samuel filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### James Madison — 22/100
 
@@ -26,7 +54,7 @@ Sources this run: trends(40)
 
 > What the James Madison james madison: vs uconn filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
 

@@ -1,0 +1,30 @@
+{
+  "runNo": 2561,
+  "at": "2026-11-14T16:52:17.637Z",
+  "rows": [
+    {
+      "event": "story-travis-hunter",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-madison",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
