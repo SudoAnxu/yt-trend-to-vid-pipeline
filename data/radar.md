@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2536 · Updated: 14/11/2026, 08:07:28 (Asia/Kolkata)
+Run #2537 · Updated: 14/11/2026, 08:24:42 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,49 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Tyler Herro — 16/100
+### Stephen Curry — 15/100
 
-**Event:** Tyler Herro: NBA Star Tyler Herro Slams Baby Mama Over Claim He Sent 'Inappropriate' Texts
+**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tyler Herro tyler herro: trending now filings actually say — line by line — the other side of the fight
+> What the Stephen Curry stephen curry: warriors' stephen curry out at least 2 weeks with oblique tear filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Ryan Reynolds — 22/100
+### Jim Caviezel — 19/100
 
-**Event:** Ryan Reynolds: trending now
+**Event:** Jim Caviezel: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-8 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+9 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ryan Reynolds story is a proxy fight about something bigger — the other side of the fight
+> The Jim Caviezel jim caviezel: calls out 'posers' in christianity, urges believers to stand firm: 'get in the foxhole' story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Hugh Jackman — 20/100
+### Tyler Perry — 15/100
 
-**Event:** Hugh Jackman: trending now
+**Event:** Tyler Perry: doing life tyler perry
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Hugh Jackman hugh jackman: ‘avengers: doomsday’ lists ryan reynolds and hugh jackman among 10 writers filings actually say — line by line — the other side of the fight
+> The Tyler Perry story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Brandon Ingram — 20/100
+
+**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
+
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 18.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Brandon Ingram filing that will matter in six months — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 18.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Josh Hart — 17/100
+
+**Event:** Josh Hart: Predicting Knicks' Starting Lineup vs. Bulls With Josh Hart Out
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Hart story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
