@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2575 · Updated: 15/11/2026, 03:28:38 (Asia/Kolkata)
+Run #2576 · Updated: 15/11/2026, 04:11:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Valerie Bertinelli — 22/100
+### Michael Carrick's — 22/100
+
+**Event:** Michael Carrick's: The inside story of Michael Carrick’s Manchester United sacking - The Athletic
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Michael Carrick's michael carrick's: the inside story of michael carrick’s manchester united sacking - the athletic filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Valerie Bertinelli — 21/100
 
 **Event:** Valerie Bertinelli: shares rare photo with Eddie Van Halen: 'Never the love' six years after his death
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Valerie Bertinelli valerie bertinelli: proudly shows off her ongoing weight loss in new video: ‘feelin’ good’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
