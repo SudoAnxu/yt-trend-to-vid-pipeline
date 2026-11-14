@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2553 · Updated: 14/11/2026, 19:23:43 (Asia/Kolkata)
+Run #2554 · Updated: 14/11/2026, 19:54:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,61 +16,61 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alan Ritchson's — 14/100
+### Jeremy Latcham — 21/100
 
-**Event:** Alan Ritchson's: Alan Ritchson’s ‘Motor City’ Just Hit a Major Streaming Milestone a Month After Its VOD Debut
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alan Ritchson's alan ritchson's: reacher still can't beat chris pratt's 4-year-old action thriller filings actually say — line by line — the other side of the fight
-
-**Competition:** 18 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Chris Pratt's — 21/100
-
-**Event:** Chris Pratt's: Inside Chris Pratt's 'Terminal List' fight with real Navy SEAL Jack Carr
-
-**Why now:** 1 source lane(s): news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Chris Pratt's situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 5h · sources: news
-
-**Status:** ARCHIVED
-
-### John Paul — 19/100
-
-**Event:** John Paul: Isla Fisher & Blake Ritson Join Al Pacino In John Paul Getty III Kidnapping Pic ‘Captivated’
+**Event:** Jeremy Latcham: DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era
 
 **Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The John Paul john paul: isla fisher & blake ritson join al pacino in john paul getty iii kidnapping pic ‘captivated’ story is actually a money story — the other side of the fight
+> What the Jeremy Latcham jeremy latcham: dc studios to-do list: here’s what incoming boss jeremy latcham will sort through from the gunn-safran era filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 13 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
-### James Harden — 18/100
+### James Gunn — 17/100
 
-**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
+**Event:** James Gunn: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-9 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the James Harden james harden: donovan mitchell talks trusting james harden & the cavaliers' big win vs. the knicks | sportscenter filings actually say — line by line — the other side of the fight
+> What the James Gunn james gunn: dc studios shocker: james gunn, peter safran stepping down with marvel alum jeremy latcham to take over filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Peter Safran — 16/100
+
+**Event:** Peter Safran: James Gunn, Peter Safran Fired at DC Studios; Jeremy Latcham Replaces
+
+**Why now:** 1 source lane(s): news · momentum 12 (-11 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Peter Safran peter safran: dc studios shocker: james gunn, peter safran stepping down with marvel alum jeremy latcham to take over filings actually say — line by line — the other side of the fight
+
+**Competition:** 23 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Charles III — 15/100
+
+**Event:** Charles III: How King Charles III Plans to Bring Prince Harry and Prince William Back Together
+
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Charles III charles iii: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+
+**Status:** KEPT
 
 
 </details>
