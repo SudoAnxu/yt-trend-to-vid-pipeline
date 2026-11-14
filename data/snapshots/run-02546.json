@@ -1,0 +1,23 @@
+{
+  "runNo": 2546,
+  "at": "2026-11-14T10:50:03.220Z",
+  "rows": [
+    {
+      "event": "story-will-run",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-feature",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
