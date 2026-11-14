@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2566 · Updated: 15/11/2026, 00:18:54 (Asia/Kolkata)
+Run #2567 · Updated: 15/11/2026, 00:25:56 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Shane Gillis — 29/100
+### Shane Gillis — 26/100
 
 **Event:** Shane Gillis: ‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+3 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-1 vs prev run) · spice 12 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-1 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 17 (-1 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,25 +44,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Will Be — 17/100
+### Rob Ezell — 17/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Rob Ezell: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Will Be will be: south dakota football's 16 seniors will be honored on saturday filings actually say — line by line — the other side of the fight
+> What the Rob Ezell rob ezell: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Philip Rivers — 21/100
+### Philip Rivers — 22/100
 
 **Event:** Philip Rivers: NC State hiring Philip Rivers would be unconventional, but he might still be the right fit
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -76,13 +76,13 @@ Sources this run: trends(40)
 
 **Event:** David Montgomery: Will David Montgomery bets be refunded after injury during Texans vs. Titans NFL Week 5?
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the David Montgomery david montgomery: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
