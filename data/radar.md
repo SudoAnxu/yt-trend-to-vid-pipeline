@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2544 · Updated: 14/11/2026, 14:46:48 (Asia/Kolkata)
+Run #2545 · Updated: 14/11/2026, 15:07:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Grace Serves — 18/100
+
+**Event:** Grace Serves: McKenna Grace Serves Gothic Glam in Daring Lace Minidress Straight Out of Britney Spears' 2001 VMAs Era
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Grace Serves grace serves: mckenna grace serves gothic glam in daring lace minidress straight out of britney spears' 2001 vmas era story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

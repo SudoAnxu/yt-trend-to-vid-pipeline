@@ -1,0 +1,16 @@
+{
+  "runNo": 2545,
+  "at": "2026-11-14T09:37:37.796Z",
+  "rows": [
+    {
+      "event": "story-grace-serves",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
