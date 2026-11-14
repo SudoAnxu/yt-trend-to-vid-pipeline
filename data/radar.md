@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2538 · Updated: 14/11/2026, 08:57:35 (Asia/Kolkata)
+Run #2539 · Updated: 14/11/2026, 10:34:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,63 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### James Franco — 25/100
+### Lee Curtis — 14/100
 
-**Event:** James Franco: trending now
+**Event:** Lee Curtis: 'Sender', Starring Britt Lower & Jamie Lee Curtis, Gets US Deal
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The James Franco situation is weirder than the clips suggest — the other side of the fight
+> What the Lee Curtis lee curtis: jamie lee curtis filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Rob Lowe — 25/100
+### Michael Jordan — 15/100
 
-**Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
+**Event:** Michael Jordan: "Isn't that wild?!" – Michael Jordan explained why Clyde Drexler was an easier opponent than Reggie Miller and
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+12 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.8h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Rob Lowe situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 22 videos in last 6h · TTS ≈ 4.8h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ben Shapiro's — 19/100
-
-**Event:** Ben Shapiro's: Crew Members on Ben Shapiro’s Pro-ICE Film Were Surprised by the Movie’s MAGA Politics. What Did They Deserve 
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ben Shapiro's story is a proxy fight about something bigger — the other side of the fight
+> What the Michael Jordan michael jordan: kings’ darius acuff joins michael jordan, kareem abdul-jabbar in elite rookie company filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** ARCHIVED
-
-### Josh Duhamel — 21/100
-
-**Event:** Josh Duhamel: Breaks Silence on Ransom Canyon's Surprise Cancellation After 2 Seasons
-
-**Why now:** 2 source lane(s): news, trends · momentum 23 (-3 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Josh Duhamel josh duhamel: actor josh duhamel discusses new lifestyle brand "gatlan" story is actually a money story — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 8h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
