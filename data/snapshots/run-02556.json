@@ -1,0 +1,16 @@
+{
+  "runNo": 2556,
+  "at": "2026-11-14T15:17:40.145Z",
+  "rows": [
+    {
+      "event": "story-daniel-altmaier",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
