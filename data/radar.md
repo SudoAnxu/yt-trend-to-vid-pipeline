@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2533 · Updated: 14/11/2026, 06:53:15 (Asia/Kolkata)
+Run #2534 · Updated: 14/11/2026, 07:06:13 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(38)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,65 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Andrew Nembhard — 22/100
+### Julia Garner — 28/100
 
-**Event:** Andrew Nembhard: trending now
+**Event:** Julia Garner: "The Altruists" actor Julia Garner on surprising herself
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Andrew Nembhard andrew nembhard: pacers vs 76ers: prediction, team news and andrew nembhard without haliburton filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ryan Seacrest — 17/100
-
-**Event:** Ryan Seacrest: Fans React to Shocking Way He Eats His Pizza
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 34 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Ryan Seacrest story is a proxy fight about something bigger — the other side of the fight
+> The Julia Garner story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Ryan Seacrest's — 20/100
+### Julia Roberts — 18/100
 
-**Event:** Ryan Seacrest's: 'Future on Wheel of Fortune Rocked by Scandal', Insiders Claim
+**Event:** Julia Roberts: trending now
 
-**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ryan Seacrest's ryan seacrest's: ryan seacrest’s hilarious first tanning experience leaves cohosts shocked: ‘what level did you do?’ filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Anthony Black — 22/100
-
-**Event:** Anthony Black: Orlando Magic's Anthony Black begins big season with a new contract looming
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-6 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Anthony Black story is a proxy fight about something bigger — the number behind the headline
+> What the Julia Roberts julia roberts: james gray is now writing julia roberts thriller ‘kill your darlings,’ says ‘the sun also rises' would cost $1 filings actually say — line by line — the number behind the headline
 
-**Competition:** 7 videos in last 6h · TTS ≈ 5.2h · sources: news, trends
+**Competition:** 24 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Evan Mobley — 16/100
+### James Gray — 23/100
 
-**Event:** Evan Mobley: Video - Evan Mobley Named Cavaliers' Top Trade Asset
+**Event:** James Gray: Is Now Writing Julia Roberts Thriller ‘Kill Your Darlings,’ Says ‘The Sun Also Rises' Would Cost $180 Million
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Evan Mobley evan mobley: 3 options for cavs to replace evan mobley withagainst heat story is actually a money story — the other side of the fight
+> What the James Gray james gray: is now writing julia roberts thriller ‘kill your darlings,’ says ‘the sun also rises' would cost $180 million filings actually say — line by line — the number behind the headline
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Julia Roberts' — 19/100
+
+**Event:** Julia Roberts': Ditch the Boots — Julia Roberts’ City-Chic Sneaker Style Is the Cool-Girl Alternative
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Julia Roberts' julia roberts': ditch the boots — julia roberts’ city-chic sneaker style is the cool-girl alternative filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
