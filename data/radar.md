@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2546 · Updated: 14/11/2026, 16:20:03 (Asia/Kolkata)
+Run #2547 · Updated: 14/11/2026, 16:34:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Will Run — 21/100
+### Ben Roethlisberger — 17/100
 
-**Event:** Will Run: Grand Theft Auto VI Will Run At 30 FPS On All Consoles, But PS5 Pro Will Feature 'Improved Clarity' And Ray-Tr
+**Event:** Ben Roethlisberger: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Will Run will run: grand theft auto vi will run at 30 fps on all consoles, but ps5 pro will feature 'improved clarity' and ray-tr filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Will Feature — 20/100
-
-**Event:** Will Feature: ‘Ahsoka’ Season 2 Will Feature More ‘Clone Wars’ and ‘Rebels’ Characters
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Will Feature will feature: grand theft auto vi will run at 30 fps on all consoles, but ps5 pro will feature 'improved clarity' and ray-tr filings actually say — line by line — the other side of the fight
+> What the Ben Roethlisberger ben roethlisberger: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 

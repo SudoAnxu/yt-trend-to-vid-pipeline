@@ -1,0 +1,16 @@
+{
+  "runNo": 2547,
+  "at": "2026-11-14T11:04:42.930Z",
+  "rows": [
+    {
+      "event": "story-ben-roethlisberger",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
