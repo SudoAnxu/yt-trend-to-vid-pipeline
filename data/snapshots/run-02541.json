@@ -1,0 +1,30 @@
+{
+  "runNo": 2541,
+  "at": "2026-11-14T07:27:48.645Z",
+  "rows": [
+    {
+      "event": "story-jennifer-aniston",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-duncan",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-houston",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 4,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

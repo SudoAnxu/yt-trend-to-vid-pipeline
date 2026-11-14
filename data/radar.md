@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2540 · Updated: 14/11/2026, 12:17:55 (Asia/Kolkata)
+Run #2541 · Updated: 14/11/2026, 12:57:49 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Alex Pereira's — 13/100
+### Jennifer Aniston — 12/100
 
-**Event:** Alex Pereira's: Rizvan Kuniev blasts rankings for Alex Pereira’s ‘very strange’ spot, wants him next after Alexander Volkov at
+**Event:** Jennifer Aniston: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alex Pereira's alex pereira's: how alex pereira's striking and glover teixeira's wrestling are helping yousri belgaroui filings actually say — line by line — the other side of the fight
+> What the Jennifer Aniston jennifer aniston: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 24 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jim Miller — 26/100
+### Chris Duncan — 30/100
 
-**Event:** Jim Miller: trending now
+**Event:** Chris Duncan: Drew Dober vs. Chris Duncan prediction, odds, pick for UFC 334
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jim Miller jim miller: trending now filings actually say — line by line — the other side of the fight
+> The Chris Duncan chris duncan: drew dober vs. chris duncan prediction, odds, pick for ufc 334 story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Daniel Radcliffe — 19/100
+### Sam Houston — 14/100
 
-**Event:** Daniel Radcliffe: trending now
+**Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-10 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Daniel Radcliffe daniel radcliffe: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
-
-**Status:** KEPT
-
-### Harry Potter — 19/100
-
-**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 4 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Harry Potter harry potter: radcliffe holds back on advice for new harry potter filings actually say — line by line — the other side of the fight
+> What the Sam Houston sam houston: colorado state, sam houston cancel 2027-28 football series filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
