@@ -1,0 +1,37 @@
+{
+  "runNo": 2574,
+  "at": "2026-11-14T21:38:27.713Z",
+  "rows": [
+    {
+      "event": "story-kyle-whittingham",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-valerie-bertinelli",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-raiola",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-nate-frazier",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
