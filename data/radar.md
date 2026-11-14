@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2551 · Updated: 14/11/2026, 18:45:03 (Asia/Kolkata)
+Run #2552 · Updated: 14/11/2026, 19:13:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,9 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### Alan Ritchson's — 14/100
+
+**Event:** Alan Ritchson's: Alan Ritchson’s ‘Motor City’ Just Hit a Major Streaming Milestone a Month After Its VOD Debut
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Alan Ritchson's alan ritchson's: reacher still can't beat chris pratt's 4-year-old action thriller filings actually say — line by line — the other side of the fight
+
+**Competition:** 18 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Chris Pratt's — 21/100
+
+**Event:** Chris Pratt's: Inside Chris Pratt's 'Terminal List' fight with real Navy SEAL Jack Carr
+
+**Why now:** 1 source lane(s): news · momentum 26 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Chris Pratt's situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 4.6h · sources: news
+
+**Status:** ARCHIVED
+
+### James Harden — 18/100
+
+**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
+
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the James Harden james harden: donovan mitchell talks trusting james harden & the cavaliers' big win vs. the knicks | sportscenter filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
