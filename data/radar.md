@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2564 · Updated: 14/11/2026, 23:53:19 (Asia/Kolkata)
+Run #2565 · Updated: 15/11/2026, 00:08:23 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Brian Kelly — 25/100
+### Sam Houston — 23/100
 
-**Event:** Brian Kelly: 'I’ll preface it by saying that I recruited him' - Former LSU head coach Brian Kelly left no doubt on how he f
+**Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
 
-**Why now:** 2 source lane(s): news, trends · momentum 30 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 17.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Brian Kelly filing that will matter in six months — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 17.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Austin Peay — 25/100
-
-**Event:** Austin Peay: How special teams errors cost Austin Peay football vs Tarleton State
-
-**Why now:** 2 source lane(s): news, trends · momentum 28 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+13 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Austin Peay austin peay: acu vs austin peay filings actually say — line by line — the other side of the fight
+> The Sam Houston situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### David Montgomery — 21/100
+
+**Event:** David Montgomery: Will David Montgomery bets be refunded after injury during Texans vs. Titans NFL Week 5?
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the David Montgomery david montgomery: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Philip Rivers — 22/100
+
+**Event:** Philip Rivers: NC State hiring Philip Rivers would be unconventional, but he might still be the right fit
+
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Philip Rivers philip rivers: to nc state: contact details, salary and more for new wolfpack football coach story is actually a money story — the number behind the headline
+
+**Competition:** 16 videos in last 6h · TTS ≈ 9.6h · sources: news, trends
+
+**Status:** KEPT
 
 
 </details>
