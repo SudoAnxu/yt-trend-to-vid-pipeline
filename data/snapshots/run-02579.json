@@ -1,0 +1,23 @@
+{
+  "runNo": 2579,
+  "at": "2026-11-14T23:44:38.150Z",
+  "rows": [
+    {
+      "event": "story-alexander-skarsg",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-desiato",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
