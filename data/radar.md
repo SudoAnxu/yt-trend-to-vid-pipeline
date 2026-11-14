@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2559 · Updated: 14/11/2026, 21:55:49 (Asia/Kolkata)
+Run #2560 · Updated: 14/11/2026, 22:09:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-6 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
