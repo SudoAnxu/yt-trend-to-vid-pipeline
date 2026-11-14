@@ -1,0 +1,51 @@
+{
+  "runNo": 2558,
+  "at": "2026-11-14T15:54:43.362Z",
+  "rows": [
+    {
+      "event": "story-russell-brand",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-jake-dickert",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-altmaier",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-michalski",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ian-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-steve-fezzik",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
