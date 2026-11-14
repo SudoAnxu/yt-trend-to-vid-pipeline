@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2541 · Updated: 14/11/2026, 12:57:49 (Asia/Kolkata)
+Run #2542 · Updated: 14/11/2026, 13:11:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jennifer Aniston: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,25 +30,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Chris Duncan — 30/100
+### Chris Duncan — 24/100
 
 **Event:** Chris Duncan: Drew Dober vs. Chris Duncan prediction, odds, pick for UFC 334
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Chris Duncan chris duncan: drew dober vs. chris duncan prediction, odds, pick for ufc 334 story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Sam Houston — 14/100
+### Sam Houston — 15/100
 
 **Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 6 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
