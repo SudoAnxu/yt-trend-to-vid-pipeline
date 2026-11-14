@@ -1,0 +1,16 @@
+{
+  "runNo": 2569,
+  "at": "2026-11-14T19:40:20.160Z",
+  "rows": [
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
