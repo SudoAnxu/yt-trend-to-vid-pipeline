@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2577 · Updated: 15/11/2026, 04:17:39 (Asia/Kolkata)
+Run #2578 · Updated: 15/11/2026, 04:41:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kyle Whittingham — 18/100
+### Jake Fette — 17/100
 
-**Event:** Kyle Whittingham: trending now
+**Event:** Jake Fette: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kyle Whittingham kyle whittingham: michigan mailbag: was kyle whittingham forced to fire oc jason beck? story is actually a money story — the other side of the fight
+> What the Jake Fette jake fette: has a sack problem that ucf cannot exploit filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 8h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jason Beck — 18/100
+### Joe Jonas — 24/100
 
-**Event:** Jason Beck: Michigan Mailbag: Was Kyle Whittingham forced to fire OC Jason Beck?
+**Event:** Joe Jonas: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Beck jason beck: michigan mailbag: was kyle whittingham forced to fire oc jason beck? story is actually a money story — the other side of the fight
+> What the Joe Jonas joe jonas: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
