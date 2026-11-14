@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2547 · Updated: 14/11/2026, 16:34:43 (Asia/Kolkata)
+Run #2548 · Updated: 14/11/2026, 17:11:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Ben Roethlisberger — 17/100
+### Olivia Wilde — 27/100
 
-**Event:** Ben Roethlisberger: trending now
+**Event:** Olivia Wilde: Jason Sudeikis reflects on 'complicated' truth behind Olivia Wilde split
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 27 (+10 vs prev run) · spice 9 · risk 34 · forecast window elapsed (TTS 8.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Roethlisberger ben roethlisberger: trending now filings actually say — line by line — the other side of the fight
+> The Olivia Wilde olivia wilde: ‘ted lasso’ star jason sudeikis and olivia wilde win arbitration against former nanny story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 10 videos in last 6h · TTS ≈ 8.7h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Jason Sudeikis — 17/100
+
+**Event:** Jason Sudeikis: ‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+5 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jason Sudeikis jason sudeikis: ‘ted lasso’ star jason sudeikis and olivia wilde win arbitration against former nanny story is actually a money story — the other side of the fight
+
+**Competition:** 13 videos in last 6h · TTS ≈ 6.5h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
