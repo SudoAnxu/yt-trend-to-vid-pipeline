@@ -1,0 +1,23 @@
+{
+  "runNo": 2530,
+  "at": "2026-11-14T00:24:11.065Z",
+  "rows": [
+    {
+      "event": "story-norman-powell",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-evan-mobley",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

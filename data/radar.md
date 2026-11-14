@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2529 · Updated: 14/11/2026, 05:28:15 (Asia/Kolkata)
+Run #2530 · Updated: 14/11/2026, 05:54:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,77 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mike Brown — 19/100
+### Norman Powell — 18/100
 
-**Event:** Mike Brown: Knicks' Mike Brown questions FT disparity, Jalen Brunson's zero attempts in loss
+**Event:** Norman Powell: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Mike Brown mike brown: knicks' mike brown questions ft disparity, jalen brunson's zero attempts in loss filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Michelle Pfeiffer — 18/100
-
-**Event:** Michelle Pfeiffer: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 15.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michelle Pfeiffer michelle pfeiffer: trending now filings actually say — line by line — the other side of the fight
+> The Norman Powell filing that will matter in six months — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Tom Cruise — 18/100
-
-**Event:** Tom Cruise: Kate Middleton Goes Full Movie Star Mode for a Night With Tom Cruise
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tom Cruise story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 3 videos in last 6h · TTS ≈ 15.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Steven Spielberg — 22/100
+### Evan Mobley — 16/100
 
-**Event:** Steven Spielberg: Tom Cruise Leads Toasts for Steven Spielberg at MoMa Film Gala
+**Event:** Evan Mobley: Video - Evan Mobley Named Cavaliers' Top Trade Asset
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Steven Spielberg story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Jim Caviezel — 14/100
-
-**Event:** Jim Caviezel: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jim Caviezel story is a proxy fight about something bigger — the other side of the fight
+> The Evan Mobley evan mobley: 3 options for cavs to replace evan mobley withagainst heat story is actually a money story — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
