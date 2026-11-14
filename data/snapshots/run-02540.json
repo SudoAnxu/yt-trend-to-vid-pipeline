@@ -1,0 +1,37 @@
+{
+  "runNo": 2540,
+  "at": "2026-11-14T06:47:54.775Z",
+  "rows": [
+    {
+      "event": "story-alex-pereira-s",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-radcliffe",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-potter",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
