@@ -1,0 +1,44 @@
+{
+  "runNo": 2533,
+  "at": "2026-11-14T01:23:13.588Z",
+  "rows": [
+    {
+      "event": "story-andrew-nembhard",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-seacrest",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-seacrest-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-black",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-evan-mobley",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
