@@ -1,0 +1,16 @@
+{
+  "runNo": 2575,
+  "at": "2026-11-14T21:58:38.109Z",
+  "rows": [
+    {
+      "event": "story-valerie-bertinelli",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
