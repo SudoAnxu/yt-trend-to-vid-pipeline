@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2569 · Updated: 15/11/2026, 01:10:20 (Asia/Kolkata)
+Run #2570 · Updated: 15/11/2026, 01:31:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kate Middleton — 20/100
+### Evan Elder — 29/100
 
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
+**Event:** Evan Elder: vs Samuel Sanches Prediction, Picks, Odds for UFC 334, Saturday, November 14
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+10 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kate Middleton kate middleton: discusses cancer recovery in rare ‘country life’ interview filings actually say — line by line — the other side of the fight
+> The Evan Elder story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
