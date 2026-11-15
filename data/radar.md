@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2623 · Updated: 16/11/2026, 03:58:50 (Asia/Kolkata)
+Run #2624 · Updated: 16/11/2026, 04:35:26 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Paul George — 15/100
+### Olivia Culpo — 21/100
 
-**Event:** Paul George: trending now
+**Event:** Olivia Culpo: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Paul George filing that will matter in six months — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 10.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Irving Play — 19/100
-
-**Event:** Irving Play: Final Injury Report for Mavericks-Celtics: Will Paul George, Kyrie Irving Play?
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Irving Play filing that will matter in six months — the other side of the fight
+> What the Olivia Culpo olivia culpo: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 16h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Daniel Gafford — 14/100
+### Joey Porter — 17/100
 
-**Event:** Daniel Gafford: trending now
+**Event:** Joey Porter: Steelers' Joey Porter Jr. is inactive vs Bengals as trade rumors swirl
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Daniel Gafford daniel gafford: kyrie irving, daniel gafford among 8 mavericks on injury report against celtics story is actually a money story — the other side of the fight
+> What the Joey Porter joey porter: cowboys injuries: 49ers game status for george pickens, joey porter jr. filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
 
 **Status:** ARCHIVED
 

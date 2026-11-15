@@ -1,0 +1,23 @@
+{
+  "runNo": 2624,
+  "at": "2026-11-15T23:05:26.145Z",
+  "rows": [
+    {
+      "event": "story-olivia-culpo",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-joey-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 5,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
