@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2579 · Updated: 15/11/2026, 05:14:38 (Asia/Kolkata)
+Run #2580 · Updated: 15/11/2026, 05:30:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alexander Skarsg — 23/100
+### Sam Hartman — 21/100
+
+**Event:** Sam Hartman: 'The Bachelor' season 30 to feature NFL quarterback Sam Hartman
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Sam Hartman story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Alexander Skarsg — 16/100
 
 **Event:** Alexander Skarsg: Solid Relationship Advice From Wicker Stars Alexander Skarsgård And Olivia Colman
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Alexander Skarsg story is a proxy fight about something bigger — the other side of the fight
+> What the Alexander Skarsg alexander skarsg: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
-
-### Patrick Desiato — 19/100
-
-**Event:** Patrick Desiato: Obituary (2026) - Mount Laurel, NJ - Givnish Funeral Home - Cinnaminson
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Patrick Desiato patrick desiato: obituary (2026) - mount laurel, nj - givnish funeral home - cinnaminson filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
