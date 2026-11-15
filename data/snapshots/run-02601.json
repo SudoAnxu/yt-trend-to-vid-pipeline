@@ -1,0 +1,23 @@
+{
+  "runNo": 2601,
+  "at": "2026-11-15T14:27:18.658Z",
+  "rows": [
+    {
+      "event": "story-michael-strahan",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-logan-airport",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 30,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
