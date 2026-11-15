@@ -1,0 +1,65 @@
+{
+  "runNo": 2615,
+  "at": "2026-11-15T19:31:22.842Z",
+  "rows": [
+    {
+      "event": "story-xavier-worthy",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-mason",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-hunter",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-jerry-jeudy",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-nesmith",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "unknown"
+    },
+    {
+      "event": "story-andrew-nembhard",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-prediction",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
