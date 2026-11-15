@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2610 · Updated: 15/11/2026, 23:24:20 (Asia/Kolkata)
+Run #2611 · Updated: 15/11/2026, 23:40:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,79 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Robert Kraft — 16/100
+### Kirk Cousins — 20/100
 
-**Event:** Robert Kraft: Zach Bryan defies Robert Kraft by wearing a ‘Free Palestine’ T-shirt to his Friday night show at Gillette
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Robert Kraft robert kraft: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Mike Vrabel — 19/100
-
-**Event:** Mike Vrabel: offers blunt review of Drake Maye’s fourth interception
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 3 (-8 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mike Vrabel mike vrabel: affair story is actually a money story — the other side of the fight
+> What the Kirk Cousins kirk cousins: packers vs. vikings score predictions: can kirk cousins turn the tide in huge nfc north battle? filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Adam Schefter — 16/100
+### Terry Bradshaw — 21/100
 
-**Event:** Adam Schefter: trending now
+**Event:** Terry Bradshaw: NFL Legend Terry Bradshaw Gets Emotional Recalling How People Treated Him During His Depression Battle: ‘Peopl
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+7 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Adam Schefter adam schefter: reveals how he views dianna russini after mike vrabel scandal filings actually say — line by line — the other side of the fight
+> The Terry Bradshaw story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Micah Parsons — 20/100
+### Rob Gronkowski — 18/100
 
-**Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
+**Event:** Rob Gronkowski: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Micah Parsons micah parsons: trending now filings actually say — line by line — the other side of the fight
+> The Rob Gronkowski story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 9 videos in last 6h · TTS ≈ 4.3h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Joel Embiid — 20/100
+### Charles Barkley — 14/100
 
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
+**Event:** Charles Barkley: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Joel Embiid joel embiid: 76ers' joel embiid out vs. pacers due to plantar fascia management filings actually say — line by line — the other side of the fight
+> What the Charles Barkley charles barkley: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Malik Willis — 15/100
+
+**Event:** Malik Willis: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Malik Willis story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 17 videos in last 6h · TTS ≈ 7.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Will Kyle — 18/100
+
+**Event:** Will Kyle: Who's in, who's out for Bears-Bucs: Will Kyle Monangai play?
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Will Kyle will kyle: kelly: will kyle mccord be another name on dolphins’ list of qb failures? | opinion story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
