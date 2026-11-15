@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2612 · Updated: 16/11/2026, 00:31:04 (Asia/Kolkata)
+Run #2613 · Updated: 16/11/2026, 00:43:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,79 +12,107 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Xavier Hutchinson — 20/100
+### Aaron Jones — 22/100
 
-**Event:** Xavier Hutchinson: trending now
+**Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 24 (+20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Xavier Hutchinson xavier hutchinson: trending now filings actually say — line by line — the other side of the fight
+> The Aaron Jones story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 10 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jordan Mason — 18/100
+
+**Event:** Jordan Mason: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jordan Mason story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Travis Hunter — 16/100
+
+**Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Travis Hunter travis hunter: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jerry Jeudy — 13/100
+
+**Event:** Jerry Jeudy: has disappeared from Browns offense: Five teams that could trade for WR
+
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jerry Jeudy jerry jeudy: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Aaron Nesmith — 19/100
+
+**Event:** Aaron Nesmith: Pacers get good news on Aaron Nesmith, bad news on Andrew Nembhard ahead of 76ers game
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Aaron Nesmith aaron nesmith: pacers get good news on aaron nesmith, bad news on andrew nembhard ahead of 76ers game filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Travis Etienne — 21/100
+### Andrew Nembhard — 20/100
 
-**Event:** Travis Etienne: trending now
+**Event:** Andrew Nembhard: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 15.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Travis Etienne travis etienne: saints rb travis etienne jr. activated off ir for game vs. panthers story is actually a money story — the other side of the fight
+> The Andrew Nembhard filing that will matter in six months — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 8.7h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 15.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kirk Cousins — 21/100
+### Malik Washington — 23/100
 
-**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
+**Event:** Malik Washington: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+2 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kirk Cousins kirk cousins: packers vs. vikings score predictions: can kirk cousins turn the tide in huge nfc north battle? filings actually say — line by line — the other side of the fight
+> The Malik Washington story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Todd Monken — 14/100
-
-**Event:** Todd Monken: has jokes before facing T.J. Watt: 'I think it's about time he retires'
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Todd Monken todd monken: browns' hc todd monken addresses rb snap count against saints story is actually a money story — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Justin Fields — 27/100
-
-**Event:** Justin Fields: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Fields filing that will matter in six months — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 14h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
