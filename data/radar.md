@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2620 · Updated: 16/11/2026, 02:39:43 (Asia/Kolkata)
+Run #2621 · Updated: 16/11/2026, 03:07:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jordan Addison: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,59 +30,73 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Brandon Miller — 17/100
+### Tom Brady — 13/100
 
-**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
+**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brandon Miller filing that will matter in six months — the other side of the fight
+> The Tom Brady tom brady: it’s painfully obvious that tom brady no longer cares about boston, new england, or patriots fans story is actually a money story — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 10.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Brandon Ingram — 21/100
+### Chad Lowe — 16/100
 
-**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
+**Event:** Chad Lowe: fiona lowe daughter of chad lowe
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 18.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-21 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Brandon Ingram filing that will matter in six months — the other side of the fight
+> What the Chad Lowe chad lowe: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 18.8h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jordan Love — 23/100
+### Chad Lowe's — 21/100
 
-**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
+**Event:** Chad Lowe's: New details released after death of Chad Lowe's teenage daughter
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jordan Love jordan love: , matthew golden, and christian watson's projected fantasy points in week 10 vs. vikings filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Matthew Golden — 19/100
-
-**Event:** Matthew Golden: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 23 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Matthew Golden matthew golden: jordan love, matthew golden, and christian watson's projected fantasy points in week 10 vs. vikings filings actually say — line by line — the other side of the fight
+> What the Chad Lowe's chad lowe's: chad lowe’s daughter mabel, 17, celebrates late sister fiona on her first posthumous birthday filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 20 videos in last 6h · TTS ≈ 3.4h · sources: news
+
+**Status:** ARCHIVED
+
+### Matthew Stafford — 15/100
+
+**Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
+
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Matthew Stafford matthew stafford: excited about cj daniels: 'done a hell of a job' filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jordan Watkins — 19/100
+
+**Event:** Jordan Watkins: Brandin Cooks, Jordan Watkins need to step up for 49ers in 2nd half vs. Falcons
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jordan Watkins story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** ARCHIVED
 
