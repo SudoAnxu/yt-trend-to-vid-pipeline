@@ -1,0 +1,23 @@
+{
+  "runNo": 2590,
+  "at": "2026-11-15T07:57:52.403Z",
+  "rows": [
+    {
+      "event": "story-mike-perry",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-barker",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
