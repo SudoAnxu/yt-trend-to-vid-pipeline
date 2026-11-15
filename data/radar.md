@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2601 · Updated: 15/11/2026, 19:57:19 (Asia/Kolkata)
+Run #2602 · Updated: 15/11/2026, 20:24:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Michael Strahan — 15/100
+### Aidan Hutchinson — 15/100
 
-**Event:** Michael Strahan: trending now
+**Event:** Aidan Hutchinson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Strahan michael strahan: trending now filings actually say — line by line — the other side of the fight
+> The Aidan Hutchinson aidan hutchinson: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends
 
 **Status:** ARCHIVED
 
-### Logan Airport — 23/100
+### Chris Harrison — 23/100
 
-**Event:** Logan Airport: Unruly Logan Airport passenger tackled, arrested after trying to grab computer behind baggage counter
+**Event:** Chris Harrison: Responds To Warner Bros' Legal Action Against 'The Vow'
 
-**Why now:** 1 source lane(s): news · momentum 30 (+2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-15 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Logan Airport logan airport: unruly logan airport passenger tackled, arrested after trying to grab computer behind baggage counter filings actually say — line by line — what happens next
+> What the Chris Harrison chris harrison: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 2.6h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
+
+### Chris Harrison's — 19/100
+
+**Event:** Chris Harrison's: What To Watch Wednesday: The Rings Of Power Returns, Chris Harrison's New Dating Show, And More
+
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Chris Harrison's chris harrison's: chris harrison’s ‘the vow’ sparks ‘trad wife’ debate among contestants as emotions run high filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Billy Evans — 30/100
+
+**Event:** Billy Evans: Nathan Fielder Questions Elizabeth Holmes, Billy Evans in ‘You Can See Everything’ Trailer
+
+**Why now:** 1 source lane(s): news · momentum 32 (+13 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Billy Evans billy evans: addresses rumors he controlled elizabeth holmes in ‘you can see everything’ story is actually a money story — the detail nobody has explained
+
+**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: news
+
+**Status:** ARCHIVED
+
+### Mike Vrabel — 29/100
+
+**Event:** Mike Vrabel: offers blunt review of Drake Maye’s fourth interception
+
+**Why now:** 2 source lane(s): news, trends · momentum 30 (+16 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Vrabel story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
