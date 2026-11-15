@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2608 · Updated: 15/11/2026, 22:47:28 (Asia/Kolkata)
+Run #2609 · Updated: 15/11/2026, 23:04:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,51 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Kirk Cousins — 21/100
+### Micah Parsons — 21/100
 
-**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
+**Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-13 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kirk Cousins story is a proxy fight about something bigger — the number behind the headline
+> What the Micah Parsons micah parsons: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 4.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Barry Sanders — 17/100
+### Joel Embiid — 20/100
 
-**Event:** Barry Sanders: trending now
+**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Barry Sanders barry sanders: trending now filings actually say — line by line — the other side of the fight
+> What the Joel Embiid joel embiid: 76ers' joel embiid out vs. pacers due to plantar fascia management filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Joe Burrow — 16/100
+
+**Event:** Joe Burrow: Bengals' Joe Burrow Responds After Stat About Lack of 4th-Quarter Comebacks Goes Viral
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Joe Burrow story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
