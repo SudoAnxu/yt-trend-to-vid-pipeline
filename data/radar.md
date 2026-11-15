@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2598 · Updated: 15/11/2026, 18:25:35 (Asia/Kolkata)
+Run #2599 · Updated: 15/11/2026, 19:12:42 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Patrick Mahomes — 20/100
+### Carl Granderson — 20/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Carl Granderson: New Orleans Saints edge rushers Chase Young and Carl Granderson scoring big on pass rush
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Patrick Mahomes patrick mahomes: week 10 fantasy rankings: patrick mahomes projects as ninth-best qb filings actually say — line by line — the other side of the fight
+> The Carl Granderson carl granderson: new orleans saints edge rushers chase young and carl granderson scoring big on pass rush story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
