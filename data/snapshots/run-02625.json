@@ -1,0 +1,30 @@
+{
+  "runNo": 2625,
+  "at": "2026-11-15T23:13:29.508Z",
+  "rows": [
+    {
+      "event": "story-alexandra-ignatova",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-culpo",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-joey-porter",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
