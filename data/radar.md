@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2621 · Updated: 16/11/2026, 03:07:53 (Asia/Kolkata)
+Run #2622 · Updated: 16/11/2026, 03:27:07 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,91 +12,105 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Jordan Addison — 18/100
+### James Trafford — 21/100
 
-**Event:** Jordan Addison: trending now
+**Event:** James Trafford: Spain vs England: James Trafford set to replace Jordan Pickford as goalkeeper - but how does Thomas Tuchel sto
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jordan Addison jordan addison: is out for vikings in green bay filings actually say — line by line — the other side of the fight
+> The James Trafford james trafford: spain vs england: james trafford set to replace jordan pickford as goalkeeper - but how does thomas tuchel sto story is actually a money story — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Jordan Pickford — 21/100
+
+**Event:** Jordan Pickford: Spain vs England: James Trafford set to replace Jordan Pickford as goalkeeper - but how does Thomas Tuchel sto
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jordan Pickford jordan pickford: spain vs england: james trafford set to replace jordan pickford as goalkeeper - but how does thomas tuchel sto story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Thomas Tuchel — 17/100
+
+**Event:** Thomas Tuchel: England: Impossible for Three Lions to find another Harry Kane - Thomas Tuchel
+
+**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Thomas Tuchel thomas tuchel: spain vs england: james trafford set to replace jordan pickford as goalkeeper - but how does thomas tuchel sto story is actually a money story — the other side of the fight
+
+**Competition:** 16 videos in last 6h · TTS ≈ 5.6h · sources: news
 
 **Status:** ARCHIVED
 
-### Tom Brady — 13/100
+### Mike Evans — 20/100
 
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+**Event:** Mike Evans: Injury 49ers
 
-**Why now:** 2 source lane(s): news, trends · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+7 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 8.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tom Brady tom brady: it’s painfully obvious that tom brady no longer cares about boston, new england, or patriots fans story is actually a money story — the other side of the fight
+> The Mike Evans mike evans: 49ers injury report: wr mike evans remains out vs. cowboys story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 8.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Chad Lowe — 16/100
+### Diego State — 22/100
 
-**Event:** Chad Lowe: fiona lowe daughter of chad lowe
+**Event:** Diego State: San Diego State vs. Fresno State live stream, where to watch online, CBS Sports Network channel finder, odds
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-21 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+9 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Chad Lowe chad lowe: trending now filings actually say — line by line — the other side of the fight
+> The Diego State situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 15 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Chad Lowe's — 21/100
+### Patrick Reed — 18/100
 
-**Event:** Chad Lowe's: New details released after death of Chad Lowe's teenage daughter
+**Event:** Patrick Reed: bet on himself when he left LIV and is now reaping the rewards
 
-**Why now:** 1 source lane(s): news · momentum 23 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Chad Lowe's chad lowe's: chad lowe’s daughter mabel, 17, celebrates late sister fiona on her first posthumous birthday filings actually say — line by line — the other side of the fight
+> What the Patrick Reed patrick reed: meet the 10 dp world tour grads, including eugenio chacarra, patrick reed and a former grocery deliveryman filings actually say — line by line — the other side of the fight
 
-**Competition:** 20 videos in last 6h · TTS ≈ 3.4h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Matthew Stafford — 15/100
+### Nick Bosa — 18/100
 
-**Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
+**Event:** Nick Bosa: injury
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Matthew Stafford matthew stafford: excited about cj daniels: 'done a hell of a job' filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jordan Watkins — 19/100
-
-**Event:** Jordan Watkins: Brandin Cooks, Jordan Watkins need to step up for 49ers in 2nd half vs. Falcons
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jordan Watkins story is a proxy fight about something bigger — the other side of the fight
+> The Nick Bosa nick bosa: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
