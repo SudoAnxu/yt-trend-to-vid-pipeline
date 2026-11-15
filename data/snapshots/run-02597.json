@@ -1,0 +1,30 @@
+{
+  "runNo": 2597,
+  "at": "2026-11-15T12:29:34.117Z",
+  "rows": [
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-emily-ratajkowski",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-joe-alwyn",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
