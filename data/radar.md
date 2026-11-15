@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2626 · Updated: 16/11/2026, 04:56:29 (Asia/Kolkata)
+Run #2627 · Updated: 16/11/2026, 05:21:06 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,65 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mike Macdonald — 19/100
+### Jerry Jones — 25/100
 
-**Event:** Mike Macdonald: Zach Charbonnet Ruled Out & Other Seahawks Injury Updates From Mike Macdonald
+**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Mike Macdonald story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Matthew Stafford — 15/100
-
-**Event:** Matthew Stafford: makes cameo in Taylor Swift's 'Patient Zero' music video
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 31 (+22 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Matthew Stafford filing that will matter in six months — the other side of the fight
+> What the Jerry Jones jerry jones: cowboys staffer calls out jerry jones after 49ers fans take over at&t stadium filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: news, trends
+**Competition:** 14 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Kevin Burkhardt — 29/100
+### Pablo Sandoval — 27/100
 
-**Event:** Kevin Burkhardt: ‘You Don’t Have To Be Best Friends,’ ‘We Are Super Close’ — Kevin Burkhardt Peels Back The Curtain on Working 
+**Event:** Pablo Sandoval: SF Giants legend Pablo Sandoval bids an emotional farewell to professional baseball
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Kevin Burkhardt kevin burkhardt: ‘you don’t have to be best friends,’ ‘we are super close’ — kevin burkhardt peels back the curtain on working  story is actually a money story — the other side of the fight
+> What the Pablo Sandoval pablo sandoval: sf giants legend pablo sandoval bids an emotional farewell to professional baseball filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Tom Brady — 19/100
-
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+16 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tom Brady tom brady: ‘you don’t have to be best friends,’ ‘we are super close’ — kevin burkhardt peels back the curtain on working  story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>

@@ -1,0 +1,23 @@
+{
+  "runNo": 2627,
+  "at": "2026-11-15T23:51:05.160Z",
+  "rows": [
+    {
+      "event": "story-jerry-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-pablo-sandoval",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
