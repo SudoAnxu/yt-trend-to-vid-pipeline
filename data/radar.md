@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2605 · Updated: 15/11/2026, 21:25:10 (Asia/Kolkata)
+Run #2606 · Updated: 15/11/2026, 21:58:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Tim Daly — 24/100
+### Kirk Cousins — 22/100
 
-**Event:** Tim Daly: Téa Leoni and Tim Daly are ‘Newlyweds’ in life and on screen
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 24 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tim Daly tim daly: ‘newlyweds’ stars téa leoni and tim daly detail their quiet life together after ‘madam secretary’ ended (exclu story is actually a money story — the other side of the fight
+> The Kirk Cousins kirk cousins: vikings vs. packers live updates, inactives, where to watch: kirk cousins returns to minnesota in trade deadli story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 9.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Tom Brady — 14/100
+### Kevin Byard — 25/100
 
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+**Event:** Kevin Byard: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tom Brady tom brady: calls rob gronkowski greatest tight end filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Scott Bessent — 13/100
-
-**Event:** Scott Bessent: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Scott Bessent scott bessent: trending now filings actually say — line by line — the other side of the fight
+> What the Kevin Byard kevin byard: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jordan Addison — 26/100
+
+**Event:** Jordan Addison: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+12 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jordan Addison jordan addison: is vikings wr jordan addison playing with kirk cousins vs. packers after eye-opening roster move? filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 

@@ -1,0 +1,30 @@
+{
+  "runNo": 2606,
+  "at": "2026-11-15T16:28:56.374Z",
+  "rows": [
+    {
+      "event": "story-kirk-cousins",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-byard",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-jordan-addison",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
