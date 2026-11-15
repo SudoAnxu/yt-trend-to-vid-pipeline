@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2616 · Updated: 16/11/2026, 01:22:03 (Asia/Kolkata)
+Run #2617 · Updated: 16/11/2026, 01:36:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Patrick Mahomes' — 20/100
+### David Montgomery — 17/100
 
-**Event:** Patrick Mahomes': Wife Brittany Gives Fans a Peek at Life Away From the Chiefs
+**Event:** David Montgomery: Will David Montgomery bets be refunded after injury during Texans vs. Titans NFL Week 5?
 
-**Why now:** 1 source lane(s): news · momentum 21 (+10 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Patrick Mahomes' story is a proxy fight about something bigger — the detail nobody has explained
+> What the David Montgomery david montgomery: texans rule david montgomery out for sunday filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.2h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Zach Wilson — 28/100
+
+**Event:** Zach Wilson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Zach Wilson zach wilson: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Josh Downs' — 23/100
+
+**Event:** Josh Downs': 5 Colts Things: Josh Downs' chemistry with Daniel Jones shines, DeForest Buckner dominates, Cowboys-Ravens gam
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Josh Downs' josh downs': can't-miss play: josh downs' first chiefs td comes on back-shoulder connection with mahomes filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
@@ -34,55 +62,27 @@ Sources this run: trends(40)
 
 **Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Patrick Mahomes story is a proxy fight about something bigger — the other side of the fight
+> What the Patrick Mahomes patrick mahomes: josh downs first touchdown as a kansas city chief comes on back-shoulder connection with patrick mahomes filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### John Harbaugh — 18/100
+### John Madden — 14/100
 
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+**Event:** John Madden: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Harbaugh john harbaugh: was asked after the giants' loss about the team's confidence in kicker dominic zvada. filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Brian Flores — 16/100
-
-**Event:** Brian Flores: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Brian Flores brian flores: needs an offensive coordinator pipeline for jets filings actually say — line by line — the other side of the fight
+> What the John Madden john madden: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Thomas Tuchel — 16/100
-
-**Event:** Thomas Tuchel: England: Impossible for Three Lions to find another Harry Kane - Thomas Tuchel
-
-**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Thomas Tuchel thomas tuchel: spain vs england: james trafford set to replace jordan pickford as goalkeeper - but how does thomas tuchel sto story is actually a money story — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 24 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
