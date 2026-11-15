@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2580 · Updated: 15/11/2026, 05:30:03 (Asia/Kolkata)
+Run #2581 · Updated: 15/11/2026, 06:27:15 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Sam Hartman — 21/100
+### Kevin Costner — 16/100
 
-**Event:** Sam Hartman: 'The Bachelor' season 30 to feature NFL quarterback Sam Hartman
+**Event:** Kevin Costner: luke grimes comments on kevin costner
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Sam Hartman story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Alexander Skarsg — 16/100
-
-**Event:** Alexander Skarsg: Solid Relationship Advice From Wicker Stars Alexander Skarsgård And Olivia Colman
-
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexander Skarsg alexander skarsg: trending now filings actually say — line by line — the other side of the fight
+> What the Kevin Costner kevin costner: finebaum: kevin costner ‘looked like a fool,’ used as a ‘stage prop’ during lsu’s loss to alabama filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Olivia Dunne's — 22/100
+
+**Event:** Olivia Dunne's: Celebrate Olivia Dunne’s Birthday With a Look at Her Four Fabulous SI Swimsuit Shoots
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Olivia Dunne's olivia dunne's: olivia dunne’s game-day look at lsu is bringing us back to her si swimsuit shoot in bermuda filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
