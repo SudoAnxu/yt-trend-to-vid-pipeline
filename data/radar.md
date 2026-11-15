@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2586 · Updated: 15/11/2026, 08:26:55 (Asia/Kolkata)
+Run #2587 · Updated: 15/11/2026, 10:27:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Mark Carney — 17/100
+### Peter Thiel — 15/100
 
-**Event:** Mark Carney: seeks closer Turkey ties. Will Trump object? Should Canada?
+**Event:** Peter Thiel: buys troubled Bel-Air mega-mansion for $130 million
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mark Carney mark carney: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jon Sumrall — 23/100
-
-**Event:** Jon Sumrall: responds to question about being ‘reined in’ by UF admin: ‘Are you sh—ing me?
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-18 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jon Sumrall story is a proxy fight about something bigger — the other side of the fight
+> What the Peter Thiel peter thiel: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 3h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Peter Thiel's — 25/100
+
+**Event:** Peter Thiel's: $17 Billion of SpaceX Stock Left Peter Thiel’s Fund Last Quarter
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Peter Thiel's peter thiel's: $17 billion of spacex stock left peter thiel’s fund last quarter filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Sam Altman — 13/100
+
+**Event:** Sam Altman: to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI
+
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Sam Altman sam altman: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Sam Altman's — 21/100
+
+**Event:** Sam Altman's: Inside Sam Altman’s $125 Million Property Portfolio
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Sam Altman's sam altman's: inside sam altman’s $125 million property portfolio filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

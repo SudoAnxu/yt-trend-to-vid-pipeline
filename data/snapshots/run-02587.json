@@ -1,0 +1,37 @@
+{
+  "runNo": 2587,
+  "at": "2026-11-15T04:57:53.086Z",
+  "rows": [
+    {
+      "event": "story-peter-thiel",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-thiel-s",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-sam-altman",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-altman-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
