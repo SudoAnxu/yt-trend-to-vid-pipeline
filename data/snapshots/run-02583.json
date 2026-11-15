@@ -1,0 +1,23 @@
+{
+  "runNo": 2583,
+  "at": "2026-11-15T01:30:22.434Z",
+  "rows": [
+    {
+      "event": "story-lauren-boebert",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-prediction",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
