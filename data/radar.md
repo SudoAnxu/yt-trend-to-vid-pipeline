@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2592 · Updated: 15/11/2026, 15:17:42 (Asia/Kolkata)
+Run #2593 · Updated: 15/11/2026, 15:37:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(37)
 
@@ -12,7 +12,7 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(37)
 
 **Event:** Trump Says He's: Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 6 · risk 56 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 6 · risk 56 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(37)
 
 **Event:** Nick Martinez: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,6 +43,48 @@ Sources this run: trends(37)
 **Competition:** 16 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Director Zachary Wigon — 19/100
+
+**Event:** Director Zachary Wigon: 'Victorian Psycho' Director Zachary Wigon Only Shot Coverage When His Killer Was Faking It
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Director Zachary Wigon director zachary wigon: 'victorian psycho' director zachary wigon only shot coverage when his killer was faking it filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Psycho' Director — 19/100
+
+**Event:** Psycho' Director: 'Victorian Psycho' Director Zachary Wigon Only Shot Coverage When His Killer Was Faking It
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Psycho' Director psycho' director: 'victorian psycho' director zachary wigon only shot coverage when his killer was faking it filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Director Zachary — 19/100
+
+**Event:** Director Zachary: 'Victorian Psycho' Director Zachary Wigon Only Shot Coverage When His Killer Was Faking It
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Director Zachary director zachary: 'victorian psycho' director zachary wigon only shot coverage when his killer was faking it filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Stephen King — 14/100
 
