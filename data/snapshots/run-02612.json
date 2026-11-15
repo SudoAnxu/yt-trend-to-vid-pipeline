@@ -1,0 +1,44 @@
+{
+  "runNo": 2612,
+  "at": "2026-11-15T19:01:03.215Z",
+  "rows": [
+    {
+      "event": "story-xavier-hutchinson",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-travis-etienne",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-cousins",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-todd-monken",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-fields",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

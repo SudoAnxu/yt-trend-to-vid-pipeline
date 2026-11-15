@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2611 · Updated: 15/11/2026, 23:40:18 (Asia/Kolkata)
+Run #2612 · Updated: 16/11/2026, 00:31:04 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Kirk Cousins — 20/100
+### Xavier Hutchinson — 20/100
+
+**Event:** Xavier Hutchinson: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Xavier Hutchinson xavier hutchinson: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Travis Etienne — 21/100
+
+**Event:** Travis Etienne: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Travis Etienne travis etienne: saints rb travis etienne jr. activated off ir for game vs. panthers story is actually a money story — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 8.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Kirk Cousins — 21/100
 
 **Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): news, trends · momentum 3 (-8 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+2 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,73 +58,31 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Terry Bradshaw — 21/100
+### Todd Monken — 14/100
 
-**Event:** Terry Bradshaw: NFL Legend Terry Bradshaw Gets Emotional Recalling How People Treated Him During His Depression Battle: ‘Peopl
+**Event:** Todd Monken: has jokes before facing T.J. Watt: 'I think it's about time he retires'
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+7 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Terry Bradshaw story is a proxy fight about something bigger — the detail nobody has explained
+> The Todd Monken todd monken: browns' hc todd monken addresses rb snap count against saints story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+**Competition:** 16 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Rob Gronkowski — 18/100
+### Justin Fields — 27/100
 
-**Event:** Rob Gronkowski: trending now
+**Event:** Justin Fields: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Rob Gronkowski story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 14 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Charles Barkley — 14/100
-
-**Event:** Charles Barkley: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Charles Barkley charles barkley: trending now filings actually say — line by line — the other side of the fight
+> The Justin Fields filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Malik Willis — 15/100
-
-**Event:** Malik Willis: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Malik Willis story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 17 videos in last 6h · TTS ≈ 7.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Will Kyle — 18/100
-
-**Event:** Will Kyle: Who's in, who's out for Bears-Bucs: Will Kyle Monangai play?
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Kyle will kyle: kelly: will kyle mccord be another name on dolphins’ list of qb failures? | opinion story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 14h · sources: trends, news
 
 **Status:** RESEARCH
 
