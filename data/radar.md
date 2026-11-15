@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2590 · Updated: 15/11/2026, 13:27:52 (Asia/Kolkata)
+Run #2591 · Updated: 15/11/2026, 14:11:29 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Mike Perry — 18/100
+### Stephen King — 16/100
 
-**Event:** Mike Perry: set for UFC return? New update suggests he’s back following BKFC exit
+**Event:** Stephen King: Asks Why Taylor Sheridan's Hit Western Series Was Snubbed By The Emmys
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Mike Perry mike perry: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 8h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Travis Barker — 13/100
-
-**Event:** Travis Barker: Shares Photo from the Hospital, Says ‘Beautiful Wife’ Kourtney Kardashian Is ‘by My Side’
-
-**Why now:** 2 source lane(s): news, trends · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Barker travis barker: trending now filings actually say — line by line — the other side of the fight
+> What the Stephen King stephen king: and real-life serial killers shaped the most unhinged thriller of 2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Kirk Cousins — 23/100
+
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
+
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+10 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Kirk Cousins kirk cousins: packers vs. vikings score predictions: can kirk cousins turn the tide in huge nfc north battle? story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
