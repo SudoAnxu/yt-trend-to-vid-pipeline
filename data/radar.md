@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2618 · Updated: 16/11/2026, 02:00:02 (Asia/Kolkata)
+Run #2619 · Updated: 16/11/2026, 02:09:55 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,59 +16,59 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jeff Bezos — 19/100
+### Ben Shelton — 13/100
 
-**Event:** Jeff Bezos: pledged $10 billion to fight climate change in 2020; 6 years later, his Earth Fund is putting
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 2 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jeff Bezos jeff bezos: mackenzie scott gave jeff bezos 75% of their amazon shares, blue origin, and the washington post in 2019 divor filings actually say — line by line — what happens next
+> What the Ben Shelton ben shelton: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Lewis Hall — 17/100
+### Alexander Zverev — 18/100
 
-**Event:** Lewis Hall: England vs Croatia player ratings: Harry Kane scores winner as Lewis Hall impresses
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Lewis Hall lewis hall: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** RESEARCH
-
-### Matt Lafleur — 17/100
-
-**Event:** Matt Lafleur: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Matt Lafleur matt lafleur: trending now filings actually say — line by line — the other side of the fight
+> What the Alexander Zverev alexander zverev: vs rafael jodar: set 1 winner filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Josh Jacobs — 16/100
+### Rafael Jodar — 22/100
 
-**Event:** Josh Jacobs: news
+**Event:** Rafael Jodar: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 1 (-12 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Josh Jacobs josh jacobs: with josh jacobs sidelined, the case for kaleb johnson to lead the packers’ backfield - the athletic filings actually say — line by line — the other side of the fight
+> What the Rafael Jodar rafael jodar: alexander zverev vs rafael jodar: set 1 winner filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Andre Szmyt — 19/100
+
+**Event:** Andre Szmyt: Browns score vs. Ravens. Cleveland scores on Andre Szmyt field goal
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Andre Szmyt andre szmyt: browns score vs. texans. cleveland takes first lead of game on andre szmyt field goal filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
