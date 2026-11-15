@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2619 · Updated: 16/11/2026, 02:09:55 (Asia/Kolkata)
+Run #2620 · Updated: 16/11/2026, 02:39:43 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,63 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Ben Shelton — 13/100
+### Jordan Addison — 18/100
 
-**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+**Event:** Jordan Addison: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 2 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Shelton ben shelton: trending now filings actually say — line by line — the other side of the fight
+> What the Jordan Addison jordan addison: is out for vikings in green bay filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alexander Zverev — 18/100
+### Brandon Miller — 17/100
 
-**Event:** Alexander Zverev: trending now
+**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Alexander Zverev alexander zverev: vs rafael jodar: set 1 winner filings actually say — line by line — the other side of the fight
+> The Brandon Miller filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 10.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Rafael Jodar — 22/100
+### Brandon Ingram — 21/100
 
-**Event:** Rafael Jodar: trending now
+**Event:** Brandon Ingram: All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 18.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Rafael Jodar rafael jodar: alexander zverev vs rafael jodar: set 1 winner filings actually say — line by line — the other side of the fight
+> The Brandon Ingram filing that will matter in six months — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 18.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Andre Szmyt — 19/100
+### Jordan Love — 23/100
 
-**Event:** Andre Szmyt: Browns score vs. Ravens. Cleveland scores on Andre Szmyt field goal
+**Event:** Jordan Love: Pete Dougherty Packers mailbag | Readers weigh in on offensive line, Jordan Love
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Andre Szmyt andre szmyt: browns score vs. texans. cleveland takes first lead of game on andre szmyt field goal filings actually say — line by line — the other side of the fight
+> What the Jordan Love jordan love: , matthew golden, and christian watson's projected fantasy points in week 10 vs. vikings filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Matthew Golden — 19/100
+
+**Event:** Matthew Golden: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Matthew Golden matthew golden: jordan love, matthew golden, and christian watson's projected fantasy points in week 10 vs. vikings filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
