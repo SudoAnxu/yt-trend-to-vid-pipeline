@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2594 · Updated: 15/11/2026, 16:54:33 (Asia/Kolkata)
+Run #2595 · Updated: 15/11/2026, 17:08:41 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,25 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ron Howard — 24/100
-
-**Event:** Ron Howard: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (+9 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ron Howard story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 10 videos in last 6h · TTS ≈ 5.2h · sources: trends, news
-
-**Status:** BOOSTED
-
-### John Wick — 14/100
+### John Wick — 15/100
 
 **Event:** John Wick: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,7 +30,21 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jeffrey Epstein — 12/100
+### Ron Howard — 23/100
+
+**Event:** Ron Howard: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (-5 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 5.8h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Ron Howard story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 10 videos in last 6h · TTS ≈ 5.8h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Jeffrey Epstein — 13/100
 
 **Event:** Jeffrey Epstein: trending now
 
@@ -58,17 +58,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Lauren Boebert — 25/100
+### Lauren Boebert — 24/100
 
 **Event:** Lauren Boebert: in big fight to keep her seat in Congress in too-close-to-call race
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+0 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Lauren Boebert story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
 
 **Status:** KEPT
 
