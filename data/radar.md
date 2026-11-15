@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2613 · Updated: 16/11/2026, 00:43:53 (Asia/Kolkata)
+Run #2614 · Updated: 16/11/2026, 00:57:15 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### Aaron Jones — 22/100
+### Xavier Worthy — 22/100
+
+**Event:** Xavier Worthy: Injury Update: Chiefs WR Hurt in Fourth Quarter vs. Jets
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Xavier Worthy xavier worthy: will xavier worthy play today? injury news, update for chiefs wr filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Aaron Jones — 20/100
 
 **Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Aaron Jones story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+**Competition:** 12 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
 
 **Status:** ARCHIVED
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Jordan Mason: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Travis Hunter: Why are the Jaguars using CB/WR Travis Hunter sparingly?
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jerry Jeudy — 13/100
+### Jerry Jeudy — 14/100
 
 **Event:** Jerry Jeudy: has disappeared from Browns offense: Five teams that could trade for WR
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -76,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Aaron Nesmith: Pacers get good news on Aaron Nesmith, bad news on Andrew Nembhard ahead of 76ers game
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -90,29 +104,29 @@ Sources this run: trends(40)
 
 **Event:** Andrew Nembhard: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 15.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 17.1h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Andrew Nembhard filing that will matter in six months — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 15.6h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 17.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Malik Washington — 23/100
+### Thomas Prediction — 23/100
 
-**Event:** Malik Washington: trending now
+**Event:** Thomas Prediction: Green Bay vs St. Thomas Prediction, Odds & Best Bets Today – NCAAB, Nov. 8
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-19 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Malik Washington story is a proxy fight about something bigger — the other side of the fight
+> What the Thomas Prediction thomas prediction: green bay vs st. thomas prediction, odds & best bets today – ncaab, nov. 8 filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
