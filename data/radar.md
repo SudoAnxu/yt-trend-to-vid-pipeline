@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2607 · Updated: 15/11/2026, 22:21:44 (Asia/Kolkata)
+Run #2608 · Updated: 15/11/2026, 22:47:28 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,21 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Tim Hill — 22/100
+### Kirk Cousins — 21/100
 
-**Event:** Tim Hill: Yankees Re-Sign Tim Hill To One-Year Deal
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-13 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tim Hill tim hill: yankees re-sign tim hill to one-year deal filings actually say — line by line — the number behind the headline
+> The Kirk Cousins story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 13 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Barry Sanders — 17/100
+
+**Event:** Barry Sanders: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Barry Sanders barry sanders: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
