@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2627 · Updated: 16/11/2026, 05:21:06 (Asia/Kolkata)
+Run #2628 · Updated: 16/11/2026, 05:34:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jerry Jones — 25/100
+### Travis Etienne — 15/100
 
-**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
+**Event:** Travis Etienne: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 31 (+22 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jerry Jones jerry jones: cowboys staffer calls out jerry jones after 49ers fans take over at&t stadium filings actually say — line by line — the other side of the fight
+> What the Travis Etienne travis etienne: germie bernard or travis etienne filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Pablo Sandoval — 27/100
+### James Cook — 19/100
 
-**Event:** Pablo Sandoval: SF Giants legend Pablo Sandoval bids an emotional farewell to professional baseball
+**Event:** James Cook: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Pablo Sandoval pablo sandoval: sf giants legend pablo sandoval bids an emotional farewell to professional baseball filings actually say — line by line — the other side of the fight
+> What the James Cook james cook: iii erupts for a 74-yard rushing td filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Malik Mustapha — 16/100
+
+**Event:** Malik Mustapha: NFL’s old-school safeties love 49ers’ old-soul enforcer Malik Mustapha: ‘I get excited’
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Malik Mustapha malik mustapha: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
