@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2641 · Updated: 16/11/2026, 15:50:37 (Asia/Kolkata)
+Run #2642 · Updated: 16/11/2026, 17:26:44 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,121 +12,107 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Tim Holden — 26/100
+### Russell Brand — 15/100
 
-**Event:** Tim Holden: trending now
+**Event:** Russell Brand: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tim Holden tim holden: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Emma Watson — 19/100
-
-**Event:** Emma Watson: ‘Beauty and the Beast’ Star Emma Watson Resurfaces at Armani’s Star-Packed Chateau Marmont Bash
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-15 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Emma Watson emma watson: suffers brutal fall outside splashy celebrity party at la hot spot chateau marmont story is actually a money story — the other side of the fight
+> The Russell Brand russell brand: says he’s “not guilty” in message from prison read by his wife: “something strange is happening” story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Watson Makes Rare — 18/100
+### Russell Brand's — 16/100
 
-**Event:** Watson Makes Rare: Emma Watson Makes Rare Appearance at GQ Men of the Year Party in Chic Little Black Dress
+**Event:** Russell Brand's: Why Russell Brand's lawyers wanted his Katy Perry marriage left out of trial
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Watson Makes Rare watson makes rare: emma watson makes rare appearance at gq men of the year party in chic little black dress story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** RESEARCH
-
-### Cruz Says She — 19/100
-
-**Event:** Cruz Says She: Penélope Cruz Says She and Husband Javier Bardem are “Very Careful” About Choosing When to Work Together
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 26 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Cruz Says She cruz says she: penélope cruz says she and husband javier bardem are “very careful” about choosing when to work together filings actually say — line by line — the other side of the fight
+> The Russell Brand's russell brand's: wife speaks out after his 10-year prison sentence story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
 
-### Alexandra Daddario — 23/100
+### James Madison — 24/100
 
-**Event:** Alexandra Daddario: trending now
+**Event:** James Madison: How to watch James Madison vs Old Dominion: Live stream NCAA College Football, TV channel
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alexandra Daddario alexandra daddario: trending now filings actually say — line by line — the other side of the fight
+> What the James Madison james madison: mercyhurst vs james madison prediction, picks & odds | 15 nov 2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Alexandra Daddario's — 19/100
+### Peter Safran — 19/100
 
-**Event:** Alexandra Daddario's: 3 Best Movies To Watch On Disney+ This Weekend (#1 Is Alexandra Daddario's Action Fantasy Epic)
+**Event:** Peter Safran: James Gunn, Peter Safran Fired at DC Studios; Jeremy Latcham Replaces
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Alexandra Daddario's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Christopher Walken — 19/100
-
-**Event:** Christopher Walken: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+6 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Christopher Walken christopher walken: taylor kitsch, alexandra daddario, christopher walken cast in 'robber' filings actually say — line by line — the other side of the fight
+> What the Peter Safran peter safran: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 23 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Josh Actor — 22/100
+### Jeremy Latcham — 13/100
 
-**Event:** Josh Actor: Sonu Sood Meets Sharad Kapoor After Josh Actor Appeals For Financial Help In Viral Video
+**Event:** Jeremy Latcham: DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 11 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 13 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Josh Actor josh actor: sonu sood meets sharad kapoor after josh actor appeals for financial help in viral video story is actually a money story — the other side of the fight
+> The Jeremy Latcham jeremy latcham: dc in flux again: jeremy latcham takes over james gunn's universe of gods and monsters | analysis story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 14 videos in last 6h · TTS ≈ 5.6h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### James Gunn's — 12/100
+
+**Event:** James Gunn's: Chris Pratt Officially Addresses Star-Lord Return Amid James Gunn's DC Departure
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The James Gunn's james gunn's: dc in flux again: jeremy latcham takes over james gunn's universe of gods and monsters | analysis story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** ARCHIVED
+
+### James Gunn — 18/100
+
+**Event:** James Gunn: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the James Gunn james gunn: dc studios shakeup: james gunn & peter safran out, former marvel exec jeremy latcham in filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
