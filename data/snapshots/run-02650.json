@@ -1,0 +1,51 @@
+{
+  "runNo": 2650,
+  "at": "2026-11-16T17:16:29.110Z",
+  "rows": [
+    {
+      "event": "story-sam-elliott",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-bradley-whitford",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-ferrell",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-urker",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-urker-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-rose-blanchard",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 2,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
