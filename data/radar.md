@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2650 · Updated: 16/11/2026, 22:46:30 (Asia/Kolkata)
+Run #2651 · Updated: 16/11/2026, 23:30:58 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,93 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Sam Elliott — 20/100
+### Trump Says He's — 22/100
+
+**Event:** Trump Says He's: Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign
+
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Trump Says He's trump says he's: trump says he’s open to reinstatement of jensen huang as nvidia chief filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Rose Blanchard — 17/100
+
+**Event:** Rose Blanchard: Ken Urker, Partner of Gypsy Rose Blanchard, Is Found Dead in Louisiana
+
+**Why now:** 2 source lane(s): news, trends · momentum 4 (+2 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rose Blanchard rose blanchard: gypsy rose blanchard breaks down in tears during first live interview after partner ken urker’s death filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Ken Urker — 18/100
+
+**Event:** Ken Urker: cause of death update: How did Gypsy Rose Blanchard's fiance die? Latest details after demise at 33 | Hindusta
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Ken Urker ken urker: cause of death released filings actually say — line by line — the other side of the fight
+
+**Competition:** 22 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Rose Blanchard's — 16/100
+
+**Event:** Rose Blanchard's: Gypsy Rose Blanchard's partner found dead in apparent drug-related incident
+
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rose Blanchard's rose blanchard's: cause of death released for gypsy rose blanchard's partner, ken urker filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Sam Elliott — 17/100
 
 **Event:** Sam Elliott: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Sam Elliott sam elliott: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Bradley Whitford — 21/100
-
-**Event:** Bradley Whitford: The West Wing Revival TV Show Gets Exciting Tease From Star Bradley Whitford
-
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Bradley Whitford story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Will Ferrell — 14/100
-
-**Event:** Will Ferrell: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Will Ferrell story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ken Urker — 13/100
-
-**Event:** Ken Urker: cause of death update: How did Gypsy Rose Blanchard's fiance die? Latest details after demise at 33 | Hindusta
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Ken Urker ken urker: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ken Urker's — 18/100
-
-**Event:** Ken Urker's: Gypsy Rose Blanchard Addresses Relationship With Ken Urker’s Sister
-
-**Why now:** 1 source lane(s): news · momentum 25 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ken Urker's ken urker's: gypsy-rose blanchard’s ex-fiancé ken urker’s cause of death revealed after his death at 34 filings actually say — line by line — the other side of the fight
-
-**Competition:** 18 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Rose Blanchard — 14/100
-
-**Event:** Rose Blanchard: Ken Urker, Partner of Gypsy Rose Blanchard, Is Found Dead in Louisiana
-
-**Why now:** 2 source lane(s): news, trends · momentum 2 (-18 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Rose Blanchard rose blanchard: gypsy rose blanchard speaks out in first interview about partner's death filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
