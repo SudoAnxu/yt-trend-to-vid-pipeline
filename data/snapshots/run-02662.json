@@ -1,0 +1,23 @@
+{
+  "runNo": 2662,
+  "at": "2026-11-16T22:59:29.170Z",
+  "rows": [
+    {
+      "event": "story-aidan-hutchinson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-aidan-hutchinson-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
