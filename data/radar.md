@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2645 · Updated: 16/11/2026, 18:50:58 (Asia/Kolkata)
+Run #2646 · Updated: 16/11/2026, 19:26:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,145 +16,145 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jeremy Latcham — 13/100
+### Bryan Cranston — 22/100
 
-**Event:** Jeremy Latcham: DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era
+**Event:** Bryan Cranston: Reacts to Breaking Bad Being Named the No. 1 Television Show of the 21st Century (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 29 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jeremy Latcham jeremy latcham: dc in flux again: jeremy latcham takes over james gunn's universe of gods and monsters | analysis story is actually a money story — the other side of the fight
+> What the Bryan Cranston bryan cranston: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 14 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### James Gunn's — 12/100
+### Aaron Paul — 17/100
 
-**Event:** James Gunn's: Chris Pratt Officially Addresses Star-Lord Return Amid James Gunn's DC Departure
+**Event:** Aaron Paul: 'Breaking Bad’ Star Aaron Paul Sells Historic L.A. Home for $7.5 Million—After Moving His Family to Paris
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The James Gunn's james gunn's: dc in flux again: jeremy latcham takes over james gunn's universe of gods and monsters | analysis story is actually a money story — the other side of the fight
+> What the Aaron Paul aaron paul: bryan cranston & aaron paul reunite for new breaking bad release 13 years after finale filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Latcham Takes Over — 18/100
+### Ben Shelton — 13/100
 
-**Event:** Latcham Takes Over: DC in Flux Again: Jeremy Latcham Takes Over James Gunn's Universe of Gods and Monsters | Analysis
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 5 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Latcham Takes Over latcham takes over: dc in flux again: jeremy latcham takes over james gunn's universe of gods and monsters | analysis story is actually a money story — the other side of the fight
+> The Ben Shelton ben shelton: , alexander zverev prevail on first day of atp finals story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Alexander Zverev — 14/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Zverev alexander zverev: ben shelton, alexander zverev prevail on first day of atp finals story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Greg Abel — 34/100
+
+**Event:** Greg Abel: Warren Buffett's Successor, Greg Abel, Just Dropped a $426 Million Bombshell on Wall Street
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Greg Abel greg abel: warren buffett's successor, greg abel, just dropped a $426 million bombshell on wall street filings actually say — line by line — the number behind the headline
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### James Gunn — 19/100
+### Warren Buffett's — 23/100
 
-**Event:** James Gunn: trending now
+**Event:** Warren Buffett's: classic advice to 99% of investors is still paying off
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-3 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the James Gunn james gunn: dc studios shakeup: james gunn & peter safran out, former marvel exec jeremy latcham in filings actually say — line by line — the other side of the fight
+> What the Warren Buffett's warren buffett's: successor, greg abel, just dropped a $426 million bombshell on wall street filings actually say — line by line — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Peter Safran — 17/100
+### Carlos Alcaraz — 26/100
 
-**Event:** Peter Safran: James Gunn, Peter Safran Fired at DC Studios; Jeremy Latcham Replaces
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+16 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Peter Safran peter safran: dc studios shakeup: james gunn & peter safran out, former marvel exec jeremy latcham in filings actually say — line by line — the other side of the fight
+> The Carlos Alcaraz story is a proxy fight about something bigger — what happens next
 
-**Competition:** 23 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ethan Hawke — 16/100
+### Amy Poehler — 30/100
 
-**Event:** Ethan Hawke: Explains Why It’s Important to ‘Have a Backbone’ If ‘You’re Going to Be in the Public Sphere’ (Exclusive)
+**Event:** Amy Poehler: shares shocking story about 'improvising'
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ethan Hawke ethan hawke: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Lee Jones — 15/100
-
-**Event:** Lee Jones: tommy lee jones
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 7 · risk 64 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Lee Jones lee jones: tommy lee jones couldn’t care less about his legacy filings actually say — line by line — the other side of the fight
+> The Amy Poehler amy poehler: shares shocking story about 'improvising' story is actually a money story — the part that was not supposed to be public
 
-**Competition:** 6 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### James Bond — 21/100
-
-**Event:** James Bond: jack lowden james bond
-
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+10 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The James Bond story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kate Middleton — 16/100
-
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kate Middleton kate middleton: and prince william arrive in india for first joint overseas royal tour in 4 years filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Depardieu Drops Appeal — 23/100
-
-**Event:** Depardieu Drops Appeal: Gérard Depardieu Drops Appeal Against Sexual Assault Verdict & Acknowledges Guilt In Statement Titled ‘I Hear’
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Depardieu Drops Appeal depardieu drops appeal: gérard depardieu drops appeal against sexual assault verdict & acknowledges guilt in statement titled ‘i hear’ story is actually a money story — the part that was not supposed to be public
-
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Nathan Fielder — 19/100
+
+**Event:** Nathan Fielder: ‘You Can See Everything’ Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates H
+
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Nathan Fielder story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 19 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Billy Evans — 19/100
+
+**Event:** Billy Evans: Nathan Fielder Questions Elizabeth Holmes, Billy Evans in ‘You Can See Everything’ Trailer
+
+**Why now:** 1 source lane(s): news · momentum 13 (-19 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Billy Evans billy evans: , in first interview, tells his side of "you can see everything," its portrayal of elizabeth holmes filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
