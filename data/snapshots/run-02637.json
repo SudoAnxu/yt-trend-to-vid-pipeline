@@ -1,0 +1,72 @@
+{
+  "runNo": 2637,
+  "at": "2026-11-16T07:44:39.650Z",
+  "rows": [
+    {
+      "event": "story-will-it",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-altmaier",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-fallon",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean-duffy",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-julia-garner",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-lopez",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-mackie",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-affleck",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-lopez-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
