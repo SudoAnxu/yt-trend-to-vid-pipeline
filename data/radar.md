@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2644 · Updated: 16/11/2026, 18:34:29 (Asia/Kolkata)
+Run #2645 · Updated: 16/11/2026, 18:50:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (9)
+## ⚫ ARCHIVED (10)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jeremy Latcham: DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era
 
-**Why now:** 1 source lane(s): news · momentum 14 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** James Gunn's: Chris Pratt Officially Addresses Star-Lord Return Amid James Gunn's DC Departure
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +44,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
+### Latcham Takes Over — 18/100
+
+**Event:** Latcham Takes Over: DC in Flux Again: Jeremy Latcham Takes Over James Gunn's Universe of Gods and Monsters | Analysis
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Latcham Takes Over latcham takes over: dc in flux again: jeremy latcham takes over james gunn's universe of gods and monsters | analysis story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
 ### James Gunn — 19/100
 
 **Event:** James Gunn: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Peter Safran: James Gunn, Peter Safran Fired at DC Studios; Jeremy Latcham Replaces
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-7 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -76,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Ethan Hawke: Explains Why It’s Important to ‘Have a Backbone’ If ‘You’re Going to Be in the Public Sphere’ (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -90,7 +104,7 @@ Sources this run: trends(40)
 
 **Event:** Lee Jones: tommy lee jones
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -100,11 +114,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### James Bond — 17/100
+### James Bond — 21/100
 
 **Event:** James Bond: jack lowden james bond
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-10 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+10 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -118,7 +132,7 @@ Sources this run: trends(40)
 
 **Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -128,19 +142,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Ryan Clark — 18/100
+### Depardieu Drops Appeal — 23/100
 
-**Event:** Ryan Clark: again accuses ESPN of leaking his firing to OutKick: Here’s the real story
+**Event:** Depardieu Drops Appeal: Gérard Depardieu Drops Appeal Against Sexual Assault Verdict & Acknowledges Guilt In Statement Titled ‘I Hear’
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Clark ryan clark: ‘no way’ - ryan clark sounds off arch manning’s chances of being a first-round pick despite game-winning play  filings actually say — line by line — the other side of the fight
+> The Depardieu Drops Appeal depardieu drops appeal: gérard depardieu drops appeal against sexual assault verdict & acknowledges guilt in statement titled ‘i hear’ story is actually a money story — the part that was not supposed to be public
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

@@ -1,0 +1,79 @@
+{
+  "runNo": 2645,
+  "at": "2026-11-16T13:20:57.089Z",
+  "rows": [
+    {
+      "event": "story-jeremy-latcham",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-gunn-s",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-latcham-takes-over",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-james-gunn",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-peter-safran",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-hawke",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-lee-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-bond",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-kate-middleton",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-depardieu-drops-appeal",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
