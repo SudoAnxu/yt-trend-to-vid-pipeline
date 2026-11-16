@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2628 · Updated: 16/11/2026, 05:34:25 (Asia/Kolkata)
+Run #2629 · Updated: 16/11/2026, 06:24:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Travis Etienne — 15/100
+### Bruce Arians — 21/100
 
-**Event:** Travis Etienne: trending now
+**Event:** Bruce Arians: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Travis Etienne travis etienne: germie bernard or travis etienne filings actually say — line by line — the other side of the fight
+> The Bruce Arians bruce arians: does not anticipate future nfl hc opportunity story is actually a money story — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Mark Carney — 17/100
+
+**Event:** Mark Carney: seeks closer Turkey ties. Will Trump object? Should Canada?
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mark Carney mark carney: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### James Cook — 19/100
+### John Lynch — 19/100
 
-**Event:** James Cook: trending now
+**Event:** John Lynch: details why Mike Evans likely will miss 49ers' Week 9 game vs Raiders
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the James Cook james cook: iii erupts for a 74-yard rushing td filings actually say — line by line — the other side of the fight
+> The John Lynch john lynch: 49ers executive john lynch has alarming comment about rampant fighting with raiders fans story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 7.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Malik Mustapha — 16/100
+### Austin Reaves — 20/100
 
-**Event:** Malik Mustapha: NFL’s old-school safeties love 49ers’ old-soul enforcer Malik Mustapha: ‘I get excited’
+**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Malik Mustapha malik mustapha: trending now filings actually say — line by line — the other side of the fight
+> The Austin Reaves austin reaves: ‘i’ve looked at the list’: skip bayless has just made a bold claim about lakers star austin reaves story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
 
 **Status:** ARCHIVED
 
