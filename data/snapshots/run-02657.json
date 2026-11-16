@@ -1,0 +1,23 @@
+{
+  "runNo": 2657,
+  "at": "2026-11-16T20:49:28.367Z",
+  "rows": [
+    {
+      "event": "story-thomas-tuchel",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
