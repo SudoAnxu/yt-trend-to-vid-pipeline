@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2653 · Updated: 17/11/2026, 00:28:31 (Asia/Kolkata)
+Run #2654 · Updated: 17/11/2026, 01:14:17 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Summit — 25/100
+### Warren Buffett — 26/100
 
-**Event:** John Summit: Calls Out the Grammys After Receiving No Nominations
+**Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-9 vs prev run) · spice 13 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+10 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The John Summit john summit: calls out the grammys after receiving no nominations story is actually a money story — the other side of the fight
+> What the Warren Buffett warren buffett: donates $5.5 billion, says kindness 'compounds' in thanksgiving letter filings actually say — line by line — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
