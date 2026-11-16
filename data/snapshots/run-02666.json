@@ -1,0 +1,16 @@
+{
+  "runNo": 2666,
+  "at": "2026-11-16T23:48:19.816Z",
+  "rows": [
+    {
+      "event": "story-brian-poindexter",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
