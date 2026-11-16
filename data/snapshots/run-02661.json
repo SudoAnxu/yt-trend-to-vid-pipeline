@@ -1,0 +1,16 @@
+{
+  "runNo": 2661,
+  "at": "2026-11-16T22:43:19.111Z",
+  "rows": [
+    {
+      "event": "story-david-njoku",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
