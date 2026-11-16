@@ -1,0 +1,16 @@
+{
+  "runNo": 2659,
+  "at": "2026-11-16T21:24:38.300Z",
+  "rows": [
+    {
+      "event": "story-brian-navarreto",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
