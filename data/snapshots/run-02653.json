@@ -1,0 +1,16 @@
+{
+  "runNo": 2653,
+  "at": "2026-11-16T18:58:30.447Z",
+  "rows": [
+    {
+      "event": "story-john-summit",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

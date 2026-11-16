@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2652 · Updated: 17/11/2026, 00:18:40 (Asia/Kolkata)
+Run #2653 · Updated: 17/11/2026, 00:28:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### John Summit — 31/100
+### John Summit — 25/100
 
 **Event:** John Summit: Calls Out the Grammys After Receiving No Nominations
 
-**Why now:** 2 source lane(s): trends, news · momentum 37 (+0 vs prev run) · spice 13 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-9 vs prev run) · spice 13 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The John Summit john summit: calls out the grammys after receiving no nominations story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
