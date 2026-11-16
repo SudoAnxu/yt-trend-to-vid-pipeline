@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2635 · Updated: 16/11/2026, 10:25:34 (Asia/Kolkata)
+Run #2636 · Updated: 16/11/2026, 12:23:19 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,79 +12,121 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### Officially Returns With — 15/100
+### Jimmy Fallon — 18/100
 
-**Event:** Officially Returns With: Netflix's 4-Part House Of Cards Replacement Thriller Officially Returns With New Episodes This Week
+**Event:** Jimmy Fallon: Late-night host Jimmy Fallon releasing 2 baseball children's books
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 26 (+18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Officially Returns With officially returns with: critical role’s the mighty nein officially returns with new episodes in 4 months filings actually say — line by line — the other side of the fight
+> The Jimmy Fallon story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.9h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Mason Rudolph — 33/100
+### Sean Duffy — 19/100
 
-**Event:** Mason Rudolph: Steelers' Aaron Rodgers replaced by Mason Rudolph vs Bengals on SNF
+**Event:** Sean Duffy: Jimmy Fallon Gets a Sunday-Night Head Start on Sean Duffy Jokes
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 9 · risk 64 · external momentum 36 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Mason Rudolph mason rudolph: steelers' aaron rodgers replaced by mason rudolph vs bengals on snf filings actually say — line by line — the other side of the fight
+> The Sean Duffy story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
-### Aaron Rodgers' — 21/100
+### Julia Garner — 18/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** Julia Garner: "The Altruists" actor Julia Garner on surprising herself
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+11 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Aaron Rodgers' aaron rodgers': steelers' aaron rodgers replaced by mason rudolph vs bengals on snf filings actually say — line by line — the other side of the fight
+> The Julia Garner story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Mike Tomlin — 18/100
+### Jennifer Lopez — 13/100
 
-**Event:** Mike Tomlin: Shows Off Minecraft City in New Video After Former Steelers HC's Viral Comments
+**Event:** Jennifer Lopez: Ben Affleck makes surprising Jennifer Lopez confession two years after their divorce
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mike Tomlin mike tomlin: revisits myles garrett and steelers’ mason rudolph incident with wild remark filings actually say — line by line — the other side of the fight
+> What the Jennifer Lopez jennifer lopez: 'healthy' jennifer lopez says ‘i can do whatever i want’ after ben affleck split filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Will Howard — 25/100
+### Ben Affleck — 14/100
 
-**Event:** Will Howard: trending now
+**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Will Howard will howard: trending now story is actually a money story — the other side of the fight
+> What the Ben Affleck ben affleck: 'healthy' jennifer lopez says ‘i can do whatever i want’ after ben affleck split filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Glenn Close — 16/100
+
+**Event:** Glenn Close: Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close
+
+**Why now:** 1 source lane(s): news · momentum 10 (-18 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Glenn Close story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 23 videos in last 6h · TTS ≈ 4.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Anthony Mackie — 13/100
+
+**Event:** Anthony Mackie: Avengers Star Anthony Mackie Says He'll Film Secret Wars When He's Done on Broadway Playing Macbeth — a Run Th
+
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Anthony Mackie anthony mackie: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Andrew Garfield — 18/100
+
+**Event:** Andrew Garfield: Luca Guadagnino's 'Artificial' Red Carpet Premiere Photos: Andrew Garfield, Jason Schwartzman, Billie Lourd, I
+
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-7 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Andrew Garfield story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
