@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2654 · Updated: 17/11/2026, 01:14:17 (Asia/Kolkata)
+Run #2655 · Updated: 17/11/2026, 01:33:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Warren Buffett — 26/100
+### Warren Buffett — 23/100
 
 **Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+10 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-7 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
