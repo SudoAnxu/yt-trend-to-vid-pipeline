@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2629 · Updated: 16/11/2026, 06:24:50 (Asia/Kolkata)
+Run #2630 · Updated: 16/11/2026, 06:48:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,61 +16,61 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Bruce Arians — 21/100
+### Kirk Cousins — 18/100
 
-**Event:** Bruce Arians: trending now
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Bruce Arians bruce arians: does not anticipate future nfl hc opportunity story is actually a money story — the other side of the fight
+> What the Kirk Cousins kirk cousins: wife filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Kirk Cousins' — 19/100
+
+**Event:** Kirk Cousins': 2026 NFL Week 10 Best Bets, Expert Picks: Back Vikings in Kirk Cousins’ Return
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Kirk Cousins' story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 
-### Mark Carney — 17/100
+### Anthony Davis — 19/100
 
-**Event:** Mark Carney: seeks closer Turkey ties. Will Trump object? Should Canada?
+**Event:** Anthony Davis: New Anthony Davis Rumors on Desire for New Contract After Offseason Trade Buzz
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mark Carney mark carney: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### John Lynch — 19/100
-
-**Event:** John Lynch: details why Mike Evans likely will miss 49ers' Week 9 game vs Raiders
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The John Lynch john lynch: 49ers executive john lynch has alarming comment about rampant fighting with raiders fans story is actually a money story — the other side of the fight
+> The Anthony Davis story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 7.3h · sources: news, trends
+**Competition:** 18 videos in last 6h · TTS ≈ 7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Austin Reaves — 20/100
+### Anthony Davis' — 19/100
 
-**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
+**Event:** Anthony Davis': Anthony Davis’ 44 points upstaged by Wizards’ woes: ‘It’s everything right now’ - The Athletic
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Austin Reaves austin reaves: ‘i’ve looked at the list’: skip bayless has just made a bold claim about lakers star austin reaves story is actually a money story — the other side of the fight
+> The Anthony Davis' anthony davis': anthony davis’ future in washington faces growing uncertainty story is actually a money story — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
