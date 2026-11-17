@@ -1,0 +1,23 @@
+{
+  "runNo": 2690,
+  "at": "2026-11-17T12:20:55.567Z",
+  "rows": [
+    {
+      "event": "story-jon-scheyer",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-malone",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
