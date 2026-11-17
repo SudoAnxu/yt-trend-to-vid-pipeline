@@ -1,0 +1,23 @@
+{
+  "runNo": 2673,
+  "at": "2026-11-17T02:10:57.000Z",
+  "rows": [
+    {
+      "event": "story-ryan-conwell",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-cenac",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
