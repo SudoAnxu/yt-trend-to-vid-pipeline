@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2696 · Updated: 17/11/2026, 21:51:45 (Asia/Kolkata)
+Run #2697 · Updated: 17/11/2026, 22:06:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Tim Hill — 17/100
-
-**Event:** Tim Hill: Yankees Re-Sign Tim Hill To One-Year Deal
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Tim Hill tim hill: sf giants news: missing out on tim hill, 1 of many teams in on dustin may filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 13 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
