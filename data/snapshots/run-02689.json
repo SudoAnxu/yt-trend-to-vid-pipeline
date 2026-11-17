@@ -1,0 +1,30 @@
+{
+  "runNo": 2689,
+  "at": "2026-11-17T11:18:33.244Z",
+  "rows": [
+    {
+      "event": "story-andrew-scott",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-mackie",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-tennant-s",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
