@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2714 · Updated: 18/11/2026, 04:34:23 (Asia/Kolkata)
+Run #2715 · Updated: 18/11/2026, 04:45:32 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Will Win — 20/100
+### Jessica Chastain — 18/100
 
-**Event:** Will Win: Experts Predict: Who Will Win Laver Cup London 2026?
+**Event:** Jessica Chastain: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will Win story is a proxy fight about something bigger — the other side of the fight
+> The Jessica Chastain jessica chastain: 2026 cma awards: jessica chastain, glen powell, vince gill among presenters story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>

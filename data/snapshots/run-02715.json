@@ -1,0 +1,16 @@
+{
+  "runNo": 2715,
+  "at": "2026-11-17T23:15:31.806Z",
+  "rows": [
+    {
+      "event": "story-jessica-chastain",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
