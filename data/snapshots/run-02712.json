@@ -1,0 +1,8 @@
+{
+  "runNo": 2712,
+  "at": "2026-11-17T22:31:11.581Z",
+  "rows": [],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

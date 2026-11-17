@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2711 · Updated: 18/11/2026, 03:29:16 (Asia/Kolkata)
+Run #2712 · Updated: 18/11/2026, 04:01:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Ryan Jeffers — 22/100
-
-**Event:** Ryan Jeffers: accepts $23.15 million qualifying offer, will return to Twins in 2027
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ryan Jeffers filing that will matter in six months — the number behind the headline
-
-**Competition:** 5 videos in last 6h · TTS ≈ 12h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
