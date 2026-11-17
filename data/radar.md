@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2702 · Updated: 18/11/2026, 00:11:08 (Asia/Kolkata)
+Run #2703 · Updated: 18/11/2026, 00:29:30 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Kate Middleton — 16/100
+### Brian Schottenheimer — 14/100
 
-**Event:** Kate Middleton: Goes Full Movie Star Mode for a Night With Tom Cruise
+**Event:** Brian Schottenheimer: OK with Cowboys' players-only meeting panned by Mike Tomlin
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Kate Middleton situation is weirder than the clips suggest — the other side of the fight
+> What the Brian Schottenheimer brian schottenheimer: , cowboys 'taking a deep dive, looking at everything' on defense filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** KEPT
+
+### Kyle Shanahan — 16/100
+
+**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Kyle Shanahan kyle shanahan: on 49ers’ defensive effort in dallas: ‘the tape tells a different story’ filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 

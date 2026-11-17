@@ -1,0 +1,23 @@
+{
+  "runNo": 2703,
+  "at": "2026-11-17T18:59:30.020Z",
+  "rows": [
+    {
+      "event": "story-brian-schottenheimer",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-shanahan",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
