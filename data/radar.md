@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2704 · Updated: 18/11/2026, 00:45:07 (Asia/Kolkata)
+Run #2705 · Updated: 18/11/2026, 01:08:30 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Chris Pratt — 13/100
+### Hayden Panettiere — 13/100
 
-**Event:** Chris Pratt: Says Marvel Has Taken “Hard Action” To Bring Star-Lord Back: “He’s Not Going Anywhere” [Interview]
+**Event:** Hayden Panettiere: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Chris Pratt chris pratt: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Chris Pratt's — 19/100
-
-**Event:** Chris Pratt's: Inside Chris Pratt's 'Terminal List' fight with real Navy SEAL Jack Carr
-
-**Why now:** 1 source lane(s): news · momentum 12 (-11 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Chris Pratt's chris pratt's: prime video officially decides the fate of chris pratt's 'the terminal list' after season 2 filings actually say — line by line — the other side of the fight
+> What the Hayden Panettiere hayden panettiere: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Hayden Panettiere's — 23/100
+
+**Event:** Hayden Panettiere's: ex-fiance files petition over daughter's estate
+
+**Why now:** 1 source lane(s): news · momentum 20 (-2 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Hayden Panettiere's hayden panettiere's: mom blames star's ex, brian hickerson, for her death story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.1h · sources: news
+
+**Status:** ARCHIVED
+
+### Brian Hickerson — 30/100
+
+**Event:** Brian Hickerson: Hayden Panettiere’s mom speaks out again in new interview, blames actress’ ex Brian Hickerson for their estran
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Brian Hickerson brian hickerson: hayden panettiere’s mom speaks out again in new interview, blames actress’ ex brian hickerson for their estran story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
