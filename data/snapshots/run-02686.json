@@ -1,0 +1,16 @@
+{
+  "runNo": 2686,
+  "at": "2026-11-17T09:20:53.796Z",
+  "rows": [
+    {
+      "event": "story-sam-claflin",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

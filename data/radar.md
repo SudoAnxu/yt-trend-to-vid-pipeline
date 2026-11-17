@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2685 · Updated: 17/11/2026, 14:24:56 (Asia/Kolkata)
+Run #2686 · Updated: 17/11/2026, 14:50:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Sam Claflin — 23/100
+### Sam Claflin — 22/100
 
 **Event:** Sam Claflin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Sam Claflin sam claflin: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** RESEARCH
 
