@@ -1,0 +1,44 @@
+{
+  "runNo": 2682,
+  "at": "2026-11-17T05:10:52.971Z",
+  "rows": [
+    {
+      "event": "story-amy-poehler",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-rock",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-mackie",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-saleh",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-saleh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
