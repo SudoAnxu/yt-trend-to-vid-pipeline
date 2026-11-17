@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2684 · Updated: 17/11/2026, 13:41:27 (Asia/Kolkata)
+Run #2685 · Updated: 17/11/2026, 14:24:56 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jim Jordan — 13/100
+### Sam Claflin — 23/100
 
-**Event:** Jim Jordan: trending now
+**Event:** Sam Claflin: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jim Jordan jim jordan: has lesson for sherrod brown and other democrats | opinion filings actually say — line by line — the other side of the fight
+> What the Sam Claflin sam claflin: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

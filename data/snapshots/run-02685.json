@@ -1,0 +1,16 @@
+{
+  "runNo": 2685,
+  "at": "2026-11-17T08:54:55.780Z",
+  "rows": [
+    {
+      "event": "story-sam-claflin",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
