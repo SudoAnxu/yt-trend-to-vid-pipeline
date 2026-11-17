@@ -1,0 +1,16 @@
+{
+  "runNo": 2706,
+  "at": "2026-11-17T19:56:54.821Z",
+  "rows": [
+    {
+      "event": "story-alexis-bledel",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
