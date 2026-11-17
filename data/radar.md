@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2706 · Updated: 18/11/2026, 01:26:55 (Asia/Kolkata)
+Run #2707 · Updated: 18/11/2026, 01:42:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Alexis Bledel — 31/100
+### Alexander Zverev — 16/100
+
+**Event:** Alexander Zverev: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Alexander Zverev story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rafael Jodar — 19/100
+
+**Event:** Rafael Jodar: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Rafael Jodar story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Alexis Bledel — 24/100
 
 **Event:** Alexis Bledel: ‘Gilmore Girls’ star Alexis Bledel struggled with ‘grueling’ filming hours: ‘She didn’t want to be there’
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 5 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 

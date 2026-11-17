@@ -1,0 +1,30 @@
+{
+  "runNo": 2707,
+  "at": "2026-11-17T20:12:47.571Z",
+  "rows": [
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-rafael-jodar",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-alexis-bledel",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
