@@ -1,0 +1,30 @@
+{
+  "runNo": 2670,
+  "at": "2026-11-17T00:56:38.366Z",
+  "rows": [
+    {
+      "event": "story-james-comer",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-heughan",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-owens",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
