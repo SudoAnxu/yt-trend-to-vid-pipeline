@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2668 · Updated: 17/11/2026, 05:52:53 (Asia/Kolkata)
+Run #2669 · Updated: 17/11/2026, 06:13:17 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,9 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Luis Fernando — 19/100
+
+**Event:** Luis Fernando: Tena: "El Salvador tiene delanteros muy buenos y eso los hace peligrosos"
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Luis Fernando luis fernando: tena: "tenemos confianza y creemos en nuestras fuerzas" filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Jason Kelce — 18/100
+
+**Event:** Jason Kelce: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jason Kelce jason kelce: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jason Kelce's — 16/100
+
+**Event:** Jason Kelce's: Travis Kelce and Jason Kelce’s $200 million brand announces unusual wedding opportunity as the TE remains
+
+**Why now:** 1 source lane(s): news · momentum 18 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jason Kelce's jason kelce's: "this will be a rule": jason kelce's wife kylie confirms taking strict measures to protect their four daughter story is actually a money story — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 4.9h · sources: news
+
+**Status:** ARCHIVED
 
 ### Will Be — 21/100
 
@@ -27,76 +69,6 @@ Sources this run: trends(40)
 > What the Will Be will be: 4 blazers ruled out vs. wolves means depth chart will be tested filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Jack Nicklaus — 24/100
-
-**Event:** Jack Nicklaus: In 2025, After $50 Million Defamation Verdict, Jack Nicklaus Buys Back His Namesake Company
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jack Nicklaus jack nicklaus: in 2025, after $50 million defamation verdict, jack nicklaus buys back his namesake company filings actually say — line by line — the number behind the headline
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Nick Bosa — 19/100
-
-**Event:** Nick Bosa: injury
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Nick Bosa nick bosa: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.8h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kyle Shanahan — 18/100
-
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
-
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-9 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kyle Shanahan kyle shanahan: why nick bosa's sack-less season so far doesn't worry 49ers coach kyle shanahan filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 10 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jeffrey Epstein — 13/100
-
-**Event:** Jeffrey Epstein: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jeffrey Epstein jeffrey epstein: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Kevin Durant — 20/100
-
-**Event:** Kevin Durant: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Kevin Durant story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
