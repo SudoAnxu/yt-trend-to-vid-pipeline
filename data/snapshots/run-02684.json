@@ -1,0 +1,16 @@
+{
+  "runNo": 2684,
+  "at": "2026-11-17T08:11:27.013Z",
+  "rows": [
+    {
+      "event": "story-jim-jordan",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
