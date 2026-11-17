@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2693 · Updated: 17/11/2026, 19:36:06 (Asia/Kolkata)
+Run #2694 · Updated: 17/11/2026, 20:18:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Brittany Snow — 21/100
+### Brittany Snow — 20/100
 
 **Event:** Brittany Snow: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Brittany Snow's: Brittany Snow’s Disco Dress Brought a Healthy Dose of Sparkle to ‘The Hunting Wives’ Season Two Premiere
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,59 +44,31 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Rob Lowe — 25/100
+### Alexander Zverev — 15/100
 
-**Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Rob Lowe story is a proxy fight about something bigger — the other side of the fight
+> What the Alexander Zverev alexander zverev: resumen del alexander zverev - ben shelton filings actually say — line by line — the other side of the fight
 
-**Competition:** 22 videos in last 6h · TTS ≈ 7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ben Shapiro's — 19/100
+### Ben Shelton — 15/100
 
-**Event:** Ben Shapiro's: Crew Members on Ben Shapiro’s Pro-ICE Film Were Surprised by the Movie’s MAGA Politics. What Did They Deserve 
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ben Shapiro's story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** ARCHIVED
-
-### James Franco — 21/100
-
-**Event:** James Franco: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The James Franco story is a proxy fight about something bigger — the other side of the fight
+> What the Ben Shelton ben shelton: resumen del alexander zverev - ben shelton filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Carlos Alcaraz — 14/100
-
-**Event:** Carlos Alcaraz: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Carlos Alcaraz carlos alcaraz: and atp finals upstage wta in fashion flair story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
