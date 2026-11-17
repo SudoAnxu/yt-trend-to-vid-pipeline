@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2686 · Updated: 17/11/2026, 14:50:54 (Asia/Kolkata)
+Run #2687 · Updated: 17/11/2026, 15:28:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Sam Claflin — 22/100
+### Howard Lutnick — 19/100
 
-**Event:** Sam Claflin: trending now
+**Event:** Howard Lutnick: is one big problem for the Trump administration
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Sam Claflin sam claflin: trending now filings actually say — line by line — the other side of the fight
+> What the Howard Lutnick howard lutnick: is one big problem for the trump administration filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
