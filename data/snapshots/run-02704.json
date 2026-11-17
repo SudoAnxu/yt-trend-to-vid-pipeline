@@ -1,0 +1,23 @@
+{
+  "runNo": 2704,
+  "at": "2026-11-17T19:15:07.049Z",
+  "rows": [
+    {
+      "event": "story-chris-pratt",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-pratt-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

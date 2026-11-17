@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2703 · Updated: 18/11/2026, 00:29:30 (Asia/Kolkata)
+Run #2704 · Updated: 18/11/2026, 00:45:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Brian Schottenheimer — 14/100
+### Chris Pratt — 13/100
 
-**Event:** Brian Schottenheimer: OK with Cowboys' players-only meeting panned by Mike Tomlin
+**Event:** Chris Pratt: Says Marvel Has Taken “Hard Action” To Bring Star-Lord Back: “He’s Not Going Anywhere” [Interview]
 
-**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Brian Schottenheimer brian schottenheimer: , cowboys 'taking a deep dive, looking at everything' on defense filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** KEPT
-
-### Kyle Shanahan — 16/100
-
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kyle Shanahan kyle shanahan: on 49ers’ defensive effort in dallas: ‘the tape tells a different story’ filings actually say — line by line — the other side of the fight
+> What the Chris Pratt chris pratt: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Chris Pratt's — 19/100
+
+**Event:** Chris Pratt's: Inside Chris Pratt's 'Terminal List' fight with real Navy SEAL Jack Carr
+
+**Why now:** 1 source lane(s): news · momentum 12 (-11 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Chris Pratt's chris pratt's: prime video officially decides the fate of chris pratt's 'the terminal list' after season 2 filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 4.2h · sources: news
 
 **Status:** ARCHIVED
 
