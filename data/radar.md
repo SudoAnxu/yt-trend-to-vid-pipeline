@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2707 · Updated: 18/11/2026, 01:42:48 (Asia/Kolkata)
+Run #2708 · Updated: 18/11/2026, 02:40:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,49 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 16/100
+### Charles Bronson — 25/100
 
-**Event:** Alexander Zverev: trending now
+**Event:** Charles Bronson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Alexander Zverev story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Rafael Jodar — 19/100
-
-**Event:** Rafael Jodar: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Rafael Jodar story is a proxy fight about something bigger — the other side of the fight
+> The Charles Bronson charles bronson: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Alexis Bledel — 24/100
-
-**Event:** Alexis Bledel: ‘Gilmore Girls’ star Alexis Bledel struggled with ‘grueling’ filming hours: ‘She didn’t want to be there’
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 5 · risk 64 · external momentum 28 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Alexis Bledel story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** RESEARCH
 

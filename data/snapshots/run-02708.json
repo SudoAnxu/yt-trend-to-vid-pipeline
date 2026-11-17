@@ -1,0 +1,16 @@
+{
+  "runNo": 2708,
+  "at": "2026-11-17T21:10:49.934Z",
+  "rows": [
+    {
+      "event": "story-charles-bronson",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
