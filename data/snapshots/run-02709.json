@@ -1,0 +1,16 @@
+{
+  "runNo": 2709,
+  "at": "2026-11-17T21:29:15.462Z",
+  "rows": [
+    {
+      "event": "story-david-bednar",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
