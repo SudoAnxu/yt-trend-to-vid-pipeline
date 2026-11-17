@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2671 · Updated: 17/11/2026, 07:06:26 (Asia/Kolkata)
+Run #2672 · Updated: 17/11/2026, 07:29:19 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,51 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Cody Rhodes — 21/100
+### Ryan Conwell — 29/100
 
-**Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
+**Event:** Ryan Conwell: is proving to be Erik Spoelstra’s next hidden Heat gem
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Cody Rhodes situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Aidan Hutchinson — 20/100
-
-**Event:** Aidan Hutchinson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aidan Hutchinson aidan hutchinson: sources: lions' aidan hutchinson out for season with knee injury story is actually a money story — the other side of the fight
+> What the Ryan Conwell ryan conwell: is proving to be erik spoelstra’s next hidden heat gem filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Justin Herbert — 25/100
+### Author Explains — 20/100
 
-**Event:** Justin Herbert: could pass to his brother as Chargers elevate tight end Patrick Herbert
+**Event:** Author Explains: ‘Hunger Games’ Author Explains Why Haymitch Didn’t Tell Katniss and Peeta About His Rebellion
 
-**Why now:** 2 source lane(s): news, trends · momentum 32 (+21 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Herbert story is a proxy fight about something bigger — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Justin Herbert's — 17/100
-
-**Event:** Justin Herbert's: Younger Brother Added To Chargers Roster For Week 3
-
-**Why now:** 1 source lane(s): news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Justin Herbert's justin herbert's: 11 interceptions in eight games highlight the chargers' disastrous 0-win season filings actually say — line by line — the other side of the fight
+> The Author Explains author explains: ‘hunger games’ author explains why haymitch didn’t tell katniss and peeta about his rebellion story is actually a money story — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### John Harbaugh — 16/100
+### Chris Cenac — 19/100
 
-**Event:** John Harbaugh: After Jaxson Dart helped seal Giants recruitment of John Harbaugh, coach now faces bleak debut season
+**Event:** Chris Cenac: Celtics fans should be excited about Chris Cenac Jr.'s potential
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the John Harbaugh john harbaugh: trending now filings actually say — line by line — the other side of the fight
+> What the Chris Cenac chris cenac: celtics fans should be excited about chris cenac jr.'s potential filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
