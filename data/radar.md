@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2709 · Updated: 18/11/2026, 02:59:15 (Asia/Kolkata)
+Run #2710 · Updated: 18/11/2026, 03:22:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### David Bednar — 27/100
+### Ryan Jeffers — 23/100
 
-**Event:** David Bednar: Yankees' David Bednar, Twins' Ryan Jeffers accept qualifying offer, six others reject $23.15 million QO
+**Event:** Ryan Jeffers: accepts $23.15 million qualifying offer, will return to Twins in 2027
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the David Bednar david bednar: yankees' david bednar, twins' ryan jeffers accept qualifying offer, six others reject $23.15 million qo filings actually say — line by line — the number behind the headline
+> What the Ryan Jeffers ryan jeffers: accepts $23.15 million qualifying offer, will return to twins in 2027 filings actually say — line by line — the number behind the headline
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### David Bednar — 12/100
+
+**Event:** David Bednar: Yankees' David Bednar, Twins' Ryan Jeffers accept qualifying offer, six others reject $23.15 million QO
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the David Bednar david bednar: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 14 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

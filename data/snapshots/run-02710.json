@@ -1,0 +1,23 @@
+{
+  "runNo": 2710,
+  "at": "2026-11-17T21:52:46.726Z",
+  "rows": [
+    {
+      "event": "story-ryan-jeffers",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-bednar",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
