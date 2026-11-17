@@ -1,0 +1,16 @@
+{
+  "runNo": 2683,
+  "at": "2026-11-17T06:43:38.666Z",
+  "rows": [
+    {
+      "event": "story-nick-saban",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
