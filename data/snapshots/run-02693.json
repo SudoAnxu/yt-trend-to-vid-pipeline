@@ -1,0 +1,51 @@
+{
+  "runNo": 2693,
+  "at": "2026-11-17T14:06:05.871Z",
+  "rows": [
+    {
+      "event": "story-brittany-snow",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-brittany-snow-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-rob-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-shapiro-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-franco",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
