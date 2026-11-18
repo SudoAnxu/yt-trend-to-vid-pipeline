@@ -1,0 +1,16 @@
+{
+  "runNo": 2757,
+  "at": "2026-11-18T21:04:34.056Z",
+  "rows": [
+    {
+      "event": "story-milo-ventimiglia",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
