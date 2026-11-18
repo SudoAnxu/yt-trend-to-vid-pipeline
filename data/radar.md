@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2747 · Updated: 18/11/2026, 22:29:50 (Asia/Kolkata)
+Run #2748 · Updated: 18/11/2026, 22:58:25 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Katherine Clark — 23/100
+
+**Event:** Katherine Clark: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Katherine Clark katherine clark: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** KEPT
+
 ### Rachel Apa — 19/100
 
 **Event:** Rachel Apa: Father of Rachel Apa, NYC Marathon runner who died, calls her death "unfathomable"
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -30,47 +44,33 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jason Movie — 17/100
+### Kevin Feige — 16/100
 
-**Event:** Jason Movie: new jason movie
+**Event:** Kevin Feige: Avengers: Secret Wars Gets Game-Changing Kevin Feige Update 1 Month Before Doomsday
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · external momentum 11 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jason Movie story is a proxy fight about something bigger — the other side of the fight
+> What the Kevin Feige kevin feige: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends
+**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** RESEARCH
 
-### Will Release — 20/100
+### Jonathan Majors — 19/100
 
-**Event:** Will Release: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
+**Event:** Jonathan Majors: trending now
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will Release story is a proxy fight about something bigger — the other side of the fight
+> What the Jonathan Majors jonathan majors: kevin feige reveals marvel planned to use kang as a set-up for doctor doom in ‘avengers: the kang dynasty’ bef filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Jason Back — 21/100
-
-**Event:** Jason Back: Producer Robbie Barsamian Talks New ‘Friday the 13th’ Entry and Getting Jason Back on the Big Screen | Exclusi
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 5 · risk 64 · external momentum 17 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jason Back jason back: producer robbie barsamian talks new ‘friday the 13th’ entry and getting jason back on the big screen | exclusi filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
