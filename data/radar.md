@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2760 · Updated: 19/11/2026, 03:40:40 (Asia/Kolkata)
+Run #2761 · Updated: 19/11/2026, 03:57:52 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,9 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
+
+### Jason Michael — 26/100
+
+**Event:** Jason Michael: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jason Michael story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Philip Rivers — 15/100
+
+**Event:** Philip Rivers: NC State hiring Philip Rivers would be unconventional, but he might still be the right fit
+
+**Why now:** 2 source lane(s): news, trends · momentum 2 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Philip Rivers story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 16 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
