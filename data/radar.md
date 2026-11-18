@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2743 · Updated: 18/11/2026, 20:54:53 (Asia/Kolkata)
+Run #2744 · Updated: 18/11/2026, 21:24:00 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,43 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
-
-### Carlos Alcaraz — 16/100
-
-**Event:** Carlos Alcaraz: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-19 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Carlos Alcaraz carlos alcaraz: beats daniil medvedev in atp finals tennis group stage – as it happened story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jason Derulo — 23/100
-
-**Event:** Jason Derulo: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jason Derulo jason derulo: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
 
 ### Will Release — 19/100
 
 **Event:** Will Release: It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's th
 
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,31 +30,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Mike Pettine — 18/100
+### Carlos Alcaraz — 16/100
 
-**Event:** Mike Pettine: trending now
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mike Pettine mike pettine: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jerry Jones — 15/100
-
-**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-22 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jerry Jones jerry jones: cowboys 'talking about' adjustment to christian parker's role filings actually say — line by line — the other side of the fight
+> The Carlos Alcaraz carlos alcaraz: beats daniil medvedev in atp finals tennis group stage – as it happened story is actually a money story — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
