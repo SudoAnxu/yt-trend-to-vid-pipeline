@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2749 · Updated: 18/11/2026, 23:08:43 (Asia/Kolkata)
+Run #2750 · Updated: 18/11/2026, 23:45:08 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,65 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Katherine Clark — 22/100
+### Katherine Clark — 20/100
 
 **Event:** Katherine Clark: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Katherine Clark katherine clark: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** KEPT
 
-### Rachel Apa — 19/100
+### Joe Neguse — 19/100
 
-**Event:** Rachel Apa: Father of Rachel Apa, NYC Marathon runner who died, calls her death "unfathomable"
+**Event:** Joe Neguse: Katherine Clark, Pete Aguilar, Joe Neguse elected to House majority posts
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Rachel Apa rachel apa: father of rachel apa, nyc marathon runner who died, calls her death "unfathomable" filings actually say — line by line — the other side of the fight
+> What the Joe Neguse joe neguse: katherine clark, pete aguilar, joe neguse elected to house majority posts filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Kevin Feige — 16/100
+### Scott Drew — 18/100
 
-**Event:** Kevin Feige: Avengers: Secret Wars Gets Game-Changing Kevin Feige Update 1 Month Before Doomsday
+**Event:** Scott Drew: Baylor Basketball | Coach Scott Drew and Kayden Mingo speak after close loss against the UT
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kevin Feige kevin feige: trending now filings actually say — line by line — the other side of the fight
+> The Scott Drew scott drew: baylor basketball | coach scott drew and kayden mingo speak after close loss against the ut story is actually a money story — the other side of the fight
 
-**Competition:** 17 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
-
-### Jonathan Majors — 19/100
-
-**Event:** Jonathan Majors: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jonathan Majors jonathan majors: kevin feige reveals marvel planned to use kang as a set-up for doctor doom in ‘avengers: the kang dynasty’ bef filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
