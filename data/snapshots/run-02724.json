@@ -1,0 +1,23 @@
+{
+  "runNo": 2724,
+  "at": "2026-11-18T02:29:54.838Z",
+  "rows": [
+    {
+      "event": "story-connor-mcdavid",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
