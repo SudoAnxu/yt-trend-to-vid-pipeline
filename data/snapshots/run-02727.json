@@ -1,0 +1,23 @@
+{
+  "runNo": 2727,
+  "at": "2026-11-18T03:18:25.424Z",
+  "rows": [
+    {
+      "event": "story-austin-reaves",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-connor-bedard",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
