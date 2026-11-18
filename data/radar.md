@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2719 · Updated: 18/11/2026, 06:03:10 (Asia/Kolkata)
+Run #2720 · Updated: 18/11/2026, 06:42:30 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Simon Cowell — 20/100
+### John Wick — 18/100
 
-**Event:** Simon Cowell: trending now
+**Event:** John Wick: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (-15 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Simon Cowell story is a proxy fight about something bigger — the other side of the fight
+> The John Wick situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 6.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ron Holland — 23/100
+### Jason Statham's — 19/100
 
-**Event:** Ron Holland: Pistons Exercise 2027/28 Option On Ron Holland
+**Event:** Jason Statham's: 107-Minute "John Wick Meets Man on Fire" Action Thriller Is Being Pulled From Streaming
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ron Holland ron holland: pistons' duncan robinson (quad), ron holland ii (knee) out vs. spurs filings actually say — line by line — the other side of the fight
+> The Jason Statham's situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+
+**Status:** RESEARCH
+
+### Jason Statham — 13/100
+
+**Event:** Jason Statham: scott eastwood action movie
+
+**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jason Statham situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
