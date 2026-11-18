@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2763 · Updated: 19/11/2026, 04:16:03 (Asia/Kolkata)
+Run #2764 · Updated: 19/11/2026, 04:30:41 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(39)
 
@@ -16,25 +16,25 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Jason Michael — 19/100
+### Jason Michael — 17/100
 
 **Event:** Jason Michael: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Jason Michael story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Philip Rivers — 17/100
+### Philip Rivers — 19/100
 
 **Event:** Philip Rivers: NC State hiring Philip Rivers would be unconventional, but he might still be the right fit
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(39)
 
 **Event:** Mike Wise: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · external momentum 21 below 45 — watching, not striking
 
 **Recommended angle**
 

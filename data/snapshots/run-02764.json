@@ -1,0 +1,30 @@
+{
+  "runNo": 2764,
+  "at": "2026-11-18T23:00:39.601Z",
+  "rows": [
+    {
+      "event": "story-jason-michael",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-philip-rivers",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-wise",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 21,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
