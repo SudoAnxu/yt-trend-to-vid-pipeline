@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2741 · Updated: 18/11/2026, 19:09:51 (Asia/Kolkata)
+Run #2742 · Updated: 18/11/2026, 19:58:35 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,29 +12,71 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (9)
 
 <details><summary>show</summary>
+
+### Carlos Alcaraz — 24/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+17 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Carlos Alcaraz story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Emma Grede — 22/100
+
+**Event:** Emma Grede: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Emma Grede emma grede: amina muaddi talks to emma grede about her label, being her own boss filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Will Change — 22/100
+
+**Event:** Will Change: SNAP and Medicaid Will Change Dramatically in October: What to Know
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Will Change will change: opinion | the anthropic i.p.o. will change the future of a.i. filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 ### Glenn Close — 21/100
 
 **Event:** Glenn Close: Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-2 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Glenn Close glenn close: cries! john malkovich weeps! but it’s nathan fielder everyone wants to talk to at the honorary oscars filings actually say — line by line — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 23 videos in last 6h · TTS ≈ 3.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### John Malkovich — 19/100
+### John Malkovich — 20/100
 
 **Event:** John Malkovich: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,45 +100,45 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Will Change — 22/100
+### Scott Dedicates — 21/100
 
-**Event:** Will Change: SNAP and Medicaid Will Change Dramatically in October: What to Know
+**Event:** Scott Dedicates: Ridley Scott Dedicates His First Oscar to Late Brother, Top Gun Director Tony Scott, in Emotional Speech
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Will Change will change: opinion | the anthropic i.p.o. will change the future of a.i. filings actually say — line by line — the other side of the fight
+> What the Scott Dedicates scott dedicates: ridley scott dedicates his first oscar to late brother, top gun director tony scott, in emotional speech filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Connor Wood's — 23/100
+### Gun Director — 21/100
 
-**Event:** Connor Wood's: Connor Wood’s net worth, as the podcaster and comedian gets paid thousands for DWTS
+**Event:** Gun Director: Ridley Scott Dedicates His First Oscar to Late Brother, Top Gun Director Tony Scott, in Emotional Speech
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Connor Wood's connor wood's: connor wood’s net worth, as the podcaster and comedian gets paid thousands for dwts story is actually a money story — the number behind the headline
+> What the Gun Director gun director: ridley scott dedicates his first oscar to late brother, top gun director tony scott, in emotional speech filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Jason Eck — 17/100
+### Director Tony — 21/100
 
-**Event:** Jason Eck: trending now
+**Event:** Director Tony: Ridley Scott Dedicates His First Oscar to Late Brother, Top Gun Director Tony Scott, in Emotional Speech
 
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jason Eck jason eck: trending now filings actually say — line by line — the other side of the fight
+> What the Director Tony director tony: ridley scott dedicates his first oscar to late brother, top gun director tony scott, in emotional speech filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 

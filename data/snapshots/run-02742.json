@@ -1,0 +1,72 @@
+{
+  "runNo": 2742,
+  "at": "2026-11-18T14:28:33.799Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-emma-grede",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-change",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-glenn-close",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-malkovich",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-nathan-fielder",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-dedicates",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-gun-director",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-director-tony",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
