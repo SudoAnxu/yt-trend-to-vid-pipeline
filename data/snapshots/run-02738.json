@@ -1,0 +1,16 @@
+{
+  "runNo": 2738,
+  "at": "2026-11-18T12:07:43.549Z",
+  "rows": [
+    {
+      "event": "story-matt-olson",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
