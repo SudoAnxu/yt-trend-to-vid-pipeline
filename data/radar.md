@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2727 · Updated: 18/11/2026, 08:48:26 (Asia/Kolkata)
+Run #2728 · Updated: 18/11/2026, 09:18:11 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Austin Reaves — 22/100
+### Chris Finch — 22/100
 
-**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
+**Event:** Chris Finch: bluntly calls out Rudy Gobert after Wolves’ loss to Bulls
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-6 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Austin Reaves austin reaves: lakers rule austin reaves, walker kessler out vs. hornets filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Connor Bedard — 20/100
-
-**Event:** Connor Bedard: Blackhawks' Connor Bedard 'happy' to finally make season debut vs. Penguins
-
-**Why now:** 2 source lane(s): news, trends · momentum 17 (+0 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Connor Bedard connor bedard: une production digne de la fine élite malgré les blessures filings actually say — line by line — the number behind the headline
+> What the Chris Finch chris finch: found an unexpected fire in a key timberwolves backup filings actually say — line by line — the part that was not supposed to be public
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Paul Reed — 16/100
+
+**Event:** Paul Reed: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Paul Reed paul reed: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
