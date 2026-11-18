@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2766 · Updated: 19/11/2026, 04:59:05 (Asia/Kolkata)
+Run #2767 · Updated: 19/11/2026, 05:24:25 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### James Harden — 19/100
+### Thomas Jr. — 16/100
 
-**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
+**Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the James Harden james harden: grizzlies vs cavs score updates, cam boozer, james harden highlights filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Kyle Isbel — 21/100
-
-**Event:** Kyle Isbel: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kyle Isbel kyle isbel: trending now filings actually say — line by line — the other side of the fight
+> What the Thomas Jr. thomas jr.: how uh coach kelvin sampson found his next point guard in dedan thomas jr. with just a phone call filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
 
-**Status:** ARCHIVED
+**Status:** KEPT
+
+### Jack Nicklaus — 23/100
+
+**Event:** Jack Nicklaus: In 2025, After $50 Million Defamation Verdict, Jack Nicklaus Buys Back His Namesake Company
+
+**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jack Nicklaus story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
