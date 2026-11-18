@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2748 · Updated: 18/11/2026, 22:58:25 (Asia/Kolkata)
+Run #2749 · Updated: 18/11/2026, 23:08:43 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Katherine Clark — 23/100
+### Katherine Clark — 22/100
 
 **Event:** Katherine Clark: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Katherine Clark katherine clark: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** KEPT
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Rachel Apa: Father of Rachel Apa, NYC Marathon runner who died, calls her death "unfathomable"
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Kevin Feige: Avengers: Secret Wars Gets Game-Changing Kevin Feige Update 1 Month Before Doomsday
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Jonathan Majors: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
