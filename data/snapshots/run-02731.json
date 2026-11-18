@@ -1,0 +1,23 @@
+{
+  "runNo": 2731,
+  "at": "2026-11-18T06:01:11.254Z",
+  "rows": [
+    {
+      "event": "story-jordan-firstman",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-adams",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

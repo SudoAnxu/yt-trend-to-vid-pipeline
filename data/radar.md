@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2730 · Updated: 18/11/2026, 10:08:39 (Asia/Kolkata)
+Run #2731 · Updated: 18/11/2026, 11:31:12 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Brandon Miller — 16/100
+### Jordan Firstman — 22/100
 
-**Event:** Brandon Miller: NBA rumors, news roundup: Brandon Miller a $200 million man? No Anthony Black extension.
+**Event:** Jordan Firstman: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Brandon Miller brandon miller: struggles, clippers get hot as hornets lose again story is actually a money story — the other side of the fight
+> The Jordan Firstman jordan firstman: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Ryan Adams — 28/100
+
+**Event:** Ryan Adams: Singer Ryan Adams Engaged to Kate Farr After Whirlwind Romance, 30-Year Age Gap
+
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Ryan Adams ryan adams: singer ryan adams engaged to kate farr after whirlwind romance, 30-year age gap story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
