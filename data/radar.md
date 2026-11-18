@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2765 · Updated: 19/11/2026, 04:50:41 (Asia/Kolkata)
+Run #2766 · Updated: 19/11/2026, 04:59:05 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,19 +30,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kyle Isbel — 29/100
+### Kyle Isbel — 21/100
 
 **Event:** Kyle Isbel: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Kyle Isbel kyle isbel: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
