@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2722 · Updated: 18/11/2026, 07:13:47 (Asia/Kolkata)
+Run #2723 · Updated: 18/11/2026, 07:43:12 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,63 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### John Collins — 20/100
+### Anthony Edwards' — 21/100
 
-**Event:** John Collins: trending now
+**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the John Collins john collins: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Harry Shum — 21/100
-
-**Event:** Harry Shum: Who Is Harry Shum Jr.’s Wife? Inside the ‘Glee’ Actor’s Romance With Shelby Rabara
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+4 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Harry Shum story is a proxy fight about something bigger — the other side of the fight
+> What the Anthony Edwards' anthony edwards': timberwolves back on track despite anthony edwards’ absence filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Nate Oats — 19/100
+### Tobias Harris — 22/100
 
-**Event:** Nate Oats: Alabama coach Nate Oats reflects on time with Antoine Pettway before matchup with Kennesaw State
+**Event:** Tobias Harris: (calf) out Tuesday vs. Oklahoma City
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 28 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Nate Oats nate oats: alabama coach nate oats reflects on time with antoine pettway before matchup with kennesaw state filings actually say — line by line — the other side of the fight
+> The Tobias Harris tobias harris: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 6 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### David Mirkovic — 31/100
+
+**Event:** David Mirkovic: Brad Underwood’s update on David Mirkovic injury shows he is inching closer to an Illinois basketball return
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the David Mirkovic david mirkovic: brad underwood’s update on david mirkovic injury shows he is inching closer to an illinois basketball return filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Cody Williams — 21/100
+### Rudy Gobert — 24/100
 
-**Event:** Cody Williams: trending now
+**Event:** Rudy Gobert: corrals 15 rebounds vs. Miami
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+13 vs prev run) · spice 18 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Cody Williams story is a proxy fight about something bigger — the other side of the fight
+> The Rudy Gobert story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Chris Finch — 23/100
+
+**Event:** Chris Finch: bluntly calls out Rudy Gobert after Wolves’ loss to Bulls
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Chris Finch chris finch: bluntly calls out rudy gobert after wolves’ loss to bulls filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 

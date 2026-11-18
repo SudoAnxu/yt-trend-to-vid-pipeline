@@ -1,0 +1,44 @@
+{
+  "runNo": 2723,
+  "at": "2026-11-18T02:13:11.063Z",
+  "rows": [
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-tobias-harris",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-mirkovic",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-rudy-gobert",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-finch",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
