@@ -1,0 +1,23 @@
+{
+  "runNo": 2721,
+  "at": "2026-11-18T01:24:24.889Z",
+  "rows": [
+    {
+      "event": "story-harry-shum",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-xavier-basketball",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

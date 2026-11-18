@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2720 · Updated: 18/11/2026, 06:42:30 (Asia/Kolkata)
+Run #2721 · Updated: 18/11/2026, 06:54:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### John Wick — 18/100
+### Harry Shum — 22/100
 
-**Event:** John Wick: trending now
+**Event:** Harry Shum: Who Is Harry Shum Jr.’s Wife? Inside the ‘Glee’ Actor’s Romance With Shelby Rabara
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+10 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The John Wick situation is weirder than the clips suggest — the other side of the fight
+> The Harry Shum story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jason Statham's — 19/100
+### Xavier Basketball — 17/100
 
-**Event:** Jason Statham's: 107-Minute "John Wick Meets Man on Fire" Action Thriller Is Being Pulled From Streaming
+**Event:** Xavier Basketball: trending now
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Jason Statham's situation is weirder than the clips suggest — the other side of the fight
+> What the Xavier Basketball xavier basketball: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
-
-### Jason Statham — 13/100
-
-**Event:** Jason Statham: scott eastwood action movie
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jason Statham situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
