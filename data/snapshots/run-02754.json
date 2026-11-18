@@ -1,0 +1,30 @@
+{
+  "runNo": 2754,
+  "at": "2026-11-18T19:28:23.104Z",
+  "rows": [
+    {
+      "event": "story-jason-movie",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "unknown"
+    },
+    {
+      "event": "story-katherine-clark",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-neguse",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
