@@ -1,0 +1,44 @@
+{
+  "runNo": 2743,
+  "at": "2026-11-18T15:24:52.212Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-derulo",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-release",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-pettine",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-jerry-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
