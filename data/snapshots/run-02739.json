@@ -1,0 +1,23 @@
+{
+  "runNo": 2739,
+  "at": "2026-11-18T12:28:12.485Z",
+  "rows": [
+    {
+      "event": "story-bobby-moynihan",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-will-smith",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
