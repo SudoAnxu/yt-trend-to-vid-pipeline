@@ -1,0 +1,30 @@
+{
+  "runNo": 2751,
+  "at": "2026-11-18T18:43:02.382Z",
+  "rows": [
+    {
+      "event": "story-katherine-clark",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-neguse",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-scott-drew",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2750 · Updated: 18/11/2026, 23:45:08 (Asia/Kolkata)
+Run #2751 · Updated: 19/11/2026, 00:13:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Katherine Clark — 20/100
+### Katherine Clark — 19/100
 
 **Event:** Katherine Clark: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Katherine Clark katherine clark: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 4h · sources: trends, news
 
 **Status:** KEPT
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Joe Neguse: Katherine Clark, Pete Aguilar, Joe Neguse elected to House majority posts
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Scott Drew: Baylor Basketball | Coach Scott Drew and Kayden Mingo speak after close loss against the UT
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
