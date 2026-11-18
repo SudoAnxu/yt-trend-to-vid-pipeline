@@ -1,0 +1,23 @@
+{
+  "runNo": 2765,
+  "at": "2026-11-18T23:20:40.763Z",
+  "rows": [
+    {
+      "event": "story-james-harden",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-kyle-isbel",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
