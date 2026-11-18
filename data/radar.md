@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2725 · Updated: 18/11/2026, 08:19:55 (Asia/Kolkata)
+Run #2726 · Updated: 18/11/2026, 08:33:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,91 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Connor Bedard — 15/100
+### Mark Stone — 19/100
 
-**Event:** Connor Bedard: Blackhawks' Connor Bedard 'happy' to finally make season debut vs. Penguins
+**Event:** Mark Stone: Tour d'horizon LNH : Bedard-McKenna, Mark Stone en feu, Utah inquiète
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Connor Bedard connor bedard: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Patrick Kane — 17/100
-
-**Event:** Patrick Kane: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Patrick Kane patrick kane: blackhawks, maple leafs boast five no. 1 picks - patrick kane talks matthews, mckenna, bedard filings actually say — line by line — the other side of the fight
+> What the Mark Stone mark stone: tour d'horizon lnh : bedard-mckenna, mark stone en feu, utah inquiète filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Matthew Schaefer — 17/100
-
-**Event:** Matthew Schaefer: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Matthew Schaefer matthew schaefer: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Pedro Pascal — 16/100
+### Connor Bedard — 18/100
 
-**Event:** Pedro Pascal: We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Pre
+**Event:** Connor Bedard: Blackhawks' Connor Bedard 'happy' to finally make season debut vs. Penguins
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-17 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Pedro Pascal pedro pascal: as hollywood battles ai, pedro pascal says making behemoth! filled him with “a tremendous amount of hope” story is actually a money story — the other side of the fight
+> The Connor Bedard story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 6.8h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Tony Gilroy — 17/100
+### Stephen Curry — 22/100
 
-**Event:** Tony Gilroy: ‘Behemoth!’s Humanity Gave Pedro Pascal “Tremendous Amount Of Hope” Amid AI Boom, Tony Gilroy Wants To “Blow U
+**Event:** Stephen Curry: gets emotional about Klay Thompson's move to Miami Heat
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tony Gilroy tony gilroy: suggests we "blow up the ai centers" at the voting box. at the voting box! story is actually a money story — the other side of the fight
+> What the Stephen Curry stephen curry: week 5 look-ahead: stephen curry and caleb wilson go down, and toss jeremiah fears the keys filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Seth Rogen — 24/100
+### Steve Kerr — 15/100
 
-**Event:** Seth Rogen: trending now
+**Event:** Steve Kerr: Says Warriors Have Fastest Player He’s Ever Coached
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Seth Rogen seth rogen: madonna’s return to live-action acting after 24 years gets ‘meta’ update from seth rogen filings actually say — line by line — the other side of the fight
+> What the Steve Kerr steve kerr: rightfully beginning to tinker with warriors' steph curry-less lineup filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 15 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
