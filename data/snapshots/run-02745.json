@@ -1,0 +1,23 @@
+{
+  "runNo": 2745,
+  "at": "2026-11-18T16:05:51.701Z",
+  "rows": [
+    {
+      "event": "story-will-release",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-back",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

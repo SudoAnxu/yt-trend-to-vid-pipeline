@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2744 · Updated: 18/11/2026, 21:24:00 (Asia/Kolkata)
+Run #2745 · Updated: 18/11/2026, 21:35:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -30,19 +30,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Carlos Alcaraz — 16/100
+### Jason Back — 21/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Jason Back: Producer Robbie Barsamian Talks New ‘Friday the 13th’ Entry and Getting Jason Back on the Big Screen | Exclusi
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Carlos Alcaraz carlos alcaraz: beats daniil medvedev in atp finals tennis group stage – as it happened story is actually a money story — the other side of the fight
+> What the Jason Back jason back: producer robbie barsamian talks new ‘friday the 13th’ entry and getting jason back on the big screen | exclusi filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
