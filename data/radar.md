@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2757 · Updated: 19/11/2026, 02:34:34 (Asia/Kolkata)
+Run #2758 · Updated: 19/11/2026, 03:02:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Milo Ventimiglia — 29/100
+### Milo Ventimiglia — 28/100
 
 **Event:** Milo Ventimiglia: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 19 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Milo Ventimiglia milo ventimiglia: jared padalecki shares emotional story of support from rival milo ventimiglia on 'gilmore girls' filings actually say — line by line — the other side of the fight
+> The Milo Ventimiglia story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
 
 **Status:** RESEARCH
 

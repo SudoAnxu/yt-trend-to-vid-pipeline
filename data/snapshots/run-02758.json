@@ -1,0 +1,16 @@
+{
+  "runNo": 2758,
+  "at": "2026-11-18T21:32:31.572Z",
+  "rows": [
+    {
+      "event": "story-milo-ventimiglia",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
