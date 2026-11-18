@@ -1,0 +1,23 @@
+{
+  "runNo": 2729,
+  "at": "2026-11-18T04:02:07.497Z",
+  "rows": [
+    {
+      "event": "story-dylan-harper",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 34,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-huerter",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
