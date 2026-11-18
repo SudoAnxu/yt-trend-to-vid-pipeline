@@ -1,0 +1,16 @@
+{
+  "runNo": 2735,
+  "at": "2026-11-18T09:34:31.872Z",
+  "rows": [
+    {
+      "event": "story-harry-styles",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
