@@ -1,0 +1,23 @@
+{
+  "runNo": 2732,
+  "at": "2026-11-18T07:45:01.165Z",
+  "rows": [
+    {
+      "event": "story-will-it",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-reaves",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2731 · Updated: 18/11/2026, 11:31:12 (Asia/Kolkata)
+Run #2732 · Updated: 18/11/2026, 13:15:01 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jordan Firstman — 22/100
+### Will It — 17/100
 
-**Event:** Jordan Firstman: trending now
+**Event:** Will It: The MANNING TOUCH In Tiger Stadium: Will It Hand LSU Another Critical Loss And Playoffs Exit?
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jordan Firstman jordan firstman: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Ryan Adams — 28/100
-
-**Event:** Ryan Adams: Singer Ryan Adams Engaged to Kate Farr After Whirlwind Romance, 30-Year Age Gap
-
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Adams ryan adams: singer ryan adams engaged to kate farr after whirlwind romance, 30-year age gap story is actually a money story — the other side of the fight
+> The Will It will it: how long will it take to complete gta 6? platinum trophy & mythic achievement time explained story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
+
+### Austin Reaves — 23/100
+
+**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
+
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Austin Reaves austin reaves: lakers rule austin reaves, walker kessler out vs. hornets filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
