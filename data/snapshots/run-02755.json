@@ -1,0 +1,30 @@
+{
+  "runNo": 2755,
+  "at": "2026-11-18T19:44:19.032Z",
+  "rows": [
+    {
+      "event": "story-joe-cole",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jason-movie",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "unknown"
+    },
+    {
+      "event": "story-rob-lowe-s",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
