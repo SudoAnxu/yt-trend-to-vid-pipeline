@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2810 · Updated: 20/11/2026, 04:14:47 (Asia/Kolkata)
+Run #2811 · Updated: 20/11/2026, 04:19:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Jason Kelce's: Travis Kelce and Jason Kelce’s $200 million brand announces unusual wedding opportunity as the TE remains
 
-**Why now:** 1 source lane(s): news · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Kole Says Yellowjackets: Warren Kole Says Yellowjackets Creators ‘Did the Right Thing’ with How They Ended the Series (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Warren Kole: Says Yellowjackets Creators ‘Did the Right Thing’ with How They Ended the Series (Exclusive)
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
