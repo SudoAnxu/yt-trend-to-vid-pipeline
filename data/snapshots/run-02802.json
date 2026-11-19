@@ -1,0 +1,16 @@
+{
+  "runNo": 2802,
+  "at": "2026-11-19T19:33:02.912Z",
+  "rows": [
+    {
+      "event": "story-noah-kahan",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
