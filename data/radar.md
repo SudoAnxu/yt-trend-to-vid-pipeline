@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2796 · Updated: 19/11/2026, 23:04:25 (Asia/Kolkata)
+Run #2797 · Updated: 19/11/2026, 23:15:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -15,6 +15,34 @@ Sources this run: trends(40)
 ## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Patrick Sellers — 19/100
+
+**Event:** Patrick Sellers: State Rep. Patrick Sellers indicted on federal wire fraud charges
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 6 · risk 86 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Patrick Sellers patrick sellers: state rep. patrick sellers indicted on federal wire fraud charges filings actually say — line by line — the number behind the headline
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Noah Kahan — 14/100
+
+**Event:** Noah Kahan: tour
+
+**Why now:** 2 source lane(s): trends, news · momentum 2 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Noah Kahan noah kahan: the who, foo fighters, noah kahan and gwen stefani among the artists headlining 2027 jazz fest lineup filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Will Be — 17/100
 
@@ -34,43 +62,15 @@ Sources this run: trends(40)
 
 **Event:** Riley Moss: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 33 (+22 vs prev run) · spice 16 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 27 (-6 vs prev run) · spice 16 · risk 34 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Riley Moss riley moss: , broncos reportedly agree to contract extension, details revealed in new nfl rumors story is actually a money story — the number behind the headline
+> What the Riley Moss riley moss: why broncos are signing riley moss to a $67 million contract extension filings actually say — line by line — the number behind the headline
 
-**Competition:** 10 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** BOOSTED
-
-### Glenn Close — 17/100
-
-**Event:** Glenn Close: Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close
-
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Glenn Close glenn close: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 23 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Legend Delivers Most — 19/100
-
-**Event:** Legend Delivers Most: 79-Year-Old Legend Delivers Most Unhinged Performance Yet
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Legend Delivers Most legend delivers most: 79-year-old legend delivers most unhinged performance yet filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
