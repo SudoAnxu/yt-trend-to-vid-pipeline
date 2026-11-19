@@ -1,0 +1,23 @@
+{
+  "runNo": 2786,
+  "at": "2026-11-19T12:02:11.724Z",
+  "rows": [
+    {
+      "event": "story-scott-spivey",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-petty",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
