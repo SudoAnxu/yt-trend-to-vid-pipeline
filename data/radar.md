@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2768 · Updated: 19/11/2026, 06:10:33 (Asia/Kolkata)
+Run #2769 · Updated: 19/11/2026, 06:18:43 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Jackson — 22/100
+### Anthony Black — 22/100
 
-**Event:** Michael Jackson: super bowl
+**Event:** Anthony Black: Orlando Magic's Anthony Black begins big season with a new contract looming
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (+9 vs prev run) · spice 12 · risk 56 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+6 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Jackson michael jackson: bryan freedman sued over hush-money deals shielding michael jackson estate filings actually say — line by line — the number behind the headline
+> The Anthony Black story is a proxy fight about something bigger — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 5.8h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Michael Jackson's — 21/100
+### Aaron Wiggins — 21/100
 
-**Event:** Michael Jackson's: Michael Jackson’s Daughter Seeks $600 Million From His Estate, Says Trust Remains Unfunded
+**Event:** Aaron Wiggins: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 12 · risk 86 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-23 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Michael Jackson's michael jackson's: michael jackson’s ‘second family’ sues estate’s lawyer over ‘hush money’ sex abuse deal filings actually say — line by line — the number behind the headline
+> What the Aaron Wiggins aaron wiggins: thunder vs hawks live updates: lu dort, aaron wiggins return to face okc filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
-**Status:** KEPT
+**Status:** ARCHIVED
 
 
 </details>
