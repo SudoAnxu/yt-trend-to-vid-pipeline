@@ -1,0 +1,37 @@
+{
+  "runNo": 2800,
+  "at": "2026-11-19T19:04:24.778Z",
+  "rows": [
+    {
+      "event": "story-will-go",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-aberg-leads-string",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-patrick-sellers",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-noah-kahan",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 6,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
