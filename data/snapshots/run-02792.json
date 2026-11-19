@@ -1,0 +1,16 @@
+{
+  "runNo": 2792,
+  "at": "2026-11-19T15:57:31.389Z",
+  "rows": [
+    {
+      "event": "story-kurt-van",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
