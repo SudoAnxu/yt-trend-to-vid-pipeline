@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2788 · Updated: 19/11/2026, 19:16:03 (Asia/Kolkata)
+Run #2789 · Updated: 19/11/2026, 19:36:32 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,11 +16,25 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Ben Shelton — 24/100
+### Carlos Alcaraz — 18/100
+
+**Event:** Carlos Alcaraz: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-9 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Carlos Alcaraz carlos alcaraz: atp finals: carlos alcaraz outclasses daniil medvedev to qualify despite injury concern filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Ben Shelton — 22/100
 
 **Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+17 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (-7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +48,7 @@ Sources this run: trends(39)
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +62,7 @@ Sources this run: trends(39)
 
 **Event:** Alexander Zverev's: first No. 1 ranking to be confirmed Monday with win in Vienna
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,11 +72,11 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Ethan Hawke — 22/100
+### Ethan Hawke — 23/100
 
 **Event:** Ethan Hawke: Explains Why It’s Important to ‘Have a Backbone’ If ‘You’re Going to Be in the Public Sphere’ (Exclusive)
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+4 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -72,31 +86,17 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Ethan Hawke's — 18/100
+### Maya Hawke — 20/100
 
-**Event:** Ethan Hawke's: Ethan Hawke’s 109-Minute Horror Hit That Set A Major Genre Record Secures Massive Streaming Achievement
+**Event:** Maya Hawke: Sadie Sink and Maya Hawke Star in Hand-Drawn Prada Campaign by Legendary Disney Animator John Pomeroy
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ethan Hawke's ethan hawke's: all about ethan hawke’s 4 kids, including his son who just got cast in his biggest role yet filings actually say — line by line — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
-
-### Rafael Jodar — 18/100
-
-**Event:** Rafael Jodar: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Rafael Jodar rafael jodar: trending now filings actually say — line by line — the other side of the fight
+> What the Maya Hawke maya hawke: ben shapiro. . maya hawke wants to radicalize your children with the hunger games filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
