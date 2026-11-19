@@ -1,0 +1,16 @@
+{
+  "runNo": 2787,
+  "at": "2026-11-19T12:19:02.632Z",
+  "rows": [
+    {
+      "event": "story-mark-your",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
