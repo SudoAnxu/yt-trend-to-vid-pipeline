@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2792 · Updated: 19/11/2026, 21:27:31 (Asia/Kolkata)
+Run #2793 · Updated: 19/11/2026, 21:42:36 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kurt Van — 22/100
+### Lululemon Dropped Its — 22/100
 
-**Event:** Kurt Van: American surfer Kurt Van Dyke's girlfriend and another man arrested for his murder
+**Event:** Lululemon Dropped Its: Yes, Lululemon Dropped Its Black Friday Sale Early — Our Picks Start at $9
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 7 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kurt Van kurt van: american surfer kurt van dyke's girlfriend and another man arrested for his murder filings actually say — line by line — what happens next
+> The Lululemon Dropped Its story is a proxy fight about something bigger — the part that was not supposed to be public
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
 

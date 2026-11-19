@@ -1,0 +1,16 @@
+{
+  "runNo": 2793,
+  "at": "2026-11-19T16:12:36.469Z",
+  "rows": [
+    {
+      "event": "story-lululemon-dropped-its",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
