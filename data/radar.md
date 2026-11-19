@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2805 · Updated: 20/11/2026, 02:39:40 (Asia/Kolkata)
+Run #2806 · Updated: 20/11/2026, 03:14:48 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,77 +12,91 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Justin Reid — 21/100
+### Jim Cramer — 23/100
+
+**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
+
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+10 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jim Cramer jim cramer: says to buy stock in this sleeping tech giant 'aggressively, aggressively' filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Joe Buck — 24/100
+
+**Event:** Joe Buck: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-9 vs prev run) · spice 13 · risk 34 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Joe Buck situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 23 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mark Your — 17/100
+
+**Event:** Mark Your: Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mark Your mark your: dear intuit stock fans, mark your calendars for november 19 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Julia Stiles — 24/100
+
+**Event:** Julia Stiles: julianne hough supports julia stiles
+
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-5 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Julia Stiles story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Justin Reid — 18/100
 
 **Event:** Justin Reid: NFL trade deadline: 3 teams that could deal for Saints DB Justin Reid
 
-**Why now:** 2 source lane(s): news, trends · momentum 30 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 25 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Justin Reid justin reid: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
+**Competition:** 6 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
 
 **Status:** BOOSTED
 
-### Floyd Mayweather — 14/100
-
-**Event:** Floyd Mayweather: finally announces his next two fights including 100 million blockbuster
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Floyd Mayweather floyd mayweather: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Floyd Mayweather's — 19/100
-
-**Event:** Floyd Mayweather's: 2 felony criminal charges dismissed by Nevada prosecutors
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Floyd Mayweather's floyd mayweather's: 2 felony criminal charges dismissed by nevada prosecutors filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Lance Broadway — 33/100
+### Lance Broadway — 23/100
 
 **Event:** Lance Broadway: , Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Lance Broadway story is a proxy fight about something bigger — the other side of the fight
+> The Lance Broadway lance broadway: , pitcher turned ‘olympus has fallen’ actor, dies at 43 story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Scott Speedman — 23/100
-
-**Event:** Scott Speedman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Scott Speedman situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** ARCHIVED
 

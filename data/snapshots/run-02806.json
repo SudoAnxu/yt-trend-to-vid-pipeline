@@ -1,0 +1,51 @@
+{
+  "runNo": 2806,
+  "at": "2026-11-19T21:44:46.393Z",
+  "rows": [
+    {
+      "event": "story-jim-cramer",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-your",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-julia-stiles",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-reid",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-lance-broadway",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
