@@ -1,0 +1,44 @@
+{
+  "runNo": 2805,
+  "at": "2026-11-19T21:09:38.708Z",
+  "rows": [
+    {
+      "event": "story-justin-reid",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-floyd-mayweather",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-floyd-mayweather-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-lance-broadway",
+      "alert": "ARCHIVE",
+      "opportunity": 33,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-speedman",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

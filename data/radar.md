@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2804 · Updated: 20/11/2026, 02:22:48 (Asia/Kolkata)
+Run #2805 · Updated: 20/11/2026, 02:39:40 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -16,73 +16,73 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Scott Speedman — 26/100
+### Justin Reid — 21/100
 
-**Event:** Scott Speedman: trending now
+**Event:** Justin Reid: NFL trade deadline: 3 teams that could deal for Saints DB Justin Reid
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Scott Speedman situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 4.6h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Alexander Zverev — 26/100
-
-**Event:** Alexander Zverev: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 27 (+6 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 30 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Alexander Zverev alexander zverev: improved to 7-0 vs. ben shelton, advancing to atp finals semis story is actually a money story — the other side of the fight
+> The Justin Reid justin reid: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Floyd Mayweather — 14/100
+
+**Event:** Floyd Mayweather: finally announces his next two fights including 100 million blockbuster
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Floyd Mayweather floyd mayweather: trending now story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ben Shelton — 25/100
+### Floyd Mayweather's — 19/100
 
-**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+**Event:** Floyd Mayweather's: 2 felony criminal charges dismissed by Nevada prosecutors
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (-1 vs prev run) · spice 9 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ben Shelton story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Alexander Zverev's — 19/100
-
-**Event:** Alexander Zverev's: first No. 1 ranking to be confirmed Monday with win in Vienna
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Alexander Zverev's story is a proxy fight about something bigger — the other side of the fight
+> What the Floyd Mayweather's floyd mayweather's: 2 felony criminal charges dismissed by nevada prosecutors filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Rafael Jodar — 22/100
+### Lance Broadway — 33/100
 
-**Event:** Rafael Jodar: trending now
+**Event:** Lance Broadway: , Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+14 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Rafael Jodar rafael jodar: atp finals 2026 live updates: alexander zverev leads arthur fils; ben shelton beats rafael jodar on day 5 filings actually say — line by line — the other side of the fight
+> The Lance Broadway story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Scott Speedman — 23/100
+
+**Event:** Scott Speedman: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Scott Speedman situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 5h · sources: trends, news
 
 **Status:** ARCHIVED
 
