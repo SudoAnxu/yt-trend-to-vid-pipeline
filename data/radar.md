@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2767 · Updated: 19/11/2026, 05:24:25 (Asia/Kolkata)
+Run #2768 · Updated: 19/11/2026, 06:10:33 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Thomas Jr. — 16/100
+### Michael Jackson — 22/100
 
-**Event:** Thomas Jr.: New Brian Thomas Jr. Trade Rumors on Jaguars' Stance Amid Periodic Calls From NFL Teams
+**Event:** Michael Jackson: super bowl
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+9 vs prev run) · spice 12 · risk 56 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Thomas Jr. thomas jr.: how uh coach kelvin sampson found his next point guard in dedan thomas jr. with just a phone call filings actually say — line by line — the other side of the fight
+> What the Michael Jackson michael jackson: bryan freedman sued over hush-money deals shielding michael jackson estate filings actually say — line by line — the number behind the headline
 
-**Competition:** 9 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Michael Jackson's — 21/100
+
+**Event:** Michael Jackson's: Michael Jackson’s Daughter Seeks $600 Million From His Estate, Says Trust Remains Unfunded
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 12 · risk 86 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Michael Jackson's michael jackson's: michael jackson’s ‘second family’ sues estate’s lawyer over ‘hush money’ sex abuse deal filings actually say — line by line — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** KEPT
-
-### Jack Nicklaus — 23/100
-
-**Event:** Jack Nicklaus: In 2025, After $50 Million Defamation Verdict, Jack Nicklaus Buys Back His Namesake Company
-
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jack Nicklaus story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
