@@ -1,0 +1,16 @@
+{
+  "runNo": 2781,
+  "at": "2026-11-19T08:30:53.557Z",
+  "rows": [
+    {
+      "event": "story-joe-jonas",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
