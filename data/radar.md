@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2808 · Updated: 20/11/2026, 03:49:40 (Asia/Kolkata)
+Run #2809 · Updated: 20/11/2026, 04:02:58 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,29 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Michael Malone — 22/100
-
-**Event:** Michael Malone: UNC-Western Carolina Preview: The Michael Malone Era Officially Begins
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Michael Malone michael malone: makes powerful case for cameron fens in ongoing ncaa eligibility fight filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Jason Kelce's — 15/100
+### Jason Kelce's — 16/100
 
 **Event:** Jason Kelce's: Travis Kelce and Jason Kelce’s $200 million brand announces unusual wedding opportunity as the TE remains
 
-**Why now:** 1 source lane(s): news · momentum 9 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
