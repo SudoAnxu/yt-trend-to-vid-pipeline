@@ -1,0 +1,16 @@
+{
+  "runNo": 2770,
+  "at": "2026-11-19T01:18:56.313Z",
+  "rows": [
+    {
+      "event": "story-gordon-ramsay",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

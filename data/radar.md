@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2769 · Updated: 19/11/2026, 06:18:43 (Asia/Kolkata)
+Run #2770 · Updated: 19/11/2026, 06:48:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Anthony Black — 22/100
+### Gordon Ramsay — 26/100
 
-**Event:** Anthony Black: Orlando Magic's Anthony Black begins big season with a new contract looming
+**Event:** Gordon Ramsay: , culinary chef famed for fiery critiques, gets Hollywood Walk of Fame star
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+6 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 5.8h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Anthony Black story is a proxy fight about something bigger — the number behind the headline
-
-**Competition:** 19 videos in last 6h · TTS ≈ 5.8h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Aaron Wiggins — 21/100
-
-**Event:** Aaron Wiggins: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (-23 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Wiggins aaron wiggins: thunder vs hawks live updates: lu dort, aaron wiggins return to face okc filings actually say — line by line — the other side of the fight
+> The Gordon Ramsay story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
