@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2802 · Updated: 20/11/2026, 01:03:03 (Asia/Kolkata)
+Run #2803 · Updated: 20/11/2026, 01:14:17 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,23 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Noah Kahan — 18/100
+### Wesley Huff — 19/100
 
-**Event:** Noah Kahan: tour
+**Event:** Wesley Huff: Apologist Wesley Huff says plagiarism concerns taken seriously
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Noah Kahan noah kahan: foo fighters, noah kahan, the who lead new orleans jazz and heritage festival lineup filings actually say — line by line — the other side of the fight
+> What the Wesley Huff wesley huff: apologist wesley huff says plagiarism concerns taken seriously filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Andrew Marsh — 29/100
+
+**Event:** Andrew Marsh: Michigan football’s Andrew Marsh charged with indecent exposure
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 86 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Andrew Marsh andrew marsh: michigan football’s andrew marsh charged with indecent exposure filings actually say — line by line — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Brittany Snow — 25/100
+
+**Event:** Brittany Snow: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 30 (+9 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Brittany Snow filing that will matter in six months — the detail nobody has explained
+
+**Competition:** 7 videos in last 6h · TTS ≈ 12.4h · sources: trends, news
+
+**Status:** BOOSTED
+
+### Jackson Reveals Stage — 19/100
+
+**Event:** Jackson Reveals Stage: Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jackson Reveals Stage jackson reveals stage: marlon jackson reveals stage 4 prostate cancer diagnosis filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
