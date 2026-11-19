@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2794 · Updated: 19/11/2026, 22:12:36 (Asia/Kolkata)
+Run #2795 · Updated: 19/11/2026, 22:38:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Riley Moss — 17/100
+
+**Event:** Riley Moss: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Riley Moss riley moss: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
 ### Glenn Close — 21/100
 
 **Event:** Glenn Close: Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+6 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,17 +44,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Cody Johnson — 17/100
+### Cody Johnson — 16/100
 
 **Event:** Cody Johnson: cma awards withdrawal
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Cody Johnson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 19 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 
@@ -57,20 +71,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
-
-### To Host — 19/100
-
-**Event:** To Host: Oregon State Stays Home To Host WSU Saturday At Reser
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the To Host to host: florida panthers to host pwhl takeover tour game between seattle torrent, detroit clutch in sunrise filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
 
 
 </details>
