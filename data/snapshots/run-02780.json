@@ -1,0 +1,44 @@
+{
+  "runNo": 2780,
+  "at": "2026-11-19T07:41:42.113Z",
+  "rows": [
+    {
+      "event": "story-diego-state",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-duval",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-harry-potter",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-montgomery",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-marvin-harrison",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

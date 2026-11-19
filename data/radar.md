@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2779 · Updated: 19/11/2026, 11:32:20 (Asia/Kolkata)
+Run #2780 · Updated: 19/11/2026, 13:11:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,79 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Barry Williams — 27/100
+### Diego State — 17/100
 
-**Event:** Barry Williams: ‘Brady Bunch’ Star Barry Williams, 72, Says It Took Him a Year to Recover from ‘DWTS’
+**Event:** Diego State: San Diego State vs. Fresno State live stream, where to watch online, CBS Sports Network channel finder, odds
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Barry Williams story is a proxy fight about something bigger — the other side of the fight
+> What the Diego State diego state: san diego state stays unbeaten with 97-51 rout of texas southern filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 22 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Jason Duval — 21/100
+
+**Event:** Jason Duval: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jason Duval story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Harry Potter — 19/100
+
+**Event:** Harry Potter: HBO’s Harry Potter series brings back original film actor Paul Whitehouse
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Harry Potter harry potter: to pride and prejudice: 10 of the best tv shows to watch this december filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### David Montgomery — 24/100
+
+**Event:** David Montgomery: Will David Montgomery bets be refunded after injury during Texans vs. Titans NFL Week 5?
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the David Montgomery david montgomery: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Marvin Harrison — 17/100
+
+**Event:** Marvin Harrison: Where is Marvin Harrison Jr. headed? Inside the mystery surrounding Cardinals' unfinished trade
+
+**Why now:** 2 source lane(s): news, trends · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Marvin Harrison marvin harrison: texans getting rb david montgomery back in week 11; rule out marvin harrison, danielle hunter filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
