@@ -1,0 +1,44 @@
+{
+  "runNo": 2778,
+  "at": "2026-11-19T04:22:19.494Z",
+  "rows": [
+    {
+      "event": "story-will-richard",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-matt-rife",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-stapleton",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jose-state",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-green",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
