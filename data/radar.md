@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2806 · Updated: 20/11/2026, 03:14:48 (Asia/Kolkata)
+Run #2807 · Updated: 20/11/2026, 03:27:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,29 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Jim Cramer — 23/100
+### Jim Cramer — 22/100
 
 **Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+10 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Jim Cramer jim cramer: says to buy stock in this sleeping tech giant 'aggressively, aggressively' filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 7 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Joe Buck — 24/100
+### Joe Buck — 25/100
 
 **Event:** Joe Buck: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-9 vs prev run) · spice 13 · risk 34 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 13 · risk 34 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,45 +58,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Julia Stiles — 24/100
+### Julia Stiles — 22/100
 
 **Event:** Julia Stiles: julianne hough supports julia stiles
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-5 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Julia Stiles story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 10 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Justin Reid — 18/100
-
-**Event:** Justin Reid: NFL trade deadline: 3 teams that could deal for Saints DB Justin Reid
-
-**Why now:** 2 source lane(s): news, trends · momentum 25 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Justin Reid justin reid: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
-
-**Status:** BOOSTED
-
-### Lance Broadway — 23/100
-
-**Event:** Lance Broadway: , Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Lance Broadway lance broadway: , pitcher turned ‘olympus has fallen’ actor, dies at 43 story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
