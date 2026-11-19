@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2778 · Updated: 19/11/2026, 09:52:21 (Asia/Kolkata)
+Run #2779 · Updated: 19/11/2026, 11:32:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Will Richard — 24/100
+### Barry Williams — 27/100
 
-**Event:** Will Richard: trending now
+**Event:** Barry Williams: ‘Brady Bunch’ Star Barry Williams, 72, Says It Took Him a Year to Recover from ‘DWTS’
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Will Richard will richard: trending now filings actually say — line by line — the other side of the fight
+> The Barry Williams story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
-
-### Matt Rife — 22/100
-
-**Event:** Matt Rife: Steve Doocy catches up with viral comedian Matt Rife on tour
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+10 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 2.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Matt Rife situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Chris Stapleton — 20/100
-
-**Event:** Chris Stapleton: Zach Top Shares Why Competing Against Chris Stapleton at the CMAs Feels So Special
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 12 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Chris Stapleton chris stapleton: zach top shares why competing against chris stapleton at the cmas feels so special story is actually a money story — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
-
-### Jose State — 22/100
-
-**Event:** Jose State: How to watch Wyoming vs San Jose State: Live stream NCAA College Football, TV channel
-
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jose State jose state: fresno state vs san jose state prediction, picks & odds | 18 nov 2026 filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.7h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Josh Green — 19/100
-
-**Event:** Josh Green: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Josh Green josh green: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** BOOSTED
 
 
 </details>

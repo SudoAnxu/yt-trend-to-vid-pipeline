@@ -1,0 +1,16 @@
+{
+  "runNo": 2779,
+  "at": "2026-11-19T06:02:20.222Z",
+  "rows": [
+    {
+      "event": "story-barry-williams",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 28,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
