@@ -1,0 +1,16 @@
+{
+  "runNo": 2854,
+  "at": "2026-11-20T21:27:42.346Z",
+  "rows": [
+    {
+      "event": "story-seth-rogen",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
