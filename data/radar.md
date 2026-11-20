@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2850 · Updated: 21/11/2026, 00:41:26 (Asia/Kolkata)
+Run #2851 · Updated: 21/11/2026, 00:54:36 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,17 +30,17 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Will Pay — 19/100
+### Joey Bart — 17/100
 
-**Event:** Will Pay: What You Will Pay for Medicare in 2027
+**Event:** Joey Bart: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Will Pay will pay: what you will pay for medicare in 2027 filings actually say — line by line — the other side of the fight
+> What the Joey Bart joey bart: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
 
