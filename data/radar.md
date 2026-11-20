@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2860 · Updated: 21/11/2026, 04:15:46 (Asia/Kolkata)
+Run #2861 · Updated: 21/11/2026, 04:31:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Luis Gil — 25/100
+### Luis Gil — 19/100
 
 **Event:** Luis Gil: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Luis Gil filing that will matter in six months — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 14h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 12h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Jonathan Roumie — 17/100
+### Scott Wiener — 21/100
 
-**Event:** Jonathan Roumie: trending now
+**Event:** Scott Wiener: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jonathan Roumie jonathan roumie: trending now filings actually say — line by line — the other side of the fight
+> What the Scott Wiener scott wiener: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 

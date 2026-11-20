@@ -1,0 +1,23 @@
+{
+  "runNo": 2861,
+  "at": "2026-11-20T23:01:34.584Z",
+  "rows": [
+    {
+      "event": "story-luis-gil",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-wiener",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
