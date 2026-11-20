@@ -1,0 +1,44 @@
+{
+  "runNo": 2815,
+  "at": "2026-11-20T00:19:19.964Z",
+  "rows": [
+    {
+      "event": "story-jake-gyllenhaal-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-downey",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-hartley",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-stephen-king",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-handly",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
