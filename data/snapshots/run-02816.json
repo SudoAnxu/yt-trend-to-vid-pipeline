@@ -1,0 +1,30 @@
+{
+  "runNo": 2816,
+  "at": "2026-11-20T00:50:26.434Z",
+  "rows": [
+    {
+      "event": "story-daniel-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-shane-steichen",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-richardson",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 6,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

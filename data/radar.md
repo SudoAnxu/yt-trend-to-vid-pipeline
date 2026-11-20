@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2815 · Updated: 20/11/2026, 05:49:20 (Asia/Kolkata)
+Run #2816 · Updated: 20/11/2026, 06:20:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,51 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jake Gyllenhaal's — 19/100
+### Daniel Jones — 20/100
 
-**Event:** Jake Gyllenhaal's: 123-Minute Sci-Fi Action Thriller Is Officially the Biggest Movie on Netflix
+**Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-3 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jake Gyllenhaal's situation is weirder than the clips suggest — the other side of the fight
+> What the Daniel Jones daniel jones: colts rumors: daniel jones stinks, but shane steichen is a real anthony richardson hater filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Shane Steichen — 21/100
+
+**Event:** Shane Steichen: Colts' Shane Steichen: Carlie Irsay-Gordon has no influence on QB Daniel Jones starting
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Shane Steichen shane steichen: colts rumors: daniel jones stinks, but shane steichen is a real anthony richardson hater filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Robert Downey — 15/100
+### Anthony Richardson — 18/100
 
-**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
+**Event:** Anthony Richardson: Injury Latest Colts
 
-**Why now:** 1 source lane(s): news · momentum 12 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Robert Downey robert downey: jr. originally "didn't want to go eastern european" with his doctor doom voice filings actually say — line by line — the other side of the fight
+> What the Anthony Richardson anthony richardson: colts rumors: daniel jones stinks, but shane steichen is a real anthony richardson hater filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 12 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Justin Hartley — 28/100
-
-**Event:** Justin Hartley: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 29 (+6 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Justin Hartley situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Stephen King — 16/100
-
-**Event:** Stephen King: Asks Why Taylor Sheridan's Hit Western Series Was Snubbed By The Emmys
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Stephen King situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
-
-**Status:** ARCHIVED
-
-### Jim Handly — 29/100
-
-**Event:** Jim Handly: Anchors Final 11 PM Newscast At News4 (Video)
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 4 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jim Handly jim handly: anchors final 11 pm newscast at news4 (video) filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
