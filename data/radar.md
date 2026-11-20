@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2818 · Updated: 20/11/2026, 06:52:15 (Asia/Kolkata)
+Run #2819 · Updated: 20/11/2026, 07:12:39 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -12,79 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Daniel Jones — 23/100
+### Seth Mcgowan — 17/100
 
-**Event:** Daniel Jones: drops 4 spots in NFL QB rankings entering Week 4
+**Event:** Seth Mcgowan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+18 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 9 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Daniel Jones daniel jones: colts rumors: daniel jones stinks, but shane steichen is a real anthony richardson hater filings actually say — line by line — the detail nobody has explained
+> What the Seth Mcgowan seth mcgowan: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** ARCHIVED
+
+### Josh Ross — 19/100
+
+**Event:** Josh Ross: Vikings Sign RB Damon Bankston & LB Josh Ross to Practice Squad
+
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Josh Ross josh ross: vikings sign rb damon bankston & lb josh ross to practice squad filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Tyler Kolek — 15/100
+
+**Event:** Tyler Kolek: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tyler Kolek story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jason Kelce — 16/100
+
+**Event:** Jason Kelce: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Jason Kelce jason kelce: is kylie kelce ready for baby no. 5 with jason kelce? she says... filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Shane Steichen — 22/100
-
-**Event:** Shane Steichen: Colts' Shane Steichen: Carlie Irsay-Gordon has no influence on QB Daniel Jones starting
-
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Shane Steichen shane steichen: colts rumors: daniel jones stinks, but shane steichen is a real anthony richardson hater filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Anthony Richardson — 19/100
-
-**Event:** Anthony Richardson: Injury Latest Colts
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Anthony Richardson anthony richardson: colts rumors: daniel jones stinks, but shane steichen is a real anthony richardson hater filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 12 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Josh Downs' — 15/100
-
-**Event:** Josh Downs': 5 Colts Things: Josh Downs' chemistry with Daniel Jones shines, DeForest Buckner dominates, Cowboys-Ravens gam
-
-**Why now:** 2 source lane(s): news, trends · momentum 7 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Josh Downs' josh downs': can josh downs be a fantasy wr2 in week 11? filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Anthony Gould — 31/100
-
-**Event:** Anthony Gould: Colts' Anthony Gould: Active versus Houston
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 9 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Anthony Gould anthony gould: colts' anthony gould: active versus houston filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
