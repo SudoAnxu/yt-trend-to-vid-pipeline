@@ -1,0 +1,30 @@
+{
+  "runNo": 2859,
+  "at": "2026-11-20T22:26:16.570Z",
+  "rows": [
+    {
+      "event": "story-jonathan-roumie",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-department-gives-up",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-house-took-reporters-",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
