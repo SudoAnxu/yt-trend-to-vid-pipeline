@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2851 · Updated: 21/11/2026, 00:54:36 (Asia/Kolkata)
+Run #2852 · Updated: 21/11/2026, 02:08:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Harry Kane — 15/100
+### Brittany Mahomes — 20/100
 
-**Event:** Harry Kane: England's Thomas Tuchel backs star Harry Kane to win Ballon d'Or: 'The full package'
+**Event:** Brittany Mahomes: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Harry Kane harry kane: "kann und wird sich durchsetzen": jahmai simpson-pusey und der 1. fc köln treffen auf weltfußballer harry kane story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** KEPT
-
-### Joey Bart — 17/100
-
-**Event:** Joey Bart: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Joey Bart joey bart: trending now filings actually say — line by line — the other side of the fight
+> The Brittany Mahomes story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 5 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Patrick Mahomes' — 16/100
+
+**Event:** Patrick Mahomes': Wife Brittany Gives Fans a Peek at Life Away From the Chiefs
+
+**Why now:** 1 source lane(s): news · momentum 10 (-11 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Patrick Mahomes' story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.2h · sources: news
+
+**Status:** ARCHIVED
+
+### Kyle Richards' — 22/100
+
+**Event:** Kyle Richards': Daughter Farrah Aldjufrie Gives Birth, Welcomes Baby Boy With Boyfriend Zach Goldsmith
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Kyle Richards' story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
