@@ -1,0 +1,16 @@
+{
+  "runNo": 2826,
+  "at": "2026-11-20T04:09:40.068Z",
+  "rows": [
+    {
+      "event": "story-will-levis",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 3,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
