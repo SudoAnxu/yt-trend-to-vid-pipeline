@@ -1,0 +1,30 @@
+{
+  "runNo": 2863,
+  "at": "2026-11-20T23:41:25.302Z",
+  "rows": [
+    {
+      "event": "story-max-sasson",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-pablo-peirano",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jordan-leasure",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
