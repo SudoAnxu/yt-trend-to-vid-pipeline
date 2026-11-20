@@ -1,0 +1,23 @@
+{
+  "runNo": 2830,
+  "at": "2026-11-20T08:42:24.528Z",
+  "rows": [
+    {
+      "event": "story-scott-spivey",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-rogan",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
