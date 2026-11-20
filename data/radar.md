@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2836 · Updated: 20/11/2026, 18:59:39 (Asia/Kolkata)
+Run #2837 · Updated: 20/11/2026, 19:19:42 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Warren Buffett — 24/100
+### Carlos Alcaraz — 24/100
 
-**Event:** Warren Buffett: Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+3 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+17 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Warren Buffett warren buffett: donates $5.5 billion, says kindness 'compounds' in thanksgiving letter filings actually say — line by line — the number behind the headline
+> The Carlos Alcaraz story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Anthony Ippolito — 13/100
+### Ben Shelton — 17/100
 
-**Event:** Anthony Ippolito: I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 2 (-18 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Anthony Ippolito anthony ippolito: trending now filings actually say — line by line — the other side of the fight
+> The Ben Shelton story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Rafael Jodar — 20/100
+
+**Event:** Rafael Jodar: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-10 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Rafael Jodar story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
