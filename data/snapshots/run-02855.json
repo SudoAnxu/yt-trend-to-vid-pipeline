@@ -1,0 +1,23 @@
+{
+  "runNo": 2855,
+  "at": "2026-11-20T21:39:44.043Z",
+  "rows": [
+    {
+      "event": "story-seth-rogen",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-evan-goldberg",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
