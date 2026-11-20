@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2823 · Updated: 20/11/2026, 08:19:44 (Asia/Kolkata)
+Run #2824 · Updated: 20/11/2026, 09:09:49 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,59 +16,59 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ryan Phillippe — 23/100
+### Ben Stiller — 19/100
 
-**Event:** Ryan Phillippe: trending now
+**Event:** Ben Stiller: Spielberg's forgotten war film launched Christian Bale AND Ben Stiller, and it secretly birthed Tropic Thunder
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 34 (+15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Phillippe ryan phillippe: trending now filings actually say — line by line — the other side of the fight
+> The Ben Stiller ben stiller: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 16 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
+
+**Status:** BOOSTED
+
+### Dylan Harper — 22/100
+
+**Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
+
+**Why now:** 2 source lane(s): news, trends · momentum 26 (-8 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Dylan Harper dylan harper: injury update, latest rumors on spurs star's timeline to return amid hip strain story is actually a money story — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jennifer Love — 17/100
+### James Bond — 16/100
 
-**Event:** Jennifer Love: Carson Daly recalls the unusual tattoo that he got to cover up his ink for ex Jennifer Love Hewitt
+**Event:** James Bond: jack lowden james bond
 
-**Why now:** 1 source lane(s): news · momentum 21 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Jennifer Love jennifer love: hewitt says ‘9-1-1’ reunion with ryan phillippe is first time they’d seen each other since she was 18 (exclusi filings actually say — line by line — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.7h · sources: news
-
-**Status:** KEPT
-
-### Jennifer Lawrence — 18/100
-
-**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
-
-**Why now:** 2 source lane(s): news, trends · momentum 26 (+17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jennifer Lawrence jennifer lawrence: trending now story is actually a money story — the other side of the fight
+> What the James Bond james bond: pierce brosnan reacts to robert pattinson's casting as james bond filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kristen Bell — 22/100
+### Chris Nolan — 19/100
 
-**Event:** Kristen Bell: trending now
+**Event:** Chris Nolan: Prince William Says He’s A Christopher Nolan & ‘The Celebrity Traitors’ Super Fan
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (+4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kristen Bell kristen bell: trending now filings actually say — line by line — the other side of the fight
+> What the Chris Nolan chris nolan: christopher nolan jokes how robert pattinson’s odyssey character would fare as james bond filings actually say — line by line — the other side of the fight
 
-**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
