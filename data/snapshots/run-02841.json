@@ -1,0 +1,51 @@
+{
+  "runNo": 2841,
+  "at": "2026-11-20T15:52:04.889Z",
+  "rows": [
+    {
+      "event": "story-jimmy-kimmel",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-rhys",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-boyle",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-pattinson",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-bond",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-pattinson-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
