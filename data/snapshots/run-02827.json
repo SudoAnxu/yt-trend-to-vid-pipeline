@@ -1,0 +1,30 @@
+{
+  "runNo": 2827,
+  "at": "2026-11-20T05:51:41.074Z",
+  "rows": [
+    {
+      "event": "story-joe-biden",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-valerie-bertinelli",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-amanda-seyfried",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
