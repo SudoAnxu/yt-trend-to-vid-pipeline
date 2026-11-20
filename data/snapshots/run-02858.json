@@ -1,0 +1,37 @@
+{
+  "runNo": 2858,
+  "at": "2026-11-20T22:17:44.484Z",
+  "rows": [
+    {
+      "event": "story-jonathan-roumie",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-house-took-reporters-",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-seth-rogen",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-evan-goldberg",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
