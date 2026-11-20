@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2861 · Updated: 21/11/2026, 04:31:35 (Asia/Kolkata)
+Run #2862 · Updated: 21/11/2026, 04:44:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Luis Gil — 19/100
+### Jordan Leasure — 28/100
 
-**Event:** Luis Gil: trending now
+**Event:** Jordan Leasure: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Luis Gil filing that will matter in six months — the other side of the fight
+> What the Jordan Leasure jordan leasure: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 12h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Scott Wiener — 21/100
+### Luis Gil — 18/100
 
-**Event:** Scott Wiener: trending now
+**Event:** Luis Gil: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Scott Wiener scott wiener: trending now filings actually say — line by line — the other side of the fight
+> What the Luis Gil luis gil: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** RESEARCH
 
