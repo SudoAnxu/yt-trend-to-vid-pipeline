@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2844 · Updated: 20/11/2026, 22:40:09 (Asia/Kolkata)
+Run #2845 · Updated: 20/11/2026, 22:52:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Lance Bass — 22/100
+### Will Be — 17/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Will Be will be: invesco qqq is 14% below its october record. here's where i think it will be in 2030. filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Lance Bass — 21/100
 
 **Event:** Lance Bass: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Lance Bass lance bass: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Peter Brandt — 28/100
-
-**Event:** Peter Brandt: Bitcoin price today crashes near $59,000: Why Peter Brandt warns of a 75% correction as crypto market slid
-
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 11 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Peter Brandt peter brandt: bitcoin price today crashes near $59,000: why peter brandt warns of a 75% correction as crypto market slid filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
