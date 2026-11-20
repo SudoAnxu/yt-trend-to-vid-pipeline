@@ -1,0 +1,23 @@
+{
+  "runNo": 2844,
+  "at": "2026-11-20T17:10:08.053Z",
+  "rows": [
+    {
+      "event": "story-lance-bass",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "unknown"
+    },
+    {
+      "event": "story-peter-brandt",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
