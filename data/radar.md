@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2856 · Updated: 21/11/2026, 03:23:51 (Asia/Kolkata)
+Run #2857 · Updated: 21/11/2026, 03:36:11 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,7 +12,7 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Seth Rogen: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,27 +34,13 @@ Sources this run: trends(39)
 
 **Event:** Evan Goldberg: ‘Home Alone’ Sequel With Macaulay Culkin In Early Works With Seth Rogen & Evan Goldberg Writing & Producing
 
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Evan Goldberg evan goldberg: ‘home alone’ sequel with macaulay culkin in early works with seth rogen & evan goldberg writing & producing filings actually say — line by line — the other side of the fight
 
-**Competition:** 8 videos in last 6h · TTS ≈ 2.6h · sources: news
-
-**Status:** RESEARCH
-
-### Jonah Tong — 19/100
-
-**Event:** Jonah Tong: would love to join forces with ‘bulldog’ Tarik Skubal as he navigates his Mets future
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Jonah Tong jonah tong: would love to join forces with ‘bulldog’ tarik skubal as he navigates his mets future filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 2.3h · sources: news
 
 **Status:** RESEARCH
 
