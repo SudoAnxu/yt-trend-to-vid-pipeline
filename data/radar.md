@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2868 · Updated: 21/11/2026, 07:07:35 (Asia/Kolkata)
+Run #2869 · Updated: 21/11/2026, 07:34:45 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,63 +12,119 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
 
-### Mark Pope — 17/100
+### Anthony Ippolito — 16/100
 
-**Event:** Mark Pope: trending now
+**Event:** Anthony Ippolito: I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Mark Pope mark pope: explains how to get kentucky's sharpshooter milan momcilovic more shots story is actually a money story — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Aiden Flora — 28/100
-
-**Event:** Aiden Flora: What’s it like to block for ISU star Aiden Flora? Let Austin Barrett and Jake Taylor explain
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Aiden Flora aiden flora: what’s it like to block for isu star aiden flora? let austin barrett and jake taylor explain story is actually a money story — the other side of the fight
+> The Anthony Ippolito story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### John Madden — 17/100
-
-**Event:** John Madden: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The John Madden john madden: sport vault, 1976: when john madden was the raiders’ ‘unknown coach’ story is actually a money story — the detail nobody has explained
-
-**Competition:** 24 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Nick Cannon — 23/100
+### Ralph Fiennes — 18/100
 
-**Event:** Nick Cannon: trending now
+**Event:** Ralph Fiennes: trending now
 
 **Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Nick Cannon nick cannon: trending now filings actually say — line by line — the other side of the fight
+> The Ralph Fiennes ralph fiennes: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 9 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Glenn Close — 17/100
+
+**Event:** Glenn Close: Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close
+
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Glenn Close glenn close: and ralph fiennes agree their ‘hunger games’ characters had ‘a thing’ (exclusive) story is actually a money story — the other side of the fight
+
+**Competition:** 23 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Robert Pattinson — 17/100
+
+**Event:** Robert Pattinson: James Bond Surprise: Robert Pattinson Screen Tested to Play 007
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Robert Pattinson robert pattinson: can robert pattinson play both james bond and batman? filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### James Bond — 22/100
+
+**Event:** James Bond: jack lowden james bond
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the James Bond james bond: can robert pattinson play both james bond and batman? filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Matthew Rhys — 20/100
+
+**Event:** Matthew Rhys: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Matthew Rhys matthew rhys: the disastrous joke that cost matthew rhys james bond role revealed filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### John Collins — 14/100
+
+**Event:** John Collins: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the John Collins john collins: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### John Collins' — 20/100
+
+**Event:** John Collins': poor finishing is just as big of a problem as his shooting
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the John Collins' john collins': poor finishing is just as big of a problem as his shooting filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
 
 **Status:** RESEARCH
 
