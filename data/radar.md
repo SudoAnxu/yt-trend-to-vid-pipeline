@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2910 · Updated: 22/11/2026, 03:46:19 (Asia/Kolkata)
+Run #2911 · Updated: 22/11/2026, 04:16:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,23 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Junior Returns As — 23/100
+### Karl Anthony — 20/100
 
-**Event:** Junior Returns As: Real Madrid vs. Celta Vigo Predictions: Vinicius Junior Returns As Madrid Seek Ninth Consecutive Win
+**Event:** Karl Anthony: towns
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Junior Returns As junior returns as: real madrid vs. celta vigo predictions: vinicius junior returns as madrid seek ninth consecutive win filings actually say — line by line — the other side of the fight
+> What the Karl Anthony karl anthony: towns filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
 **Status:** RESEARCH
+
+### Anthony Towns' — 20/100
+
+**Event:** Anthony Towns': karl anthony towns
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Anthony Towns' anthony towns': karl anthony towns filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Steve Harvey — 15/100
+
+**Event:** Steve Harvey: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Steve Harvey steve harvey: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Kevin Hart — 19/100
+
+**Event:** Kevin Hart: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kevin Hart situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
