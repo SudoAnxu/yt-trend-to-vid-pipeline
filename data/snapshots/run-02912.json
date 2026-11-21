@@ -1,0 +1,30 @@
+{
+  "runNo": 2912,
+  "at": "2026-11-21T23:32:48.852Z",
+  "rows": [
+    {
+      "event": "story-louis-blues",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-rachel-brosnahan",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-rhys",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
