@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2913 · Updated: 22/11/2026, 05:07:32 (Asia/Kolkata)
+Run #2914 · Updated: 22/11/2026, 05:21:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,25 +16,53 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kyle Whittingham — 25/100
+### Kyle Whittingham — 22/100
 
 **Event:** Kyle Whittingham: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+9 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 18h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-11 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kyle Whittingham filing that will matter in six months — the other side of the fight
+> What the Kyle Whittingham kyle whittingham: michigan hired kyle whittingham to clean up a mess. instead he’s flirting with disaster - the athletic filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 18h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Nick Marsh — 15/100
+
+**Event:** Nick Marsh: Inside the Film Room: Nick Marsh and his encapsulation of the ‘Ceiling vs. Floor’ discussion point
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Nick Marsh nick marsh: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Lindgren Gets Nod — 23/100
+
+**Event:** Lindgren Gets Nod: vs. Bruins | Washington Capitals
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Lindgren Gets Nod lindgren gets nod: vs. bruins | washington capitals filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Louis Blues — 24/100
 
 **Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -43,34 +71,6 @@ Sources this run: trends(40)
 **Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** KEPT
-
-### Rachel Brosnahan — 23/100
-
-**Event:** Rachel Brosnahan: ‘Presumed Innocent’ Season 2 Pairs Rachel Brosnahan With Matthew Rhys in First Look at Next Courtroom Face-Off
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Rachel Brosnahan rachel brosnahan: ‘presumed innocent’ season 2 pairs rachel brosnahan with matthew rhys in first look at next courtroom face-off story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.6h · sources: news
-
-**Status:** RESEARCH
-
-### Matthew Rhys — 23/100
-
-**Event:** Matthew Rhys: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Matthew Rhys matthew rhys: ‘presumed innocent’ season 2 pairs rachel brosnahan with matthew rhys in first look at next courtroom face-off story is actually a money story — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 9.6h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
