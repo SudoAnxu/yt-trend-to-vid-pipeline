@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2867 · Updated: 21/11/2026, 06:40:57 (Asia/Kolkata)
+Run #2868 · Updated: 21/11/2026, 07:07:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Victor Wembanyama — 14/100
+### Mark Pope — 17/100
 
-**Event:** Victor Wembanyama: trending now
+**Event:** Mark Pope: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Victor Wembanyama victor wembanyama: 25-under-25: victor wembanyama is here to stretch your imagination filings actually say — line by line — the other side of the fight
+> The Mark Pope mark pope: explains how to get kentucky's sharpshooter milan momcilovic more shots story is actually a money story — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Aiden Flora — 28/100
+
+**Event:** Aiden Flora: What’s it like to block for ISU star Aiden Flora? Let Austin Barrett and Jake Taylor explain
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Aiden Flora aiden flora: what’s it like to block for isu star aiden flora? let austin barrett and jake taylor explain story is actually a money story — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### John Madden — 17/100
+
+**Event:** John Madden: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The John Madden john madden: sport vault, 1976: when john madden was the raiders’ ‘unknown coach’ story is actually a money story — the detail nobody has explained
+
+**Competition:** 24 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Nick Cannon — 23/100
+
+**Event:** Nick Cannon: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Nick Cannon nick cannon: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Aaron Wiggins — 16/100
-
-**Event:** Aaron Wiggins: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Aaron Wiggins aaron wiggins: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Warren Central — 19/100
-
-**Event:** Warren Central: Brownsburg hosts Warren Central in IHSAA football semistate matchup
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Warren Central warren central: brownsburg hosts warren central in ihsaa football semistate matchup filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
