@@ -1,0 +1,44 @@
+{
+  "runNo": 2876,
+  "at": "2026-11-21T07:27:46.169Z",
+  "rows": [
+    {
+      "event": "story-bradley-cooper",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-officially-reveals-early",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-martin-short",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-jimmy-kimmel",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

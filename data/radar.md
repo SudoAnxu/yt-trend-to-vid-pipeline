@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2875 · Updated: 21/11/2026, 11:16:26 (Asia/Kolkata)
+Run #2876 · Updated: 21/11/2026, 12:57:47 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,65 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Aaron Gordon — 26/100
+### Bradley Cooper — 18/100
 
-**Event:** Aaron Gordon: trending now
+**Event:** Bradley Cooper: To Star As Duke In Paramount’s New ‘G.I. Joe’ Movie From Director Danny McBride
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Aaron Gordon story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Kevin Durant — 27/100
-
-**Event:** Kevin Durant: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+12 vs prev run) · spice 11 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Kevin Durant story is a proxy fight about something bigger — the number behind the headline
+> What the Bradley Cooper bradley cooper: gigi hadid and bradley cooper show off rings amid marriage rumors filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Michael Kors — 21/100
+### Jennifer Lawrence — 14/100
 
-**Event:** Michael Kors: Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 202
+**Event:** Jennifer Lawrence: Denied Chris Pratt Affair Rumors After Apology
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Kors michael kors: early black friday deals live now: ugg, michael kors, hoka, dyson, ring and more are on major sale for the 202 filings actually say — line by line — the number behind the headline
+> What the Jennifer Lawrence jennifer lawrence: , 36, shows off her “new” breast implants on live tv filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Officially Reveals Early — 21/100
+
+**Event:** Officially Reveals Early: Amazon Officially Reveals Early Black Friday Gaming Deals
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Officially Reveals Early officially reveals early: amazon officially reveals early black friday gaming deals filings actually say — line by line — the number behind the headline
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Will It — 18/100
+### Martin Short — 20/100
 
-**Event:** Will It: The MANNING TOUCH In Tiger Stadium: Will It Hand LSU Another Critical Loss And Playoffs Exit?
+**Event:** Martin Short: , Meg Stalter Star In Verizon's Holiday Ads 11/06/2026
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-8 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Will It will it: how long will it take to complete gta 6? platinum trophy & mythic achievement time explained story is actually a money story — the other side of the fight
+> What the Martin Short martin short: cornered on meryl streep dating rumors filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
-**Status:** KEPT
+**Status:** RESEARCH
+
+### Jimmy Kimmel — 22/100
+
+**Event:** Jimmy Kimmel: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-5 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Jimmy Kimmel jimmy kimmel: selena gomez and jimmy kimmel tease martin short about meryl streep amid dating rumors: 'i wonder why she keep filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
