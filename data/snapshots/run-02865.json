@@ -1,0 +1,16 @@
+{
+  "runNo": 2865,
+  "at": "2026-11-21T00:24:17.078Z",
+  "rows": [
+    {
+      "event": "story-xavier-basketball",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

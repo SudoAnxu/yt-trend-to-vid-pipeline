@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2864 · Updated: 21/11/2026, 05:37:52 (Asia/Kolkata)
+Run #2865 · Updated: 21/11/2026, 05:54:17 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Josh Simmons — 21/100
+### Xavier Basketball — 17/100
 
-**Event:** Josh Simmons: trending now
+**Event:** Xavier Basketball: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Josh Simmons josh simmons: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 15 videos in last 6h · TTS ≈ 8.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Nick Saban — 22/100
-
-**Event:** Nick Saban: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+10 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Nick Saban nick saban: doesn't count alabama among three teams with the 'right stuff,' explains why story is actually a money story — the detail nobody has explained
+> What the Xavier Basketball xavier basketball: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 7.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
