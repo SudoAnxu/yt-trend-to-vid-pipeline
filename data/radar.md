@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2880 · Updated: 21/11/2026, 15:35:45 (Asia/Kolkata)
+Run #2881 · Updated: 21/11/2026, 15:55:45 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,9 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (0)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
+
+### Jake Matthews — 21/100
+
+**Event:** Jake Matthews: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jake Matthews story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>

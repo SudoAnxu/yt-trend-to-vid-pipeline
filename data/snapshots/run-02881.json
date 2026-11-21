@@ -1,0 +1,16 @@
+{
+  "runNo": 2881,
+  "at": "2026-11-21T10:25:44.743Z",
+  "rows": [
+    {
+      "event": "story-jake-matthews",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
