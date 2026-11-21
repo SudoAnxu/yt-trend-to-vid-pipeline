@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2909 · Updated: 22/11/2026, 03:36:46 (Asia/Kolkata)
+Run #2910 · Updated: 22/11/2026, 03:46:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jim Knowles — 27/100
+### Junior Returns As — 23/100
 
-**Event:** Jim Knowles: trending now
+**Event:** Junior Returns As: Real Madrid vs. Celta Vigo Predictions: Vinicius Junior Returns As Madrid Seek Ninth Consecutive Win
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jim Knowles jim knowles: trending now filings actually say — line by line — the other side of the fight
+> What the Junior Returns As junior returns as: real madrid vs. celta vigo predictions: vinicius junior returns as madrid seek ninth consecutive win filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 

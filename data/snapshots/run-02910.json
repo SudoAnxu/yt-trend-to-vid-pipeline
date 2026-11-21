@@ -1,0 +1,16 @@
+{
+  "runNo": 2910,
+  "at": "2026-11-21T22:16:18.509Z",
+  "rows": [
+    {
+      "event": "story-junior-returns-as",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
