@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2863 · Updated: 21/11/2026, 05:11:26 (Asia/Kolkata)
+Run #2864 · Updated: 21/11/2026, 05:37:52 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Max Sasson — 26/100
+### Josh Simmons — 21/100
 
-**Event:** Max Sasson: Vancouver Canucks deal F Max Sasson to New York Rangers for draft pick
+**Event:** Josh Simmons: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 6 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Max Sasson max sasson: vancouver canucks deal f max sasson to new york rangers for draft pick filings actually say — line by line — the number behind the headline
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Pablo Peirano — 19/100
-
-**Event:** Pablo Peirano: y su previa de partido ante el América de Cali
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Pablo Peirano pablo peirano: y su previa de partido ante el américa de cali filings actually say — line by line — the other side of the fight
+> The Josh Simmons josh simmons: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 15 videos in last 6h · TTS ≈ 8.9h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Jordan Leasure — 20/100
+### Nick Saban — 22/100
 
-**Event:** Jordan Leasure: trending now
+**Event:** Nick Saban: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+10 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jordan Leasure jordan leasure: trending now filings actually say — line by line — the other side of the fight
+> The Nick Saban nick saban: doesn't count alabama among three teams with the 'right stuff,' explains why story is actually a money story — the detail nobody has explained
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 7.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
