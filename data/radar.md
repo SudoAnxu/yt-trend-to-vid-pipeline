@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2874 · Updated: 21/11/2026, 09:38:51 (Asia/Kolkata)
+Run #2875 · Updated: 21/11/2026, 11:16:26 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,59 +16,59 @@ Sources this run: trends(37)
 
 <details><summary>show</summary>
 
-### Michael Jordan's — 19/100
+### Aaron Gordon — 26/100
 
-**Event:** Michael Jordan's: Ferrari 550 Maranello Sets Auction Record At $2.7 Million
+**Event:** Aaron Gordon: trending now
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Michael Jordan's michael jordan's: in 2021, demar derozan paid $4.5 million for a chicago mansion once owned by michael jordan's ex-wife; he has  story is actually a money story — the number behind the headline
+> The Aaron Gordon story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Kevin Durant — 27/100
+
+**Event:** Kevin Durant: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 24 (+12 vs prev run) · spice 11 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Kevin Durant story is a proxy fight about something bigger — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Brian Windhorst — 22/100
+### Michael Kors — 21/100
 
-**Event:** Brian Windhorst: points to a mysterious injury behind Nikola Jokic's shooting slump: "He's been dealing with it for 5 years"
+**Event:** Michael Kors: Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 202
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 6 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Brian Windhorst brian windhorst: points to a mysterious injury behind nikola jokic's shooting slump: "he's been dealing with it for 5 years" filings actually say — line by line — the other side of the fight
+> What the Michael Kors michael kors: early black friday deals live now: ugg, michael kors, hoka, dyson, ring and more are on major sale for the 202 filings actually say — line by line — the number behind the headline
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Steven Adams — 17/100
+### Will It — 18/100
 
-**Event:** Steven Adams: (calf) to start Sunday vs. Wizards
+**Event:** Will It: The MANNING TOUCH In Tiger Stadium: Will It Hand LSU Another Critical Loss And Playoffs Exit?
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Steven Adams steven adams: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** RESEARCH
-
-### Zach Lavine — 17/100
-
-**Event:** Zach Lavine: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Zach Lavine zach lavine: trending now filings actually say — line by line — the other side of the fight
+> The Will It will it: how long will it take to complete gta 6? platinum trophy & mythic achievement time explained story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** KEPT
 
