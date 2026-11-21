@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2886 · Updated: 21/11/2026, 19:10:13 (Asia/Kolkata)
+Run #2887 · Updated: 21/11/2026, 19:56:53 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,23 +12,37 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Ron Johnson — 19/100
+### Carlos Alcaraz — 23/100
 
-**Event:** Ron Johnson: The problem(s) with Ron Johnson trying to walk back his call for Social Security’s elimination
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ron Johnson ron johnson: the problem(s) with ron johnson trying to walk back his call for social security’s elimination filings actually say — line by line — the other side of the fight
+> What the Carlos Alcaraz carlos alcaraz: ¡en vivo! carlos alcaraz vs. ben shelton, por las semifinales de las atp finals 2026 filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Ben Shelton — 21/100
+
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
+
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Ben Shelton ben shelton: ¡en vivo! carlos alcaraz vs. ben shelton, por las semifinales de las atp finals 2026 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
