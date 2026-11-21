@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2899 · Updated: 21/11/2026, 23:56:30 (Asia/Kolkata)
+Run #2900 · Updated: 22/11/2026, 01:07:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,31 +16,31 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Russell Brand — 16/100
+### James Bond — 18/100
 
-**Event:** Russell Brand: trending now
+**Event:** James Bond: jack lowden james bond
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 13 (-9 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Russell Brand russell brand: what did russell brand say about katy perry filings actually say — line by line — the other side of the fight
+> The James Bond story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Russell Brand's — 13/100
+### Robert Pattinson — 14/100
 
-**Event:** Russell Brand's: Why Russell Brand's lawyers wanted his Katy Perry marriage left out of trial
+**Event:** Robert Pattinson: James Bond Surprise: Robert Pattinson Screen Tested to Play 007
 
-**Why now:** 1 source lane(s): news · momentum 14 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Russell Brand's russell brand's: katy perry and justin trudeau put on united front in italy after russell brand's bizarre marriage admission filings actually say — line by line — the other side of the fight
+> The Robert Pattinson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
