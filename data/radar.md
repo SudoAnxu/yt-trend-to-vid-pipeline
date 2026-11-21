@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2865 · Updated: 21/11/2026, 05:54:17 (Asia/Kolkata)
+Run #2866 · Updated: 21/11/2026, 06:23:36 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Xavier Basketball — 17/100
-
-**Event:** Xavier Basketball: trending now
-
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Xavier Basketball xavier basketball: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
 
 
 </details>
