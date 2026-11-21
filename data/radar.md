@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2882 · Updated: 21/11/2026, 17:08:43 (Asia/Kolkata)
+Run #2883 · Updated: 21/11/2026, 17:24:23 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,29 +30,15 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kevin Owens — 17/100
+### Will Stay — 19/100
 
-**Event:** Kevin Owens: SmackDown, Nov. 6, 2026 preview: CM Punk battles Kevin Owens in a No Holds Barred Match
+**Event:** Will Stay: Pearl Harbor Hero Doris Miller Will Stay Namesake of CVN-81
 
-**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Kevin Owens kevin owens: smackdown results, nov. 20, 2026: sami zayn blindsides kevin owens with a helluva kick filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Michael Kors — 21/100
-
-**Event:** Michael Kors: Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 202
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Michael Kors michael kors: early black friday deals live now: ugg, michael kors, hoka, dyson, ring and more are on major sale for the 202 filings actually say — line by line — the number behind the headline
+> What the Will Stay will stay: pearl harbor hero doris miller will stay namesake of cvn-81 filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
