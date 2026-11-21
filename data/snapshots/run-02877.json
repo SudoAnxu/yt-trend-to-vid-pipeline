@@ -1,0 +1,23 @@
+{
+  "runNo": 2877,
+  "at": "2026-11-21T08:05:42.216Z",
+  "rows": [
+    {
+      "event": "story-david-fincher",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-zoe-saldana",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
