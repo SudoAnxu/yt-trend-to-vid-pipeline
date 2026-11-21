@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2871 · Updated: 21/11/2026, 08:28:32 (Asia/Kolkata)
+Run #2872 · Updated: 21/11/2026, 08:52:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Anthony Ippolito — 17/100
+### James Bond — 12/100
 
-**Event:** Anthony Ippolito: I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph
+**Event:** James Bond: jack lowden james bond
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Anthony Ippolito story is a proxy fight about something bigger — the other side of the fight
+> The James Bond james bond: has finally been cast. now it’s time to pick the villains story is actually a money story — the other side of the fight
 
-**Competition:** 13 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### James Harden — 14/100
+### Robert Pattinson's — 14/100
 
-**Event:** James Harden: How James Harden facilitated Cleveland’s biggest offseason splash
+**Event:** Robert Pattinson's: Pierce Brosnan reacts to Robert Pattinson's casting as James Bond
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the James Harden james harden: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Terry Pluto — 18/100
-
-**Event:** Terry Pluto: No LeBron? Cavs’ big summer move for Peyton Watson might be the right one – Terry Pluto
-
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-12 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Terry Pluto terry pluto: how the cavs are cashing in with a bargain-basement bench – terry pluto story is actually a money story — the other side of the fight
+> The Robert Pattinson's robert pattinson's: why fans want kristen stewart as robert pattinson's bond villain story is actually a money story — the detail nobody has explained
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
 
