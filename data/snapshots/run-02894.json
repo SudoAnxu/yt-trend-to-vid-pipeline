@@ -1,0 +1,16 @@
+{
+  "runNo": 2894,
+  "at": "2026-11-21T16:52:29.601Z",
+  "rows": [
+    {
+      "event": "story-rob-reiner-s",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
