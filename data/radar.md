@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2901 · Updated: 22/11/2026, 01:24:51 (Asia/Kolkata)
+Run #2902 · Updated: 22/11/2026, 01:43:32 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Alexander Zverev — 16/100
+### Josh Johnson — 19/100
+
+**Event:** Josh Johnson: Carson Beck dealing with back spasms, Josh Johnson in line to start vs. Chiefs
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Johnson story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Alexander Zverev — 17/100
 
 **Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-13 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,25 +44,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Josh Johnson — 22/100
-
-**Event:** Josh Johnson: Carson Beck dealing with back spasms, Josh Johnson in line to start vs. Chiefs
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Josh Johnson story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 9 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** RESEARCH
-
 ### Jose Mourinho — 20/100
 
 **Event:** Jose Mourinho: Finally Changes His Tune on Vinicius Junior With Brutal Warning
 
-**Why now:** 1 source lane(s): news · momentum 23 (+9 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 21 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -58,31 +58,31 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Brian Ortega — 27/100
+### Tracy Cortez — 23/100
+
+**Event:** Tracy Cortez: Brian Ortega reveals crazy coincidence about famous Tracy Cortez lip tattoo
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · external momentum 25 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Tracy Cortez tracy cortez: brian ortega reveals crazy coincidence about famous tracy cortez lip tattoo filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Brian Ortega — 21/100
 
 **Event:** Brian Ortega: Tattooed Tracy Cortez's Name Inside His Lip in 2022, but a Fight Left One Detail Changed Forever
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 14 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Brian Ortega brian ortega: tattooed tracy cortez's name inside his lip in 2022, but a fight left one detail changed forever story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
-
-### Lucas Oil — 23/100
-
-**Event:** Lucas Oil: Indiana basketball coach Darian DeVries discusses IU's 90-76 win over rival Kentucky at Lucas Oil Stadium
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Lucas Oil lucas oil: indiana basketball coach darian devries discusses iu's 90-76 win over rival kentucky at lucas oil stadium filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
 
 **Status:** RESEARCH
 
