@@ -1,0 +1,16 @@
+{
+  "runNo": 2909,
+  "at": "2026-11-21T22:06:46.044Z",
+  "rows": [
+    {
+      "event": "story-jim-knowles",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
