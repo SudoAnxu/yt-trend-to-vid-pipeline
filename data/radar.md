@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2872 · Updated: 21/11/2026, 08:52:25 (Asia/Kolkata)
+Run #2873 · Updated: 21/11/2026, 09:15:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,63 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### James Bond — 12/100
+### Sam Elliott — 13/100
 
-**Event:** James Bond: jack lowden james bond
+**Event:** Sam Elliott: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The James Bond james bond: has finally been cast. now it’s time to pick the villains story is actually a money story — the other side of the fight
+> What the Sam Elliott sam elliott: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Josh Giddey — 15/100
+
+**Event:** Josh Giddey: Is Josh Giddey playing? Bulls vs Bucks injury report
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Josh Giddey josh giddey: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Robert Pattinson's — 14/100
+### Anthony Davis — 15/100
 
-**Event:** Robert Pattinson's: Pierce Brosnan reacts to Robert Pattinson's casting as James Bond
+**Event:** Anthony Davis: New Anthony Davis Rumors on Desire for New Contract After Offseason Trade Buzz
 
-**Why now:** 1 source lane(s): news · momentum 14 (-12 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Robert Pattinson's robert pattinson's: why fans want kristen stewart as robert pattinson's bond villain story is actually a money story — the detail nobody has explained
+> What the Anthony Davis anthony davis: back at his best in wizards win in chicago filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 18 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Sam Mailbag — 20/100
+
+**Event:** Sam Mailbag: Ask Sam Mailbag: Takeaways from the start of Preseason
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Sam Mailbag sam mailbag: ask sam mailbag: how have the bulls looked without caleb wilson? story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
 
