@@ -1,0 +1,23 @@
+{
+  "runNo": 2889,
+  "at": "2026-11-21T15:01:06.802Z",
+  "rows": [
+    {
+      "event": "story-mario-cristobal",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-ken-griffin",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
