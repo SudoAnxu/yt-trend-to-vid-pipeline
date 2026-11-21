@@ -1,0 +1,23 @@
+{
+  "runNo": 2895,
+  "at": "2026-11-21T17:11:32.101Z",
+  "rows": [
+    {
+      "event": "story-marc-marquez",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-alex-murdaugh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
