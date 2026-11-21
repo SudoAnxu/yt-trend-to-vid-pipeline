@@ -1,0 +1,16 @@
+{
+  "runNo": 2888,
+  "at": "2026-11-21T14:51:37.045Z",
+  "rows": [
+    {
+      "event": "story-ken-griffin",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

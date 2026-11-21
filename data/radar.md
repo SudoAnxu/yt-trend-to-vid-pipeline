@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2887 · Updated: 21/11/2026, 19:56:53 (Asia/Kolkata)
+Run #2888 · Updated: 21/11/2026, 20:21:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,35 +12,21 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 23/100
+### Ken Griffin — 27/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Ken Griffin: Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Carlos Alcaraz carlos alcaraz: ¡en vivo! carlos alcaraz vs. ben shelton, por las semifinales de las atp finals 2026 filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Ben Shelton — 21/100
-
-**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ben Shelton ben shelton: ¡en vivo! carlos alcaraz vs. ben shelton, por las semifinales de las atp finals 2026 filings actually say — line by line — the other side of the fight
+> What the Ken Griffin ken griffin: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 3h · sources: trends, news
 
 **Status:** ARCHIVED
 
