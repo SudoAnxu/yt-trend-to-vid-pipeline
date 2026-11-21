@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2905 · Updated: 22/11/2026, 02:14:48 (Asia/Kolkata)
+Run #2906 · Updated: 22/11/2026, 02:29:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
+
+### Ryan Day — 17/100
+
+**Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
+
+**Why now:** 2 source lane(s): news, trends · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Ryan Day ryan day: trending now story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Joe Biden — 19/100
+
+**Event:** Joe Biden: president joe biden
+
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Joe Biden joe biden: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Michael Kors — 21/100
 
 **Event:** Michael Kors: Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 202
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,17 +58,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Carlos Ulberg — 25/100
+### Carlos Ulberg — 20/100
 
 **Event:** Carlos Ulberg: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Carlos Ulberg story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** RESEARCH
 
