@@ -1,0 +1,30 @@
+{
+  "runNo": 2871,
+  "at": "2026-11-21T02:58:32.579Z",
+  "rows": [
+    {
+      "event": "story-anthony-ippolito",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-harden",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-terry-pluto",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
