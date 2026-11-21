@@ -1,0 +1,37 @@
+{
+  "runNo": 2885,
+  "at": "2026-11-21T13:13:42.134Z",
+  "rows": [
+    {
+      "event": "story-ron-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-alexander-zverev",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-shelton",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 2,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
