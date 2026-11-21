@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2877 · Updated: 21/11/2026, 13:35:42 (Asia/Kolkata)
+Run #2878 · Updated: 21/11/2026, 13:54:10 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,15 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### David Fincher — 21/100
+### David Fincher — 19/100
 
 **Event:** David Fincher: Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,17 +30,45 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Zoe Saldana — 25/100
+### David Fincher's — 18/100
+
+**Event:** David Fincher's: ‘The Further Mis-Adventures of Cliff Booth’ Review: David Fincher’s Breezy Tarantino Spinoff Is a Disappointin
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The David Fincher's david fincher's: ‘the further mis-adventures of cliff booth’ review: david fincher’s breezy tarantino spinoff is a disappointin story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Jason — 21/100
+
+**Event:** Jason: The actor behind Jason in 'GTA 6' has finally been revealed. Here's where you've seen him before.
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Jason story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Zoe Saldana — 24/100
 
 **Event:** Zoe Saldana: Pushes Taylor Sheridan to Change Lioness Finale
 
-**Why now:** 2 source lane(s): news, trends · momentum 28 (+18 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 24 (-4 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Zoe Saldana story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 1 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
