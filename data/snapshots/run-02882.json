@@ -1,0 +1,30 @@
+{
+  "runNo": 2882,
+  "at": "2026-11-21T11:38:42.651Z",
+  "rows": [
+    {
+      "event": "story-carlos-alcaraz",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-owens",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-kors",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
