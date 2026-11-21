@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2878 · Updated: 21/11/2026, 13:54:10 (Asia/Kolkata)
+Run #2879 · Updated: 21/11/2026, 14:31:57 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** David Fincher: Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** David Fincher's: ‘The Further Mis-Adventures of Cliff Booth’ Review: David Fincher’s Breezy Tarantino Spinoff Is a Disappointin
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Jason: The actor behind Jason in 'GTA 6' has finally been revealed. Here's where you've seen him before.
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -57,20 +57,6 @@ Sources this run: trends(40)
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
-
-### Zoe Saldana — 24/100
-
-**Event:** Zoe Saldana: Pushes Taylor Sheridan to Change Lioness Finale
-
-**Why now:** 2 source lane(s): news, trends · momentum 24 (-4 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Zoe Saldana story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>

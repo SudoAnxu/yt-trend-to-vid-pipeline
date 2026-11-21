@@ -1,0 +1,30 @@
+{
+  "runNo": 2879,
+  "at": "2026-11-21T09:01:57.487Z",
+  "rows": [
+    {
+      "event": "story-david-fincher",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-fincher-s",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jason",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
