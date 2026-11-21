@@ -1,0 +1,16 @@
+{
+  "runNo": 2886,
+  "at": "2026-11-21T13:40:13.189Z",
+  "rows": [
+    {
+      "event": "story-ron-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
