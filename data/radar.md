@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2896 · Updated: 21/11/2026, 23:10:38 (Asia/Kolkata)
+Run #2897 · Updated: 21/11/2026, 23:23:04 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Ryan Day: Dave Portnoy on Fox ‘Big Noon’ Exit: Ryan Day Thinks I ‘Doxxed’ Him
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,61 +30,61 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jerry Jones — 21/100
+### Jerry Jones — 14/100
 
 **Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+7 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 6 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jerry Jones jerry jones: on fan's death after fight at 49ers-cowboys game: "we had no record of an incident" filings actually say — line by line — the other side of the fight
+> What the Jerry Jones jerry jones: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 18 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Matt Rhule — 20/100
+### Matt Rhule — 19/100
 
 **Event:** Matt Rhule: Nebraska HC Matt Rhule makes cameo in HBO's 'Lanterns' season finale
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Matt Rhule matt rhule: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 21 videos in last 6h · TTS ≈ 7.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Nick Saban — 14/100
+### Nick Saban — 17/100
 
 **Event:** Nick Saban: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-18 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Nick Saban nick saban: has high praise for alabama native, former south alabama qb gio lopez story is actually a money story — the other side of the fight
 
-**Competition:** 21 videos in last 6h · TTS ≈ 7.6h · sources: trends, news
+**Competition:** 21 videos in last 6h · TTS ≈ 8.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Anthony Colandrea — 24/100
+### Scott Van — 19/100
 
-**Event:** Anthony Colandrea: trending now
+**Event:** Scott Van: Pelt weighs in on Mike Locksley's firing and what's next for Maryland football
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Anthony Colandrea story is a proxy fight about something bigger — the other side of the fight
+> What the Scott Van scott van: from nick saban to scott van pelt, wake forest football is getting some serious love filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
