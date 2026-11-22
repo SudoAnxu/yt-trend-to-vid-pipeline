@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2959 · Updated: 23/11/2026, 04:45:13 (Asia/Kolkata)
+Run #2960 · Updated: 23/11/2026, 05:15:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,63 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Dominic Zvada — 20/100
+### Mario Lopez — 18/100
 
-**Event:** Dominic Zvada: trending now
+**Event:** Mario Lopez: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Dominic Zvada dominic zvada: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** BOOSTED
-
-### Michael Mayer — 16/100
-
-**Event:** Michael Mayer: Week 3 Preview vs. the Saints
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Mayer michael mayer: trending now filings actually say — line by line — the other side of the fight
+> What the Mario Lopez mario lopez: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Tony Danza — 19/100
+
+**Event:** Tony Danza: Mario Lopez on working with his son and Tony Danza in 'Three Generations, One Christmas'
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Tony Danza tony danza: mario lopez on working with his son and tony danza in 'three generations, one christmas' filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Josh Holloway — 28/100
+
+**Event:** Josh Holloway: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Josh Holloway story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Jennifer Lopez — 17/100
+
+**Event:** Jennifer Lopez: Ben Affleck makes surprising Jennifer Lopez confession two years after their divorce
+
+**Why now:** 1 source lane(s): news · momentum 21 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jennifer Lopez jennifer lopez: addresses "hard, disappointing" divorce from ben affleck story is actually a money story — what happens next
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
 
 **Status:** ARCHIVED
 
-### Patrick Mahomes — 16/100
+### Ben Affleck — 15/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Patrick Mahomes patrick mahomes: chiefs pull patrick mahomes (324/3) with 34-7 lead filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Robert Lewandowski — 14/100
-
-**Event:** Robert Lewandowski: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-13 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Robert Lewandowski robert lewandowski: chicago fire & robert lewandowski aim for next step story is actually a money story — the other side of the fight
+> The Ben Affleck ben affleck: jennifer lopez addresses "hard, disappointing" divorce from ben affleck story is actually a money story — what happens next
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
