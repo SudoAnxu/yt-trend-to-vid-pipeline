@@ -1,0 +1,16 @@
+{
+  "runNo": 2934,
+  "at": "2026-11-22T13:33:22.002Z",
+  "rows": [
+    {
+      "event": "story-jack-campbell",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
