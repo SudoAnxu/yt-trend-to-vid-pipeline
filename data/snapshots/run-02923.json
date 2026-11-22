@@ -1,0 +1,23 @@
+{
+  "runNo": 2923,
+  "at": "2026-11-22T05:17:21.107Z",
+  "rows": [
+    {
+      "event": "story-ben-wang",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-oscar-buzz",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
