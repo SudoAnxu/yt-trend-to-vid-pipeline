@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2923 · Updated: 22/11/2026, 10:47:21 (Asia/Kolkata)
+Run #2924 · Updated: 22/11/2026, 12:39:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ben Wang — 13/100
+### Robert Downey — 12/100
 
-**Event:** Ben Wang: trending now
+**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ben Wang ben wang: trending now filings actually say — line by line — the other side of the fight
+> What the Robert Downey robert downey: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Oscar Buzz — 21/100
+### John Wick — 21/100
 
-**Event:** Oscar Buzz: Penélope Cruz & Rashida Jones’ Acclaimed Remake Movie With Oscar Buzz Hits HBO Max Today
+**Event:** John Wick: trending now
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 27 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Oscar Buzz story is a proxy fight about something bigger — the other side of the fight
+> What the John Wick john wick: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
