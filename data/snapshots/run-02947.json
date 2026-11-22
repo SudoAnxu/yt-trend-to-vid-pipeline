@@ -1,0 +1,65 @@
+{
+  "runNo": 2947,
+  "at": "2026-11-22T18:49:40.804Z",
+  "rows": [
+    {
+      "event": "story-tony-pollard",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-bradley-cooper",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-reid",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-godwin",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-ted-hurst",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-david-corenswet",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-fincher",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-allen-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 11,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
