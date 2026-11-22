@@ -1,0 +1,23 @@
+{
+  "runNo": 2926,
+  "at": "2026-11-22T08:16:31.321Z",
+  "rows": [
+    {
+      "event": "story-aidan-hutchinson",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-downey",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
