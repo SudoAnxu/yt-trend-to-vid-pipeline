@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2926 · Updated: 22/11/2026, 13:46:31 (Asia/Kolkata)
+Run #2927 · Updated: 22/11/2026, 14:40:42 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Josh Allen — 19/100
+
+**Event:** Josh Allen: injury
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Josh Allen josh allen: skip bayless stunned by what josh allen has admitted to doing for the bills filings actually say — line by line — the part that was not supposed to be public
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
 ### Aidan Hutchinson — 12/100
 
 **Event:** Aidan Hutchinson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Aidan Hutchinson aidan hutchinson: wasn’t fined for sack that injured drake maye story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Robert Downey — 13/100
-
-**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
-
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Robert Downey robert downey: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
