@@ -1,0 +1,37 @@
+{
+  "runNo": 2920,
+  "at": "2026-11-22T02:32:02.698Z",
+  "rows": [
+    {
+      "event": "story-ryan-garcia",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-floyd-mayweather",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-floyd-mayweather-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-kurt-russell",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

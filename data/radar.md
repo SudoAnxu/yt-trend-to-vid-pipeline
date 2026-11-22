@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2919 · Updated: 22/11/2026, 07:23:18 (Asia/Kolkata)
+Run #2920 · Updated: 22/11/2026, 08:02:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,61 +16,61 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Shane Beamer — 26/100
+### Ryan Garcia — 21/100
 
-**Event:** Shane Beamer: trending now
+**Event:** Ryan Garcia: ‘Almost like a 50/50 fight’: Oscar De La Hoya talks Ryan Garcia vs Floyd Mayweather and more
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Shane Beamer shane beamer: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Dylan Stewart — 18/100
-
-**Event:** Dylan Stewart: Reportedly Set to Return from Suspension for South Carolina vs. Florida
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Dylan Stewart dylan stewart: trending now story is actually a money story — the other side of the fight
+> The Ryan Garcia ryan garcia: floyd mayweather jr. vs ryan garcia fight date: waiting game continues story is actually a money story — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 8h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kirk Herbstreit — 17/100
+### Floyd Mayweather — 17/100
 
-**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
+**Event:** Floyd Mayweather: finally announces his next two fights including 100 million blockbuster
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (-22 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-6 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kirk Herbstreit kirk herbstreit: trending now filings actually say — line by line — the other side of the fight
+> The Floyd Mayweather floyd mayweather: jr. vs ryan garcia fight date: waiting game continues story is actually a money story — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Kirk Herbstreit's — 25/100
+### Floyd Mayweather's — 19/100
 
-**Event:** Kirk Herbstreit's: You Can Only Spend So Much Time on Twitter Before You Start Arguing With Burners About Kirk Herbstreit's Dog
+**Event:** Floyd Mayweather's: 2 felony criminal charges dismissed by Nevada prosecutors
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 27 (+8 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Kirk Herbstreit's kirk herbstreit's: you can only spend so much time on twitter before you start arguing with burners about kirk herbstreit's dog story is actually a money story — the other side of the fight
+> What the Floyd Mayweather's floyd mayweather's: former opponent victor ortiz sums up floyd mayweather's chances beating ryan garcia for wbc title filings actually say — line by line — what happens next
 
-**Competition:** 4 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** BOOSTED
+
+### Kurt Russell — 12/100
+
+**Event:** Kurt Russell: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Kurt Russell kurt russell: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
