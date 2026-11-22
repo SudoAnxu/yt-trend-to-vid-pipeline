@@ -1,0 +1,30 @@
+{
+  "runNo": 2915,
+  "at": "2026-11-22T00:09:34.719Z",
+  "rows": [
+    {
+      "event": "story-trump-says-he",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-corenswet",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-gunn-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
