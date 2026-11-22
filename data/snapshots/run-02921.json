@@ -1,0 +1,23 @@
+{
+  "runNo": 2921,
+  "at": "2026-11-22T02:49:19.537Z",
+  "rows": [
+    {
+      "event": "story-josh-hart",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-nate-bargatze",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
