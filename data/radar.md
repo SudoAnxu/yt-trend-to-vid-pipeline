@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2950 · Updated: 23/11/2026, 01:57:03 (Asia/Kolkata)
+Run #2951 · Updated: 23/11/2026, 02:03:47 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,79 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### James Bond — 17/100
+### Luis Gil — 19/100
 
-**Event:** James Bond: jack lowden james bond
+**Event:** Luis Gil: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (-9 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the James Bond james bond: could zendaya, sydney sweeney or jodie comer be the next bond girl opposite robert pattinson? filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Robert Pattinson — 18/100
-
-**Event:** Robert Pattinson: James Bond Surprise: Robert Pattinson Screen Tested to Play 007
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Robert Pattinson robert pattinson: james bond: could zendaya, sydney sweeney or jodie comer be the next bond girl opposite robert pattinson? filings actually say — line by line — the other side of the fight
+> What the Luis Gil luis gil: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.2h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
-### Alexandra Daddario — 21/100
+### Kurt Russell — 15/100
 
-**Event:** Alexandra Daddario: trending now
+**Event:** Kurt Russell: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-5 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Alexandra Daddario alexandra daddario: bond girl favourite alexandra daddario casts doubt on fan speculation filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 6 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Chris Jones — 14/100
-
-**Event:** Chris Jones: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Chris Jones chris jones: praises elite performance from underrated teammate story is actually a money story — the other side of the fight
+> What the Kurt Russell kurt russell: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Trevor Lawrence — 20/100
+### Kurt Russell's — 19/100
 
-**Event:** Trevor Lawrence: WATCH: Trevor Lawrence connects with Josh Cameron for TD vs Patriots
+**Event:** Kurt Russell's: Meet Kurt Russell's rarely-seen eldest son — who completely rejected his massive Hollywood dynasty for a quiet
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+1 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Trevor Lawrence story is a proxy fight about something bigger — the other side of the fight
+> The Kurt Russell's situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 3.7h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>

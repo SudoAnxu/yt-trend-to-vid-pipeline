@@ -1,0 +1,30 @@
+{
+  "runNo": 2951,
+  "at": "2026-11-22T20:33:46.896Z",
+  "rows": [
+    {
+      "event": "story-luis-gil",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-kurt-russell",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-kurt-russell-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
