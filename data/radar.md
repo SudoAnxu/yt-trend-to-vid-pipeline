@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2954 · Updated: 23/11/2026, 02:40:01 (Asia/Kolkata)
+Run #2955 · Updated: 23/11/2026, 02:55:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,107 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Travis Kelce's — 17/100
+### Patrick Mahomes — 19/100
 
-**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
+**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Travis Kelce's travis kelce's: taylor swift hugs jason and kylie kelce’s daughter wyatt, 7, as they celebrate travis kelce’s second touchdown filings actually say — line by line — the other side of the fight
-
-**Competition:** 21 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Travis Kelce — 19/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: taylor swift cheers on travis kelce at chiefs game with kylie kelce, donna kelce & her parents – see photos! filings actually say — line by line — the other side of the fight
+> The Patrick Mahomes story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Donna Kelce — 20/100
+### Kyle Monangai — 18/100
 
-**Event:** Donna Kelce: trending now
+**Event:** Kyle Monangai: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-9 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Donna Kelce donna kelce: taylor swift cheers on travis kelce at chiefs game with kylie kelce, donna kelce & her parents – see photos! filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Tony Pollard — 19/100
-
-**Event:** Tony Pollard: NFL Week 7 Start ‘Em, Sit ‘Em RBs: Woody Marks vs. Tony Pollard
-
-**Why now:** 2 source lane(s): news, trends · momentum 28 (+12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-15 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tony Pollard tony pollard: trending now story is actually a money story — the other side of the fight
+> The Kyle Monangai kyle monangai: jeffery simmons, kyle monangai good to go against saints | injury update story is actually a money story — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 7.5h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 8.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ryan Flournoy — 25/100
+### Jonah Coleman — 15/100
 
-**Event:** Ryan Flournoy: trending now
+**Event:** Jonah Coleman: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 19.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ryan Flournoy filing that will matter in six months — the other side of the fight
+> What the Jonah Coleman jonah coleman: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 19.2h · sources: trends, news
+**Competition:** 9 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Justin Barron — 23/100
+### Malik Washington — 14/100
 
-**Event:** Justin Barron: trending now
+**Event:** Malik Washington: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Barron story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Jake Elliott — 27/100
-
-**Event:** Jake Elliott: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jake Elliott jake elliott: trending now filings actually say — line by line — the other side of the fight
+> The Malik Washington malik washington: miami dolphins wide receiver malik washington moves the chains with one-handed catch on fourth down story is actually a money story — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
