@@ -1,0 +1,37 @@
+{
+  "runNo": 2919,
+  "at": "2026-11-22T01:53:16.977Z",
+  "rows": [
+    {
+      "event": "story-shane-beamer",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-dylan-stewart",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-herbstreit",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 4,
+      "window": "closed"
+    },
+    {
+      "event": "story-kirk-herbstreit-s",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
