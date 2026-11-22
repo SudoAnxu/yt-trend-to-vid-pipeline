@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2939 · Updated: 22/11/2026, 21:29:38 (Asia/Kolkata)
+Run #2940 · Updated: 22/11/2026, 22:04:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,79 +12,65 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Scott Bessent — 13/100
+### Ruben Amorim — 17/100
 
-**Event:** Scott Bessent: trending now
+**Event:** Ruben Amorim: has touchline meltdown as AC Milan keeper is given bizarre red card against Bournemouth
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Scott Bessent scott bessent: trending now filings actually say — line by line — the other side of the fight
+> The Ruben Amorim ruben amorim: 'we are not reaching the final third' - ruben amorim defends goncalo ramos goal drought and praises silvio bal story is actually a money story — the other side of the fight
 
-**Competition:** 12 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Thomas Reis — 19/100
+### Rob Kardashian — 20/100
 
-**Event:** Thomas Reis: "Bu onları daha tehlikeli hale getiriyor"
+**Event:** Rob Kardashian: Is Ready to Reveal Family Secrets and Open Up About His Struggles — Kris Jenner Is Furious
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 23 (-4 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 6.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Thomas Reis thomas reis: bu sebepten ötürü zor bir maç olacak filings actually say — line by line — the other side of the fight
+> The Rob Kardashian rob kardashian: shares rare photo with daughter dream for her birthday, blac chyna reacts story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 8 videos in last 6h · TTS ≈ 6.5h · sources: trends, news
+
+**Status:** KEPT
+
+### Glenn Schumann — 28/100
+
+**Event:** Glenn Schumann: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Glenn Schumann glenn schumann: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### John Kennedy — 17/100
+### Brian Kelly — 18/100
 
-**Event:** John Kennedy: trending now
+**Event:** Brian Kelly: 'I’ll preface it by saying that I recruited him' - Former LSU head coach Brian Kelly left no doubt on how he f
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the John Kennedy john kennedy: sen john kennedy filings actually say — line by line — the other side of the fight
+> What the Brian Kelly brian kelly: florida state, maryland coaching searches heat up: glenn schumann, brian kelly emerge filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Tom Jackson — 20/100
-
-**Event:** Tom Jackson: , Broncos star LB and Hall of Fame broadcaster at ESPN, dies at 75
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tom Jackson story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
-
-**Status:** RESEARCH
-
-### John Corbett — 21/100
-
-**Event:** John Corbett: Bo Derek and John Corbett adopted Gene Hackman’s dog after his death: ‘Perfect gentleman’
-
-**Why now:** 1 source lane(s): news · momentum 25 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the John Corbett john corbett: bo derek and john corbett adopted gene hackman’s dog after his death: ‘perfect gentleman’ filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
