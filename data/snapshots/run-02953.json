@@ -1,0 +1,30 @@
+{
+  "runNo": 2953,
+  "at": "2026-11-22T20:55:25.869Z",
+  "rows": [
+    {
+      "event": "story-ryan-flournoy",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-shipley",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
