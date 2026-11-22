@@ -1,0 +1,16 @@
+{
+  "runNo": 2937,
+  "at": "2026-11-22T14:59:12.578Z",
+  "rows": [
+    {
+      "event": "story-marc-marquez",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
