@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2941 · Updated: 22/11/2026, 22:13:44 (Asia/Kolkata)
+Run #2942 · Updated: 22/11/2026, 22:45:03 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Ruben Amorim — 18/100
+### Luis Gil — 19/100
 
-**Event:** Ruben Amorim: has touchline meltdown as AC Milan keeper is given bizarre red card against Bournemouth
+**Event:** Luis Gil: trending now
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ruben Amorim ruben amorim: 'we are not reaching the final third' - ruben amorim defends goncalo ramos goal drought and praises silvio bal story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Rob Kardashian — 21/100
-
-**Event:** Rob Kardashian: Is Ready to Reveal Family Secrets and Open Up About His Struggles — Kris Jenner Is Furious
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-6 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 2.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Rob Kardashian rob kardashian: poses in rare family photos during daughter dream’s purr-fect birthday celebration filings actually say — line by line — the other side of the fight
+> What the Luis Gil luis gil: yankees let pitcher luis gil go, declining to tender contract 2 seasons after winning al rookie of the year filings actually say — line by line — the number behind the headline
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 2.8h · sources: trends, news
 
-**Status:** KEPT
+**Status:** RESEARCH
 
 
 </details>

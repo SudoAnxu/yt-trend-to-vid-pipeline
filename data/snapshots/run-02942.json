@@ -1,0 +1,16 @@
+{
+  "runNo": 2942,
+  "at": "2026-11-22T17:15:02.929Z",
+  "rows": [
+    {
+      "event": "story-luis-gil",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
