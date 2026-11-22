@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2931 · Updated: 22/11/2026, 17:38:18 (Asia/Kolkata)
+Run #2932 · Updated: 22/11/2026, 18:18:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,31 +16,31 @@ Sources this run: trends(39)
 
 <details><summary>show</summary>
 
-### Patrick Mahomes — 15/100
+### Carlos Alcaraz — 18/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Carlos Alcaraz: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-14 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Patrick Mahomes patrick mahomes: nfl week 11 bold predictions: patrick mahomes ties td record; saints' travis etienne jr. bedevils bears story is actually a money story — the other side of the fight
+> What the Carlos Alcaraz carlos alcaraz: the atp finals ends with carlos alcaraz, alexander zverev and an emblem of a strange season - the athletic filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Travis Etienne — 14/100
+### Alexander Zverev — 17/100
 
-**Event:** Travis Etienne: trending now
+**Event:** Alexander Zverev: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-19 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Travis Etienne travis etienne: nfl week 11 bold predictions: patrick mahomes ties td record; saints' travis etienne jr. bedevils bears story is actually a money story — the other side of the fight
+> What the Alexander Zverev alexander zverev: the atp finals ends with carlos alcaraz, alexander zverev and an emblem of a strange season - the athletic filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 8.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
