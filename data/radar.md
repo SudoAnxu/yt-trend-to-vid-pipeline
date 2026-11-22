@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2944 · Updated: 22/11/2026, 23:25:42 (Asia/Kolkata)
+Run #2945 · Updated: 22/11/2026, 23:45:35 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(39)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,105 +12,35 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (7)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Carlos Alcaraz — 21/100
+### Peter Woods — 18/100
 
-**Event:** Carlos Alcaraz: trending now
+**Event:** Peter Woods: Chiefs-Cardinals Inactives: DT Peter Woods to miss third straight game
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+7 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Carlos Alcaraz carlos alcaraz: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Alexander Zverev — 21/100
-
-**Event:** Alexander Zverev: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Alexander Zverev alexander zverev: atp finals 2026 live updates: carlos alcaraz and alexander zverev meet in championship match filings actually say — line by line — the other side of the fight
+> The Peter Woods peter woods: chiefs-cardinals inactives: dt peter woods to miss third straight game story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Sean Payton — 20/100
+### Terry Bradshaw — 22/100
 
-**Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
+**Event:** Terry Bradshaw: NFL Legend Terry Bradshaw Gets Emotional Recalling How People Treated Him During His Depression Battle: ‘Peopl
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Sean Payton story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 23 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Michael Strahan — 21/100
-
-**Event:** Michael Strahan: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8.8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Michael Strahan michael strahan: happy 55th birthday, michael strahan! see the good morning america anchor’s sweetest family photos with his ki story is actually a money story — the other side of the fight
+> What the Terry Bradshaw terry bradshaw: breaks silence on donald trump: ‘makes me shake my head’ filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 7 videos in last 6h · TTS ≈ 8.8h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Tom Brady — 20/100
-
-**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Tom Brady tom brady: , eli manning troll each other with signed jerseys from super bowl rivalry in new ig photos story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Eli Manning — 23/100
-
-**Event:** Eli Manning: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 8.8h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Eli Manning eli manning: tom brady, eli manning troll each other with signed jerseys from super bowl rivalry in new ig photos story is actually a money story — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 8.8h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Anthony Volpe — 22/100
-
-**Event:** Anthony Volpe: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Anthony Volpe anthony volpe: yankees trade pitch lands cardinals rookie catcher in anthony volpe blockbuster filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
