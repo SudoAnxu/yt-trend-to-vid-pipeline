@@ -1,0 +1,44 @@
+{
+  "runNo": 2948,
+  "at": "2026-11-22T19:54:35.348Z",
+  "rows": [
+    {
+      "event": "story-trevor-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-bell",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-chris-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 30,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-bring",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
