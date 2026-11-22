@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2960 · Updated: 23/11/2026, 05:15:34 (Asia/Kolkata)
+Run #2961 · Updated: 23/11/2026, 05:25:35 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,39 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Mario Lopez — 18/100
+### Pedro Pascal — 22/100
 
-**Event:** Mario Lopez: trending now
+**Event:** Pedro Pascal: We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Pre
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mario Lopez mario lopez: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Tony Danza — 19/100
-
-**Event:** Tony Danza: Mario Lopez on working with his son and Tony Danza in 'Three Generations, One Christmas'
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 26 (+10 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Tony Danza tony danza: mario lopez on working with his son and tony danza in 'three generations, one christmas' filings actually say — line by line — the other side of the fight
+> The Pedro Pascal story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 20 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Josh Holloway — 28/100
+### Robert Downey — 21/100
+
+**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+14 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Robert Downey story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Josh Holloway — 22/100
 
 **Event:** Josh Holloway: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · external momentum 31 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -58,33 +58,33 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Jennifer Lopez — 17/100
+### Mario Lopez — 17/100
 
-**Event:** Jennifer Lopez: Ben Affleck makes surprising Jennifer Lopez confession two years after their divorce
+**Event:** Mario Lopez: trending now
 
-**Why now:** 1 source lane(s): news · momentum 21 (-1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jennifer Lopez jennifer lopez: addresses "hard, disappointing" divorce from ben affleck story is actually a money story — what happens next
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
-
-**Status:** ARCHIVED
-
-### Ben Affleck — 15/100
-
-**Event:** Ben Affleck: Reveals Sudden Casting Change Behind His New Netflix Crime Thriller
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-13 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Ben Affleck ben affleck: jennifer lopez addresses "hard, disappointing" divorce from ben affleck story is actually a money story — what happens next
+> What the Mario Lopez mario lopez: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+**Competition:** 8 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Tony Danza — 19/100
+
+**Event:** Tony Danza: Mario Lopez on working with his son and Tony Danza in 'Three Generations, One Christmas'
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Tony Danza tony danza: mario lopez on working with his son and tony danza in 'three generations, one christmas' filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>

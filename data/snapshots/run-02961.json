@@ -1,0 +1,44 @@
+{
+  "runNo": 2961,
+  "at": "2026-11-22T23:55:34.001Z",
+  "rows": [
+    {
+      "event": "story-pedro-pascal",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-downey",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-holloway",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 26,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mario-lopez",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-tony-danza",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
