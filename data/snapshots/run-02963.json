@@ -1,0 +1,37 @@
+{
+  "runNo": 2963,
+  "at": "2026-11-23T00:38:20.739Z",
+  "rows": [
+    {
+      "event": "story-riley-moss",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-stiller",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-de",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-bullock-shares-rare",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 33,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
