@@ -1,0 +1,30 @@
+{
+  "runNo": 2966,
+  "at": "2026-11-23T01:54:40.640Z",
+  "rows": [
+    {
+      "event": "story-dylan-larkin",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-lewandowski",
+      "alert": "ARCHIVE",
+      "opportunity": 11,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-malik-mustapha",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
