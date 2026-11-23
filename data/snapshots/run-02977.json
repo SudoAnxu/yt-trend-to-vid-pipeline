@@ -1,0 +1,37 @@
+{
+  "runNo": 2977,
+  "at": "2026-11-23T11:28:45.705Z",
+  "rows": [
+    {
+      "event": "story-jack-campbell",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 2,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-harbaugh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-aidan-hutchinson",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-lee-curtis",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
