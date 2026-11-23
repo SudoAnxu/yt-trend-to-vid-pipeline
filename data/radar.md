@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2961 · Updated: 23/11/2026, 05:25:35 (Asia/Kolkata)
+Run #2962 · Updated: 23/11/2026, 05:53:45 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,53 @@ Sources this run: trends(37)
 
 <details><summary>show</summary>
 
+### Ben Stiller — 18/100
+
+**Event:** Ben Stiller: Spielberg's forgotten war film launched Christian Bale AND Ben Stiller, and it secretly birthed Tropic Thunder
+
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-21 vs prev run) · spice 4 · risk 34 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ben Stiller ben stiller: ‘focker-in-law’ uk premiere red carpet photos: ariana grande, ben stiller, skyler gisondo, robert de niro & mo filings actually say — line by line — the other side of the fight
+
+**Competition:** 16 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Robert De — 18/100
+
+**Event:** Robert De: Niro and partner Tiffany host Anupam Kher for lunch in the US, gift him a cap: ‘Fortunate to call you my frien
+
+**Why now:** 1 source lane(s): news · momentum 11 (+1 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Robert De robert de: ‘focker-in-law’ uk premiere red carpet photos: ariana grande, ben stiller, skyler gisondo, robert de niro & mo filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 2.6h · sources: news
+
+**Status:** ARCHIVED
+
+### Micah Peavy — 22/100
+
+**Event:** Micah Peavy: Shams: Micah Peavy gets two-way deal from OKC
+
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Micah Peavy story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** ARCHIVED
+
 ### Pedro Pascal — 22/100
 
 **Event:** Pedro Pascal: We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Pre
 
-**Why now:** 2 source lane(s): news, trends · momentum 26 (+10 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 23 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -34,7 +76,7 @@ Sources this run: trends(37)
 
 **Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (+14 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,48 +85,6 @@ Sources this run: trends(37)
 **Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Josh Holloway — 22/100
-
-**Event:** Josh Holloway: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 64 · external momentum 26 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Josh Holloway story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Mario Lopez — 17/100
-
-**Event:** Mario Lopez: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Mario Lopez mario lopez: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Tony Danza — 19/100
-
-**Event:** Tony Danza: Mario Lopez on working with his son and Tony Danza in 'Three Generations, One Christmas'
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Tony Danza tony danza: mario lopez on working with his son and tony danza in 'three generations, one christmas' filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
