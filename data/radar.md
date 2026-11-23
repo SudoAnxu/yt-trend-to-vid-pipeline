@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2984 · Updated: 24/11/2026, 00:06:22 (Asia/Kolkata)
+Run #2985 · Updated: 24/11/2026, 00:24:12 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Steven Spielberg: Tom Cruise Leads Toasts for Steven Spielberg at MoMa Film Gala
 
-**Why now:** 1 source lane(s): news · momentum 31 (+13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 27 (-4 vs prev run) · spice 0 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,19 +30,33 @@ Sources this run: trends(40)
 
 **Status:** BOOSTED
 
-### Kyle Larson — 25/100
+### Thomas Anderson — 24/100
 
-**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
+**Event:** Thomas Anderson: Steven Spielberg Sets Adaptation Of ‘The Heart In Winter’ As Next Film At Focus With Jessie Buckley, Cillian M
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+4 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Kyle Larson story is a proxy fight about something bigger — the other side of the fight
+> The Thomas Anderson story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: news, trends
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
+
+### Paul Thomas — 23/100
+
+**Event:** Paul Thomas: Steven Spielberg to make a western written by Paul Thomas Anderson
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Paul Thomas paul thomas: steven spielberg to make a western written by paul thomas anderson filings actually say — line by line — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
