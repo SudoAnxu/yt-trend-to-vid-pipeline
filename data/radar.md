@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2964 · Updated: 23/11/2026, 06:29:27 (Asia/Kolkata)
+Run #2965 · Updated: 23/11/2026, 07:00:18 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,77 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Michael Kors — 21/100
+### Aaron Jones — 17/100
 
-**Event:** Michael Kors: Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 202
+**Event:** Aaron Jones: Fantasy football Week 4 RB preview: Aaron Jones and Jaylen Warren surging at just the right time
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Michael Kors michael kors: early black friday deals live now: ugg, michael kors, hoka, dyson, ring and more are on major sale for the 202 filings actually say — line by line — the number behind the headline
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Walter Clayton — 16/100
-
-**Event:** Walter Clayton: Grizzlies waive former Florida star Walter Clayton Jr. before NBA roster deadline
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 11 (-9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Walter Clayton walter clayton: jr. (knee) upgraded to available story is actually a money story — the other side of the fight
+> What the Aaron Jones aaron jones: , sr. & levi drake rodriguez share excitement for vikings 1st game in mexico filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 13 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Riley Moss — 19/100
+### Kirk Cousins — 19/100
 
-**Event:** Riley Moss: trending now
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): trends, news · momentum 2 (-19 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Riley Moss riley moss: contract filings actually say — line by line — the number behind the headline
+> What the Kirk Cousins kirk cousins: on pace to make history as 1st qb to play 18 regular-season games filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Kyle Shanahan — 16/100
+### Jordan Mason — 22/100
 
-**Event:** Kyle Shanahan: That one time Kyle Shanahan forgot about Jaxon Smith-Njigba
+**Event:** Jordan Mason: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kyle Shanahan kyle shanahan: provides injury updates, final preparations ahead of mexico city filings actually say — line by line — the other side of the fight
+> What the Jordan Mason jordan mason: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Steve Campbell — 29/100
+### Aidan Hutchinson's — 18/100
 
-**Event:** Steve Campbell: trending now
+**Event:** Aidan Hutchinson's: leg injury adds to list of players hurt while celebrating
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · external momentum 36 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Steve Campbell steve campbell: trending now filings actually say — line by line — the other side of the fight
+> The Aidan Hutchinson's aidan hutchinson's: message to lions after season-ending injury: 'hold down the fort til i’m back, boys' story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
