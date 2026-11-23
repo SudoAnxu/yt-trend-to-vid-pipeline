@@ -1,0 +1,44 @@
+{
+  "runNo": 2989,
+  "at": "2026-11-23T20:38:50.654Z",
+  "rows": [
+    {
+      "event": "story-jimmy-gomez",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-stephen-miller",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-rallis",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-louis-vuitton",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-holland",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

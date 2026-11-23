@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2988 · Updated: 24/11/2026, 01:58:40 (Asia/Kolkata)
+Run #2989 · Updated: 24/11/2026, 02:08:52 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,29 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Stephen Miller — 22/100
-
-**Event:** Stephen Miller: wife
-
-**Why now:** 2 source lane(s): trends, news · momentum 26 (+18 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Stephen Miller stephen miller: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jimmy Gomez — 30/100
+### Jimmy Gomez — 25/100
 
 **Event:** Jimmy Gomez: House Ethics investigation into Rep. Jimmy Gomez finds "substantial evidence" of sexual misconduct
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,25 +30,53 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Travis Kelce — 14/100
+### Stephen Miller — 21/100
 
-**Event:** Travis Kelce: Taylor Swift Ponzi
+**Event:** Stephen Miller: wife
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Kelce travis kelce: pads hall of fame résumé with two first-half tds in chiefs' win filings actually say — line by line — the other side of the fight
+> What the Stephen Miller stephen miller: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tom Holland — 18/100
+### Nick Rallis — 21/100
+
+**Event:** Nick Rallis: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Nick Rallis story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Louis Vuitton — 14/100
+
+**Event:** Louis Vuitton: Taylor Swift watches Chiefs defeat Chargers in cozy red Louis Vuitton bodysuit
+
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Louis Vuitton story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Tom Holland — 17/100
 
 **Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 16 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
