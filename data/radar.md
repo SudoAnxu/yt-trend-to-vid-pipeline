@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2989 · Updated: 24/11/2026, 02:08:52 (Asia/Kolkata)
+Run #2990 · Updated: 24/11/2026, 03:04:39 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,79 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jimmy Gomez — 25/100
+### Jason Statham — 15/100
+
+**Event:** Jason Statham: scott eastwood action movie
+
+**Why now:** 2 source lane(s): trends, news · momentum 19 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jason Statham situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jason Statham's — 14/100
+
+**Event:** Jason Statham's: 107-Minute "John Wick Meets Man on Fire" Action Thriller Is Being Pulled From Streaming
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jason Statham's situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+
+**Status:** ARCHIVED
+
+### Jimmy Gomez — 19/100
 
 **Event:** Jimmy Gomez: House Ethics investigation into Rep. Jimmy Gomez finds "substantial evidence" of sexual misconduct
 
-**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 4 · risk 64 · external momentum 28 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-8 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jimmy Gomez jimmy gomez: house ethics investigation into rep. jimmy gomez finds "substantial evidence" of sexual misconduct filings actually say — line by line — what happens next
+> What the Jimmy Gomez jimmy gomez: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Stephen Miller — 21/100
-
-**Event:** Stephen Miller: wife
-
-**Why now:** 2 source lane(s): trends, news · momentum 22 (-4 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Stephen Miller stephen miller: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Nick Rallis — 21/100
-
-**Event:** Nick Rallis: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Nick Rallis story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Louis Vuitton — 14/100
-
-**Event:** Louis Vuitton: Taylor Swift watches Chiefs defeat Chargers in cozy red Louis Vuitton bodysuit
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Louis Vuitton story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Tom Holland — 17/100
-
-**Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
-
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tom Holland tom holland: new spider-man look filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
-
-**Status:** ARCHIVED
 
 
 </details>
