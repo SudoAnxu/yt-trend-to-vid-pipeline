@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2991 · Updated: 24/11/2026, 03:26:07 (Asia/Kolkata)
+Run #2992 · Updated: 24/11/2026, 03:37:08 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,65 +12,93 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Jason Statham — 15/100
+### Tom Holland — 17/100
 
-**Event:** Jason Statham: scott eastwood action movie
+**Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Statham situation is weirder than the clips suggest — the other side of the fight
+> What the Tom Holland tom holland: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Scott Eastwood's — 19/100
+### Tom Holland's — 11/100
 
-**Event:** Scott Eastwood's: Jason Statham & Scott Eastwood's (Very) Intense 119-Minute Action Thriller Is a Global Streaming Hit
+**Event:** Tom Holland's: Tom Holland’s Brother Sam Refers to Zendaya as ‘Lovely Sister-In-Law’ In His ‘Cooking with the Stars’ Intro
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Scott Eastwood's situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
-
-### Jason Statham's — 14/100
-
-**Event:** Jason Statham's: 107-Minute "John Wick Meets Man on Fire" Action Thriller Is Being Pulled From Streaming
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jason Statham's situation is weirder than the clips suggest — the other side of the fight
+> The Tom Holland's tom holland's: tom holland’s spider-man is back in new marvel release as avengers: doomsday trailer debuts story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
 
-### Streaming Hit Ahead — 19/100
+### Michelle Randolph — 13/100
 
-**Event:** Streaming Hit Ahead: Jason Statham's R-Rated 105-Minute Action Thriller Is a Global Streaming Hit Ahead of 2027 Sequel
+**Event:** Michelle Randolph: ‘Chad Powers’ Star Glen Powell and Michelle Randolph Step Out for Rare Public Date Night at Texas-Tennessee Sh
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Streaming Hit Ahead situation is weirder than the clips suggest — the other side of the fight
+> What the Michelle Randolph michelle randolph: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
+**Competition:** 12 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Christopher Briney — 22/100
+
+**Event:** Christopher Briney: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+2 vs prev run) · spice 17 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Christopher Briney christopher briney: shocks jenna and sheinelle with a magic trick on today: ‘what?!’ story is actually a money story — the part that was not supposed to be public
+
+**Competition:** 18 videos in last 6h · TTS ≈ 5.1h · sources: trends, news
+
+**Status:** KEPT
+
+### Cody Rhodes — 13/100
+
+**Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
+
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Cody Rhodes cody rhodes: 3 names cody rhodes could have called to fill team usa's final wwe spot filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Todd Chrisley — 16/100
+
+**Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-6 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Todd Chrisley todd chrisley: shut down in effort to completely block son's drug test results from 2022 car crash filings actually say — line by line — what happens next
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>
