@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2982 · Updated: 23/11/2026, 21:53:36 (Asia/Kolkata)
+Run #2983 · Updated: 23/11/2026, 23:15:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,79 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### David Fincher — 21/100
+### Ben Stiller — 13/100
 
-**Event:** David Fincher: Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First
+**Event:** Ben Stiller: Spielberg's forgotten war film launched Christian Bale AND Ben Stiller, and it secretly birthed Tropic Thunder
 
-**Why now:** 1 source lane(s): news · momentum 24 (+9 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 6 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The David Fincher david fincher: defends use of ai amid ‘cliff booth’ criticism: “well, it exists. should we not use it?” story is actually a money story — the other side of the fight
+> What the Ben Stiller ben stiller: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 6.8h · sources: news
+**Competition:** 16 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Fincher Defends Use — 22/100
+### James Bond — 21/100
 
-**Event:** Fincher Defends Use: David Fincher Defends Use Of AI Amid ‘Cliff Booth’ Criticism: “Well, It Exists. Should We Not Use It?”
+**Event:** James Bond: jack lowden james bond
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 34 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+11 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Fincher Defends Use fincher defends use: david fincher defends use of ai amid ‘cliff booth’ criticism: “well, it exists. should we not use it?” story is actually a money story — the other side of the fight
+> The James Bond james bond: ‘daredevil’ star charlie cox asked to audition for james bond but was told he’s too old: ‘robert pattinson is  story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Christopher Briney — 18/100
+### Christopher Briney — 16/100
 
 **Event:** Christopher Briney: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Christopher Briney christopher briney: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 14 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
 **Status:** RESEARCH
-
-### Jim Cramer — 18/100
-
-**Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jim Cramer jim cramer: says costco's hefty special dividend signals ‘more gains ahead’ story is actually a money story — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 9.6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Will Be — 18/100
-
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Will Be will be: the $400,000 of stock he put in his kids' trust in 2012 is worth $4 million. everyone says it will never get a story is actually a money story — the number behind the headline
-
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** ARCHIVED
 
 
 </details>
