@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #2993 · Updated: 24/11/2026, 03:58:19 (Asia/Kolkata)
+Run #2994 · Updated: 24/11/2026, 04:18:12 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,15 +12,43 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (9)
 
 <details><summary>show</summary>
+
+### Gavin Newsom — 13/100
+
+**Event:** Gavin Newsom: backs measure to kill the billionaire tax and ban future wealth taxes
+
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Gavin Newsom gavin newsom: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Kevin Young — 19/100
+
+**Event:** Kevin Young: BYU coach Kevin Young previews Maui Invitational
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Kevin Young kevin young: byu coach kevin young previews maui invitational filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 ### Tom Holland — 17/100
 
 **Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +72,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
+### Test Records After — 18/100
+
+**Event:** Test Records After: Judge Rules Against Todd Chrisley in Battle Over Son Grayson’s Drug Test Records After Car Crash
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Test Records After test records after: judge rules against todd chrisley in battle over son grayson’s drug test records after car crash story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
 ### Todd Chrisley — 16/100
 
 **Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -62,7 +104,7 @@ Sources this run: trends(40)
 
 **Event:** Michelle Randolph: ‘Chad Powers’ Star Glen Powell and Michelle Randolph Step Out for Rare Public Date Night at Texas-Tennessee Sh
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -72,11 +114,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Christopher Briney — 21/100
+### Christopher Briney — 22/100
 
 **Event:** Christopher Briney: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 17 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 17 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -86,19 +128,19 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Cody Rhodes — 14/100
+### Briney Breaks Silence — 23/100
 
-**Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
+**Event:** Briney Breaks Silence: TSITP’s Chris Briney Breaks Silence on Surprise Cameo in His Christmas Movie: ‘Wish I Made It Happen’
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 14 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Cody Rhodes cody rhodes: 3 names cody rhodes could have called to fill team usa's final wwe spot filings actually say — line by line — the other side of the fight
+> The Briney Breaks Silence briney breaks silence: tsitp’s chris briney breaks silence on surprise cameo in his christmas movie: ‘wish i made it happen’ story is actually a money story — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
