@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #2972 · Updated: 23/11/2026, 13:26:20 (Asia/Kolkata)
+Run #2973 · Updated: 23/11/2026, 14:12:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,65 +12,79 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Will Get — 19/100
+### Jonathan Blow — 21/100
 
-**Event:** Will Get: Musk Says Tesla’s Real-World AI Will Get Smarter by “About an Order of Magnitude per Year”
+**Event:** Jonathan Blow: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · external momentum 25 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Will Get will get: musk says tesla’s real-world ai will get smarter by “about an order of magnitude per year” story is actually a money story — the other side of the fight
+> What the Jonathan Blow jonathan blow: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Joe Keery — 25/100
+### Lewis Hamilton — 20/100
 
-**Event:** Joe Keery: See photos of Julia Louis-Dreyfus, Ed Harris, Allison Janney, Joe Keery, Lily Rabe in 'Other Desert Cities' on
+**Event:** Lewis Hamilton: Kim Kardashian Shares Photo of Steamy Kiss with Lewis Hamilton Under the Eiffel Tower
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+10 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Joe Keery joe keery: from ‘stranger things’ to broadway, everyone knows joe keery filings actually say — line by line — the other side of the fight
+> The Lewis Hamilton lewis hamilton: las vegas grand prix: lewis hamilton and charles leclerc face tense discussion over ability to race together story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Joe Jonas — 23/100
+### Charles Leclerc — 18/100
 
-**Event:** Joe Jonas: trending now
+**Event:** Charles Leclerc: US Grand Prix: Charles Leclerc sets Austin practice pace from Max Verstappen
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Joe Jonas joe jonas: dating history: full list of his famous ex-girlfriends revealed filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Paul Walker — 21/100
-
-**Event:** Paul Walker: Where To Find The Paul Walker 'Fast And Furious' Tribute Car In GTA 6
-
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 24 (+8 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Paul Walker paul walker: where to find the paul walker 'fast and furious' tribute car in gta 6 filings actually say — line by line — the other side of the fight
+> The Charles Leclerc charles leclerc: las vegas grand prix: lewis hamilton and charles leclerc face tense discussion over ability to race together story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Sam Houser — 13/100
+
+**Event:** Sam Houser: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Sam Houser sam houser: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 11 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Will Be — 17/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Will Be will be: elon musk says 2027 ai cash crunch will be ‘nuts’ — analysts still see spacex emerging as the biggest ai hyper story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
