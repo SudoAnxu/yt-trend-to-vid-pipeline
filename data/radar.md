@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2983 · Updated: 23/11/2026, 23:15:19 (Asia/Kolkata)
+Run #2984 · Updated: 24/11/2026, 00:06:22 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Ben Stiller — 13/100
+### Steven Spielberg — 22/100
 
-**Event:** Ben Stiller: Spielberg's forgotten war film launched Christian Bale AND Ben Stiller, and it secretly birthed Tropic Thunder
+**Event:** Steven Spielberg: Tom Cruise Leads Toasts for Steven Spielberg at MoMa Film Gala
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 31 (+13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ben Stiller ben stiller: trending now filings actually say — line by line — the other side of the fight
+> The Steven Spielberg story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 16 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** BOOSTED
+
+### Kyle Larson — 25/100
+
+**Event:** Kyle Larson: Points leader Kyle Larson scores zero stage points at Phoenix
+
+**Why now:** 2 source lane(s): news, trends · momentum 23 (+4 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kyle Larson story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### James Bond — 21/100
-
-**Event:** James Bond: jack lowden james bond
-
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+11 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The James Bond james bond: ‘daredevil’ star charlie cox asked to audition for james bond but was told he’s too old: ‘robert pattinson is  story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Christopher Briney — 16/100
-
-**Event:** Christopher Briney: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Christopher Briney christopher briney: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 14 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
-
-**Status:** RESEARCH
 
 
 </details>
