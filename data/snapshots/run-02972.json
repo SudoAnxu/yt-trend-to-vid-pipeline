@@ -1,0 +1,37 @@
+{
+  "runNo": 2972,
+  "at": "2026-11-23T07:56:19.948Z",
+  "rows": [
+    {
+      "event": "story-will-get",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-joe-keery",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-jonas",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-walker",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

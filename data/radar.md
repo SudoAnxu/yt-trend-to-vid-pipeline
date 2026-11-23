@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2971 · Updated: 23/11/2026, 11:25:50 (Asia/Kolkata)
+Run #2972 · Updated: 23/11/2026, 13:26:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,35 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Glenn Close — 20/100
+### Will Get — 19/100
 
-**Event:** Glenn Close: Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close
+**Event:** Will Get: Musk Says Tesla’s Real-World AI Will Get Smarter by “About an Order of Magnitude per Year”
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Glenn Close glenn close: and ralph fiennes agree their ‘hunger games’ characters had ‘a thing’ (exclusive) story is actually a money story — the other side of the fight
+> The Will Get will get: musk says tesla’s real-world ai will get smarter by “about an order of magnitude per year” story is actually a money story — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 5.6h · sources: news, trends
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** RESEARCH
+
+### Joe Keery — 25/100
+
+**Event:** Joe Keery: See photos of Julia Louis-Dreyfus, Ed Harris, Allison Janney, Joe Keery, Lily Rabe in 'Other Desert Cities' on
+
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Joe Keery joe keery: from ‘stranger things’ to broadway, everyone knows joe keery filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### Ralph Fiennes — 18/100
+### Joe Jonas — 23/100
 
-**Event:** Ralph Fiennes: trending now
+**Event:** Joe Jonas: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Ralph Fiennes ralph fiennes: glenn close and ralph fiennes agree their ‘hunger games’ characters had ‘a thing’ (exclusive) story is actually a money story — the other side of the fight
+> What the Joe Jonas joe jonas: dating history: full list of his famous ex-girlfriends revealed filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Paul Walker — 21/100
+
+**Event:** Paul Walker: Where To Find The Paul Walker 'Fast And Furious' Tribute Car In GTA 6
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Paul Walker paul walker: where to find the paul walker 'fast and furious' tribute car in gta 6 filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
