@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2992 · Updated: 24/11/2026, 03:37:08 (Asia/Kolkata)
+Run #2993 · Updated: 24/11/2026, 03:58:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Tom Holland's — 11/100
+### Tom Holland's — 12/100
 
 **Event:** Tom Holland's: Tom Holland’s Brother Sam Refers to Zendaya as ‘Lovely Sister-In-Law’ In His ‘Cooking with the Stars’ Intro
 
-**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,11 +44,25 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Michelle Randolph — 13/100
+### Todd Chrisley — 16/100
+
+**Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Todd Chrisley todd chrisley: shut down in effort to completely block son's drug test results from 2022 car crash filings actually say — line by line — what happens next
+
+**Competition:** 10 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Michelle Randolph — 14/100
 
 **Event:** Michelle Randolph: ‘Chad Powers’ Star Glen Powell and Michelle Randolph Step Out for Rare Public Date Night at Texas-Tennessee Sh
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Christopher Briney — 22/100
+### Christopher Briney — 21/100
 
 **Event:** Christopher Briney: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+2 vs prev run) · spice 17 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 17 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -72,31 +86,17 @@ Sources this run: trends(40)
 
 **Status:** KEPT
 
-### Cody Rhodes — 13/100
+### Cody Rhodes — 14/100
 
 **Event:** Cody Rhodes: Shares Major Update on WWE Contract and Future
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-13 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Cody Rhodes cody rhodes: 3 names cody rhodes could have called to fill team usa's final wwe spot filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Todd Chrisley — 16/100
-
-**Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-6 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Todd Chrisley todd chrisley: shut down in effort to completely block son's drug test results from 2022 car crash filings actually say — line by line — what happens next
-
-**Competition:** 10 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
