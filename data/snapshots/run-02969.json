@@ -1,0 +1,86 @@
+{
+  "runNo": 2969,
+  "at": "2026-11-23T03:30:07.332Z",
+  "rows": [
+    {
+      "event": "story-justin-hartley",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-stephen-king",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-tomlin",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-todd-monken-s",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-tomlin-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-todd-monken",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-shanahan",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-brady",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-kraft",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-olivia-culpo",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
