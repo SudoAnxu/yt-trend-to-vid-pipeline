@@ -1,0 +1,37 @@
+{
+  "runNo": 2976,
+  "at": "2026-11-23T11:05:34.894Z",
+  "rows": [
+    {
+      "event": "story-jack-campbell",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-lee-curtis",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-schur",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-amy-poehler",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
