@@ -1,0 +1,23 @@
+{
+  "runNo": 2978,
+  "at": "2026-11-23T13:31:31.491Z",
+  "rows": [
+    {
+      "event": "story-chris-hemsworth-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-hemsworth",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
