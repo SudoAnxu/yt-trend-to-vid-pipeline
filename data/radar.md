@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2966 · Updated: 23/11/2026, 07:24:41 (Asia/Kolkata)
+Run #2967 · Updated: 23/11/2026, 07:42:16 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,65 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Dylan Larkin — 23/100
+### Dylan Larkin — 21/100
 
 **Event:** Dylan Larkin: to debut for Red Wings despite demanding trade
 
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 27 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Dylan Larkin dylan larkin: trending now filings actually say — line by line — the other side of the fight
+> What the Dylan Larkin dylan larkin: au canadien, contre michael hage, kirby dach et samuel montembeault filings actually say — line by line — the other side of the fight
 
-**Competition:** 11 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Robert Lewandowski — 11/100
+### Michael Hage — 19/100
 
-**Event:** Robert Lewandowski: trending now
+**Event:** Michael Hage: Dylan Larkin au Canadien, contre Michael Hage, Kirby Dach et Samuel Montembeault
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Robert Lewandowski robert lewandowski: trending now filings actually say — line by line — the other side of the fight
+> What the Michael Hage michael hage: dylan larkin au canadien, contre michael hage, kirby dach et samuel montembeault filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Malik Mustapha — 24/100
+### Kirk Cousins — 21/100
 
-**Event:** Malik Mustapha: NFL’s old-school safeties love 49ers’ old-soul enforcer Malik Mustapha: ‘I get excited’
+**Event:** Kirk Cousins: Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+12 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 25 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Malik Mustapha malik mustapha: two 49ers safeties fined after win vs. cowboys, but malik mustapha not punished filings actually say — line by line — the other side of the fight
+> The Kirk Cousins story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.4h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 7.7h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Alec Pierce — 23/100
+
+**Event:** Alec Pierce: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Alec Pierce story is a proxy fight about something bigger — what happens next
+
+**Competition:** 2 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
