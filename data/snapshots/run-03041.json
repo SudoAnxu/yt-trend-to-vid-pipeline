@@ -1,0 +1,16 @@
+{
+  "runNo": 3041,
+  "at": "2026-11-24T21:25:25.745Z",
+  "rows": [
+    {
+      "event": "story-todd-blanche",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
