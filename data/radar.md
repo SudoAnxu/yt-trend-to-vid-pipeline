@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3029 · Updated: 24/11/2026, 20:59:49 (Asia/Kolkata)
+Run #3030 · Updated: 24/11/2026, 21:43:52 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(37)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,35 +12,21 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Billy Ray — 15/100
+### Ian Happ — 21/100
 
-**Event:** Billy Ray: Cyrus Fuels Engagement Rumors After Elizabeth Hurley Flashes Diamond Ring
+**Event:** Ian Happ: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Billy Ray billy ray: cyrus miley wedding tribute filings actually say — line by line — the other side of the fight
-
-**Competition:** 22 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ray Cyrus — 14/100
-
-**Event:** Ray Cyrus: Billy Ray Cyrus Fuels Engagement Rumors After Elizabeth Hurley Flashes Diamond Ring
-
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ray Cyrus ray cyrus: billy ray cyrus miley wedding tribute filings actually say — line by line — the other side of the fight
+> The Ian Happ ian happ: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 7 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
