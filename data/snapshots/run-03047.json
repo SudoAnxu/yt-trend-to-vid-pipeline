@@ -1,0 +1,23 @@
+{
+  "runNo": 3047,
+  "at": "2026-11-24T23:33:56.180Z",
+  "rows": [
+    {
+      "event": "story-brittany-snow",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-walter-clayton",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
