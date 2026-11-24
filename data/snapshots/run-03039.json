@@ -1,0 +1,23 @@
+{
+  "runNo": 3039,
+  "at": "2026-11-24T20:32:18.292Z",
+  "rows": [
+    {
+      "event": "story-danny-sprinkle",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-nathan-fillion",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
