@@ -1,0 +1,23 @@
+{
+  "runNo": 3002,
+  "at": "2026-11-24T02:29:01.362Z",
+  "rows": [
+    {
+      "event": "story-joe-mazzulla",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-victor-wembanyama",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
