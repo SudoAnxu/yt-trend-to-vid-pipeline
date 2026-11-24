@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3030 · Updated: 24/11/2026, 21:43:52 (Asia/Kolkata)
+Run #3031 · Updated: 24/11/2026, 22:47:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,9 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (0)
 
 <details><summary>show</summary>
-
-### Ian Happ — 21/100
-
-**Event:** Ian Happ: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ian Happ ian happ: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
