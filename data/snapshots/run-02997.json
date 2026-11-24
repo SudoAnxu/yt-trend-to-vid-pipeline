@@ -1,0 +1,23 @@
+{
+  "runNo": 2997,
+  "at": "2026-11-24T00:33:57.155Z",
+  "rows": [
+    {
+      "event": "story-joe-flacco",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-your",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
