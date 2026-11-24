@@ -1,0 +1,16 @@
+{
+  "runNo": 2999,
+  "at": "2026-11-24T01:27:19.087Z",
+  "rows": [
+    {
+      "event": "story-joe-buck",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
