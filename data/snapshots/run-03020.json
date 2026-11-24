@@ -1,0 +1,16 @@
+{
+  "runNo": 3020,
+  "at": "2026-11-24T10:09:14.545Z",
+  "rows": [
+    {
+      "event": "story-don-toliver",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

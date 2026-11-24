@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3019 · Updated: 24/11/2026, 14:04:43 (Asia/Kolkata)
+Run #3020 · Updated: 24/11/2026, 15:39:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,37 +12,23 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Justin Timberlake — 18/100
+### Don Toliver — 21/100
 
-**Event:** Justin Timberlake: , Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
+**Event:** Don Toliver: Cardi B, Travis Scott, Don Toliver & More to Perform at ‘Grand Theft Auto VI’ Festival
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (-1 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Timberlake justin timberlake: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Jessica Biel — 15/100
-
-**Event:** Jessica Biel: Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jessica Biel jessica biel: says she needs to “address some things” about justin timberlake marriage in rare comments filings actually say — line by line — the other side of the fight
+> What the Don Toliver don toliver: manchester co-op live: don toliver concert evacuated as ‘unknown substance’ fills uk arena filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
