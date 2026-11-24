@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3000 · Updated: 24/11/2026, 07:15:36 (Asia/Kolkata)
+Run #3001 · Updated: 24/11/2026, 07:28:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
+### Mark Andrews — 17/100
+
+**Event:** Mark Andrews: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mark Andrews mark andrews: or roman wilson: who should i pick up? fantasy football (2026) filings actually say — line by line — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
 ### Dexter Lawrence — 26/100
 
 **Event:** Dexter Lawrence: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+18 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 22 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Dexter Lawrence dexter lawrence: commanders have ‘quality’ solution for ‘titanic’ dexter lawrence vs. bengals filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Nate Bargatze — 21/100
+### Adam Peters' — 19/100
 
-**Event:** Nate Bargatze: trending now
+**Event:** Adam Peters': Has Rasul Douglas been Adam Peters’ best off season addition?
 
-**Why now:** 2 source lane(s): trends, news · momentum 30 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Nate Bargatze nate bargatze: trending now filings actually say — line by line — the other side of the fight
+> What the Adam Peters' adam peters': has rasul douglas been adam peters’ best off season addition? filings actually say — line by line — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
-
-### Roger Goodell — 20/100
-
-**Event:** Roger Goodell: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 28 (+20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Roger Goodell story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
