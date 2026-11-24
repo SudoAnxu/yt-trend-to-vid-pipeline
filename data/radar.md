@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3006 · Updated: 24/11/2026, 08:55:00 (Asia/Kolkata)
+Run #3007 · Updated: 24/11/2026, 09:19:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(35)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,61 +16,61 @@ Sources this run: trends(35)
 
 <details><summary>show</summary>
 
-### Bobby Hart — 22/100
+### Victor Wembanyama — 20/100
 
-**Event:** Bobby Hart: Seahawks Sign Trevon Diggs & Bobby Hart To 53-Man Roster
+**Event:** Victor Wembanyama: trending now
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Bobby Hart bobby hart: seahawks sign trevon diggs & bobby hart to 53-man roster filings actually say — line by line — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** RESEARCH
-
-### Tom Jackson — 22/100
-
-**Event:** Tom Jackson: , Broncos star LB and Hall of Fame broadcaster at ESPN, dies at 75
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 19 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 11 (-10 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Tom Jackson tom jackson: what happened to tom jackson story is actually a money story — the detail nobody has explained
+> What the Victor Wembanyama victor wembanyama: admitted to ‘stat-padding.’ here’s why he’s breaking his own rules - the athletic filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Sean Payton — 21/100
-
-**Event:** Sean Payton: Renck: It’s Broncos’ Sean Payton vs. Rams’ Sean McVay with Walton family bragging rights on line
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Sean Payton story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 23 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tom Jackson's — 19/100
+### Jonathan Allen — 31/100
 
-**Event:** Tom Jackson's: Broncos coach Sean Payton awards game ball to Tom Jackson's family
+**Event:** Jonathan Allen: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · external momentum 36 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Tom Jackson's story is a proxy fight about something bigger — the other side of the fight
+> The Jonathan Allen jonathan allen: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
 
 **Status:** RESEARCH
+
+### Mike Gesicki — 17/100
+
+**Event:** Mike Gesicki: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-21 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Gesicki story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 5 videos in last 6h · TTS ≈ 7.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Rudy Gobert — 13/100
+
+**Event:** Rudy Gobert: corrals 15 rebounds vs. Miami
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Rudy Gobert rudy gobert: ayo dosunmu says timberwolves need to trust rudy gobert and joan beringer more filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 
 </details>

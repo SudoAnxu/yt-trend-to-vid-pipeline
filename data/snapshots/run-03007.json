@@ -1,0 +1,37 @@
+{
+  "runNo": 3007,
+  "at": "2026-11-24T03:49:57.462Z",
+  "rows": [
+    {
+      "event": "story-victor-wembanyama",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-gesicki",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-rudy-gobert",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
