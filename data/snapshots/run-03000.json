@@ -1,0 +1,30 @@
+{
+  "runNo": 3000,
+  "at": "2026-11-24T01:45:35.531Z",
+  "rows": [
+    {
+      "event": "story-dexter-lawrence",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-nate-bargatze",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 30,
+      "window": "closed"
+    },
+    {
+      "event": "story-roger-goodell",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
