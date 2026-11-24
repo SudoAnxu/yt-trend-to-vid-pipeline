@@ -1,0 +1,30 @@
+{
+  "runNo": 3022,
+  "at": "2026-11-24T11:10:10.943Z",
+  "rows": [
+    {
+      "event": "story-micah-nori",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-william-reportedly",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-kors",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
