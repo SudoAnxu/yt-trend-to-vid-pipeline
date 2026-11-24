@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3013 · Updated: 24/11/2026, 10:44:22 (Asia/Kolkata)
+Run #3014 · Updated: 24/11/2026, 10:56:26 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,15 +12,29 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Dylan Harper — 11/100
+### Jennifer Lopez — 25/100
+
+**Event:** Jennifer Lopez: Ben Affleck makes surprising Jennifer Lopez confession two years after their divorce
+
+**Why now:** 1 source lane(s): news · momentum 25 (+4 vs prev run) · spice 23 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Jennifer Lopez jennifer lopez: faces backlash after claiming not being 'a white actress' made it harder to land hollywood movie roles story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+
+**Status:** ARCHIVED
+
+### Dylan Harper — 12/100
 
 **Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,41 +48,13 @@ Sources this run: trends(38)
 
 **Event:** Josh Green: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 5 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Josh Green josh green: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 7 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Scott Van — 20/100
-
-**Event:** Scott Van: Pelt weighs in on Mike Locksley's firing and what's next for Maryland football
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-3 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Scott Van filing that will matter in six months — what happens next
-
-**Competition:** 4 videos in last 6h · TTS ≈ 16h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ben Wang — 13/100
-
-**Event:** Ben Wang: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Ben Wang ben wang: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 12 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
