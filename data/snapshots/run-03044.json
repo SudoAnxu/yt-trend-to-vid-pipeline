@@ -1,0 +1,23 @@
+{
+  "runNo": 3044,
+  "at": "2026-11-24T22:53:48.905Z",
+  "rows": [
+    {
+      "event": "story-tyler-austin",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 33,
+      "window": "closed"
+    },
+    {
+      "event": "story-diego-state",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
