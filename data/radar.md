@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3020 · Updated: 24/11/2026, 15:39:14 (Asia/Kolkata)
+Run #3021 · Updated: 24/11/2026, 16:14:25 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,23 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Don Toliver — 21/100
+### William Reportedly — 24/100
 
-**Event:** Don Toliver: Cardi B, Travis Scott, Don Toliver & More to Perform at ‘Grand Theft Auto VI’ Festival
+**Event:** William Reportedly: Prince William Reportedly Giving His Kids A Choice He May Deny Prince Harry’s Children With Shock Move
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Don Toliver don toliver: manchester co-op live: don toliver concert evacuated as ‘unknown substance’ fills uk arena filings actually say — line by line — the detail nobody has explained
+> The William Reportedly filing that will matter in six months — the part that was not supposed to be public
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 7 videos in last 6h · TTS ≈ 14h · sources: news
 
 **Status:** RESEARCH
+
+### Michael Kors — 20/100
+
+**Event:** Michael Kors: Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 202
+
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Michael Kors michael kors: black friday deals are live: major sales on apple, ugg, michael kors, hoka, dyson, ring and more for cyber wee story is actually a money story — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** KEPT
 
 
 </details>

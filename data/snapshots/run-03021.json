@@ -1,0 +1,23 @@
+{
+  "runNo": 3021,
+  "at": "2026-11-24T10:44:25.220Z",
+  "rows": [
+    {
+      "event": "story-william-reportedly",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-michael-kors",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
