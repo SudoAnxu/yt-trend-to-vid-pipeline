@@ -1,0 +1,16 @@
+{
+  "runNo": 3038,
+  "at": "2026-11-24T20:16:18.026Z",
+  "rows": [
+    {
+      "event": "story-nathan-fillion",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
