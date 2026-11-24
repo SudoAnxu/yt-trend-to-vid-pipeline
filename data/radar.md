@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3032 · Updated: 24/11/2026, 23:36:15 (Asia/Kolkata)
+Run #3033 · Updated: 25/11/2026, 00:01:02 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
@@ -16,17 +16,17 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Will Be — 23/100
+### Ben Shelton — 22/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Ben Shelton: October 27, 2026: Ben Shelton vs Aleksandar Kovacevic: Set 1 Winner Tennis Prediction Market
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 6 · risk 26 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+15 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Be will be: new trump tariffs won’t top trade deal levels, will be targeted filings actually say — line by line — the number behind the headline
+> The Ben Shelton story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
 
 **Status:** ARCHIVED
 

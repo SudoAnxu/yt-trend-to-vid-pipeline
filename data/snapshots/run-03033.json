@@ -1,0 +1,16 @@
+{
+  "runNo": 3033,
+  "at": "2026-11-24T18:31:01.752Z",
+  "rows": [
+    {
+      "event": "story-ben-shelton",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
