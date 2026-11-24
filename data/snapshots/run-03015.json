@@ -1,0 +1,37 @@
+{
+  "runNo": 3015,
+  "at": "2026-11-24T05:44:07.713Z",
+  "rows": [
+    {
+      "event": "story-paul-walker",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-paul-walker-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-mackie",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-downey",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

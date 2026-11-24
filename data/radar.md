@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3014 · Updated: 24/11/2026, 10:56:26 (Asia/Kolkata)
+Run #3015 · Updated: 24/11/2026, 11:14:08 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,49 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Jennifer Lopez — 25/100
+### Paul Walker — 17/100
 
-**Event:** Jennifer Lopez: Ben Affleck makes surprising Jennifer Lopez confession two years after their divorce
+**Event:** Paul Walker: Where To Find The Paul Walker 'Fast And Furious' Tribute Car In GTA 6
 
-**Why now:** 1 source lane(s): news · momentum 25 (+4 vs prev run) · spice 23 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-4 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jennifer Lopez jennifer lopez: faces backlash after claiming not being 'a white actress' made it harder to land hollywood movie roles story is actually a money story — the other side of the fight
+> What the Paul Walker paul walker: where to find the paul walker 'fast and furious' tribute car in gta 6 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Paul Walker's — 20/100
+
+**Event:** Paul Walker's: Where to Find Paul Walker’s 1995 Mitsubishi Eclipse in GTA 6
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Paul Walker's story is a proxy fight about something bigger — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news
+
+**Status:** RESEARCH
+
+### Anthony Mackie — 26/100
+
+**Event:** Anthony Mackie: Avengers Star Anthony Mackie Says He'll Film Secret Wars When He's Done on Broadway Playing Macbeth — a Run Th
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+12 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Anthony Mackie anthony mackie: ranked his mcu screen partners (and shots fired at sebastian stan) filings actually say — line by line — what happens next
+
+**Competition:** 11 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Dylan Harper — 12/100
+### Robert Downey — 18/100
 
-**Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
+**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Dylan Harper dylan harper: jazz’s ace bailey on nba pacing, veteran wisdom in utah & his bond with spurs’ dylan harper story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Josh Green — 14/100
-
-**Event:** Josh Green: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 5 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (-11 vs prev run) · spice 10 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Josh Green josh green: trending now filings actually say — line by line — the other side of the fight
+> What the Robert Downey robert downey: rumor: robert downey jr. is playing more than just doctor doom in 'avengers: secret wars' filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
