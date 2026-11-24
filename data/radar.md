@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3002 · Updated: 24/11/2026, 07:59:02 (Asia/Kolkata)
+Run #3003 · Updated: 24/11/2026, 08:10:43 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Joe Mazzulla: Sends Strong Message About Paul George
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,19 +30,19 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Victor Wembanyama — 24/100
+### Brian Parker — 22/100
 
-**Event:** Victor Wembanyama: trending now
+**Event:** Brian Parker: Swayze Bozeman, Brian Parker II Activated off Reserve/Injured List | BENGALS ROSTER UPDATE
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+9 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Victor Wembanyama victor wembanyama: missing first game of season due to back tightness, de'aaron fox also out for game vs. kings filings actually say — line by line — the other side of the fight
+> What the Brian Parker brian parker: swayze bozeman, brian parker ii activated off reserve/injured list | bengals roster update filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
