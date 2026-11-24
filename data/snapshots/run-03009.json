@@ -1,0 +1,16 @@
+{
+  "runNo": 3009,
+  "at": "2026-11-24T04:07:02.222Z",
+  "rows": [
+    {
+      "event": "story-trevor-rogers",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

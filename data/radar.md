@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3008 · Updated: 24/11/2026, 09:32:35 (Asia/Kolkata)
+Run #3009 · Updated: 24/11/2026, 09:37:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Victor Wembanyama — 21/100
+### Trevor Rogers — 26/100
 
-**Event:** Victor Wembanyama: trending now
+**Event:** Trevor Rogers: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Victor Wembanyama victor wembanyama: admitted to ‘stat-padding.’ here’s why he’s breaking his own rules - the athletic filings actually say — line by line — the detail nobody has explained
+> What the Trevor Rogers trevor rogers: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
