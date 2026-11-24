@@ -1,0 +1,30 @@
+{
+  "runNo": 3046,
+  "at": "2026-11-24T23:21:53.210Z",
+  "rows": [
+    {
+      "event": "story-rob-lowe",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-melissa-gilbert",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-cramer",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

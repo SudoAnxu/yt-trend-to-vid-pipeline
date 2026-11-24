@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3045 · Updated: 25/11/2026, 04:43:53 (Asia/Kolkata)
+Run #3046 · Updated: 25/11/2026, 04:51:54 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,13 +20,13 @@ Sources this run: trends(40)
 
 **Event:** Rob Lowe: explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Rob Lowe rob lowe: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 23 videos in last 6h · TTS ≈ 4.3h · sources: trends, news
+**Competition:** 23 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Melissa Gilbert: Remembers ‘Little House’ TV Dad Michael Landon on What Would Have Been His 90th Birthday
 
-**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Jim Cramer: Calls Elon Musk Acquiring Lower Frequency Spectrum 'HUGE' for SpaceX; Chamath Palihapitiya Says It's A 'Very B
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+13 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 20 (-3 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
