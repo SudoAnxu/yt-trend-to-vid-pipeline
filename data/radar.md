@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #2995 · Updated: 24/11/2026, 04:32:21 (Asia/Kolkata)
+Run #2996 · Updated: 24/11/2026, 05:39:40 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,91 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Gavin Newsom — 17/100
+### Chad Gable — 30/100
 
-**Event:** Gavin Newsom: backs measure to kill the billionaire tax and ban future wealth taxes
+**Event:** Chad Gable: WWE star Chad Gable reflects on career highs and setbacks ahead of Pittsburgh return
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (+10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Gavin Newsom gavin newsom: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Kevin Young — 19/100
-
-**Event:** Kevin Young: BYU coach Kevin Young previews Maui Invitational
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kevin Young kevin young: byu coach kevin young previews maui invitational filings actually say — line by line — the other side of the fight
+> The Chad Gable story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 4 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
-### Tom Holland — 17/100
+### John Corbett — 22/100
 
-**Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
+**Event:** John Corbett: Bo Derek and John Corbett adopted Gene Hackman’s dog after his death: ‘Perfect gentleman’
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tom Holland tom holland: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Tom Holland's — 12/100
-
-**Event:** Tom Holland's: Tom Holland’s Brother Sam Refers to Zendaya as ‘Lovely Sister-In-Law’ In His ‘Cooking with the Stars’ Intro
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 23 (-2 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Tom Holland's tom holland's: tom holland’s spider-man is back in new marvel release as avengers: doomsday trailer debuts story is actually a money story — the other side of the fight
+> The John Corbett story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** ARCHIVED
-
-### Test Records After — 18/100
-
-**Event:** Test Records After: Judge Rules Against Todd Chrisley in Battle Over Son Grayson’s Drug Test Records After Car Crash
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Test Records After test records after: judge rules against todd chrisley in battle over son grayson’s drug test records after car crash story is actually a money story — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 5.9h · sources: news
 
 **Status:** RESEARCH
 
-### Todd Chrisley — 17/100
+### Glenn Schumann — 16/100
 
-**Event:** Todd Chrisley: recalls becoming an escort at 18 after working at Cheesecake Factory: ‘I’m laying up getting my rent paid’
+**Event:** Glenn Schumann: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Todd Chrisley todd chrisley: shut down in effort to completely block son's drug test results from 2022 car crash filings actually say — line by line — what happens next
+> What the Glenn Schumann glenn schumann: sources: florida state's coaching search focused on georgia dc glenn schumann filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mike Norvell — 19/100
+
+**Event:** Mike Norvell: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mike Norvell story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 4 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
