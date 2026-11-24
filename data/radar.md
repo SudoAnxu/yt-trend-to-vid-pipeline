@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3025 · Updated: 24/11/2026, 18:33:00 (Asia/Kolkata)
+Run #3026 · Updated: 24/11/2026, 19:40:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,19 +16,19 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Will Be — 17/100
+### Michael Kors — 20/100
 
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+**Event:** Michael Kors: Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 202
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Be will be: prediction: this will be sandisk’s stock price by the end of 2027 filings actually say — line by line — the other side of the fight
+> The Michael Kors michael kors: black friday deals are live: major sales on apple, ugg, michael kors, hoka, dyson, ring and more for cyber wee story is actually a money story — the number behind the headline
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** KEPT
 
 
 </details>

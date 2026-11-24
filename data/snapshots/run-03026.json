@@ -1,0 +1,16 @@
+{
+  "runNo": 3026,
+  "at": "2026-11-24T14:10:34.134Z",
+  "rows": [
+    {
+      "event": "story-michael-kors",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
