@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3041 · Updated: 25/11/2026, 02:55:25 (Asia/Kolkata)
+Run #3042 · Updated: 25/11/2026, 03:11:50 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Todd Blanche: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
