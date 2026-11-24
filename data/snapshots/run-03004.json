@@ -1,0 +1,93 @@
+{
+  "runNo": 3004,
+  "at": "2026-11-24T02:59:20.499Z",
+  "rows": [
+    {
+      "event": "story-tom-jackson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean-payton",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-harvey",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-brown-s",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-bryan-cook",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 31,
+      "window": "closed"
+    },
+    {
+      "event": "story-matthew-stafford",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-reaves-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-austin-reaves",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
