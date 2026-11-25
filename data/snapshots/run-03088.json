@@ -1,0 +1,23 @@
+{
+  "runNo": 3088,
+  "at": "2026-11-25T20:32:47.928Z",
+  "rows": [
+    {
+      "event": "story-kirk-herbstreit",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-matt-damon",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 22,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
