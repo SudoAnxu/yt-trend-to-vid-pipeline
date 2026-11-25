@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3094 · Updated: 26/11/2026, 04:41:10 (Asia/Kolkata)
+Run #3095 · Updated: 26/11/2026, 04:57:37 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,79 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### First Unmanned Fighter — 19/100
+### Louis Blues — 15/100
 
-**Event:** First Unmanned Fighter: Turkey Just Inducted the World's First Unmanned Fighter Jet
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the First Unmanned Fighter first unmanned fighter: turkey just inducted the world's first unmanned fighter jet filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Unmanned Fighter — 19/100
-
-**Event:** Unmanned Fighter: Turkey Just Inducted the World's First Unmanned Fighter Jet
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 5 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Unmanned Fighter unmanned fighter: turkey just inducted the world's first unmanned fighter jet filings actually say — line by line — the other side of the fight
+> What the Louis Blues louis blues: preview: blues at islanders | st. louis blues filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Turkish Kizilelma Fighter — 19/100
+### Aaron Rodgers' — 14/100
 
-**Event:** Turkish Kizilelma Fighter: Drone Declared Operational
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Turkish Kizilelma Fighter turkish kizilelma fighter: drone declared operational filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Kizilelma Fighter — 19/100
-
-**Event:** Kizilelma Fighter: Turkish Kizilelma Fighter Drone Declared Operational
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 3 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kizilelma Fighter kizilelma fighter: turkish kizilelma fighter drone declared operational filings actually say — line by line — the other side of the fight
+> The Aaron Rodgers' story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
 
-**Status:** RESEARCH
-
-### Fighter Drone — 19/100
-
-**Event:** Fighter Drone: Turkish Kizilelma Fighter Drone Declared Operational
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Fighter Drone fighter drone: turkish kizilelma fighter drone declared operational filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
