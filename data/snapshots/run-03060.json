@@ -1,0 +1,51 @@
+{
+  "runNo": 3060,
+  "at": "2026-11-25T04:28:57.647Z",
+  "rows": [
+    {
+      "event": "story-mason-rudolph",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-max-verstappen",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-walter-clayton",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-houston",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-gafford",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
