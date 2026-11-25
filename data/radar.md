@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3078 · Updated: 25/11/2026, 23:00:06 (Asia/Kolkata)
+Run #3079 · Updated: 25/11/2026, 23:14:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -20,21 +20,21 @@ Sources this run: trends(40)
 
 **Event:** Josh Jacobs: news
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+8 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Josh Jacobs josh jacobs: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.2h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Micah Parsons — 19/100
+### Micah Parsons — 20/100
 
 **Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+2 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.3h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,19 +44,19 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Brandon Hyde — 25/100
+### Brandon Hyde — 18/100
 
 **Event:** Brandon Hyde: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Brandon Hyde brandon hyde: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 5 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

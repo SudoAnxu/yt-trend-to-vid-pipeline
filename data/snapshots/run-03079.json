@@ -1,0 +1,30 @@
+{
+  "runNo": 3079,
+  "at": "2026-11-25T17:44:04.183Z",
+  "rows": [
+    {
+      "event": "story-josh-jacobs",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-micah-parsons",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-hyde",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
