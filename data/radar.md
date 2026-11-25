@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3048 · Updated: 25/11/2026, 05:13:26 (Asia/Kolkata)
+Run #3049 · Updated: 25/11/2026, 05:30:38 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(38)
 
@@ -12,15 +12,29 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
+
+### David Muir — 13/100
+
+**Event:** David Muir: ABC World News Tonight with David Muir Full Broadcast - Nov. 2, 2026
+
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the David Muir david muir: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Anthony Edwards' — 14/100
 
 **Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
 
-**Why now:** 2 source lane(s): news, trends · momentum 4 (-14 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 6 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,41 +48,13 @@ Sources this run: trends(38)
 
 **Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Dylan Harper story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Brittany Snow — 15/100
-
-**Event:** Brittany Snow: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 10 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Brittany Snow brittany snow: hunting wives’ brittany snow and malin akerman say it was ‘easy’ to reignite their chemistry (exclusive) filings actually say — line by line — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Walter Clayton — 26/100
-
-**Event:** Walter Clayton: Grizzlies waive former Florida star Walter Clayton Jr. before NBA roster deadline
-
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+0 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Walter Clayton walter clayton: why walter clayton jr. spurned other west teams and joined his college roommate on the mavs - the athletic filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 4 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
