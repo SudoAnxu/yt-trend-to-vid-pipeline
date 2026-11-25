@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3082 · Updated: 26/11/2026, 00:17:41 (Asia/Kolkata)
+Run #3083 · Updated: 26/11/2026, 00:22:26 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,11 +16,11 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Kevin Porter — 22/100
+### Kevin Porter — 20/100
 
 **Event:** Kevin Porter: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,21 +34,21 @@ Sources this run: trends(40)
 
 **Event:** Brandon Aiyuk: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+17 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Brandon Aiyuk brandon aiyuk: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Adam Peters — 21/100
+### Adam Peters — 20/100
 
 **Event:** Adam Peters: 5 questions with Andrew York of Hogs Haven: How is Adam Peters viewed three years in?
 
-**Why now:** 1 source lane(s): news · momentum 11 (-10 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 12 (+1 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 9.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,11 +58,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Chris Creighton — 32/100
+### Chris Creighton — 26/100
 
 **Event:** Chris Creighton: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 0 · risk 34 · external momentum 36 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 28 (-8 vs prev run) · spice 0 · risk 34 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -72,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Anthony Gordon — 14/100
+### Anthony Gordon — 12/100
 
 **Event:** Anthony Gordon: Explains Why Spain Is 'Built Different' Than England
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-19 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
