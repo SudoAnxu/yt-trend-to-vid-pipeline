@@ -1,0 +1,72 @@
+{
+  "runNo": 3089,
+  "at": "2026-11-25T20:49:29.148Z",
+  "rows": [
+    {
+      "event": "story-luis-su",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-aaron",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-micah-parsons-",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-brandon-aiyuk",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 3,
+      "window": "closed"
+    },
+    {
+      "event": "story-micah-parsons",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-ethan-mbapp",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "unknown"
+    },
+    {
+      "event": "story-matt-damon",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-damon-says-returning",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
