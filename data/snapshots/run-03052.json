@@ -1,0 +1,23 @@
+{
+  "runNo": 3052,
+  "at": "2026-11-25T01:19:37.930Z",
+  "rows": [
+    {
+      "event": "story-julia-stiles",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 2,
+      "window": "closed"
+    },
+    {
+      "event": "story-julia-stiles-",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 33,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
