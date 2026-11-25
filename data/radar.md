@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3085 · Updated: 26/11/2026, 01:18:47 (Asia/Kolkata)
+Run #3086 · Updated: 26/11/2026, 01:30:19 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,39 +16,39 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Justin Boone — 20/100
-
-**Event:** Justin Boone: Fantasy Football Rankings: Top running backs for Week 4 from Justin Boone
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Justin Boone justin boone: week 12 fantasy football te rankings: top tight ends from justin boone filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Todd Boehly — 28/100
+### Todd Boehly — 22/100
 
 **Event:** Todd Boehly: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > The Todd Boehly todd boehly: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Cody Gakpo — 21/100
+### Ryan Gravenberch — 21/100
+
+**Event:** Ryan Gravenberch: and Cody Gakpo injury update
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Ryan Gravenberch ryan gravenberch: and cody gakpo injury update filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Cody Gakpo — 20/100
 
 **Event:** Cody Gakpo: Ryan Gravenberch and Cody Gakpo injury update
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 4 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
 
 **Recommended angle**
 
