@@ -1,0 +1,30 @@
+{
+  "runNo": 3064,
+  "at": "2026-11-25T05:35:10.744Z",
+  "rows": [
+    {
+      "event": "story-amanda-seyfried",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-billy-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-stanley-tucci",
+      "alert": "ARCHIVE",
+      "opportunity": 31,
+      "momentum": 36,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

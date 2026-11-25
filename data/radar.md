@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3063 · Updated: 25/11/2026, 10:43:51 (Asia/Kolkata)
+Run #3064 · Updated: 25/11/2026, 11:05:11 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Aaron Rodgers' — 21/100
+### Amanda Seyfried — 24/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** Amanda Seyfried: Is Jump-Scared by 9-Year-Old Daughter Nina Wearing Scream Mask in Hilarious Video
 
-**Why now:** 2 source lane(s): news, trends · momentum 14 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Aaron Rodgers' story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Mason Rudolph — 19/100
-
-**Event:** Mason Rudolph: Steelers' Aaron Rodgers replaced by Mason Rudolph vs Bengals on SNF
-
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+7 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mason Rudolph story is a proxy fight about something bigger — the other side of the fight
+> The Amanda Seyfried amanda seyfried: what amanda seyfried said about billy evans after you can see everything clash goes viral story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 10 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Billy Evans — 21/100
+
+**Event:** Billy Evans: Nathan Fielder Questions Elizabeth Holmes, Billy Evans in ‘You Can See Everything’ Trailer
+
+**Why now:** 1 source lane(s): news · momentum 13 (+0 vs prev run) · spice 13 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Billy Evans billy evans: what amanda seyfried said about billy evans after you can see everything clash goes viral story is actually a money story — the other side of the fight
+
+**Competition:** 1 videos in last 6h · TTS ≈ 8.3h · sources: news
+
+**Status:** ARCHIVED
+
+### Stanley Tucci — 31/100
+
+**Event:** Stanley Tucci: The 2009 co-star Stanley Tucci wanted to work with forever: “We would be so happy”
+
+**Why now:** 2 source lane(s): trends, news · momentum 36 (+0 vs prev run) · spice 5 · risk 64 · external momentum 36 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Stanley Tucci story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>
