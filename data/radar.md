@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3057 · Updated: 25/11/2026, 08:56:07 (Asia/Kolkata)
+Run #3058 · Updated: 25/11/2026, 09:07:08 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** James Bond: jack lowden james bond
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-9 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Andrew Tate — 19/100
+### Andrew Tate — 16/100
 
 **Event:** Andrew Tate: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,61 +44,61 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Charles Barkley — 21/100
+### Victor Wembanyama — 18/100
 
-**Event:** Charles Barkley: trending now
+**Event:** Victor Wembanyama: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+13 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Charles Barkley charles barkley: "he didn't hit me, i hit him" - charles barkley still insists he beat up shaquille o'neal in infamous 1999 fig story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Tom Holland — 17/100
-
-**Event:** Tom Holland: How Zendaya Really Feels About Law Roach Announcing Her Wedding to Tom Holland
-
-**Why now:** 2 source lane(s): news, trends · momentum 13 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tom Holland tom holland: trending now filings actually say — line by line — the other side of the fight
+> What the Victor Wembanyama victor wembanyama: doc rivers won’t put victor wembanyama in front of nikola jokic, shaq just yet filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tom Holland's — 14/100
+### Evan Bates' — 22/100
 
-**Event:** Tom Holland's: Tom Holland’s Brother Sam Refers to Zendaya as ‘Lovely Sister-In-Law’ In His ‘Cooking with the Stars’ Intro
+**Event:** Evan Bates': Inside Olympic Figure Skaters Madison Chock and Evan Bates’ Romance
 
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tom Holland's tom holland's: tom holland’s spider-man gets a bold new look in latest ‘brand new day’ poster filings actually say — line by line — the other side of the fight
+> What the Evan Bates' evan bates': inside olympic figure skaters madison chock and evan bates’ romance filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 2 videos in last 6h · TTS ≈ 3.1h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Matt Rife — 22/100
+### Matt Rife — 20/100
 
 **Event:** Matt Rife: Steve Doocy catches up with viral comedian Matt Rife on tour
 
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Matt Rife matt rife: rejects crypto after playing ftx executive in netflix series filings actually say — line by line — the other side of the fight
+> What the Matt Rife matt rife: rejects cryptocurrency after playing ftx executive filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Ryan Salame — 19/100
+
+**Event:** Ryan Salame: Is Ryan Salame still in prison? Yes: the FTX exec Matt Rife plays in The Altruists is due out in 2030
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Ryan Salame ryan salame: is ryan salame still in prison? yes: the ftx exec matt rife plays in the altruists is due out in 2030 filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
