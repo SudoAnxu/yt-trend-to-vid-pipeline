@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3054 · Updated: 25/11/2026, 08:14:34 (Asia/Kolkata)
+Run #3055 · Updated: 25/11/2026, 08:21:18 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -20,7 +20,7 @@ Sources this run: trends(37)
 
 **Event:** Jose Earthquakes: Know Before You Go: MNUFC vs. San Jose Earthquakes | November 7, 2026
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -48,7 +48,7 @@ Sources this run: trends(37)
 
 **Event:** Martin Short: , Meg Stalter Star In Verizon's Holiday Ads 11/06/2026
 
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-7 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+0 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 6.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -56,7 +56,7 @@ Sources this run: trends(37)
 
 **Competition:** 9 videos in last 6h · TTS ≈ 6.4h · sources: trends, news
 
-**Status:** BOOSTED
+**Status:** KEPT
 
 
 </details>
