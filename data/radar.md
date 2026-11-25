@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3090 · Updated: 26/11/2026, 03:22:53 (Asia/Kolkata)
+Run #3091 · Updated: 26/11/2026, 03:37:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Michael Carrick — 19/100
+### Mike Mccarthy — 17/100
 
-**Event:** Michael Carrick: No timeline for Benjamin Sesko's Man United return
+**Event:** Mike Mccarthy: ice cream sandwiches
 
-**Why now:** 2 source lane(s): news, trends · momentum 17 (+3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Michael Carrick michael carrick: ex-man utd teammate reveals bruno fernandes’s reaction to michael carrick firing filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** KEPT
-
-### David Fincher — 17/100
-
-**Event:** David Fincher: Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First
-
-**Why now:** 1 source lane(s): news · momentum 22 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the David Fincher david fincher: reveals the real reason netflix canceled 'mindhunter' and whether the series will ever return filings actually say — line by line — the other side of the fight
+> What the Mike Mccarthy mike mccarthy: ice cream sandwiches filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Aaron Rodgers' — 14/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 2 source lane(s): news, trends · momentum 1 (-17 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Aaron Rodgers' aaron rodgers': mike mccarthy's 'ice cream sandwich' assistant detailed in nfl rumors after aaron rodgers' comments story is actually a money story — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Will Ever — 19/100
+### Scott Bessent — 13/100
 
-**Event:** Will Ever: David Fincher Reveals the Real Reason Netflix Canceled 'Mindhunter' and Whether the Series Will Ever Return
+**Event:** Scott Bessent: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Will Ever will ever: david fincher reveals the real reason netflix canceled 'mindhunter' and whether the series will ever return filings actually say — line by line — the other side of the fight
+> What the Scott Bessent scott bessent: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 12 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>

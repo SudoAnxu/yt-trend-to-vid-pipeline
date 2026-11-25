@@ -1,0 +1,30 @@
+{
+  "runNo": 3091,
+  "at": "2026-11-25T22:07:13.944Z",
+  "rows": [
+    {
+      "event": "story-mike-mccarthy",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 1,
+      "window": "closed"
+    },
+    {
+      "event": "story-scott-bessent",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
