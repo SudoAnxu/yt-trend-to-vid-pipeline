@@ -1,0 +1,16 @@
+{
+  "runNo": 3053,
+  "at": "2026-11-25T01:55:06.471Z",
+  "rows": [
+    {
+      "event": "story-mark-ballas",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
