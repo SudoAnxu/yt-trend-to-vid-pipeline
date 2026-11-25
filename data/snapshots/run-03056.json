@@ -1,0 +1,44 @@
+{
+  "runNo": 3056,
+  "at": "2026-11-25T03:05:59.358Z",
+  "rows": [
+    {
+      "event": "story-matt-rife",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-evans",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-feige",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-connor-mcdavid",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-crime-hit-officially",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
