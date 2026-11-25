@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3075 · Updated: 25/11/2026, 20:47:24 (Asia/Kolkata)
+Run #3076 · Updated: 25/11/2026, 21:27:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,51 +12,23 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (1)
 
 <details><summary>show</summary>
 
-### Robert Pattinson — 17/100
+### Chris Evert — 22/100
 
-**Event:** Robert Pattinson: James Bond Surprise: Robert Pattinson Screen Tested to Play 007
+**Event:** Chris Evert: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Robert Pattinson robert pattinson: james bond casting filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### James Bond — 17/100
-
-**Event:** James Bond: jack lowden james bond
-
-**Why now:** 2 source lane(s): trends, news · momentum 14 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the James Bond james bond: robert pattinson james bond casting filings actually say — line by line — the other side of the fight
+> The Chris Evert story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+**Competition:** 3 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
 
-**Status:** ARCHIVED
-
-### Robert Pattinson's — 17/100
-
-**Event:** Robert Pattinson's: Pierce Brosnan reacts to Robert Pattinson's casting as James Bond
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Robert Pattinson's robert pattinson's: will robert pattinson’s james bond usher in a new bond style? filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news
-
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
