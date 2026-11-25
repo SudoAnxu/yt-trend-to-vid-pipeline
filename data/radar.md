@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3073 · Updated: 25/11/2026, 19:13:04 (Asia/Kolkata)
+Run #3074 · Updated: 25/11/2026, 20:20:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(40)
+Sources this run: trends(37)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Kirk Herbstreit — 23/100
+### John Stamos — 19/100
 
-**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
+**Event:** John Stamos: Says Bob Saget Offered Support at His Lowest Point Following DUI Arrest: ‘He Showed Up and He Loved Me’
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+9 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 3 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Kirk Herbstreit kirk herbstreit: distances himself from viral video mocking espn, cfp filings actually say — line by line — the other side of the fight
+> What the John Stamos john stamos: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 10 videos in last 6h · TTS ≈ 3.2h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Todd Blanche — 19/100
+
+**Event:** Todd Blanche: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Todd Blanche todd blanche: attorney general todd blanche announces justice department crackdown on cyber-enabled scams filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
