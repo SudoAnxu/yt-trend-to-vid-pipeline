@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3050 · Updated: 25/11/2026, 05:43:46 (Asia/Kolkata)
+Run #3051 · Updated: 25/11/2026, 06:29:13 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,33 +16,33 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jason Garrett — 20/100
+### Kevin Huerter — 18/100
 
-**Event:** Jason Garrett: to fill in for Cris Collinsworth for Raiders-Browns 'Sunday Night Football' game in Week 12
+**Event:** Kevin Huerter: nails the triple vs. Boston Celtics
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jason Garrett jason garrett: to fill in for cris collinsworth for raiders-browns 'sunday night football' game in week 12 story is actually a money story — the other side of the fight
-
-**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
-
-### Thomas Markle — 18/100
-
-**Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
-
-**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Thomas Markle thomas markle: trending now filings actually say — line by line — the other side of the fight
+> What the Kevin Huerter kevin huerter: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
+**Competition:** 3 videos in last 6h · TTS ≈ 4.2h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Christopher Briney — 17/100
+
+**Event:** Christopher Briney: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 10 (-10 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Christopher Briney christopher briney: shocks jenna and sheinelle with a magic trick on today: ‘what?!’ filings actually say — line by line — the part that was not supposed to be public
+
+**Competition:** 18 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+
+**Status:** KEPT
 
 
 </details>
