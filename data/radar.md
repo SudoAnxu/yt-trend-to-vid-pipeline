@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3086 · Updated: 26/11/2026, 01:30:19 (Asia/Kolkata)
+Run #3087 · Updated: 26/11/2026, 01:53:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,47 +16,47 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Todd Boehly — 22/100
+### Kirk Herbstreit — 28/100
 
-**Event:** Todd Boehly: trending now
+**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
 
-**Why now:** 2 source lane(s): trends, news · momentum 26 (-5 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Todd Boehly todd boehly: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 4 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Ryan Gravenberch — 21/100
-
-**Event:** Ryan Gravenberch: and Cody Gakpo injury update
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+3 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Ryan Gravenberch ryan gravenberch: and cody gakpo injury update filings actually say — line by line — the other side of the fight
+> What the Kirk Herbstreit kirk herbstreit: contract agreement rumors denied by espn, timeline for deal updated by network filings actually say — line by line — the number behind the headline
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
-### Cody Gakpo — 20/100
+### Matt Damon — 18/100
 
-**Event:** Cody Gakpo: Ryan Gravenberch and Cody Gakpo injury update
+**Event:** Matt Damon: Casey Affleck on Matt Damon Rivalry, a Chris Nolan Phone Call and Being a Proud “Hollywood Outsider”
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 4 · risk 64 · external momentum 17 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 25 (+17 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Cody Gakpo cody gakpo: ryan gravenberch and cody gakpo injury update filings actually say — line by line — the other side of the fight
+> The Matt Damon matt damon: trending now story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Luis Enrique — 15/100
+
+**Event:** Luis Enrique: PSG: Problème confirmé pour un cadre de Luis Enrique
+
+**Why now:** 1 source lane(s): news · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Luis Enrique luis enrique: live alle 21 psg-roma, le ufficiali: gasp con castro dal 1', in panchina malen. luis enrique senza dembelé filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
