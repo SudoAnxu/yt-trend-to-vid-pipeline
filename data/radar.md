@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3062 · Updated: 25/11/2026, 10:29:25 (Asia/Kolkata)
+Run #3063 · Updated: 25/11/2026, 10:43:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Aaron Rodgers' — 19/100
+### Aaron Rodgers' — 21/100
 
 **Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-5 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -30,11 +30,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Mason Rudolph — 18/100
+### Mason Rudolph — 19/100
 
 **Event:** Mason Rudolph: Steelers' Aaron Rodgers replaced by Mason Rudolph vs Bengals on SNF
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 18 (-7 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -43,34 +43,6 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
-
-### Brandon Aiyuk — 14/100
-
-**Event:** Brandon Aiyuk: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Brandon Aiyuk story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Rob Pelinka — 19/100
-
-**Event:** Rob Pelinka: says the Lakers will be active at the trade deadline
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Rob Pelinka rob pelinka: says the lakers will be active at the trade deadline filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
