@@ -1,0 +1,16 @@
+{
+  "runNo": 3073,
+  "at": "2026-11-25T13:43:03.687Z",
+  "rows": [
+    {
+      "event": "story-kirk-herbstreit",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
