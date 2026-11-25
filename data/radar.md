@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3060 · Updated: 25/11/2026, 09:58:59 (Asia/Kolkata)
+Run #3061 · Updated: 25/11/2026, 10:16:02 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,29 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Mason Rudolph — 16/100
-
-**Event:** Mason Rudolph: Steelers' Aaron Rodgers replaced by Mason Rudolph vs Bengals on SNF
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mason Rudolph mason rudolph: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Aaron Rodgers' — 20/100
+### Aaron Rodgers' — 19/100
 
 **Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 21 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,59 +30,59 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Max Verstappen — 22/100
+### Mason Rudolph — 16/100
 
-**Event:** Max Verstappen: pips George Russell in closing stages of Azerbaijan GP final practice
+**Event:** Mason Rudolph: Steelers' Aaron Rodgers replaced by Mason Rudolph vs Bengals on SNF
 
-**Why now:** 2 source lane(s): news, trends · momentum 18 (+10 vs prev run) · spice 7 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Max Verstappen max verstappen: promoted to las vegas gp pole as kimi antonelli drops to sixth story is actually a money story — the part that was not supposed to be public
+> The Mason Rudolph story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 24 videos in last 6h · TTS ≈ 6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Walter Clayton — 24/100
+### Brandon Aiyuk — 14/100
 
-**Event:** Walter Clayton: Grizzlies waive former Florida star Walter Clayton Jr. before NBA roster deadline
+**Event:** Brandon Aiyuk: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-9 vs prev run) · spice 7 · risk 34 · forecast window elapsed (TTS 4.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Walter Clayton walter clayton: why walter clayton jr. spurned other west teams and joined his college roommate on the mavs - the athletic filings actually say — line by line — the detail nobody has explained
+> The Brandon Aiyuk story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 4.1h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Sam Houston — 21/100
+### Micah Parsons — 15/100
 
-**Event:** Sam Houston: Texas Tech vs. Sam Houston Final Stats
+**Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
 
-**Why now:** 2 source lane(s): news, trends · momentum 9 (-8 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 2 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Sam Houston sam houston: vs wa state filings actually say — line by line — the other side of the fight
+> What the Micah Parsons micah parsons: packers activate edge micah parsons off pup filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 4.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Daniel Gafford — 23/100
+### Ben Johnson — 19/100
 
-**Event:** Daniel Gafford: trending now
+**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
 
-**Why now:** 2 source lane(s): trends, news · momentum 23 (+13 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 9 (-20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Daniel Gafford daniel gafford: thanks to sustained health, daniel gafford has been man in middle mavs have been missing story is actually a money story — the detail nobody has explained
+> What the Ben Johnson ben johnson: on preparing for lions' playmakers | press conference filings actually say — line by line — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 8h · sources: trends, news
+**Competition:** 17 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
