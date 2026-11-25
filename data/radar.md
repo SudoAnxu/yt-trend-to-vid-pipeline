@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3049 · Updated: 25/11/2026, 05:30:38 (Asia/Kolkata)
+Run #3050 · Updated: 25/11/2026, 05:43:46 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,35 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### David Muir — 13/100
+### Jason Garrett — 20/100
 
-**Event:** David Muir: ABC World News Tonight with David Muir Full Broadcast - Nov. 2, 2026
+**Event:** Jason Garrett: to fill in for Cris Collinsworth for Raiders-Browns 'Sunday Night Football' game in Week 12
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-29 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the David Muir david muir: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 6 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Anthony Edwards' — 14/100
-
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
-
-**Why now:** 2 source lane(s): news, trends · momentum 6 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Anthony Edwards' story is a proxy fight about something bigger — the other side of the fight
+> The Jason Garrett jason garrett: to fill in for cris collinsworth for raiders-browns 'sunday night football' game in week 12 story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Dylan Harper — 14/100
+### Thomas Markle — 18/100
 
-**Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
+**Event:** Thomas Markle: investigation: What we know as Meghan’s half-brother becomes a ‘person of interest’
 
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 17 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Dylan Harper story is a proxy fight about something bigger — the other side of the fight
+> What the Thomas Markle thomas markle: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
