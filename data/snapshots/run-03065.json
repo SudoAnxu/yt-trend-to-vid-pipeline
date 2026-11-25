@@ -1,0 +1,44 @@
+{
+  "runNo": 3065,
+  "at": "2026-11-25T07:09:13.771Z",
+  "rows": [
+    {
+      "event": "story-ben-stiller",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-owen-wilson",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-mario-kart",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-ben-wang",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-max-christie",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 31,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
