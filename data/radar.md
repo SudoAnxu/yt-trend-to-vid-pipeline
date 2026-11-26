@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3132 · Updated: 27/11/2026, 00:40:08 (Asia/Kolkata)
+Run #3133 · Updated: 27/11/2026, 00:57:20 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,73 +16,73 @@ Sources this run: trends(38)
 
 <details><summary>show</summary>
 
-### Kirk Herbstreit — 29/100
+### Fieri Shares Birthday — 19/100
 
-**Event:** Kirk Herbstreit: ESPN's Kirk Herbstreit rips Texas’ Colin Simmons for urination celebration vs. Tennessee
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+3 vs prev run) · spice 16 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Kirk Herbstreit kirk herbstreit: contract agreement rumors denied by espn, timeline for deal updated by network filings actually say — line by line — the number behind the headline
-
-**Competition:** 5 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### David Corenswet — 13/100
-
-**Event:** David Corenswet: ‘Mr. Irrelevant’ Co-Stars David Corenswet & Isabel May Kick Off Press Tour Early with MTV VMAs 2026 Appearance
-
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-14 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The David Corenswet david corenswet: superman’s david corenswet looks oscar-worthy ahead of man of tomorrow in mr. irrelevant trailer story is actually a money story — the other side of the fight
-
-**Competition:** 11 videos in last 6h · TTS ≈ 8.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### John Tuggle — 18/100
-
-**Event:** John Tuggle: Mr. Irrelevant: The John Tuggle Story - Trailer 2
+**Event:** Fieri Shares Birthday: Guy Fieri Shares Birthday Tribute for Late Father Jim, Who Died in 2024: ‘Miss Him Every Day’
 
 **Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The John Tuggle john tuggle: mr. irrelevant: the john tuggle story - trailer 2 story is actually a money story — the other side of the fight
+> What the Fieri Shares Birthday fieri shares birthday: guy fieri shares birthday tribute for late father jim, who died in 2024: ‘miss him every day’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** RESEARCH
 
-### Aaron Rodgers' — 15/100
+### Jimmy Kimmel — 16/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** Jimmy Kimmel: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-10 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Rodgers' story is a proxy fight about something bigger — the other side of the fight
+> What the Jimmy Kimmel jimmy kimmel: pulls out pre-blink-182 photo of travis barker dressed as a superhero beside robin williams filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Sam Laporta — 20/100
+### Travis Barker — 17/100
 
-**Event:** Sam Laporta: trending now
+**Event:** Travis Barker: Shares Photo from the Hospital, Says ‘Beautiful Wife’ Kourtney Kardashian Is ‘by My Side’
 
-**Why now:** 1 source lane(s): trends · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 13 (+6 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Sam Laporta sam laporta: trending now filings actually say — line by line — the other side of the fight
+> What the Travis Barker travis barker: jimmy kimmel pulls out pre-blink-182 photo of travis barker dressed as a superhero beside robin williams filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 14 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Jacob Rodriguez — 27/100
+
+**Event:** Jacob Rodriguez: is Defensive Rookie of the Year favorite after big game vs. Chiefs
+
+**Why now:** 2 source lane(s): news, trends · momentum 27 (+1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jacob Rodriguez jacob rodriguez: class act: buffalo #bills superstar quarterback josh allen waited after his postgame interview to find #dolphi story is actually a money story — the other side of the fight
+
+**Competition:** 10 videos in last 6h · TTS ≈ 8h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Josh Allen — 18/100
+
+**Event:** Josh Allen: injury
+
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Josh Allen josh allen: class act: buffalo #bills superstar quarterback josh allen waited after his postgame interview to find #dolphi story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
