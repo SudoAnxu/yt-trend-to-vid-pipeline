@@ -1,0 +1,23 @@
+{
+  "runNo": 3116,
+  "at": "2026-11-26T09:41:38.385Z",
+  "rows": [
+    {
+      "event": "story-sam-neill",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    },
+    {
+      "event": "story-rob-nelson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
