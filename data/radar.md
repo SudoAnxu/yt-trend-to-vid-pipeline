@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3112 · Updated: 26/11/2026, 10:47:30 (Asia/Kolkata)
+Run #3113 · Updated: 26/11/2026, 12:28:41 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Joel Embiid — 19/100
+### Rudy Giuliani — 22/100
 
-**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
+**Event:** Rudy Giuliani: Late Night Rips Into Trump for Honoring Rudy Giuliani
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joel Embiid joel embiid: donovan clingan just showed 76ers why they need more size behind joel embiid filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Danny Green — 19/100
-
-**Event:** Danny Green: Julian Champagnie has officially outgrown the Danny Green comparisons
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Danny Green danny green: julian champagnie has officially outgrown the danny green comparisons filings actually say — line by line — the other side of the fight
+> The Rudy Giuliani story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 10 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
-### Dylan Harper — 15/100
+### Robert Downey — 14/100
 
-**Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
+**Event:** Robert Downey: Jr.’s Son Indio Follows in His Footsteps and Lands First Lead Movie Role
 
-**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Dylan Harper dylan harper: with dylan harper out, spurs turn to familiar face to fill the void filings actually say — line by line — the other side of the fight
+> What the Robert Downey robert downey: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
 
 **Status:** ARCHIVED
 
