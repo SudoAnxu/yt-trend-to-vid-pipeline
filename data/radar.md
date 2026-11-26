@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3137 · Updated: 27/11/2026, 02:11:25 (Asia/Kolkata)
+Run #3138 · Updated: 27/11/2026, 03:17:42 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,65 +12,107 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (7)
 
 <details><summary>show</summary>
 
-### Barry Sanders — 17/100
+### Terry Bradshaw — 22/100
 
-**Event:** Barry Sanders: trending now
+**Event:** Terry Bradshaw: NFL Legend Terry Bradshaw Gets Emotional Recalling How People Treated Him During His Depression Battle: ‘Peopl
 
-**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Barry Sanders barry sanders: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Matt Damon — 16/100
-
-**Event:** Matt Damon: Casey Affleck on Matt Damon Rivalry, a Chris Nolan Phone Call and Being a Proud “Hollywood Outsider”
-
-**Why now:** 2 source lane(s): news, trends · momentum 1 (-18 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+10 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Matt Damon matt damon: narrates ford racing’s ‘go like hell’ thanksgiving day ad directed by zack snyder filings actually say — line by line — the other side of the fight
+> The Terry Bradshaw terry bradshaw: howie long jokes he's glad to be away from terry bradshaw seconds into live fox broadcast story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 5 videos in last 6h · TTS ≈ 8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Diego State — 18/100
+### Michael Strahan — 18/100
 
-**Event:** Diego State: San Diego State vs. Fresno State live stream, where to watch online, CBS Sports Network channel finder, odds
+**Event:** Michael Strahan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-16 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.8h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Diego State diego state: maryland vs. san diego state (nov 26, 2026) live score filings actually say — line by line — the other side of the fight
+> The Michael Strahan michael strahan: struggles to control his emotions after terry bradshaw spits and slobbers on-air during fox nfl sunday story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 7 videos in last 6h · TTS ≈ 8.8h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Steve Rogers — 19/100
+### Rob Gronkowski — 21/100
 
-**Event:** Steve Rogers: Thor & Steve Rogers Come Face-To-Face With Doom for the First Time in New 'Avengers' Teaser
+**Event:** Rob Gronkowski: trending now
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): trends, news · momentum 14 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Steve Rogers steve rogers: thor & steve rogers come face-to-face with doom for the first time in new 'avengers' teaser filings actually say — line by line — the other side of the fight
+> What the Rob Gronkowski rob gronkowski: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 14 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Tom Brady — 22/100
+
+**Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
+
+**Why now:** 2 source lane(s): news, trends · momentum 22 (+15 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Tom Brady tom brady: joan smalls reveals why she ended 15-year friendship with candice swanepoel over tom brady filings actually say — line by line — the detail nobody has explained
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Travis Kelce's — 16/100
+
+**Event:** Travis Kelce's: sister-in-law issues public invitation to Princess of Wales
+
+**Why now:** 1 source lane(s): news · momentum 10 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Travis Kelce's travis kelce's: taylor swift hugs jason and kylie kelce’s daughter wyatt, 7, as they celebrate travis kelce’s second touchdown filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** ARCHIVED
+
+### Aaron Rodgers' — 15/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Rodgers' aaron rodgers': remarks on mike vrabel-dianna russini scandal resurface as patriots could use qb help filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Tom Brady's — 18/100
+
+**Event:** Tom Brady's: Drake Maye Looked Like Tom Brady’s Heir. Now, He’s a Disaster.
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Tom Brady's tom brady's: alix earle appears to mock tom brady’s age in pete davidson ad story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+
+**Status:** ARCHIVED
 
 
 </details>
