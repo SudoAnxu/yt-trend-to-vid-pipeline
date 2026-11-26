@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3108 · Updated: 26/11/2026, 09:12:35 (Asia/Kolkata)
+Run #3109 · Updated: 26/11/2026, 09:26:05 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(36)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,33 +16,33 @@ Sources this run: trends(36)
 
 <details><summary>show</summary>
 
-### Connor Storrie — 16/100
+### Pedro Pascal — 20/100
 
-**Event:** Connor Storrie: ‘Heated Rivalry’ star Connor Storrie has arrived at the Academy Museum Gala
+**Event:** Pedro Pascal: We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Pre
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 12h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Connor Storrie filing that will matter in six months — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 12h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Anthony Edwards' — 19/100
-
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
-
-**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 16 (-7 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Anthony Edwards' situation is weirder than the clips suggest — the other side of the fight
+> The Pedro Pascal situation is weirder than the clips suggest — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
+**Competition:** 20 videos in last 6h · TTS ≈ 5.4h · sources: news, trends
 
 **Status:** ARCHIVED
+
+### Kevin Ginkel — 20/100
+
+**Event:** Kevin Ginkel: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Kevin Ginkel filing that will matter in six months — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 14h · sources: trends, news
+
+**Status:** RESEARCH
 
 
 </details>

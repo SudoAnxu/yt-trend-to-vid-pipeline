@@ -1,0 +1,23 @@
+{
+  "runNo": 3109,
+  "at": "2026-11-26T03:56:04.629Z",
+  "rows": [
+    {
+      "event": "story-pedro-pascal",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-ginkel",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 25,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
