@@ -1,0 +1,23 @@
+{
+  "runNo": 3108,
+  "at": "2026-11-26T03:42:34.456Z",
+  "rows": [
+    {
+      "event": "story-connor-storrie",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
