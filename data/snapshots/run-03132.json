@@ -1,0 +1,44 @@
+{
+  "runNo": 3132,
+  "at": "2026-11-26T19:10:07.572Z",
+  "rows": [
+    {
+      "event": "story-kirk-herbstreit",
+      "alert": "ARCHIVE",
+      "opportunity": 29,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-corenswet",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-john-tuggle",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-sam-laporta",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
