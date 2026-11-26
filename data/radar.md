@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3111 · Updated: 26/11/2026, 10:12:39 (Asia/Kolkata)
+Run #3112 · Updated: 26/11/2026, 10:47:30 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,63 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Aaron Rodgers' — 14/100
+### Joel Embiid — 19/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** Joel Embiid: LeBron James, Nick Nurse dispute Mike Breen’s story about Joel Embiid
 
-**Why now:** 2 source lane(s): news, trends · momentum 6 (+2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Rodgers' story is a proxy fight about something bigger — the other side of the fight
+> What the Joel Embiid joel embiid: donovan clingan just showed 76ers why they need more size behind joel embiid filings actually say — line by line — the detail nobody has explained
 
-**Competition:** 25 videos in last 6h · TTS ≈ 7.2h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jennifer Garner — 25/100
+### Danny Green — 19/100
 
-**Event:** Jennifer Garner: Ben Affleck Explains Shared Custody Arrangement With Ex-Wife Jennifer Garner Over Their 3 Kids
+**Event:** Danny Green: Julian Champagnie has officially outgrown the Danny Green comparisons
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 11 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jennifer Garner story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 13 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### John Madden — 16/100
-
-**Event:** John Madden: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the John Madden john madden: trending now filings actually say — line by line — the other side of the fight
+> What the Danny Green danny green: julian champagnie has officially outgrown the danny green comparisons filings actually say — line by line — the other side of the fight
 
-**Competition:** 24 videos in last 6h · TTS ≈ 3.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Mike Lafleur — 17/100
+### Dylan Harper — 15/100
 
-**Event:** Mike Lafleur: trending now
+**Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Mike Lafleur mike lafleur: trending now filings actually say — line by line — the other side of the fight
+> What the Dylan Harper dylan harper: with dylan harper out, spurs turn to familiar face to fill the void filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
