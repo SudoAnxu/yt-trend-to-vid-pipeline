@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3134 · Updated: 27/11/2026, 01:13:35 (Asia/Kolkata)
+Run #3135 · Updated: 27/11/2026, 01:30:34 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,59 +16,59 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Anthony Hopkins — 19/100
+### Will Ferrell — 21/100
 
-**Event:** Anthony Hopkins: Michele Morrone, Jessica Alba, Andy Garcia, Anthony Hopkins, and Al Pacino Star in ‘Maserati: The Brothers’ – 
+**Event:** Will Ferrell: trending now
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Anthony Hopkins anthony hopkins: michele morrone, jessica alba, andy garcia, anthony hopkins, and al pacino star in ‘maserati: the brothers’ –  story is actually a money story — the other side of the fight
-
-**Competition:** 8 videos in last 6h · TTS ≈ 6.6h · sources: news
-
-**Status:** RESEARCH
-
-### Jessica Alba — 12/100
-
-**Event:** Jessica Alba: deletes Halloween photos after bloody Nancy Kerrigan costume sparks backlash
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-20 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+13 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jessica Alba jessica alba: michele morrone, jessica alba, andy garcia, anthony hopkins, and al pacino star in ‘maserati: the brothers’ –  story is actually a money story — the other side of the fight
+> What the Will Ferrell will ferrell: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jimmy Kimmel — 17/100
+### Jerry Jones — 16/100
 
-**Event:** Jimmy Kimmel: trending now
+**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (+2 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 11 (+5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Jimmy Kimmel jimmy kimmel: pulls out pre-blink-182 photo of travis barker dressed as a superhero beside robin williams filings actually say — line by line — the other side of the fight
+> What the Jerry Jones jerry jones: , cowboys donate $30m to salvation army in honor of 30 years of partnership filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
+**Competition:** 18 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Travis Barker — 17/100
+### Joe Biden — 16/100
 
-**Event:** Travis Barker: Shares Photo from the Hospital, Says ‘Beautiful Wife’ Kourtney Kardashian Is ‘by My Side’
+**Event:** Joe Biden: president joe biden
 
-**Why now:** 2 source lane(s): news, trends · momentum 13 (+0 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Travis Barker travis barker: jimmy kimmel pulls out pre-blink-182 photo of travis barker dressed as a superhero beside robin williams filings actually say — line by line — the other side of the fight
+> What the Joe Biden joe biden: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 14 videos in last 6h · TTS ≈ 2.6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Josh Shapiro — 19/100
+
+**Event:** Josh Shapiro: Full Interview: Pennsylvania's Josh Shapiro
+
+**Why now:** 1 source lane(s): news · momentum 14 (-19 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Josh Shapiro josh shapiro: , set to run in 2028, slams ‘failed’ netanyahu, says biden didn’t check israel enough story is actually a money story — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
 

@@ -1,0 +1,37 @@
+{
+  "runNo": 3135,
+  "at": "2026-11-26T20:00:33.097Z",
+  "rows": [
+    {
+      "event": "story-will-ferrell",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-jerry-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-biden",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-shapiro",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 14,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
