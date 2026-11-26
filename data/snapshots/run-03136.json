@@ -1,0 +1,65 @@
+{
+  "runNo": 3136,
+  "at": "2026-11-26T20:21:04.859Z",
+  "rows": [
+    {
+      "event": "story-ryan-gosling",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-gosling-s",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 12,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-anderson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 29,
+      "window": "closed"
+    },
+    {
+      "event": "story-matt-burke",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-lopez-s",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-thomas-reis-ten",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-will-ferrell",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-ryan-day",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
