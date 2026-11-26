@@ -1,0 +1,23 @@
+{
+  "runNo": 3125,
+  "at": "2026-11-26T16:39:27.713Z",
+  "rows": [
+    {
+      "event": "story-kara-lawson",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-ben-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3124 · Updated: 26/11/2026, 21:09:37 (Asia/Kolkata)
+Run #3125 · Updated: 26/11/2026, 22:09:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Gordon Ramsay — 22/100
+### Kara Lawson — 25/100
 
-**Event:** Gordon Ramsay: , culinary chef famed for fiery critiques, gets Hollywood Walk of Fame star
+**Event:** Kara Lawson: Perfect slate with your Thanksgiving plate. Plus: Would Kara Lawson leave Duke?
 
-**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 5 · risk 26 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Gordon Ramsay story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Mario Kart — 14/100
-
-**Event:** Mario Kart: World update adds 8 courses and more
-
-**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 34 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Mario Kart mario kart: best nintendo deal: save $50.99 on the nintendo switch 2 and mario kart world bundle filings actually say — line by line — the number behind the headline
+> What the Kara Lawson kara lawson: perfect slate with your thanksgiving plate. plus: would kara lawson leave duke? filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Ben Johnson — 17/100
+
+**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+
+**Why now:** 2 source lane(s): news, trends · momentum 9 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Ben Johnson ben johnson: d’andre swift doesn’t need to regain trust after fumble story is actually a money story — the other side of the fight
+
+**Competition:** 17 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
