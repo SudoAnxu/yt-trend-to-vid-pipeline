@@ -1,0 +1,16 @@
+{
+  "runNo": 3107,
+  "at": "2026-11-26T03:27:32.878Z",
+  "rows": [
+    {
+      "event": "story-anthony-edwards-",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
