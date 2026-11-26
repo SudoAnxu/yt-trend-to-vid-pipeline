@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3121 · Updated: 26/11/2026, 18:51:34 (Asia/Kolkata)
+Run #3122 · Updated: 26/11/2026, 19:46:41 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Mike Collins — 21/100
+### Jimmy Fallon — 19/100
 
-**Event:** Mike Collins: trending now
+**Event:** Jimmy Fallon: Late-night host Jimmy Fallon releasing 2 baseball children's books
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (+7 vs prev run) · spice 4 · risk 64 · forecast window elapsed (TTS 15.6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 23 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mike Collins filing that will matter in six months — what happens next
+> The Jimmy Fallon story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 15.6h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Justin Timberlake — 18/100
+
+**Event:** Justin Timberlake: , Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
+
+**Why now:** 2 source lane(s): news, trends · momentum 21 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Justin Timberlake story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
