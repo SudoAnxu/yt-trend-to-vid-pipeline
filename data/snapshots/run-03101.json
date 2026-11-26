@@ -1,0 +1,23 @@
+{
+  "runNo": 3101,
+  "at": "2026-11-26T01:34:56.339Z",
+  "rows": [
+    {
+      "event": "story-matt-lafleur",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-sean-mcvay",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

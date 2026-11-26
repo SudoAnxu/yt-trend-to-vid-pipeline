@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3100 · Updated: 26/11/2026, 06:34:35 (Asia/Kolkata)
+Run #3101 · Updated: 26/11/2026, 07:04:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Anthony Edwards' — 21/100
+### Matt Lafleur — 17/100
 
-**Event:** Anthony Edwards': One of Anthony Edwards’ most trusted voices
+**Event:** Matt Lafleur: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+13 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Anthony Edwards' anthony edwards': anthony edwards filings actually say — line by line — the detail nobody has explained
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Tony Romo — 29/100
-
-**Event:** Tony Romo: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 24 (+20 vs prev run) · spice 8 · risk 34 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): trends · momentum 11 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Tony Romo tony romo: lands new job at sports gaming company betr months after his cbs departure over owi arrest filings actually say — line by line — what happens next
+> What the Matt Lafleur matt lafleur: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
-### Andrew Tate — 24/100
+### Sean Mcvay — 20/100
 
-**Event:** Andrew Tate: trending now
+**Event:** Sean Mcvay: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-2 vs prev run) · spice 14 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Andrew Tate story is a proxy fight about something bigger — the other side of the fight
+> What the Sean Mcvay sean mcvay: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 
 </details>
