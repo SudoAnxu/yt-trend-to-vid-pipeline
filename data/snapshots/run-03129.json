@@ -1,0 +1,37 @@
+{
+  "runNo": 3129,
+  "at": "2026-11-26T18:11:46.109Z",
+  "rows": [
+    {
+      "event": "story-jack-campbell",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-saleh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 19,
+      "window": "closed"
+    },
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
