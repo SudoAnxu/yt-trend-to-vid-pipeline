@@ -1,0 +1,16 @@
+{
+  "runNo": 3103,
+  "at": "2026-11-26T01:58:55.837Z",
+  "rows": [
+    {
+      "event": "story-tyler-higbee",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
