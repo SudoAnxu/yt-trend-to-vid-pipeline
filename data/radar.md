@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3122 · Updated: 26/11/2026, 19:46:41 (Asia/Kolkata)
+Run #3123 · Updated: 26/11/2026, 20:12:28 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Jimmy Fallon — 19/100
+### Ken Jeong — 26/100
 
-**Event:** Jimmy Fallon: Late-night host Jimmy Fallon releasing 2 baseball children's books
+**Event:** Ken Jeong: Checkout.com hires The Hangover and Community star Ken Jeong as Chief Everything's Going To Be Alright Officer
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (-4 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Jimmy Fallon story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Justin Timberlake — 18/100
-
-**Event:** Justin Timberlake: , Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
-
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Justin Timberlake story is a proxy fight about something bigger — the other side of the fight
+> The Ken Jeong ken jeong: checkout.com hires the hangover and community star ken jeong as chief everything's going to be alright officer story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
+**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
+
+**Status:** RESEARCH
+
+### Will Be — 16/100
+
+**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Will Be will be: checkout.com campaign assures retailers the holiday season will be 'alright' 11/25/2026 story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
 
 **Status:** ARCHIVED
 
