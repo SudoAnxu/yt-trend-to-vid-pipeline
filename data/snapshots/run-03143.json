@@ -1,0 +1,23 @@
+{
+  "runNo": 3143,
+  "at": "2026-11-26T23:26:46.312Z",
+  "rows": [
+    {
+      "event": "story-robert-de",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-robert-pattinson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
