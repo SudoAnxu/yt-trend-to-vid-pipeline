@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3129 · Updated: 26/11/2026, 23:41:47 (Asia/Kolkata)
+Run #3130 · Updated: 27/11/2026, 00:05:33 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(35)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,29 +12,29 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Jack Campbell — 23/100
+### Albert Breer — 19/100
 
-**Event:** Jack Campbell: Lions provide update on Jack Campbell
+**Event:** Albert Breer: on Robert Saleh’s Job Security, Texans’ Playoff Hopes and NFC North Superiority
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+19 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Jack Campbell jack campbell: trending now filings actually say — line by line — the other side of the fight
+> What the Albert Breer albert breer: on robert saleh’s job security, texans’ playoff hopes and nfc north superiority filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** ARCHIVED
+**Status:** RESEARCH
 
 ### Robert Saleh's — 19/100
 
 **Event:** Robert Saleh's: Hot Topics From Titans HC Robert Saleh's Zoom Call on Monday
 
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,31 +44,17 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Patrick Mahomes — 17/100
+### Diego State — 22/100
 
-**Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
+**Event:** Diego State: San Diego State vs. Fresno State live stream, where to watch online, CBS Sports Network channel finder, odds
 
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Patrick Mahomes patrick mahomes: stats story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Aaron Rodgers' — 13/100
-
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
-
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-9 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+4 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Rodgers' aaron rodgers': the aaron rodgers’ head-to-head stat against patrick mahomes that seems unbelievable story is actually a money story — the other side of the fight
+> The Diego State diego state: maryland men’s basketball vs. san diego state preview story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: trends, news
 
 **Status:** ARCHIVED
 
