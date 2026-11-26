@@ -1,0 +1,16 @@
+{
+  "runNo": 3140,
+  "at": "2026-11-26T22:31:53.681Z",
+  "rows": [
+    {
+      "event": "story-max-iheanachor",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
