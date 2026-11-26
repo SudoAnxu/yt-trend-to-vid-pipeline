@@ -1,0 +1,44 @@
+{
+  "runNo": 3104,
+  "at": "2026-11-26T02:19:05.144Z",
+  "rows": [
+    {
+      "event": "story-brandon-williams",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-dylan-larkin",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-kurt-russell",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 18,
+      "window": "closed"
+    },
+    {
+      "event": "story-amanda-seyfried",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-andrew-garfield",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
