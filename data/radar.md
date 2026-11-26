@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3127 · Updated: 26/11/2026, 22:58:14 (Asia/Kolkata)
+Run #3128 · Updated: 26/11/2026, 23:20:50 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,91 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Russell Wilson — 20/100
+### John O'hurley — 17/100
+
+**Event:** John O'hurley: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the John O'hurley john o'hurley: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
+
+### Aaron Rodgers' — 22/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+10 vs prev run) · spice 4 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Aaron Rodgers' aaron rodgers': scenes from the steelers’ surreal day before and after aaron rodgers’ mcafee interview - the athletic filings actually say — line by line — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Russell Wilson — 17/100
 
 **Event:** Russell Wilson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 4 (-17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Russell Wilson russell wilson: trending now story is actually a money story — the other side of the fight
+> What the Russell Wilson russell wilson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 9 videos in last 6h · TTS ≈ 8.3h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Travis Kelce — 14/100
-
-**Event:** Travis Kelce: Taylor Swift Ponzi
-
-**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Travis Kelce travis kelce: russell wilson says taylor swift ‘happier’ than travis kelce as chiefs’ patrick mahomes heats up story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 9 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Patrick Mahomes — 16/100
+### Patrick Mahomes — 18/100
 
 **Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Patrick Mahomes patrick mahomes: russell wilson says taylor swift ‘happier’ than travis kelce as chiefs’ patrick mahomes heats up story is actually a money story — the other side of the fight
+> What the Patrick Mahomes patrick mahomes: for patrick mahomes, don’t call it a comeback filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
-
-**Status:** ARCHIVED
-
-### Ryan Clark — 15/100
-
-**Event:** Ryan Clark: again accuses ESPN of leaking his firing to OutKick: Here’s the real story
-
-**Why now:** 2 source lane(s): trends, news · momentum 8 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Ryan Clark story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 7 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Patrick Mahomes' — 14/100
-
-**Event:** Patrick Mahomes': Wife Brittany Gives Fans a Peek at Life Away From the Chiefs
-
-**Why now:** 1 source lane(s): news · momentum 12 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Patrick Mahomes' patrick mahomes': ‘taylor swift is happier’ – russell wilson shares his thoughts on chiefs amid patrick mahomes’ form story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news
-
-**Status:** ARCHIVED
-
-### Kyle Monangai — 19/100
-
-**Event:** Kyle Monangai: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kyle Monangai kyle monangai: trending now story is actually a money story — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 8.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
