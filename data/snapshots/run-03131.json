@@ -1,0 +1,30 @@
+{
+  "runNo": 3131,
+  "at": "2026-11-26T18:41:14.271Z",
+  "rows": [
+    {
+      "event": "story-albert-breer",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-robert-saleh-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-diego-state",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

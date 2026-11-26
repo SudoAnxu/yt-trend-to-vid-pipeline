@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3130 · Updated: 27/11/2026, 00:05:33 (Asia/Kolkata)
+Run #3131 · Updated: 27/11/2026, 00:11:14 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(35)
 
@@ -20,7 +20,7 @@ Sources this run: trends(35)
 
 **Event:** Albert Breer: on Robert Saleh’s Job Security, Texans’ Playoff Hopes and NFC North Superiority
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(35)
 
 **Event:** Robert Saleh's: Hot Topics From Titans HC Robert Saleh's Zoom Call on Monday
 
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -42,13 +42,13 @@ Sources this run: trends(35)
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
-**Status:** RESEARCH
+**Status:** KEPT
 
 ### Diego State — 22/100
 
 **Event:** Diego State: San Diego State vs. Fresno State live stream, where to watch online, CBS Sports Network channel finder, odds
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+4 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-1 vs prev run) · spice 13 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
