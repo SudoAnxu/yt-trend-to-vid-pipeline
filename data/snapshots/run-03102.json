@@ -1,0 +1,8 @@
+{
+  "runNo": 3102,
+  "at": "2026-11-26T01:54:57.003Z",
+  "rows": [],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
