@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3123 · Updated: 26/11/2026, 20:12:28 (Asia/Kolkata)
+Run #3124 · Updated: 26/11/2026, 21:09:37 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,31 +16,31 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Ken Jeong — 26/100
+### Gordon Ramsay — 22/100
 
-**Event:** Ken Jeong: Checkout.com hires The Hangover and Community star Ken Jeong as Chief Everything's Going To Be Alright Officer
+**Event:** Gordon Ramsay: , culinary chef famed for fiery critiques, gets Hollywood Walk of Fame star
 
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Ken Jeong ken jeong: checkout.com hires the hangover and community star ken jeong as chief everything's going to be alright officer story is actually a money story — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Will Be — 16/100
-
-**Event:** Will Be: Bruno Tonioli Warns Judging Will Be Tougher Than Ever on ‘Dancing With the Stars’ Season 35
-
-**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 24 (-12 vs prev run) · spice 5 · risk 26 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Will Be will be: checkout.com campaign assures retailers the holiday season will be 'alright' 11/25/2026 story is actually a money story — the other side of the fight
+> The Gordon Ramsay story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 5.3h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Mario Kart — 14/100
+
+**Event:** Mario Kart: World update adds 8 courses and more
+
+**Why now:** 2 source lane(s): trends, news · momentum 12 (-24 vs prev run) · spice 6 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the Mario Kart mario kart: best nintendo deal: save $50.99 on the nintendo switch 2 and mario kart world bundle filings actually say — line by line — the number behind the headline
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
