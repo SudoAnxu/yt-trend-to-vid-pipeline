@@ -1,0 +1,30 @@
+{
+  "runNo": 3105,
+  "at": "2026-11-26T02:42:30.382Z",
+  "rows": [
+    {
+      "event": "story-kevin-zeitler",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-adam-sandler",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-joshua",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
