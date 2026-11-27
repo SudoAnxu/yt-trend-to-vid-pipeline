@@ -1,0 +1,72 @@
+{
+  "runNo": 3152,
+  "at": "2026-11-27T02:18:25.735Z",
+  "rows": [
+    {
+      "event": "story-chris-pratt",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-chris-pratt-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-rick-pitino",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 28,
+      "window": "unknown"
+    },
+    {
+      "event": "story-mike-tomlin",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-johnson",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-joe-brady",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-mahomes",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-shane-buechele",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-josh-allen",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 12,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
