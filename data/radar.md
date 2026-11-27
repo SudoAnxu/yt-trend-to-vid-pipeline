@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3166 · Updated: 27/11/2026, 16:45:53 (Asia/Kolkata)
+Run #3167 · Updated: 27/11/2026, 17:03:57 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Marc Marquez — 20/100
+### Marc Marquez — 21/100
 
 **Event:** Marc Marquez: and Marco Bezzecchi disagree on Qatar MotoGP sprint clash
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+12 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 22 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Marc Marquez marc marquez: alberto puig on shock marc marquez retirement: 'i'm not surprised, it's the right decision' filings actually say — line by line — the part that was not supposed to be public
+> What the Marc Marquez marc marquez: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+
+**Status:** ARCHIVED
+
+### Mark Zuckerberg's — 22/100
+
+**Event:** Mark Zuckerberg's: How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for
+
+**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Mark Zuckerberg's mark zuckerberg's: mark zuckerberg’s meta platforms is pouring up to $145 billion into ai this year. investors should watch this  story is actually a money story — the number behind the headline
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** ARCHIVED
 

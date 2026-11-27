@@ -1,0 +1,23 @@
+{
+  "runNo": 3167,
+  "at": "2026-11-27T11:33:56.535Z",
+  "rows": [
+    {
+      "event": "story-marc-marquez",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-mark-zuckerberg-s",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
