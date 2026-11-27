@@ -1,0 +1,23 @@
+{
+  "runNo": 3160,
+  "at": "2026-11-27T05:14:31.013Z",
+  "rows": [
+    {
+      "event": "story-amy-poehler",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-nick-wright",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
