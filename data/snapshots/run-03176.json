@@ -1,0 +1,30 @@
+{
+  "runNo": 3176,
+  "at": "2026-11-27T17:35:50.139Z",
+  "rows": [
+    {
+      "event": "story-jim-hiller",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-kelly",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-nate-oats",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 18,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
