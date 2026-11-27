@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3150 · Updated: 27/11/2026, 07:23:39 (Asia/Kolkata)
+Run #3151 · Updated: 27/11/2026, 07:28:53 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(39)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (8)
+## ⚫ ARCHIVED (9)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(39)
 
 **Event:** Josh Allen: injury
 
-**Why now:** 2 source lane(s): trends, news · momentum 11 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+1 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(39)
 
 **Event:** Jason Kelce: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,11 +44,11 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Travis Kelce — 22/100
+### Travis Kelce — 21/100
 
 **Event:** Travis Kelce: Taylor Swift Ponzi
 
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+15 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 22 (-3 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,21 +62,21 @@ Sources this run: trends(39)
 
 **Event:** Xavier Worthy: Injury Update: Chiefs WR Hurt in Fourth Quarter vs. Jets
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 7h − 2.5h buffer)
 
 **Recommended angle**
 
 > The Xavier Worthy story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 6 videos in last 6h · TTS ≈ 6.9h · sources: trends, news
+**Competition:** 6 videos in last 6h · TTS ≈ 7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Patrick Mahomes — 22/100
+### Patrick Mahomes — 21/100
 
 **Event:** Patrick Mahomes: Texas Tech in week 3: Jacob Rodriguez intercepts Patrick Mahomes
 
-**Why now:** 2 source lane(s): news, trends · momentum 25 (+6 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 22 (-3 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -86,11 +86,11 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
-### Brittany Mahomes — 17/100
+### Brittany Mahomes — 18/100
 
 **Event:** Brittany Mahomes: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 9 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -100,11 +100,25 @@ Sources this run: trends(39)
 
 **Status:** ARCHIVED
 
+### Melissa Stark's — 24/100
+
+**Event:** Melissa Stark's: NFL Fans Loved Melissa Stark's Special Outfit for Mexico City Game
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 4 · risk 64 · external momentum 28 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Melissa Stark's story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
 ### Greg Rousseau — 19/100
 
 **Event:** Greg Rousseau: 2026 NFL midseason awards: Joe Burrow, Greg Rousseau and David Bailey among my selections
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -118,7 +132,7 @@ Sources this run: trends(39)
 
 **Event:** James Cook: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 16 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
