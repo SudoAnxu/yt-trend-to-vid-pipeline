@@ -1,0 +1,23 @@
+{
+  "runNo": 3171,
+  "at": "2026-11-27T14:40:58.665Z",
+  "rows": [
+    {
+      "event": "story-ron-harper",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 30,
+      "window": "unknown"
+    },
+    {
+      "event": "story-robert-griffin",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 23,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
