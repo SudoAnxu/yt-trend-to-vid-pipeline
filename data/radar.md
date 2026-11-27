@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3146 · Updated: 27/11/2026, 06:13:50 (Asia/Kolkata)
+Run #3147 · Updated: 27/11/2026, 06:28:56 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,15 +12,57 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (8)
 
 <details><summary>show</summary>
+
+### Jeff Landry — 19/100
+
+**Event:** Jeff Landry: Gov. Jeff Landry goes quiet on LSU standoff with SEC
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Jeff Landry jeff landry: gov. jeff landry goes quiet on lsu standoff with sec filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Greg Sankey — 19/100
+
+**Event:** Greg Sankey: RJ Luis Jr. sues SEC Commissioner Greg Sankey personally, seeks damages over LSU removal
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 86 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Greg Sankey greg sankey: rj luis jr. sues sec commissioner greg sankey personally, seeks damages over lsu removal filings actually say — line by line — what happens next
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Luis Jr. — 15/100
+
+**Event:** Luis Jr.: RJ Luis Jr. not in LSU's starting lineup for game vs. UL Monroe
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 5 · risk 86 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Luis Jr. luis jr.: rj luis jr. sues sec commissioner greg sankey personally, seeks damages over lsu removal filings actually say — line by line — what happens next
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** ARCHIVED
 
 ### Jerry Jones — 15/100
 
 **Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Jason Statham — 11/100
+### Jason Statham — 12/100
 
 **Event:** Jason Statham: scott eastwood action movie
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 7 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -48,7 +90,7 @@ Sources this run: trends(40)
 
 **Event:** Jason Statham's: 107-Minute "John Wick Meets Man on Fire" Action Thriller Is Being Pulled From Streaming
 
-**Why now:** 1 source lane(s): news · momentum 24 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 22 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -58,11 +100,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Brandon Aubrey — 15/100
+### Brandon Aubrey — 16/100
 
 **Event:** Brandon Aubrey: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
