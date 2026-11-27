@@ -1,0 +1,16 @@
+{
+  "runNo": 3183,
+  "at": "2026-11-27T19:49:09.966Z",
+  "rows": [
+    {
+      "event": "story-tim-tawa",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
