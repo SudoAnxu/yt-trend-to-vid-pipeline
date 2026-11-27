@@ -1,0 +1,30 @@
+{
+  "runNo": 3191,
+  "at": "2026-11-27T23:10:28.552Z",
+  "rows": [
+    {
+      "event": "story-aaron-rodgers-",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-cody-schrader",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-tyler-badie",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 16,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
