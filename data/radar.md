@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3167 · Updated: 27/11/2026, 17:03:57 (Asia/Kolkata)
+Run #3168 · Updated: 27/11/2026, 18:29:29 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,35 +12,49 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Marc Marquez — 21/100
+### James Bond — 18/100
 
-**Event:** Marc Marquez: and Marco Bezzecchi disagree on Qatar MotoGP sprint clash
+**Event:** James Bond: jack lowden james bond
 
-**Why now:** 2 source lane(s): news, trends · momentum 22 (-2 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (+3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Marc Marquez marc marquez: trending now filings actually say — line by line — the other side of the fight
+> What the James Bond james bond: ‘is james bond conservative?’ trump asks natalie harp to find out filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Mark Zuckerberg's — 22/100
+### Robert Pattinson — 15/100
 
-**Event:** Mark Zuckerberg's: How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for
+**Event:** Robert Pattinson: James Bond Surprise: Robert Pattinson Screen Tested to Play 007
 
-**Why now:** 1 source lane(s): news · momentum 15 (+0 vs prev run) · spice 12 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 11 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Mark Zuckerberg's mark zuckerberg's: mark zuckerberg’s meta platforms is pouring up to $145 billion into ai this year. investors should watch this  story is actually a money story — the number behind the headline
+> The Robert Pattinson robert pattinson: trump praises ‘nice-looking’ robert pattinson as new bond story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Ben Johnson — 17/100
+
+**Event:** Ben Johnson: and Nick Sirianni face off in Monday's unapologetic bowl | Mike Sielski
+
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Ben Johnson ben johnson: d’andre swift doesn’t need to regain trust after fumble story is actually a money story — the other side of the fight
+
+**Competition:** 17 videos in last 6h · TTS ≈ 8.3h · sources: news, trends
 
 **Status:** ARCHIVED
 
