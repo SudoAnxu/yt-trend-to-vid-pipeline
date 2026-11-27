@@ -1,0 +1,44 @@
+{
+  "runNo": 3148,
+  "at": "2026-11-27T01:06:07.725Z",
+  "rows": [
+    {
+      "event": "story-mitchell-robinson",
+      "alert": "ARCHIVE",
+      "opportunity": 14,
+      "momentum": 13,
+      "window": "closed"
+    },
+    {
+      "event": "story-kenny-moore",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 16,
+      "window": "closed"
+    },
+    {
+      "event": "story-jerry-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-statham",
+      "alert": "ARCHIVE",
+      "opportunity": 12,
+      "momentum": 7,
+      "window": "closed"
+    },
+    {
+      "event": "story-jason-statham-s",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 20,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
