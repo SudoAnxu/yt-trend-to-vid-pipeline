@@ -1,0 +1,51 @@
+{
+  "runNo": 3178,
+  "at": "2026-11-27T18:23:23.907Z",
+  "rows": [
+    {
+      "event": "story-benjamin-netanyahu",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-jonathan-frakes",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-trek-actor",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-hank-brown",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 27,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-hiller",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-brian-kelly",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3177 · Updated: 27/11/2026, 23:24:20 (Asia/Kolkata)
+Run #3178 · Updated: 27/11/2026, 23:53:24 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,21 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
-### Hank Brown — 23/100
+### Benjamin Netanyahu — 17/100
+
+**Event:** Benjamin Netanyahu: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 9 (-7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Benjamin Netanyahu benjamin netanyahu: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jonathan Frakes — 24/100
+
+**Event:** Jonathan Frakes: Daytime Emmys: ‘Star Trek: The Next Generation’ Icon Jonathan Frakes To Present Lifetime Achievement Honor To 
+
+**Why now:** 2 source lane(s): trends, news · momentum 23 (+6 vs prev run) · spice 7 · risk 64 · forecast window elapsed (TTS 7.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jonathan Frakes story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 3 videos in last 6h · TTS ≈ 7.7h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Trek' Actor — 25/100
+
+**Event:** Trek' Actor: ‘Star Trek’ Actor Jonathan Frakes Says an Unexpected Symptom Led to His Bladder Cancer Diagnosis
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 14 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Trek' Actor story is a proxy fight about something bigger — the part that was not supposed to be public
+
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Hank Brown — 22/100
 
 **Event:** Hank Brown: Kirk Ferentz -- Iowa can't count on Hank Brown being ready Fri.
 
-**Why now:** 2 source lane(s): news, trends · momentum 23 (+4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 27 (+4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Hank Brown hank brown: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 2 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
@@ -34,7 +76,7 @@ Sources this run: trends(40)
 
 **Event:** Jim Hiller: | Pre Game at Vancouver Canucks
 
-**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -57,20 +99,6 @@ Sources this run: trends(40)
 **Competition:** 1 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
 
 **Status:** ARCHIVED
-
-### Nate Oats — 23/100
-
-**Event:** Nate Oats: Alabama coach Nate Oats reflects on time with Antoine Pettway before matchup with Kennesaw State
-
-**Why now:** 1 source lane(s): news · momentum 17 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Nate Oats situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 4.2h · sources: news
-
-**Status:** RESEARCH
 
 
 </details>
