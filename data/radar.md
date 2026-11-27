@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3148 · Updated: 27/11/2026, 06:36:08 (Asia/Kolkata)
+Run #3149 · Updated: 27/11/2026, 06:59:31 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,77 +12,63 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (4)
 
 <details><summary>show</summary>
 
-### Mitchell Robinson — 14/100
+### Jake Ferguson — 19/100
 
-**Event:** Mitchell Robinson: trending now
+**Event:** Jake Ferguson: Cowboys tight end Jake Ferguson exits game vs. Cardinals, is questionable to return
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 14 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Mitchell Robinson mitchell robinson: (illness) questionable friday filings actually say — line by line — the other side of the fight
+> What the Jake Ferguson jake ferguson: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 18 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 11 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Kenny Moore — 19/100
+### Micah Parsons — 15/100
 
-**Event:** Kenny Moore: trending now
+**Event:** Micah Parsons: No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team
 
-**Why now:** 2 source lane(s): trends, news · momentum 16 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-10 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Kenny Moore kenny moore: trending now filings actually say — line by line — the other side of the fight
+> What the Micah Parsons micah parsons: on packers' playoff hopes: 'we probably have to win out' filings actually say — line by line — the other side of the fight
 
-**Competition:** 10 videos in last 6h · TTS ≈ 3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jerry Jones — 15/100
+### Michelle Obama — 19/100
 
-**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
+**Event:** Michelle Obama: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 30 (+18 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jerry Jones jerry jones: trending now filings actually say — line by line — the other side of the fight
+> The Michelle Obama michelle obama: former president barack obama, michelle obama surprise englewood nonprofit workers before thanksgiving story is actually a money story — the part that was not supposed to be public
 
-**Competition:** 18 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Jason Statham — 12/100
+### Hayden Winks' — 19/100
 
-**Event:** Jason Statham: scott eastwood action movie
+**Event:** Hayden Winks': Fantasy Football Rankings: Hayden Winks' QB, TE, D/ST, kicker Blueprint for Week 6
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Jason Statham jason statham: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Jason Statham's — 16/100
-
-**Event:** Jason Statham's: 107-Minute "John Wick Meets Man on Fire" Action Thriller Is Being Pulled From Streaming
-
-**Why now:** 1 source lane(s): news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Jason Statham's situation is weirder than the clips suggest — the other side of the fight
+> What the Hayden Winks' hayden winks': fantasy football rankings: hayden winks' wr blueprint for week 12 filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
