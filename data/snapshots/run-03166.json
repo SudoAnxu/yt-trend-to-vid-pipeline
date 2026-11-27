@@ -1,0 +1,16 @@
+{
+  "runNo": 3166,
+  "at": "2026-11-27T11:15:52.488Z",
+  "rows": [
+    {
+      "event": "story-marc-marquez",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 24,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
