@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3145 · Updated: 27/11/2026, 05:41:04 (Asia/Kolkata)
+Run #3146 · Updated: 27/11/2026, 06:13:50 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(38)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -12,49 +12,77 @@ Sources this run: trends(38)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Billy Bob — 19/100
+### Jerry Jones — 15/100
 
-**Event:** Billy Bob: Thornton says he’s a holiday ‘purist’ as he brings back ‘traditional’ Thanksgiving at home
+**Event:** Jerry Jones: won't give George Pickens the contract he wants, and his future may lie outside the Cowboys
 
-**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Billy Bob billy bob: thornton says he’s a holiday ‘purist’ as he brings back ‘traditional’ thanksgiving at home filings actually say — line by line — the other side of the fight
-
-**Competition:** 16 videos in last 6h · TTS ≈ 2.6h · sources: news
-
-**Status:** RESEARCH
-
-### From Director — 24/100
-
-**Event:** From Director: Keanu Reeves to Star in Netflix’s ‘Maelstrom’ From Director Jaume Collet-Serra
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 5 · risk 34 · forecast window elapsed (TTS 6h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 7 (-4 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> The From Director story is a proxy fight about something bigger — the other side of the fight
+> What the Jerry Jones jerry jones: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 18 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Jessica Simpson — 19/100
+### Jason Statham — 11/100
 
-**Event:** Jessica Simpson: Why Nick Lachey Feels He Has “Leg Up” Marrying Vanessa Lachey After Jessica Simpson Breakup
+**Event:** Jason Statham: scott eastwood action movie
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 8h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (-11 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jessica Simpson jessica simpson: trending now story is actually a money story — the other side of the fight
+> What the Jason Statham jason statham: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 8h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Jason Statham's — 17/100
+
+**Event:** Jason Statham's: 107-Minute "John Wick Meets Man on Fire" Action Thriller Is Being Pulled From Streaming
+
+**Why now:** 1 source lane(s): news · momentum 24 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Jason Statham's situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 3.7h · sources: news
+
+**Status:** ARCHIVED
+
+### Brandon Aubrey — 15/100
+
+**Event:** Brandon Aubrey: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-13 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Brandon Aubrey brandon aubrey: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 2 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Justin Boone's — 22/100
+
+**Event:** Justin Boone's: Fantasy Football Waiver Wire: Justin Boone's top defenses to stream for Week 3
+
+**Why now:** 1 source lane(s): news · momentum 14 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Justin Boone's justin boone's: week 12 fantasy football kicker rankings filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: news
 
 **Status:** ARCHIVED
 
