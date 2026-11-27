@@ -1,0 +1,58 @@
+{
+  "runNo": 3157,
+  "at": "2026-11-27T03:56:07.709Z",
+  "rows": [
+    {
+      "event": "story-tyler-bass",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 25,
+      "window": "closed"
+    },
+    {
+      "event": "story-david-harbour-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-kristen-bell-s",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    },
+    {
+      "event": "story-snow-director",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 18,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jonah-coleman",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-josh-downs-",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 20,
+      "window": "closed"
+    },
+    {
+      "event": "story-travis-kelce",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
