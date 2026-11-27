@@ -1,0 +1,37 @@
+{
+  "runNo": 3190,
+  "at": "2026-11-27T22:48:04.872Z",
+  "rows": [
+    {
+      "event": "story-ben-roethlisberger",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-stephen-nedoroscik",
+      "alert": "ARCHIVE",
+      "opportunity": 28,
+      "momentum": 36,
+      "window": "closed"
+    },
+    {
+      "event": "story-justin-herbert",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-jim-harbaugh",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
