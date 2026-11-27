@@ -1,0 +1,30 @@
+{
+  "runNo": 3184,
+  "at": "2026-11-27T20:06:11.008Z",
+  "rows": [
+    {
+      "event": "story-jose-state",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 24,
+      "window": "closed"
+    },
+    {
+      "event": "story-andrew-whitworth",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-daniel-jones",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 7,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
