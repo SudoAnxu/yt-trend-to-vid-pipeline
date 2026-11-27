@@ -1,0 +1,44 @@
+{
+  "runNo": 3193,
+  "at": "2026-11-27T23:50:32.875Z",
+  "rows": [
+    {
+      "event": "story-karl-anthony",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-anthony-towns-",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 11,
+      "window": "closed"
+    },
+    {
+      "event": "story-patrick-kane",
+      "alert": "ARCHIVE",
+      "opportunity": 21,
+      "momentum": 23,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-norvell",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-glenn-schumann",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
