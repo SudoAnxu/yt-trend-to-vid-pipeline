@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3180 · Updated: 28/11/2026, 00:35:40 (Asia/Kolkata)
+Run #3181 · Updated: 28/11/2026, 00:53:06 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -16,17 +16,17 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Chris Hughes — 26/100
+### Chris Hughes — 20/100
 
 **Event:** Chris Hughes: JoJo Siwa and Chris Hughes Split After a Year and a Half Together: ‘She Needed to Choose Herself’ (Exclusive S
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
 > What the Chris Hughes chris hughes: jojo siwa and chris hughes split after a year and a half together: ‘she needed to choose herself’ (exclusive s filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: news
+**Competition:** 7 videos in last 6h · TTS ≈ 2.6h · sources: news
 
 **Status:** RESEARCH
 
