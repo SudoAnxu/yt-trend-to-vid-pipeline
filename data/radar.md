@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3161 · Updated: 27/11/2026, 12:24:15 (Asia/Kolkata)
+Run #3162 · Updated: 27/11/2026, 14:21:35 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
-Sources this run: trends(40)
+Sources this run: trends(38)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,11 +16,25 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Seth Meyers — 19/100
+### Harry Brook — 12/100
+
+**Event:** Harry Brook: 'He's got an astute brain': After losing three out of four matches in tri-series, Harry Brook called 'one
+
+**Why now:** 1 source lane(s): news · momentum 16 (-12 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Harry Brook harry brook: wins the toss, england bowls first against australia in 3rd cricket t20 story is actually a money story — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news
+
+**Status:** ARCHIVED
+
+### Seth Meyers — 18/100
 
 **Event:** Seth Meyers: Welcomes Tina Fey and Amy Poehler, Changing 13-Year Thanksgiving Tradition
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (-7 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 34 · forecast window elapsed (TTS 6.6h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,11 +44,11 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Justin Bieber — 14/100
+### Justin Bieber — 12/100
 
 **Event:** Justin Bieber: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 3 (-16 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 4 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -44,21 +58,35 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Michael Douglas — 23/100
+### Michael Douglas — 22/100
 
 **Event:** Michael Douglas: Reveals He and Kathleen Turner Were Once Secret ‘Lovers’ (Exclusive)
 
-**Why now:** 2 source lane(s): news, trends · momentum 21 (+17 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.2h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Michael Douglas michael douglas: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 4.2h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Michael Douglas' — 19/100
+### Douglas Reveals Family — 22/100
+
+**Event:** Douglas Reveals Family: Michael Douglas Reveals Family Struggles in Memoir
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 64 · external momentum 28 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Douglas Reveals Family douglas reveals family: michael douglas reveals family struggles in memoir filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** RESEARCH
+
+### Michael Douglas' — 20/100
 
 **Event:** Michael Douglas': “Good Heavens”: Kathleen Turner Reacts to Michael Douglas’ Bombshell About Their Secret Romance During ‘Romanc
 
@@ -69,34 +97,6 @@ Sources this run: trends(40)
 > What the Michael Douglas' michael douglas': health after stage-four cancer diagnosis filings actually say — line by line — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** ARCHIVED
-
-### Jessica Biel — 19/100
-
-**Event:** Jessica Biel: Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
-
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+7 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 5.8h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jessica Biel story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 5.8h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Justin Timberlake — 14/100
-
-**Event:** Justin Timberlake: , Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary
-
-**Why now:** 2 source lane(s): news, trends · momentum 1 (-17 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Justin Timberlake justin timberlake: documentary trailer: “he’s not who i thought he was” story is actually a money story — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
 **Status:** ARCHIVED
 
