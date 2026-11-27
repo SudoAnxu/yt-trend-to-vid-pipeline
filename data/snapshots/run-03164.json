@@ -1,0 +1,16 @@
+{
+  "runNo": 3164,
+  "at": "2026-11-27T09:47:04.187Z",
+  "rows": [
+    {
+      "event": "story-trump-says-he",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 17,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
