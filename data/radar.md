@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3187 · Updated: 28/11/2026, 03:17:48 (Asia/Kolkata)
+Run #3188 · Updated: 28/11/2026, 03:46:27 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,79 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Kristen Bell — 26/100
+### Kevin Harvick — 22/100
 
-**Event:** Kristen Bell: trending now
+**Event:** Kevin Harvick: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (+2 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Kristen Bell situation is weirder than the clips suggest — the other side of the fight
-
-**Competition:** 20 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Michael Pittman — 18/100
-
-**Event:** Michael Pittman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Michael Pittman michael pittman: trending now filings actually say — line by line — the other side of the fight
+> What the Kevin Harvick kevin harvick: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Max Hurleman — 19/100
-
-**Event:** Max Hurleman: Steelers activate Michael Pittman Jr. off IR, sign Max Hurleman to active roster
-
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
-
-**Recommended angle**
-
-> What the Max Hurleman max hurleman: steelers activate michael pittman jr. off ir, sign max hurleman to active roster filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 5 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
-### Tim Tebow — 18/100
+### Aaron Rodgers' — 18/100
 
-**Event:** Tim Tebow: Life Surge Financial Courses Under Fire For Allegedly Charging Up to $50K
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
+**Why now:** 2 source lane(s): news, trends · momentum 10 (+1 vs prev run) · spice 7 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Tim Tebow tim tebow: trending now filings actually say — line by line — the other side of the fight
+> The Aaron Rodgers' story is a proxy fight about something bigger — the detail nobody has explained
 
-**Competition:** 12 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 6.6h · sources: news, trends
 
 **Status:** ARCHIVED
 
-### Pablo Torre — 23/100
+### Louis Blues — 15/100
 
-**Event:** Pablo Torre: finds out about Manatee County in Life Surge Investigation
+**Event:** Louis Blues: Projected Lineup: Oct. 8 vs. San Jose | St. Louis Blues
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 4 (-11 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Pablo Torre pablo torre: finds out about manatee county in life surge investigation filings actually say — line by line — what happens next
+> What the Louis Blues louis blues: st louis blues filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 20 videos in last 6h · TTS ≈ 4.5h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
