@@ -1,0 +1,23 @@
+{
+  "runNo": 3189,
+  "at": "2026-11-27T22:27:31.532Z",
+  "rows": [
+    {
+      "event": "story-justin-herbert",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 5,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-harvick",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
