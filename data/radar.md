@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3186 · Updated: 28/11/2026, 03:00:51 (Asia/Kolkata)
+Run #3187 · Updated: 28/11/2026, 03:17:48 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,21 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
+
+### Kristen Bell — 26/100
+
+**Event:** Kristen Bell: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 21 (+2 vs prev run) · spice 14 · risk 64 · forecast window elapsed (TTS 5.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> The Kristen Bell situation is weirder than the clips suggest — the other side of the fight
+
+**Competition:** 20 videos in last 6h · TTS ≈ 5.4h · sources: trends, news
+
+**Status:** ARCHIVED
 
 ### Michael Pittman — 18/100
 
 **Event:** Michael Pittman: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 18 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Michael Pittman michael pittman: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 4 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
@@ -34,7 +48,7 @@ Sources this run: trends(40)
 
 **Event:** Max Hurleman: Steelers activate Michael Pittman Jr. off IR, sign Max Hurleman to active roster
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -44,59 +58,31 @@ Sources this run: trends(40)
 
 **Status:** RESEARCH
 
-### Alex Singleton — 16/100
+### Tim Tebow — 18/100
 
-**Event:** Alex Singleton: Former CFL star Alex Singleton has been 'the best backer in football for a long time': Broncos DC Vance Joseph
+**Event:** Tim Tebow: Life Surge Financial Courses Under Fire For Allegedly Charging Up to $50K
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-25 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 15 (+7 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Alex Singleton alex singleton: trending now filings actually say — line by line — the other side of the fight
+> What the Tim Tebow tim tebow: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 12 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Tyler Badie — 27/100
+### Pablo Torre — 23/100
 
-**Event:** Tyler Badie: Broncos activate RB Tyler Badie from IR, promote RB Cody Schrader to active roster ahead of Week 12 game vs. S
+**Event:** Pablo Torre: finds out about Manatee County in Life Surge Investigation
 
-**Why now:** 2 source lane(s): trends, news · momentum 25 (+0 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Tyler Badie tyler badie: broncos activate rb tyler badie from ir, promote rb cody schrader to active roster ahead of week 12 game vs. s filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** RESEARCH
-
-### Cody Schrader — 23/100
-
-**Event:** Cody Schrader: Broncos activate RB Tyler Badie from IR, promote RB Cody Schrader to active roster ahead of Week 12 game vs. S
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 9 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 4 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Cody Schrader cody schrader: broncos activate rb tyler badie from ir, promote rb cody schrader to active roster ahead of week 12 game vs. s filings actually say — line by line — the other side of the fight
+> What the Pablo Torre pablo torre: finds out about manatee county in life surge investigation filings actually say — line by line — what happens next
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** RESEARCH
-
-### Joe Moorhead — 27/100
-
-**Event:** Joe Moorhead: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 31 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> What the Joe Moorhead joe moorhead: trending now filings actually say — line by line — the other side of the fight
-
-**Competition:** 1 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** RESEARCH
 
