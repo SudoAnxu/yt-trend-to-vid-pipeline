@@ -1,0 +1,30 @@
+{
+  "runNo": 3145,
+  "at": "2026-11-27T00:11:02.973Z",
+  "rows": [
+    {
+      "event": "story-billy-bob",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-from-director",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-jessica-simpson",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
