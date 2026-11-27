@@ -1,0 +1,16 @@
+{
+  "runNo": 3169,
+  "at": "2026-11-27T13:19:08.959Z",
+  "rows": [
+    {
+      "event": "story-grace-tame",
+      "alert": "ARCHIVE",
+      "opportunity": 37,
+      "momentum": 36,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
