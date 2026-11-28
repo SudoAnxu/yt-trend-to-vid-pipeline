@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3203 · Updated: 28/11/2026, 08:42:18 (Asia/Kolkata)
+Run #3204 · Updated: 28/11/2026, 08:56:51 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,35 +12,77 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (5)
 
 <details><summary>show</summary>
 
-### Kyle Palmieri — 15/100
+### Nathan Fillion's — 19/100
 
-**Event:** Kyle Palmieri: trending now
+**Event:** Nathan Fillion's: Nathan Fillion’s The Rookie Spinoff Officially Hits Major Filming Milestone Ahead Of January Release
 
-**Why now:** 2 source lane(s): trends, news · momentum 10 (-16 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.6h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Kyle Palmieri kyle palmieri: islanders forward kyle palmieri (acl, meniscus) out 6-8 months filings actually say — line by line — the other side of the fight
+> The Nathan Fillion's story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 5 videos in last 6h · TTS ≈ 2.6h · sources: trends, news
+**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+
+**Status:** RESEARCH
+
+### Joe Mazzulla — 19/100
+
+**Event:** Joe Mazzulla: Sends Strong Message About Paul George
+
+**Why now:** 1 source lane(s): news · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Joe Mazzulla joe mazzulla: celtics’ joe mazzulla reveals mitchell robinson covid-19 diagnosis filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
+
+**Status:** KEPT
+
+### Mitchell Robinson — 19/100
+
+**Event:** Mitchell Robinson: trending now
+
+**Why now:** 2 source lane(s): trends, news · momentum 22 (+9 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Mitchell Robinson mitchell robinson: celtics’ joe mazzulla reveals mitchell robinson covid-19 diagnosis filings actually say — line by line — the other side of the fight
+
+**Competition:** 18 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Charles Bassey — 17/100
+### Victor Wembanyama — 19/100
 
-**Event:** Charles Bassey: trending now
+**Event:** Victor Wembanyama: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 7.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 20 (-1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Charles Bassey charles bassey: fantasy basketball week 7 waiver wire targets include kelly oubre jr. and charles bassey in expanded roles story is actually a money story — the other side of the fight
+> What the Victor Wembanyama victor wembanyama: another spurs game, another victor wembanyama dunk highlight filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Nick Nurse's — 18/100
+
+**Event:** Nick Nurse's: Bonus Sixers mailbag: Could Tacko Fall actually stick in Nick Nurse's rotation?
+
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+
+**Recommended angle**
+
+> The Nick Nurse's nick nurse's: bonus sixers mailbag: could tacko fall actually stick in nick nurse's rotation? story is actually a money story — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 7.5h · sources: news
 
 **Status:** RESEARCH
 
