@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3212 · Updated: 28/11/2026, 14:29:10 (Asia/Kolkata)
+Run #3213 · Updated: 28/11/2026, 15:10:14 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,23 +12,37 @@ Sources this run: trends(37)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (1)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Diego County — 17/100
+### Amy Schumer — 27/100
 
-**Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
+**Event:** Amy Schumer: trending now
 
-**Why now:** 1 source lane(s): news · momentum 10 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 32 (+20 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Diego County diego county: update: beach hazards statement for orange county coast and san diego county coastal areas until early saturda filings actually say — line by line — the other side of the fight
+> What the Amy Schumer amy schumer: jokes that her new bangs have people mistaking her for ‘sabrina carpenter’ or ‘a carpenter’ filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
+**Competition:** 0 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### Noah Beck — 17/100
+
+**Event:** Noah Beck: trending now
+
+**Why now:** 1 source lane(s): trends · momentum 12 (+0 vs prev run) · spice 0 · risk 64 · external momentum 12 below 45 — watching, not striking
+
+**Recommended angle**
+
+> What the Noah Beck noah beck: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+
+**Status:** RESEARCH
 
 
 </details>

@@ -1,0 +1,23 @@
+{
+  "runNo": 3213,
+  "at": "2026-11-28T09:40:14.340Z",
+  "rows": [
+    {
+      "event": "story-amy-schumer",
+      "alert": "ARCHIVE",
+      "opportunity": 27,
+      "momentum": 32,
+      "window": "closed"
+    },
+    {
+      "event": "story-noah-beck",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 12,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
