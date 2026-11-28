@@ -1,0 +1,23 @@
+{
+  "runNo": 3203,
+  "at": "2026-11-28T03:12:18.094Z",
+  "rows": [
+    {
+      "event": "story-kyle-palmieri",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 10,
+      "window": "closed"
+    },
+    {
+      "event": "story-charles-bassey",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}
