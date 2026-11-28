@@ -1,0 +1,16 @@
+{
+  "runNo": 3214,
+  "at": "2026-11-28T10:45:59.185Z",
+  "rows": [
+    {
+      "event": "story-amy-schumer",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 27,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
