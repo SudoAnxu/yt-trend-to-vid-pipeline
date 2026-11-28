@@ -1,0 +1,23 @@
+{
+  "runNo": 3211,
+  "at": "2026-11-28T08:43:44.323Z",
+  "rows": [
+    {
+      "event": "story-diego-county",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 9,
+      "window": "closed"
+    },
+    {
+      "event": "story-gordon-ramsay",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 19,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

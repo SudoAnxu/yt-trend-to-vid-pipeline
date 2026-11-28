@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3210 · Updated: 28/11/2026, 13:40:07 (Asia/Kolkata)
+Run #3211 · Updated: 28/11/2026, 14:13:45 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
-Sources this run: trends(40)
+Sources this run: trends(39)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
 
-**Why now:** 1 source lane(s): news · momentum 8 (-16 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 1 source lane(s): news · momentum 9 (+1 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Gordon Ramsay: , culinary chef famed for fiery critiques, gets Hollywood Walk of Fame star
 
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 19 (-2 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
