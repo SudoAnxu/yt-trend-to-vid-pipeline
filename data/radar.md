@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3208 · Updated: 28/11/2026, 10:21:50 (Asia/Kolkata)
+Run #3209 · Updated: 28/11/2026, 11:58:03 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -16,45 +16,45 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Dylan Harper — 23/100
+### Jim Caviezel — 19/100
 
-**Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
+**Event:** Jim Caviezel: trending now
 
-**Why now:** 2 source lane(s): news, trends · momentum 24 (+4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 17 (-6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> The Dylan Harper dylan harper: , de'aaron fox final injury status for spurs vs lakers revealed story is actually a money story — the other side of the fight
+> The Jim Caviezel jim caviezel: stars in ‘ghost soldier’: yet another faith-based action snore-fest story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
+**Competition:** 19 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Ryan Clark — 14/100
+### John Wick — 17/100
 
-**Event:** Ryan Clark: again accuses ESPN of leaking his firing to OutKick: Here’s the real story
+**Event:** John Wick: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Ryan Clark ryan clark: trending now filings actually say — line by line — the other side of the fight
+> The John Wick story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 7 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Aaron Rodgers' — 18/100
+### Austin Reaves — 24/100
 
-**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 19 (+10 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Aaron Rodgers' aaron rodgers': cam newton now suggests aaron rodgers was the reason another player left the steelers filings actually say — line by line — the other side of the fight
+> The Austin Reaves austin reaves: lakers' austin reaves available vs. spurs after missing 5 games with heel bruise story is actually a money story — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
 
 **Status:** ARCHIVED
 
