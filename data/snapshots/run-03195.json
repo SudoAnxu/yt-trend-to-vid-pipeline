@@ -1,0 +1,23 @@
+{
+  "runNo": 3195,
+  "at": "2026-11-28T00:25:51.154Z",
+  "rows": [
+    {
+      "event": "story-tracy-morgan",
+      "alert": "ARCHIVE",
+      "opportunity": 23,
+      "momentum": 26,
+      "window": "closed"
+    },
+    {
+      "event": "story-mike-babcock",
+      "alert": "ARCHIVE",
+      "opportunity": 16,
+      "momentum": 8,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}

@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3194 · Updated: 28/11/2026, 05:40:12 (Asia/Kolkata)
+Run #3195 · Updated: 28/11/2026, 05:55:51 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,51 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Glenn Schumann — 17/100
+### Tracy Morgan — 23/100
 
-**Event:** Glenn Schumann: trending now
+**Event:** Tracy Morgan: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 13 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 26 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 5.9h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Glenn Schumann glenn schumann: georgia defensive coordinator glenn schumann agrees to coach florida state filings actually say — line by line — the other side of the fight
+> The Tracy Morgan story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 4 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
+**Competition:** 1 videos in last 6h · TTS ≈ 5.9h · sources: trends, news
 
 **Status:** ARCHIVED
 
-### Karl Anthony — 17/100
+### Mike Babcock — 16/100
 
-**Event:** Karl Anthony: towns
+**Event:** Mike Babcock: trending now
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Karl Anthony karl anthony: towns filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
-
-**Status:** RESEARCH
-
-### Anthony Towns' — 17/100
-
-**Event:** Anthony Towns': karl anthony towns
-
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (-15 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 2.3h − 2.5h buffer)
 
 **Recommended angle**
 
-> What the Anthony Towns' anthony towns': karl anthony towns filings actually say — line by line — the other side of the fight
+> What the Mike Babcock mike babcock: just put together best possible line combos for edmonton oilers -- at least on paper filings actually say — line by line — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 8 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
 
 
 </details>
