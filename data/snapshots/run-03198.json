@@ -1,0 +1,44 @@
+{
+  "runNo": 3198,
+  "at": "2026-11-28T01:36:12.195Z",
+  "rows": [
+    {
+      "event": "story-david-gonz",
+      "alert": "ARCHIVE",
+      "opportunity": 19,
+      "momentum": 19,
+      "window": "unknown"
+    },
+    {
+      "event": "story-tom-brady",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 15,
+      "window": "closed"
+    },
+    {
+      "event": "story-tom-brady-s",
+      "alert": "ARCHIVE",
+      "opportunity": 20,
+      "momentum": 14,
+      "window": "closed"
+    },
+    {
+      "event": "story-russell-wilson",
+      "alert": "ARCHIVE",
+      "opportunity": 22,
+      "momentum": 22,
+      "window": "closed"
+    },
+    {
+      "event": "story-kevin-durant",
+      "alert": "ARCHIVE",
+      "opportunity": 15,
+      "momentum": 9,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
