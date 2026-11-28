@@ -1,0 +1,16 @@
+{
+  "runNo": 3215,
+  "at": "2026-11-28T11:04:09.916Z",
+  "rows": [
+    {
+      "event": "story-john-wick",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 13,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}

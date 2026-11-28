@@ -1,10 +1,10 @@
 # 🔥 TREND RADAR
 
-Run #3214 · Updated: 28/11/2026, 16:15:59 (Asia/Kolkata)
+Run #3215 · Updated: 28/11/2026, 16:34:10 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
-Sources this run: trends(34)
+Sources this run: trends(40)
 
 ## 🚨 STRIKE NOW (0)
 
@@ -16,17 +16,17 @@ Sources this run: trends(34)
 
 <details><summary>show</summary>
 
-### Amy Schumer — 20/100
+### John Wick — 17/100
 
-**Event:** Amy Schumer: trending now
+**Event:** John Wick: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 27 (-5 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 9h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 13 (+6 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Amy Schumer amy schumer: jokes that her new bangs have people mistaking her for ‘sabrina carpenter’ or ‘a carpenter’ story is actually a money story — the other side of the fight
+> What the John Wick john wick: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 3 videos in last 6h · TTS ≈ 9h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 2.3h · sources: trends, news
 
 **Status:** ARCHIVED
 
