@@ -1,0 +1,23 @@
+{
+  "runNo": 3197,
+  "at": "2026-11-28T01:06:30.261Z",
+  "rows": [
+    {
+      "event": "story-colin-simmons",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 21,
+      "window": "closed"
+    },
+    {
+      "event": "story-andrew-wiggins",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 26,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
