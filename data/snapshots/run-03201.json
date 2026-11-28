@@ -1,0 +1,37 @@
+{
+  "runNo": 3201,
+  "at": "2026-11-28T02:32:30.992Z",
+  "rows": [
+    {
+      "event": "story-steve-sarkisian",
+      "alert": "ARCHIVE",
+      "opportunity": 18,
+      "momentum": 6,
+      "window": "closed"
+    },
+    {
+      "event": "story-steve-sarkisian-s",
+      "alert": "ARCHIVE",
+      "opportunity": 32,
+      "momentum": 33,
+      "window": "unknown"
+    },
+    {
+      "event": "story-jose-alvarado",
+      "alert": "ARCHIVE",
+      "opportunity": 13,
+      "momentum": 8,
+      "window": "closed"
+    },
+    {
+      "event": "story-james-wiseman",
+      "alert": "ARCHIVE",
+      "opportunity": 26,
+      "momentum": 21,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: TypeError: fetch failed"
+  ]
+}
