@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3209 · Updated: 28/11/2026, 11:58:03 (Asia/Kolkata)
+Run #3210 · Updated: 28/11/2026, 13:40:07 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
 Sources this run: trends(40)
 
@@ -12,49 +12,35 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (3)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jim Caviezel — 19/100
+### Diego County — 16/100
 
-**Event:** Jim Caviezel: trending now
+**Event:** Diego County: Potential for high surf, beach erosion and coastal flooding on the way to San Diego County
 
-**Why now:** 2 source lane(s): trends, news · momentum 17 (-6 vs prev run) · spice 5 · risk 64 · forecast window elapsed (TTS 7.3h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 8 (-16 vs prev run) · spice 4 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jim Caviezel jim caviezel: stars in ‘ghost soldier’: yet another faith-based action snore-fest story is actually a money story — the other side of the fight
+> What the Diego County diego county: update: beach hazards statement for orange county coast and san diego county coastal areas until early saturda filings actually say — line by line — the other side of the fight
 
-**Competition:** 19 videos in last 6h · TTS ≈ 7.3h · sources: trends, news
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news
 
 **Status:** ARCHIVED
 
-### John Wick — 17/100
+### Gordon Ramsay — 16/100
 
-**Event:** John Wick: trending now
+**Event:** Gordon Ramsay: , culinary chef famed for fiery critiques, gets Hollywood Walk of Fame star
 
-**Why now:** 2 source lane(s): trends, news · momentum 7 (-20 vs prev run) · spice 5 · risk 64 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The John Wick story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 25 videos in last 6h · TTS ≈ 3.9h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### Austin Reaves — 24/100
-
-**Event:** Austin Reaves: Matisse Thybulle Knows Guarding Luka Doncic & Austin Reaves In Practice Will Make Him Better
-
-**Why now:** 2 source lane(s): news, trends · momentum 19 (+10 vs prev run) · spice 16 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Austin Reaves austin reaves: lakers' austin reaves available vs. spurs after missing 5 games with heel bruise story is actually a money story — the other side of the fight
+> What the Gordon Ramsay gordon ramsay: trending now filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 5h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
 
 **Status:** ARCHIVED
 
