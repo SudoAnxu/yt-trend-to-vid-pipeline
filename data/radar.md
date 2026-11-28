@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3207 · Updated: 28/11/2026, 10:00:36 (Asia/Kolkata)
+Run #3208 · Updated: 28/11/2026, 10:21:50 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -16,15 +16,15 @@ Sources this run: trends(40)
 
 <details><summary>show</summary>
 
-### Dylan Harper — 21/100
+### Dylan Harper — 23/100
 
 **Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
 
-**Why now:** 2 source lane(s): news, trends · momentum 20 (+9 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 24 (+4 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Dylan Harper dylan harper: will be available to play vs lakers story is actually a money story — the other side of the fight
+> The Dylan Harper dylan harper: , de'aaron fox final injury status for spurs vs lakers revealed story is actually a money story — the other side of the fight
 
 **Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Ryan Clark: again accuses ESPN of leaking his firing to OutKick: Here’s the real story
 
-**Why now:** 2 source lane(s): trends, news · momentum 5 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 6 (+1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -44,17 +44,17 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Aaron Rodgers' — 21/100
+### Aaron Rodgers' — 18/100
 
 **Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
 
-**Why now:** 2 source lane(s): news, trends · momentum 16 (-11 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 16 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Aaron Rodgers' story is a proxy fight about something bigger — the other side of the fight
+> What the Aaron Rodgers' aaron rodgers': cam newton now suggests aaron rodgers was the reason another player left the steelers filings actually say — line by line — the other side of the fight
 
-**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+**Competition:** 25 videos in last 6h · TTS ≈ 3.5h · sources: news, trends
 
 **Status:** ARCHIVED
 
