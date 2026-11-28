@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3201 · Updated: 28/11/2026, 08:02:31 (Asia/Kolkata)
+Run #3202 · Updated: 28/11/2026, 08:20:10 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
+> ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
 Sources this run: trends(40)
 
@@ -12,15 +12,15 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (4)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Steve Sarkisian — 18/100
+### Steve Sarkisian — 20/100
 
 **Event:** Steve Sarkisian: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 6 (-10 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 12 (+6 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -30,15 +30,15 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Steve Sarkisian's — 32/100
+### Steve Sarkisian's — 28/100
 
 **Event:** Steve Sarkisian's: Steve Sarkisian’s wife Loreal stuns in $9k Saint Laurent suede trench coat at Lone Star Showdown
 
-**Why now:** 1 source lane(s): news · momentum 33 (+0 vs prev run) · spice 21 · risk 64 · external momentum 33 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 28 (-5 vs prev run) · spice 12 · risk 64 · external momentum 28 below 45 — watching, not striking
 
 **Recommended angle**
 
-> What the Steve Sarkisian's steve sarkisian's: steve sarkisian’s wife loreal stuns in $9k saint laurent suede trench coat at lone star showdown filings actually say — line by line — the other side of the fight
+> What the Steve Sarkisian's steve sarkisian's: live notes from steve sarkisian's monday press conferencevip filings actually say — line by line — the part that was not supposed to be public
 
 **Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
 
@@ -48,27 +48,13 @@ Sources this run: trends(40)
 
 **Event:** Jose Alvarado: How Knicks’ Jose Alvarado has become Jalen Brunson’s secret weapon
 
-**Why now:** 2 source lane(s): trends, news · momentum 8 (-23 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 8 (+0 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.1h − 2.5h buffer)
 
 **Recommended angle**
 
 > What the Jose Alvarado jose alvarado: trending now filings actually say — line by line — the other side of the fight
 
 **Competition:** 7 videos in last 6h · TTS ≈ 3.1h · sources: trends, news
-
-**Status:** ARCHIVED
-
-### James Wiseman — 26/100
-
-**Event:** James Wiseman: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 21 (-3 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 4.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the James Wiseman james wiseman: tallies 7 rebounds in knicks' win vs cavaliers filings actually say — line by line — the other side of the fight
-
-**Competition:** 3 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
 
