@@ -1,0 +1,16 @@
+{
+  "runNo": 3212,
+  "at": "2026-11-28T08:59:09.878Z",
+  "rows": [
+    {
+      "event": "story-diego-county",
+      "alert": "ARCHIVE",
+      "opportunity": 17,
+      "momentum": 10,
+      "window": "closed"
+    }
+  ],
+  "errors": [
+    "gdelt: Error: HTTP 429"
+  ]
+}
