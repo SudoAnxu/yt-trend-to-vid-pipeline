@@ -1,0 +1,23 @@
+{
+  "runNo": 3206,
+  "at": "2026-11-28T04:06:07.690Z",
+  "rows": [
+    {
+      "event": "story-games-producer",
+      "alert": "ARCHIVE",
+      "opportunity": 25,
+      "momentum": 28,
+      "window": "closed"
+    },
+    {
+      "event": "story-jennifer-lawrence-s",
+      "alert": "ARCHIVE",
+      "opportunity": 24,
+      "momentum": 19,
+      "window": "unknown"
+    }
+  ],
+  "errors": [
+    "gdelt: SyntaxError: Unexpected token 'T', \"The specif\"... is not valid JSON"
+  ]
+}

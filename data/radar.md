@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3205 · Updated: 28/11/2026, 09:12:22 (Asia/Kolkata)
+Run #3206 · Updated: 28/11/2026, 09:36:08 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
 
@@ -12,93 +12,37 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (6)
+## ⚫ ARCHIVED (2)
 
 <details><summary>show</summary>
 
-### Jake Laravia — 17/100
+### Games' Producer — 25/100
 
-**Event:** Jake Laravia: trending now
+**Event:** Games' Producer: 'Hunger Games' Producer Regrets Splitting 'Mockingjay' As Fans Felt It Was A "Play To Make Them See Two Films 
 
-**Why now:** 1 source lane(s): trends · momentum 10 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> What the Jake Laravia jake laravia: trending now filings actually say — line by line — the other side of the fight
+> The Games' Producer story is a proxy fight about something bigger — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: trends
+**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: news
 
 **Status:** RESEARCH
 
-### Nathan Fillion's — 19/100
+### Jennifer Lawrence's — 24/100
 
-**Event:** Nathan Fillion's: Nathan Fillion’s The Rookie Spinoff Officially Hits Major Filming Milestone Ahead Of January Release
+**Event:** Jennifer Lawrence's: The Hunger Games Producer Reveals Big Regret Over Jennifer Lawrence’s Mockingjay Movies
 
-**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
 
 **Recommended angle**
 
-> The Nathan Fillion's story is a proxy fight about something bigger — the other side of the fight
+> The Jennifer Lawrence's story is a proxy fight about something bigger — the other side of the fight
 
 **Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
 
 **Status:** RESEARCH
-
-### Officially Hits Major — 19/100
-
-**Event:** Officially Hits Major: Nathan Fillion’s The Rookie Spinoff Officially Hits Major Filming Milestone Ahead Of January Release
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
-
-**Recommended angle**
-
-> The Officially Hits Major story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** RESEARCH
-
-### Jose Earthquakes — 22/100
-
-**Event:** Jose Earthquakes: Know Before You Go: MNUFC vs. San Jose Earthquakes | November 7, 2026
-
-**Why now:** 1 source lane(s): news · momentum 16 (-1 vs prev run) · spice 9 · risk 64 · forecast window elapsed (TTS 6h − 2.5h buffer)
-
-**Recommended angle**
-
-> The Jose Earthquakes story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
-
-**Status:** ARCHIVED
-
-### Joe Mazzulla — 19/100
-
-**Event:** Joe Mazzulla: Sends Strong Message About Paul George
-
-**Why now:** 1 source lane(s): news · momentum 15 (-1 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.5h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Joe Mazzulla joe mazzulla: celtics’ joe mazzulla reveals mitchell robinson covid-19 diagnosis filings actually say — line by line — the other side of the fight
-
-**Competition:** 0 videos in last 6h · TTS ≈ 3.5h · sources: news
-
-**Status:** KEPT
-
-### Mitchell Robinson — 19/100
-
-**Event:** Mitchell Robinson: trending now
-
-**Why now:** 2 source lane(s): trends, news · momentum 20 (-2 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.7h − 2.5h buffer)
-
-**Recommended angle**
-
-> What the Mitchell Robinson mitchell robinson: celtics’ joe mazzulla reveals mitchell robinson covid-19 diagnosis filings actually say — line by line — the other side of the fight
-
-**Competition:** 18 videos in last 6h · TTS ≈ 3.7h · sources: trends, news
-
-**Status:** ARCHIVED
 
 
 </details>
