@@ -1,8 +1,8 @@
 # 🔥 TREND RADAR
 
-Run #3206 · Updated: 28/11/2026, 09:36:08 (Asia/Kolkata)
+Run #3207 · Updated: 28/11/2026, 10:00:36 (Asia/Kolkata)
 
-> ⚠️ Collector issues this run: gdelt: SyntaxError: Unexpected token 'T', "The specif"... is not valid JSON
+> ⚠️ Collector issues this run: gdelt: TypeError: fetch failed
 
 Sources this run: trends(40)
 
@@ -12,37 +12,51 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (2)
+## ⚫ ARCHIVED (3)
 
 <details><summary>show</summary>
 
-### Games' Producer — 25/100
+### Dylan Harper — 21/100
 
-**Event:** Games' Producer: 'Hunger Games' Producer Regrets Splitting 'Mockingjay' As Fans Felt It Was A "Play To Make Them See Two Films 
+**Event:** Dylan Harper: NBA All-Breakout Team, starring Cooper Flagg, Dylan Harper and … Leonard Miller?
 
-**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 5 · risk 34 · YouTube momentum high while external faded — story already owned by competition
-
-**Recommended angle**
-
-> The Games' Producer story is a proxy fight about something bigger — the other side of the fight
-
-**Competition:** 5 videos in last 6h · TTS ≈ 5.3h · sources: news
-
-**Status:** RESEARCH
-
-### Jennifer Lawrence's — 24/100
-
-**Event:** Jennifer Lawrence's: The Hunger Games Producer Reveals Big Regret Over Jennifer Lawrence’s Mockingjay Movies
-
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 5 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 2 source lane(s): news, trends · momentum 20 (+9 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
-> The Jennifer Lawrence's story is a proxy fight about something bigger — the other side of the fight
+> The Dylan Harper dylan harper: will be available to play vs lakers story is actually a money story — the other side of the fight
 
-**Competition:** 0 videos in last 6h · TTS ≈ 6h · sources: news
+**Competition:** 25 videos in last 6h · TTS ≈ 4.9h · sources: news, trends
 
-**Status:** RESEARCH
+**Status:** ARCHIVED
+
+### Ryan Clark — 14/100
+
+**Event:** Ryan Clark: again accuses ESPN of leaking his firing to OutKick: Here’s the real story
+
+**Why now:** 2 source lane(s): trends, news · momentum 5 (-3 vs prev run) · spice 0 · risk 64 · forecast window elapsed (TTS 3.4h − 2.5h buffer)
+
+**Recommended angle**
+
+> What the Ryan Clark ryan clark: trending now filings actually say — line by line — the other side of the fight
+
+**Competition:** 7 videos in last 6h · TTS ≈ 3.4h · sources: trends, news
+
+**Status:** ARCHIVED
+
+### Aaron Rodgers' — 21/100
+
+**Event:** Aaron Rodgers': “This Is Embarrassing and Cringe”: ESPN Show Blasted for Making Aaron Rodgers’ Brother Discuss Steelers QB
+
+**Why now:** 2 source lane(s): news, trends · momentum 16 (-11 vs prev run) · spice 9 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> The Aaron Rodgers' story is a proxy fight about something bigger — the other side of the fight
+
+**Competition:** 25 videos in last 6h · TTS ≈ 6h · sources: news, trends
+
+**Status:** ARCHIVED
 
 
 </details>
