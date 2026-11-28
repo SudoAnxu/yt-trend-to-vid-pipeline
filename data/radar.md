@@ -1,6 +1,6 @@
 # 🔥 TREND RADAR
 
-Run #3198 · Updated: 28/11/2026, 07:06:13 (Asia/Kolkata)
+Run #3199 · Updated: 28/11/2026, 07:12:39 (Asia/Kolkata)
 
 > ⚠️ Collector issues this run: gdelt: Error: HTTP 429
 
@@ -12,7 +12,7 @@ Sources this run: trends(40)
 
 ## 🟡 WATCH (0)
 
-## ⚫ ARCHIVED (5)
+## ⚫ ARCHIVED (6)
 
 <details><summary>show</summary>
 
@@ -20,7 +20,7 @@ Sources this run: trends(40)
 
 **Event:** David Gonz: Primer parte médico de figura de América de Cali que preocupa a David González: no va contra Millonarios
 
-**Why now:** 1 source lane(s): news · momentum 19 (+0 vs prev run) · spice 0 · risk 64 · external momentum 19 below 45 — watching, not striking
+**Why now:** 1 source lane(s): news · momentum 18 (-1 vs prev run) · spice 0 · risk 64 · external momentum 18 below 45 — watching, not striking
 
 **Recommended angle**
 
@@ -34,7 +34,7 @@ Sources this run: trends(40)
 
 **Event:** Tom Brady: ‘looked like a cancer patient’ during last NFL mistake
 
-**Why now:** 2 source lane(s): news, trends · momentum 15 (-7 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): news, trends · momentum 15 (+0 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -62,7 +62,7 @@ Sources this run: trends(40)
 
 **Event:** Russell Wilson: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 22 (+18 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
+**Why now:** 2 source lane(s): trends, news · momentum 21 (-1 vs prev run) · spice 6 · risk 64 · forecast window elapsed (TTS 8.3h − 2.5h buffer)
 
 **Recommended angle**
 
@@ -72,11 +72,11 @@ Sources this run: trends(40)
 
 **Status:** ARCHIVED
 
-### Kevin Durant — 15/100
+### Kevin Durant — 16/100
 
 **Event:** Kevin Durant: trending now
 
-**Why now:** 2 source lane(s): trends, news · momentum 9 (-15 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
+**Why now:** 2 source lane(s): trends, news · momentum 10 (+1 vs prev run) · spice 0 · risk 64 · YouTube momentum high while external faded — story already owned by competition
 
 **Recommended angle**
 
@@ -85,6 +85,20 @@ Sources this run: trends(40)
 **Competition:** 25 videos in last 6h · TTS ≈ 4.5h · sources: trends, news
 
 **Status:** ARCHIVED
+
+### John Travolta — 21/100
+
+**Event:** John Travolta: Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, “Oh My God, He’s 
+
+**Why now:** 1 source lane(s): news · momentum 28 (+0 vs prev run) · spice 0 · risk 34 · YouTube momentum high while external faded — story already owned by competition
+
+**Recommended angle**
+
+> What the John Travolta john travolta: didn’t recognize himself as alleged jfk assassin johnny roselli in ‘november 1963’: ‘i went, “oh my god, he’s  filings actually say — line by line — the other side of the fight
+
+**Competition:** 22 videos in last 6h · TTS ≈ 3.1h · sources: news
+
+**Status:** RESEARCH
 
 
 </details>
